@@ -9,7 +9,8 @@ on:
     paths:
       - '.github/workflows/master.yml'
       - 'scripts/**'
-
+  schedule:
+    - cron: '30 21 * * *'
 
 jobs:
   create:
