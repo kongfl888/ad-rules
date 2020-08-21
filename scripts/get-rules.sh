@@ -10,7 +10,7 @@ f_md5() {
 mkdir -p /tmp/myrules
 mkdir -p /tmp/myrules/old
 
-wget -q -T10 -t2 --no-check-certificate https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt -O /tmp/myrules/lazy.txt
+wget -q -T10 -t2 --no-check-certificate https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt -O /tmp/myrules/lazy.txt
 
 wget -q -T10 -t2 --no-check-certificate https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt -O /tmp/myrules/video.txt
 
