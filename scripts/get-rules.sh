@@ -25,5 +25,3 @@ DATE=`date +%Y-%m-%d\ %H:%M:%S`
 
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/lazy.txt
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/video.txt
-
-ls /tmp/myrules/*

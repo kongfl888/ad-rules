@@ -11,3 +11,4 @@ f_md5() {
 [ -f "/tmp/myrules/video.txt" ] && videomd5=$(f_md5 /tmp/myrules/video.txt)
 
 echo "{\"lazy\":\"$lazymd5\",\"video\":\"$videomd5\",\"ssllist\":\"\"}" > /tmp/myrules/md5.json
+

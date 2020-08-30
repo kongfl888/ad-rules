@@ -12,5 +12,3 @@ remove_line(){
 }
 
 remove_line /tmp/myrules/video.txt /tmp/patches/remove1.txt
-
-exit 0

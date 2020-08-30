@@ -38,6 +38,7 @@ jobs:
         . ./scripts/get-rules.sh
         . ./scripts/edit.sh
         . ./scripts/md5files.sh
+        ls /tmp/myrules/*
         cp -f /tmp/myrules/*.txt ./
         cp -f /tmp/myrules/*.json ./
         git add .
