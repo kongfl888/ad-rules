@@ -2,7 +2,7 @@
 
 remove_line(){
     [ -e "${1}" ] || exit 0
-    [ ! -e "${2}" ] || exit 0
+    [ -e "${2}" ] || exit 0
 
     cat ${2} | while read line;do
         str=${line:0:-1}
