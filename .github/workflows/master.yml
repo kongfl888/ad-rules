@@ -32,8 +32,12 @@ jobs:
       run:  |
         git checkout master
         mkdir -p /tmp/myrules/old
+        mkdir -p /tmp/patches
         cp -f ./*.txt /tmp/myrules/old || echo ""
+        cp -f ./patches/*.txt /tmp/patches
         . ./scripts/get-rules.sh
+        . ./scripts/edit.sh
+        . ./scripts/md5files.sh
         cp -f /tmp/myrules/*.txt ./
         cp -f /tmp/myrules/*.json ./
         git add .

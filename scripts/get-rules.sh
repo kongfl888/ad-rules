@@ -3,10 +3,6 @@
 # [K] (C)2020
 #
 
-f_md5() {
-    md5sum $1 | cut -d ' ' -f1
-}
-
 mkdir -p /tmp/myrules
 mkdir -p /tmp/myrules/old
 
@@ -29,9 +25,3 @@ DATE=`date +%Y-%m-%d\ %H:%M:%S`
 
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/lazy.txt
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/video.txt
-
-
-[ -f "/tmp/myrules/lazy.txt" ] && lazymd5=$(f_md5 /tmp/myrules/lazy.txt)
-[ -f "/tmp/myrules/video.txt" ] && videomd5=$(f_md5 /tmp/myrules/video.txt)
-
-echo "{\"lazy\":\"$lazymd5\",\"video\":\"$videomd5\",\"ssllist\":\"\"}" > /tmp/myrules/md5.json
