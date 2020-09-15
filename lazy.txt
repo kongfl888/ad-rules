@@ -1,12 +1,13 @@
-! ----Updatetime: 2020-09-14 21:35:10 by:Mr.K----
+! ----Updatetime: 2020-09-15 21:35:05 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202008031
+! Version: 202009151
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
 @@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
 !--------------------------百度----------------------------------
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
+@@||cpro.baidustatic.com/cpro/ui/cm.js
 ||cpro.
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
@@ -545,18 +546,6 @@ dieka888.com
 trade.mtime.com
 !service.mall.mtime.com
 
-!-- kan.jinbaozy.com
-kolinay.com
-mieyisi.com
-
-3z9e.cn
-anquanzhuomian.com
-ch-hr12333.com
-g1c5.com
-ieeod0.com
-v4dwkcv.com
-youle55.com
-
 ||com/pic/fgr/$script,object-subrequest
 ||log1.17173.com/
 
@@ -564,7 +553,6 @@ youle55.com
 ||luck.v1.cn/$object-subrequest
 
 @@||union.bokecc.com/player
-||bokecc.com/*.jpg|$object-subrequest
 ||bokecc.com/flash/playlog?
 ||click.bokecc.com/
 ||imedia.bokecc.com/
