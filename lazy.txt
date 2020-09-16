@@ -1,4 +1,4 @@
-! ----Updatetime: 2020-09-15 21:35:05 by:Mr.K----
+! ----Updatetime: 2020-09-16 21:35:22 by:Mr.K----
 ! title: 乘风 广告过滤规则
 ! Version: 202009151
 ! Expires: 2 days
@@ -96,6 +96,7 @@ he2d.com
 ||irs01.
 ||x.jd.com/
 u-x.jd.com
+mediav.com
 q1qfc323.com
 sdqoi2d.com
 shifen.com
