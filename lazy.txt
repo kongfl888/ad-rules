@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-09-25 21:35:22 by:Mr.K----
+! ----Updatetime: 2020-09-26 21:35:21 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202009151
+! Version: 202009271
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
@@ -39,11 +39,9 @@ fanyi.baidu.com##div.banner-wrap.inner
 
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 !--贴吧---
-tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
 ||tb1.bdstatic.com/??/tb/_/game_iframe_common_$script
 ||tb1.bdstatic.com/??/tb/_/game_rank_in_head_$script
-||tb1.bdstatic.com/tb/cms/frs/bg/$image
 !----------------------通用、广告联盟站点-----------------------
 ||ad.
 */ad.
@@ -306,13 +304,14 @@ gd.qq.com###r_ad
 ||img6.126.net/
 ||126.net/silver/
 ||static.ws.126.net/*/adTracker.$script
+||static.ws.126.net/*/js/sspAd.$script
 ||adgeo.163.com/
 ||bobo.163.com/
 ||bobo.com/special/$subdocument
 ||baoxian.163.com/$subdocument
 ||caipiao.163.com/$subdocument
 ||lofter.com/$subdocument,third-party
-|https://nex.163.com/q?
+||nex.163.com/q?
 
 blog.163.com###lofter_single,div.f-trans
 news.163.com###js-cnxh-content~:not(#js-epTabRank)
