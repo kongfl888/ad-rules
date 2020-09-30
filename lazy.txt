@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-09-29 21:35:15 by:Mr.K----
+! ----Updatetime: 2020-09-30 21:35:30 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202009271
+! Version: 202010011
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
@@ -465,6 +465,7 @@ v2ex.com##.box:has(.sidebar_compliance)
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 !-------------------杂项--------------------
 ||www.1ting.com/$subdocument
+mail.21cn.com##.arale-dialog-1_2_3
 ||mail.21cn.com/w2/source/images/firstpagecont/$image
 ||webservice.360doc.com/
 |http://www.4399.com/loadimg/iframe_$subdocument
@@ -476,7 +477,7 @@ zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
 baike.com###right_ad_div
 ||hdad.baike.com/
 ||www.bdsola.com/js/common.js
-bing.com##li.b_ad
+bing.com##li.b_ad,#b_notificationContainer_bop
 ||bitautoimg.com/ResourceFiles/$image,object
 ||duomai.com/$third-party
 ||taboola.com/
@@ -506,7 +507,7 @@ qiushibaike.com##div.shopwindow
 ||galaxy.sogoucdn.com/galaxy/
 ||api.huo360.com/www/back/$image
 ||www.toutiao.com/api/web_ads/
-|http://tj.u17t.com/$script
+swc.weather.com.cn
 ||tongj.xilu.com/
 ||img.cmm.xmfish.com/pages/uploads/20$image
 ||www.you85.com/ling/$script
