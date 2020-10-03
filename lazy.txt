@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-10-02 21:35:28 by:Mr.K----
+! ----Updatetime: 2020-10-03 21:35:30 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202010011
+! Version: 202010031
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
@@ -97,7 +97,6 @@ u-x.jd.com
 mediav.com
 q1qfc323.com
 sdqoi2d.com
-shifen.com
 @@||s.click.taobao.com^$third-party,popup
 ||click.taobao.com/$third-party,popunder
 ||union.
@@ -1183,7 +1182,7 @@ trade.mtime.com
 */widget.jsp?bId$subdocument
 */wizard.js^
 */www/deliver/
-*/www/delivery/$domain=~elecfans.com
+*/www/delivery/
 */wzduilian/$image,object,object-subrequest
 */wzygg/$image,object,object-subrequest
 */xy/js/
