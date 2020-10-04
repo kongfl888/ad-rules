@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-10-03 21:35:30 by:Mr.K----
+! ----Updatetime: 2020-10-04 21:35:24 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202010031
+! Version: 202010041
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
