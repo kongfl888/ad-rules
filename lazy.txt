@@ -1,4 +1,4 @@
-! ----Updatetime: 2020-10-20 21:37:30 by:Mr.K----
+! ----Updatetime: 2020-10-21 21:37:43 by:Mr.K----
 ! title: 乘风 广告过滤规则
 ! Version: 202010041
 ! Expires: 2 days
@@ -262,6 +262,7 @@ www.zol.com.cn,www.91danji.com,92btbtt.com##body:style(background: center !impor
 !-------------------QQ--------------------
 @@||wx.qq.com/*/ad_$script
 @@||cdn.exp.qq.com/img/
+@@||res.wx.qq.com/mmbizwap/$script
 ||adsrich.qq.com/
 ||games.qq.com/playgame/videoweb/
 ||games.qq.com/playgame/gamesad/js/swfobject.js
