@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-10-28 21:40:32 by:Mr.K----
+! ----Updatetime: 2020-10-29 21:34:09 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202010041
+! Version: 202010291
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$stylesheet
@@ -361,10 +361,9 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
 @@||ifengimg.com/*/ad.js
 !-------------------小说站点-----------------------
-||qidian.com/ejs/qd/js/read.qidian.com/gameBox.
-||cj.qidian.com/Picture/$image
-||cj.qidian.com/$object,object-subrequest,subdocument
-||qidian.qpic.cn/qidian_common/$object
+@@||qidian.gtimg.com/*/qd/js/component/ad_strategies.$script
+qidian.com###tr-banner,#topGameOp,div.banner-wrap,div.focus-img.cf
+||qidian.com/upload/gamesy/20$image
 
 zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||static.zongheng.com/*/ad$script
