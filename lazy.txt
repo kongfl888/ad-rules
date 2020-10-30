@@ -1,4 +1,4 @@
-! ----Updatetime: 2020-10-29 21:34:09 by:Mr.K----
+! ----Updatetime: 2020-10-30 21:34:33 by:Mr.K----
 ! title: 乘风 广告过滤规则
 ! Version: 202010291
 ! Expires: 2 days
@@ -29,7 +29,7 @@
 ||pups.bdimg.com/
 baike.baidu.com###adLayerSideWrap
 ||baike.baidu.com/api/wikiad/
-fanyi.baidu.com##div.banner-wrap.inner
+fanyi.baidu.com##div.banner-wrap
 ||app.video.baidu.com/adver?
 ||v.baidu.com/staticapi/videoAd.json?
 
@@ -364,11 +364,11 @@ v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdb
 @@||qidian.gtimg.com/*/qd/js/component/ad_strategies.$script
 qidian.com###tr-banner,#topGameOp,div.banner-wrap,div.focus-img.cf
 ||qidian.com/upload/gamesy/20$image
+||qidian.qpic.cn/qidian_common/$image
 
 zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||static.zongheng.com/*/ad$script
-||static.zongheng.com/upload/hzds/column/$script,image
-||static.zongheng.com/upload/zhds/column/$script,image
+||static.zongheng.com/upload/*ds/column/$script,image
 ||www.zongheng.com/zhda/zhda.html
 ||static.zongheng.com/upload/recommend/game/201$image
 */zongheng_chat_loader
@@ -461,7 +461,7 @@ myhack58.com##.CMBox>.adv32
 
 v2ex.com##.box:has(.sidebar_compliance)
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
-zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
+zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image
 !-------------------杂项--------------------
 ||www.1ting.com/$subdocument
 mail.21cn.com##.arale-dialog-1_2_3
