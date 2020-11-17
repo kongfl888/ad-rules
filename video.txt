@@ -1,6 +1,6 @@
-! ----Updatetime: 2020-11-16 21:35:52 by:Mr.K----
+! ----Updatetime: 2020-11-17 21:36:02 by:Mr.K----
 ! title: 乘风 视频广告过滤规则
-! Version: 202010182
+! Version: 202011182
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 
@@ -97,7 +97,7 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||waust.at^
 
 ||www.dililitv.com/*.php?ad=$script
-www.dililitv.com,www.hmtv.me,imeiju.io,www.mkvdo.com,www.zxfun.net##+js(acis,Object.defineProperty,location.href)
+dililitv.com,hmtv.me,imeiju.io,mkvdo.com,zxfun.net##+js(acis,Object.defineProperty,location.href)
 
 www.dyjihe.com##.tempWrap
 
@@ -105,7 +105,7 @@ haitur.com,www.haicaoys.com,www.cdfdy.com,www.labays.com,www.meiyuktv.cn##.dplay
 haitur.com##.container:style(max-width:90%!important;width:90%!important)
 haitur.com##.left-content:style(width:77%!important)
 
-!www.imomoe.ai###adl,#adr
+!imomoe.*###adl,#adr
 ||alicdn.com/$image,domain=api.xiaomingming.org
 
 3z9e.cn
