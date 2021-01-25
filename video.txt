@@ -1,6 +1,6 @@
-! ----Updatetime: 2021-01-24 22:05:06 by:Mr.K----
+! ----Updatetime: 2021-01-25 22:04:12 by:Mr.K----
 ! title: 乘风 视频广告过滤规则
-! Version: 202101131
+! Version: 202101251
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 
@@ -83,6 +83,7 @@ kejet.net
 ulmdb.cn
 yoyi.com.cn
 zhiziyun.com
+le.com##.banner_ad,div.banner_left,div.banner_right,.min_pause_img
 
 ||douyucdn.cn/adxdsp/$image
 ||wan.douyu.com/
@@ -96,6 +97,7 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||waust.at^
 
 ||www.dililitv.com/*.php?ad=$script
+js.dilidd.com
 dililitv.com,hmtv.me,imeiju.io,mkvdo.com,zxfun.net##+js(acis,Object.defineProperty,location.href)
 
 www.dyjihe.com##.tempWrap
@@ -105,9 +107,11 @@ haitur.com##.container:style(max-width:90%!important;width:90%!important)
 haitur.com##.left-content:style(width:77%!important)
 
 foxiys.com##+js(ra, target, a)
-!imomoe.*###adl,#adr
 ||alicdn.com/$image,domain=api.xiaomingming.org
+imomoe.*###adl,#adr
 
+yatu.tv##+js(set,document.oncontextmenu,null)
+||tracker.$xhr,websocket,script,ping
 3z9e.cn
 anquanzhuomian.com
 ch-hr12333.com
@@ -116,6 +120,5 @@ ieeod0.com
 fourier.taobao.com
 v4dwkcv.com
 youle55.com
-||tracker.$domain=yatu.tv
 ||www.yatu.tv/image/*.gif^$image
 ||www.yatu.tv/m/images/$image
