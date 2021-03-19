@@ -1,6 +1,6 @@
-! ----Updatetime: 2021-03-18 21:44:02 by:Mr.K----
+! ----Updatetime: 2021-03-19 21:44:28 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202102021
+! Version: 202103191
 ! Expires: 2 days
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
@@ -78,6 +78,7 @@ zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,
 *coinhive.min.js^$script
 ||coin-hive.com/
 ||coinhive-manager.com/
+he2d.comhnjls.com.cn
 dlads.cn
 dmvbdfblevxvx.com
 adservice.google.com
@@ -85,13 +86,14 @@ adservice.google.com
 ||googlesyndication.com
 ||google-analytics.com
 gshtrl.top
-he2d.com
+iclickcdn.com
 ||irs01.
 ||x.jd.com/
 u-x.jd.com
 mediav.com
 q1qfc323.com
 sdqoi2d.com
+tanx.com
 @@||s.click.taobao.com^$third-party,popup
 ||click.taobao.com/$third-party,popunder
 ||union.
@@ -320,6 +322,8 @@ mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 |data:text/plain$popup,domain=music.163.com
 !-------------------新浪--------------------
 ||sinaimg.cn/unipro/$domain=~video.sina.com.cn|~weibo.com
+||sinaimg.cn/crop.
+||n.sinaimg.cn/tech/zcapp$image
 ||sina.com.cn/iframe/76/$subdocument
 ||sina.com.cn/litong/
 ||adbox.sina.com.cn/
@@ -334,6 +338,10 @@ mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 ||sax.sina.
 blog.sina.cn##div.item_hide+div,#pl-blog-artad
 ||dmp.sina.cn/
+!-------------------sohu.com--------------------
+tuijian.sogou.com
+track.sohu.com
+fpb.sohu.com
 !-------------------ifeng.com--------------------
 ||ifeng.com/a_if/$subdocument
 ||ifeng.com/a_if/taobao/
@@ -352,8 +360,9 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 ||ifengimg.com/9252$script
 ||ifengimg.com/*yingguang$script
 ||ifengimg.com/*/embed$script
+x0.ifengimg.com
 ||y2.ifengimg.com/xingzhao/JS/bsgspecial.js$script
-v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
+v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol,#js_videopause_container
 @@||ifengimg.com/*/ad.js
 !-------------------小说站点-----------------------
 @@||qidian.gtimg.com/*/qd/js/component/ad_strategies.$script
