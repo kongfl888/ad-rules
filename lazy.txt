@@ -1,6 +1,6 @@
-! ----Updatetime: 2021-03-19 21:44:28 by:Mr.K----
+! ----Updatetime: 2021-03-20 21:44:05 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202103191
+! Version: 202103211
 ! Expires: 2 days
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
@@ -504,6 +504,8 @@ u8.hujiang.com
 ||dmjs.gucheng.com/
 
 ||cdn.iciba.com/web/co/ci/$image
+! bbs.nga.cn
+g1.tagtic.cn
 
 qiushibaike.com##div.shopwindow
 ||3.ssqzj.com/
