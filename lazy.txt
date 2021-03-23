@@ -1,9 +1,10 @@
-! ----Updatetime: 2021-03-22 21:45:10 by:Mr.K----
+! ----Updatetime: 2021-03-23 21:45:15 by:Mr.K----
 ! title: 乘风 广告过滤规则
-! Version: 202103211
+! Version: 202103231
 ! Expires: 2 days
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
 @@*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
+@@*$stylesheet
 !--------------------------百度----------------------------------
 @@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 @@||cpro.baidustatic.com/cpro/ui/cm.js
@@ -17,6 +18,7 @@
 ||f11.baidu.com/
 ||iwanad.baidu.com/
 ||pos.baidu.com/
+||sp0.baidu.com/$third-party
 ||spcode.baidu.com/
 ||cbjs.baidu.com/
 ||cbjslog.baidu.com/
@@ -100,7 +102,7 @@ tanx.com
 ||vamaker.com/$third-party
 */vamaker/
 wrating.com
-~ziodslzz.zez##.ad,div.ad960-90,div.ad-side,table.adtable,div.a_mu,div.a_h,div.ad_pic,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div.a_cn,#ggPar,#side-ad,#preAdContent,div.adbox
+~ziodslzz.net##.ad,div.ad960-90,div.ad-side,table.adtable,div.a_mu,div.a_h,div.ad_pic,div.wp.a_f,div.wp.a_t,div.a_pb,div.a_pt,div.a_pr,div.a_cn,#ggPar,#side-ad,#preAdContent,div.adbox
 ~google.com##.adsbygoogle,.ads
 ||com/ads
 *_350_330.$image
@@ -322,7 +324,7 @@ mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 |data:text/plain$popup,domain=music.163.com
 !-------------------新浪--------------------
 ||sinaimg.cn/unipro/$domain=~video.sina.com.cn|~weibo.com
-||sinaimg.cn/crop.
+||sinaimg.cn/crop.$domain=~video.sina.com.cn|~weibo.com
 ||n.sinaimg.cn/tech/zcapp$image
 ||sina.com.cn/iframe/76/$subdocument
 ||sina.com.cn/litong/
@@ -342,6 +344,7 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 tuijian.sogou.com
 track.sohu.com
 fpb.sohu.com
+qpb.sohu.com
 !-------------------ifeng.com--------------------
 ||ifeng.com/a_if/$subdocument
 ||ifeng.com/a_if/taobao/
