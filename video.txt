@@ -1,10 +1,11 @@
-! ----Updatetime: 2021-04-20 21:45:26 by:Mr.K----
+! ----Updatetime: 2021-04-21 21:45:47 by:Mr.K----
 ! title: 乘风 视频广告过滤规则
-! Version: 202104081
+! Version: 202104211
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 
 v.youku.com##.control-phonewatch,#right-title-ad-banner
+youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
 !v.youku.com##+js(nano-stb)
 ||atm.youku.com/
 ||cibntv.net/youku/$media
@@ -44,8 +45,10 @@ acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 
 cctv.com###bgAd_div
+cctv.com,ddrk.me##+js(aeld,dblclick,isImmediatePropagationStopped)
 ||imall.cctv.com/$subdocument
 ||bjcathay.com/
+!||player.cntv.cn/h5vod/$script
 
 ||synacast.com
 ||de.as.pptv.com^
@@ -124,5 +127,16 @@ fourier.taobao.com
 v4dwkcv.com
 weizhenwx.com
 youle55.com
+
+bmbaike.cn
+buzx53.cn
+cqqc3.com
+dacedsfa.cn
+qdwght.com
+quickapp.cn
+xcsci.cn
+xixiqiu.com
+xv5b.com
+xz6d.com
 ||www.yatu.tv:88/image/*.gif^$image
 ||www.yatu.tv:88/m/images/$image
