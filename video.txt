@@ -1,4 +1,4 @@
-! ----Updatetime: 2021-04-30 21:45:55 by:Mr.K----
+! ----Updatetime: 2021-05-01 21:45:38 by:Mr.K----
 ! title: 乘风 视频广告过滤规则
 ! Version: 202104221
 ! Expires: 2 days
@@ -9,10 +9,7 @@ youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
 !v.youku.com##+js(nano-stb)
 ||atm.youku.com/
 ||cibntv.net/youku/$media
-|https://static.youku.com/index/js/ikuAdapterNew.js
 |https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-!||ykimg.com/material/$image
-!youku.com##.ad-wrap
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 
 !iqiyi.com##+js(nano-sib)
@@ -31,7 +28,6 @@ v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
 v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 @@||video.qq.com/fcgi-bin/
 ||mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
-adss.video.qq.com
 ||gtimg.com/qqlive/
 miaozhen.com
 reachmax.cn
@@ -103,7 +99,7 @@ huya.com###hy-ad,#hy-ab,#huya-ab
 ||91p20.space^
 ||waust.at^
 
-dililitv.cc##+js(aeld,dblclick,dp.fullScreen.request)
+dililitv.cc,lzvod.net##+js(aeld,dblclick,dp.fullScreen.request)
 ||www.dililitv.cc/*.php?ad=$script
 js.dilidd.com
 dililitv.cc,hmtv.me,imeiju.io##+js(acis,Object.defineProperty,location.href)
