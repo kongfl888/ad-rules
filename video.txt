@@ -1,4 +1,4 @@
-! ----Updatetime: 2021-05-11 21:45:41 by:Mr.K----
+! ----Updatetime: 2021-05-12 21:46:30 by:Mr.K----
 ! title: 乘风 视频广告过滤规则
 ! Version: 202105021
 ! Expires: 2 days
@@ -22,8 +22,7 @@ iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
 show.ssports.com
 ||ssports.iqiyi.com/app/$object-subrequest
 
-qq.com##.mod_ad
-v.qq.com##.txp_ad
+qq.com##.mod_ad, .txp_ad
 v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
 v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 @@||video.qq.com/fcgi-bin/
