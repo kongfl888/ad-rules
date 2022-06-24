@@ -6,9 +6,9 @@
 mkdir -p /tmp/myrules
 mkdir -p /tmp/myrules/old
 
-wget -q -T10 -t2 --no-check-certificate https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt -O /tmp/myrules/lazy.txt
+wget -q -T10 -t2 --no-check-certificate https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt -O /tmp/myrules/lazy.txt
 
-wget -q -T10 -t2 --no-check-certificate https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt -O /tmp/myrules/video.txt
+wget -q -T10 -t2 --no-check-certificate https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt -O /tmp/myrules/video.txt
 
 if [ ! -s "/tmp/myrules/lazy.txt" -a -f /tmp/myrules/old/lazy.txt ]; then
     cp -f /tmp/myrules/old/lazy.txt /tmp/myrules/lazy.txt
