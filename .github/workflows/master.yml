@@ -38,6 +38,8 @@ jobs:
         . ./scripts/get-rules.sh
         . ./scripts/edit.sh
         . ./scripts/md5files.sh
+        . ./scripts/get-g-p-hosts.sh
+        rm -rf /tmp/myrules/old
         ls /tmp/myrules/*
         cp -f /tmp/myrules/*.txt ./
         cp -f /tmp/myrules/*.json ./
