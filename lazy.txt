@@ -1,6 +1,6 @@
-! ----Updatetime: 2022-09-12 21:45:00 by:Mr.K----
+! ----Updatetime: 2022-10-01 08:37:52 by:Mr.K----
 ! Title: 乘风 广告过滤规则
-! Version: 202208113
+! Version: 202209251
 ! Expires: 2 days
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
 
@@ -44,7 +44,7 @@ jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-conta
 ||as2.wenku.baidu.com/$subdocument
 ||wkstatic.bdimg.com/static/wkview/widget/top_ads_banner/$script
 
-pan.baidu.com##.frame-all:style(overflow-x:hidden)
+pan.baidu.com##.frame-all:style(overflow-x:hidden!important)
 pan.baidu.com##.ad-platform-tips, .phone-banner
 ||bcebos.com^$image,domain=pan.baidu.com
 ||pan.baidu.com/rest/*/adx?$image
@@ -471,10 +471,6 @@ zhihu.com##.shameimaru-section
 ||www.1ting.com/$subdocument
 mail.21cn.com##.arale-dialog-1_2_3
 ||mail.21cn.com/w2/source/images/firstpagecont/$image
-www.360doc.com##+js(set,document.body.oncopy,trueFunc)
-www.360doc.com##+js(set,logined,1)
-www.360doc.com##+js(set,u_v,1)
-||webservice.360doc.com/
 ||www.4399.com/loadimg/iframe_$subdocument
 ||5054399.com/4399_js/$script
 ||52pk.com/$object
@@ -486,7 +482,7 @@ baike.com###right_ad_div
 bing.com##li.b_ad,#b_notificationContainer_bop
 ||bitautoimg.com/ResourceFiles/$image,object
 ||duomai.com/$third-party
-||taboola.com/
+taboola.com
 ||static.cnbetacdn.com/frontend/vipics/$image
 ||china.com.cn/2016ads/$subdocument
 chinanews.com##div.advert_nav,#news_top_advert,#qizhi_div980,#zhengwenvideo~*

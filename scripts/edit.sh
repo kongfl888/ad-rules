@@ -5,7 +5,7 @@ remove_line(){
     [ -e "${2}" ] || exit 0
 
     cat ${2} | while read line;do
-        str=${line:0:-1}
+        str=${line}
         echo "$str"
         [ ! -z "$str" ] && sed -i "/$str/d" ${1}
     done

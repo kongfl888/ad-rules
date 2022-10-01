@@ -1,6 +1,6 @@
-! ----Updatetime: 2022-09-12 21:45:00 by:Mr.K----
+! ----Updatetime: 2022-10-01 08:37:52 by:Mr.K----
 ! Title: 乘风 视频过滤规则
-! Version: 202209121
+! Version: 202210011
 ! Expires: 1 day
 ! Homepage: https://bbs.kafan.cn/thread-1866845-1-1.html
 
@@ -32,7 +32,7 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
 
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
 qq.com#@#+js(nowebrtc)
 qq.com##+js(json-prune,adList.item)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
@@ -177,9 +177,12 @@ stgowan.com
 trustedgatetocontent.com
 
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
+netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 4kya.com###player_pause
+||wp.com/netflixya.com/upload/$image
+||yanetflix.com/upload/vod/$image
 
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ch-hr12333.com
