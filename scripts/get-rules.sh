@@ -56,3 +56,9 @@ sed -i "1i${oldh1v}" /tmp/myrules/video.txt
 else
 sed -i "1i\! ----Updatetime: $DATE by:Mr.K----" /tmp/myrules/video.txt
 fi
+
+cp -f /tmp/myrules/lazy.txt /tmp/myrules/lazy2.txt
+cp -f /tmp/myrules/video.txt /tmp/myrules/video2.txt
+
+sed -i "1i\[Adblock Plus 2.0]" /tmp/myrules/lazy2.txt
+sed -i "1i\[Adblock Plus 2.0]" /tmp/myrules/video2.txt
