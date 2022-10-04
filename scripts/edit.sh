@@ -12,8 +12,9 @@ remove_line(){
 }
 
 clear_ill(){
-	 grep -E '\$(image|script|object|domain=.*|script,domain=.*|image,domain=.*)$' ${1} > /tmp/cl1.txt
+	 grep -E '\$(image|script|object|media|domain=.*|subdocument)(,(important|domain=[0-9a-zA-Z\.\~]+))?$' ${1} > /tmp/cl1.txt
 	 sed -i -r '/\$.+/d' ${1}
+	 echo "" >> ${1}
 	 cat /tmp/cl1.txt >> ${1}
 }
 
