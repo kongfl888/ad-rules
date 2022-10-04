@@ -11,4 +11,12 @@ remove_line(){
     done
 }
 
+clear_ill(){
+	 grep -E '\$(image|script|object|domain=.*|script,domain=.*|image,domain=.*)$' ${1} > /tmp/cl1.txt
+	 sed -i -r '/\$.+/d' ${1}
+	 cat /tmp/cl1.txt >> ${1}
+}
+
+clear_ill /tmp/myrules/lazy.txt
+clear_ill /tmp/myrules/video.txt
 remove_line /tmp/myrules/video.txt /tmp/patches/remove1.txt
