@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-10-02 21:45:44
+# DATE: 2022-10-06 21:47:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.xd-cdn.com
@@ -1347,7 +1347,6 @@
 0.0.0.0 ads16.win888b.com
 0.0.0.0 ads2.tuccus.com
 0.0.0.0 ads23.win888b.com
-0.0.0.0 adserve.work
 0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.juicybucks.com
 0.0.0.0 adserver.penthouse.com
@@ -30140,6 +30139,7 @@
 0.0.0.0 sexviett.com
 0.0.0.0 sexvietvl.net
 0.0.0.0 sexvietz.co
+0.0.0.0 sexvietz.org
 0.0.0.0 sexvintagemovies.com
 0.0.0.0 sexvip.vip
 0.0.0.0 sexvip1.com
@@ -34625,6 +34625,7 @@
 0.0.0.0 viet69.vc
 0.0.0.0 viet69x.com
 0.0.0.0 vietbet.eu
+0.0.0.0 vietsex.cam
 0.0.0.0 vietsex.me
 0.0.0.0 vietsubsex.com
 0.0.0.0 vietvwin.com
