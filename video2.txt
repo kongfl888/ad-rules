@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! ----Updatetime: 2022-10-04 16:13:46 by:Mr.K----
+! ----Updatetime: 2022-10-04 16:36:54 by:Mr.K----
 ! Title: 乘风 视频过滤规则
 ! Version: 202210011
 ! Expires: 1 day
@@ -153,7 +153,9 @@ weizhenwx.com
 youle55.com
 
 bixinlive.com
-quandangdang.net@@||mmstat.com^$domain=youku.com
+quandangdang.net
+@@||mmstat.com^$domain=youku.com
+||cibntv.net/youku/$media,important
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||static.iqiyi.com/js/common/mars_v.js$script
 ||iqiyipic.com/image/20*_100000$image
@@ -162,20 +164,25 @@ quandangdang.net@@||mmstat.com^$domain=youku.com
 !||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
 @@||g.w.bilicdn1.com/$script,domain=bilibili.com
 ||hdslb.com/bfs/sycp/creative_img/$image
+||imall.cctv.com/$subdocument
+||g.pptv.com/game/$subdocument
 ||osswc.pplive.cn/cccms/$image
+||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
+||video.da.mgtv.com/$media
 ||da.mgtv.com/mediafiles/wiad_creative/$image
 ||css.tv.itc.cn/m/img/player/dlBanner.$image
+||data.vod.itc.cn/*&prod=ad&$media
 ||tv.sohu.com/upload/csad/admaster/$image
 ||letvimg.com/*_gugwl/$image
 ||js.letvcdn.com/*_banner_$script
 ||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
 ||msstatic.com/huya/*/p2plib.js$script
+*/preroll/$media,domain=91porn.com
 ||btsow.click/app/jav$image
 @@||dyncdn.me/static/20/js/jquery$script
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
-||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.cc|acgndmku.com|subaibaiys.com
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
