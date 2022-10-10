@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-10-10 00:29:42
+# DATE: 2022-10-10 21:47:20
 # This hosts lite from Ultimate-Hosts-Blacklist/MalwareDomainList.com.
  
 0.0.0.0 2amsports.com
