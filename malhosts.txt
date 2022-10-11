@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2022-10-10 21:47:20
+# DATE: 2022-10-11 02:35:34
 # This hosts lite from Ultimate-Hosts-Blacklist/MalwareDomainList.com.
  
 0.0.0.0 2amsports.com
@@ -10,6 +10,7 @@
 0.0.0.0 999fitness.com
 0.0.0.0 a.update.51edm.net
 0.0.0.0 abcdespanol.com
+0.0.0.0 achren.org
 0.0.0.0 acool.csheaven.com
 0.0.0.0 adobeflashupdate14.com
 0.0.0.0 adserving.favorit-network.com
@@ -27,6 +28,7 @@
 0.0.0.0 aminev.com
 0.0.0.0 analxxxclipsyjh.dnset.com
 0.0.0.0 app.pho8.com
+0.0.0.0 artsconsortium.org
 0.0.0.0 atlcourier.com
 0.0.0.0 avppet.com
 0.0.0.0 axisbuild.com
@@ -119,13 +121,16 @@
 0.0.0.0 files.dsnetwb.com
 0.0.0.0 firehouse651.com
 0.0.0.0 flashsavant.com
+0.0.0.0 fondazioneciampi.org
 0.0.0.0 formessengers.com
+0.0.0.0 fourthgate.org
 0.0.0.0 free-crochet-pattern.com
 0.0.0.0 funchill.com
 0.0.0.0 generalchemicalsupply.com
 0.0.0.0 go-quicky.com
 0.0.0.0 gogetgorgeous.com
 0.0.0.0 gravityexp.com
+0.0.0.0 gredinatib.org
 0.0.0.0 greev.randbinternationaltravel.com
 0.0.0.0 grosirkecantikan.com
 0.0.0.0 gulf-industrial.com
@@ -154,6 +159,7 @@
 0.0.0.0 jdfabrication.com
 0.0.0.0 jeansvixens.com
 0.0.0.0 jessisjewels.com
+0.0.0.0 josip-stadler.org
 0.0.0.0 js.tongji.linezing.com
 0.0.0.0 juicypussyclips.com
 0.0.0.0 kadirzerey.com
@@ -181,6 +187,7 @@
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 mmile.com
 0.0.0.0 mobatory.com
+0.0.0.0 mobile.bitterstrawberry.org
 0.0.0.0 monarchslo.com
 0.0.0.0 morenews3.net
 0.0.0.0 ms11.net
@@ -205,6 +212,7 @@
 0.0.0.0 nuptialimages.com
 0.0.0.0 oampa.csheaven.com
 0.0.0.0 oawoo.frenchgerlemanelectric.com
+0.0.0.0 obada-konstruktiwa.org
 0.0.0.0 obkom.net.ua
 0.0.0.0 ocpersian.com
 0.0.0.0 okeanbg.com
@@ -229,6 +237,7 @@
 0.0.0.0 pradakomechanicals.com
 0.0.0.0 pride-u-bike.com
 0.0.0.0 privatkunden.datapipe9271.com
+0.0.0.0 progettocrea.org
 0.0.0.0 prorodeosportmed.com
 0.0.0.0 ptewh.iptvdeals.com
 0.0.0.0 ptush.iptvdeals.com
@@ -302,6 +311,7 @@
 0.0.0.0 srslogisticts.com
 0.0.0.0 static.retirementcommunitiesfyi.com
 0.0.0.0 strangeduckfilms.com
+0.0.0.0 sudcom.org
 0.0.0.0 sunlux.net
 0.0.0.0 svetyivanrilski.com
 0.0.0.0 tamilcm.com
@@ -364,6 +374,7 @@
 0.0.0.0 videoflyover.com
 0.0.0.0 villalecchi.com
 0.0.0.0 vitha.csheaven.com
+0.0.0.0 vivaweb.org
 0.0.0.0 vmay.com
 0.0.0.0 vroll.net
 0.0.0.0 vural-electronic.com
@@ -376,6 +387,7 @@
 0.0.0.0 windspotter.net
 0.0.0.0 winlock.usa.cc
 0.0.0.0 wmserver.net
+0.0.0.0 womenslabour.org
 0.0.0.0 wonchangvacuum.com.my
 0.0.0.0 writingassociates.com
 0.0.0.0 wroclawski.com.pl
@@ -387,6 +399,7 @@
 0.0.0.0 www.atousoft.com
 0.0.0.0 www.catgallery.com
 0.0.0.0 www.cifor.com
+0.0.0.0 www.consumeralternatives.org
 0.0.0.0 www.cortesidesign.com
 0.0.0.0 www.del-marine.com
 0.0.0.0 www.doctor-alex.com
@@ -404,9 +417,11 @@
 0.0.0.0 www.freewebtown.com
 0.0.0.0 www.galileounaluna.com
 0.0.0.0 www.gameangel.com
+0.0.0.0 www.gmcjjh.org
 0.0.0.0 www.jcmarcadolib.com
 0.0.0.0 www.joomlalivechat.com
 0.0.0.0 www.kjbbc.net
+0.0.0.0 www.lccl.org.uk
 0.0.0.0 www.litra.com.mk
 0.0.0.0 www.lostartofbeingadame.com
 0.0.0.0 www.lowes-pianos-and-organs.com
