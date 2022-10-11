@@ -28,8 +28,8 @@ if [ -s "/tmp/myrules/old/hosts1.txt" -a -s "/tmp/myrules/old/hosts2.txt" ]; the
 else
 	cp -f $oldhtxt1 $htxt
 fi
-sed -i -r -e '/^\S*$/d' -e 's/#.*//' $htxt
-sed -i -r '/^[\S ]*$/d' $htxt
+sed -i -r -e '/^\s*$/d' -e 's/#.*//' $htxt
+sed -i -r '/^[\s ]*$/d' $htxt
 
 if [ "$(f_md5 $oldhtxt1)" == "$(f_md5 $htxt)" ];then
 cp -f $oldhtxt $htxt
