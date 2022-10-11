@@ -26,6 +26,7 @@ if [ ! -s /tmp/malhosts.txt -a -s $oldhtxt ]; then
 else
     grep -E "\.(com|net|cn|cc|org)" /tmp/malhosts.txt 2>/dev/null | sort -u >  $htxt
 fi
+sed -i '/0i0i0i0/d' $htxt
 sed -i -r -e 's/#.*//' -e '/^\s*$/d' $htxt
 cp -f $oldhtxt /tmp/malhosts_old.txt
 sed -i -r -e 's/#.*//' -e '/^\s*$/d' /tmp/malhosts_old.txt
