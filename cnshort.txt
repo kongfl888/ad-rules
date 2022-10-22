@@ -9,6 +9,7 @@
 ||danuoyi.alicdn.com^
 ||doupai.cc^
 ||douyin.com^
+||douyincdn.com^
 ||douyinpic.com^
 ||douyinvod.com^
 ||ergengtv.com^
