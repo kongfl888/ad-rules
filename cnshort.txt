@@ -24,6 +24,7 @@
 ||kstv.com^
 ||kuaishou.com^
 ||kuaishoupay.com^
+||kwaizt.com^
 ||live.xycdn.com^
 ||meipai.com^
 ||miaopai.com^
