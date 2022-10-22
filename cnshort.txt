@@ -20,6 +20,7 @@
 ||ixiguavideo.com^
 ||ksapisrv.com^
 ||ksyun.com^
+||kstv.com^
 ||kuaishou.com^
 ||kuaishoupay.com^
 ||live.xycdn.com^
@@ -34,6 +35,7 @@
 ||vimg.9game.cn^
 ||v.kandian.qq.com^
 ||v.weishi.qq.com^
+||viviv.com^
 ||xiongzhang.baidu.com^
 ||youliao.xunlei.com^
 ||yximgs.com^
