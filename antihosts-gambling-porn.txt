@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-10-23 21:37:33
+# DATE: 2023-10-28 21:37:29
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -45027,7 +45027,6 @@
 0.0.0.0 www.blogpirocudos.blogspot.com
 0.0.0.0 www.blogs-list.com
 0.0.0.0 www.blogsexoverbal.blogspot.com
-0.0.0.0 www.blogspot.com
 0.0.0.0 www.blogtothepeople.blogspot.com
 0.0.0.0 www.blogtravestis.blogspot.com
 0.0.0.0 www.blogtur.com
