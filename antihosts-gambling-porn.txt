@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-10-28 21:37:29
+# DATE: 2023-11-01 21:37:39
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -34964,6 +34964,7 @@
 0.0.0.0 shavkunovayb4a.tumblr.com
 0.0.0.0 shawnalenee.tv
 0.0.0.0 shawnslip.tumblr.com
+0.0.0.0 shb3939.vn
 0.0.0.0 shbet.com
 0.0.0.0 shbet.id
 0.0.0.0 shbet.love
@@ -39488,7 +39489,11 @@
 0.0.0.0 uvtho5ve2q.ent-cdn.com
 0.0.0.0 uw88vnd.com
 0.0.0.0 uw88vnd1.com
+0.0.0.0 uw88vnn.com
 0.0.0.0 uw88vnn1.com
+0.0.0.0 uw88vnn2.com
+0.0.0.0 uw88vnn3.com
+0.0.0.0 uw88vnn4.com
 0.0.0.0 uytin.8day66.com
 0.0.0.0 uzbak.ru
 0.0.0.0 uzbekporn.ru
@@ -55089,6 +55094,7 @@
 0.0.0.0 www.sharonneilson.blogspot.com
 0.0.0.0 www.sharpporn.com
 0.0.0.0 www.shawnalenee.tv
+0.0.0.0 www.shb3939.vn
 0.0.0.0 www.shbet0.com
 0.0.0.0 www.shbet2.com
 0.0.0.0 www.shbet3.com
