@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-11-09 21:37:25
+# DATE: 2023-11-12 21:37:35
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -466,6 +466,7 @@
 0.0.0.0 300webcams.com
 0.0.0.0 303cc.xyz
 0.0.0.0 3050.b-cdn.net
+0.0.0.0 30winvn.com
 0.0.0.0 3207070.ru
 0.0.0.0 321cams.net
 0.0.0.0 321sexchat.com
@@ -16164,6 +16165,7 @@
 0.0.0.0 hinhgaixinh.org
 0.0.0.0 hinhkhieudam.com
 0.0.0.0 hinhxes.com
+0.0.0.0 hipoker123.com
 0.0.0.0 hippobingo.com
 0.0.0.0 hipsternudes.com
 0.0.0.0 hipstertits.com
@@ -21496,6 +21498,8 @@
 0.0.0.0 landing.twinkpop.com
 0.0.0.0 landing.twistysnetwork.com
 0.0.0.0 landofvenus.com
+0.0.0.0 landpage.hipoker123.com
+0.0.0.0 landpage.tienlen2022.com
 0.0.0.0 langelul.nl
 0.0.0.0 langvuichoi.net
 0.0.0.0 lanovice.letsdoeit.com
@@ -38076,6 +38080,7 @@
 0.0.0.0 tiedgirlsnet.tumblr.com
 0.0.0.0 tiemposyencanto.blogspot.com
 0.0.0.0 tienlen.8day66.com
+0.0.0.0 tienlen2022.com
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tiffani-amber-thiessen.blogspot.com
 0.0.0.0 tiffany-amber-thiessen.blogspot.com
@@ -41939,6 +41944,7 @@
 0.0.0.0 www.2winbet.gr
 0.0.0.0 www.300webcams.com
 0.0.0.0 www.30plusandhot.com
+0.0.0.0 www.30winvn.com
 0.0.0.0 www.321webcams.com
 0.0.0.0 www.32red.com
 0.0.0.0 www.32redsport.com
