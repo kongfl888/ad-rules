@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-11-12 21:37:35
+# DATE: 2023-11-14 21:37:31
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -886,6 +886,7 @@
 0.0.0.0 85porn.net
 0.0.0.0 85tube.com
 0.0.0.0 85tube.net
+0.0.0.0 85vnd.com
 0.0.0.0 868vip.asia
 0.0.0.0 868vip.live
 0.0.0.0 868vip.mobi
@@ -41538,6 +41539,7 @@
 0.0.0.0 winterlook-games.itch.io
 0.0.0.0 wintermission.tumblr.com
 0.0.0.0 winvn.vip
+0.0.0.0 winvn13.com
 0.0.0.0 winvn18.com
 0.0.0.0 winx-club-hentai.com
 0.0.0.0 wiredpussy.com
@@ -42118,6 +42120,7 @@
 0.0.0.0 www.85porn.net
 0.0.0.0 www.85tube.com
 0.0.0.0 www.85tube.net
+0.0.0.0 www.85vnd.com
 0.0.0.0 www.885ae888.com
 0.0.0.0 www.887ae888.com
 0.0.0.0 www.8886666.net
@@ -57442,6 +57445,7 @@
 0.0.0.0 www.winner.co.uk
 0.0.0.0 www.winningft.com
 0.0.0.0 www.winporn.com
+0.0.0.0 www.winvn13.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.winx-club-hentai.com
 0.0.0.0 www.wiredpussy.com
