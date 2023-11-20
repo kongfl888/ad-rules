@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-11-14 21:37:31
+# DATE: 2023-11-20 21:37:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -368,6 +368,7 @@
 0.0.0.0 1xbet.com
 0.0.0.0 1xbet88vn.net
 0.0.0.0 1xbetvn.com
+0.0.0.0 1xlite-564950.top
 0.0.0.0 1xvideos.ru
 0.0.0.0 1xxxvideos.com
 0.0.0.0 1yummygirl.blogspot.com
@@ -410,6 +411,7 @@
 0.0.0.0 22ee88.com
 0.0.0.0 22pixx.xyz
 0.0.0.0 22zalo.com
+0.0.0.0 23winvn.com
 0.0.0.0 24-xxx.com
 0.0.0.0 247live.mobi
 0.0.0.0 247livecams.com
@@ -475,6 +477,7 @@
 0.0.0.0 32redsport.com
 0.0.0.0 331725.com
 0.0.0.0 331729.com
+0.0.0.0 331731.com
 0.0.0.0 333.vip
 0.0.0.0 333666.buzz
 0.0.0.0 333666j.com
@@ -758,6 +761,7 @@
 0.0.0.0 69teentube.com
 0.0.0.0 69threesome.blogspot.com
 0.0.0.0 69truonghuunguyen.com
+0.0.0.0 69vip.pro
 0.0.0.0 69xvideo.com
 0.0.0.0 6adcgngnn.ggccxpj006.xyz
 0.0.0.0 6arabs.com
@@ -1013,6 +1017,7 @@
 0.0.0.0 8thao8.com
 0.0.0.0 8thstreetlatinas.com
 0.0.0.0 8vnd.club
+0.0.0.0 8vnd7.com
 0.0.0.0 8x055.com
 0.0.0.0 8xbet.cc
 0.0.0.0 8xbet.com
@@ -3536,6 +3541,8 @@
 0.0.0.0 api.v7king.com
 0.0.0.0 api.vh79.com
 0.0.0.0 api.vn1610.com
+0.0.0.0 api.vn357.bet
+0.0.0.0 api.vn666.bet
 0.0.0.0 api.vnloto.com
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
@@ -7054,6 +7061,7 @@
 0.0.0.0 cavalieramaranto.tumblr.com
 0.0.0.0 cavekiemdinh.xyz
 0.0.0.0 cavernadopunheteiro.blogspot.com
+0.0.0.0 caygame2023.com
 0.0.0.0 caysex.net
 0.0.0.0 cazzofilm.com
 0.0.0.0 cbcam2cam.com
@@ -8476,6 +8484,7 @@
 0.0.0.0 club-evaangelina.com
 0.0.0.0 club-virgins.com
 0.0.0.0 club18.website
+0.0.0.0 club2win.com
 0.0.0.0 clubalexisamore.blogspot.com
 0.0.0.0 clubanimesex.com
 0.0.0.0 clubaudriannaangel.com
@@ -15501,6 +15510,7 @@
 0.0.0.0 hb88013.com
 0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
+0.0.0.0 hb88020.com
 0.0.0.0 hb88021.com
 0.0.0.0 hb88024.com
 0.0.0.0 hb88025.com
@@ -17126,6 +17136,7 @@
 0.0.0.0 i9bet124.com
 0.0.0.0 i9bet13.com
 0.0.0.0 i9bet14.com
+0.0.0.0 i9bet145.com
 0.0.0.0 i9bet15.com
 0.0.0.0 i9bet16.com
 0.0.0.0 i9bet17.com
@@ -21499,8 +21510,16 @@
 0.0.0.0 landing.twinkpop.com
 0.0.0.0 landing.twistysnetwork.com
 0.0.0.0 landofvenus.com
+0.0.0.0 landpage.caygame2023.com
+0.0.0.0 landpage.club2win.com
 0.0.0.0 landpage.hipoker123.com
+0.0.0.0 landpage.megawin99x.com
+0.0.0.0 landpage.royalclub11.com
+0.0.0.0 landpage.taixiugame777.com
+0.0.0.0 landpage.talaphom.com
+0.0.0.0 landpage.talaphom123.com
 0.0.0.0 landpage.tienlen2022.com
+0.0.0.0 landpage.xidachplay.com
 0.0.0.0 langelul.nl
 0.0.0.0 langvuichoi.net
 0.0.0.0 lanovice.letsdoeit.com
@@ -23625,6 +23644,7 @@
 0.0.0.0 megaupload-xxx.com
 0.0.0.0 megavirt-com.ru
 0.0.0.0 megavirt.com
+0.0.0.0 megawin99x.com
 0.0.0.0 megaxh.com
 0.0.0.0 megaxmovie.blogspot.com
 0.0.0.0 megaxxxsites.com
@@ -32203,6 +32223,7 @@
 0.0.0.0 qualitysextube.com
 0.0.0.0 qualitythumbnails.com
 0.0.0.0 quandoaluaapareceu.blogspot.com
+0.0.0.0 quangcaosanvip.win
 0.0.0.0 quangdrivizta.reblog.hu
 0.0.0.0 quartodeadriel.blogspot.com
 0.0.0.0 quatanthu.club
@@ -32834,6 +32855,7 @@
 0.0.0.0 royal77vn.com
 0.0.0.0 royalbluemedia.com
 0.0.0.0 royalcamslive.com
+0.0.0.0 royalclub11.com
 0.0.0.0 royalcspot.com
 0.0.0.0 royaldressedladies.com
 0.0.0.0 royalpanda.com
@@ -36845,6 +36867,7 @@
 0.0.0.0 tai789.net
 0.0.0.0 tai789.vip
 0.0.0.0 tai789.win
+0.0.0.0 tai9606.com
 0.0.0.0 tai99vin.net
 0.0.0.0 taianhsex.com
 0.0.0.0 taiapplive.com
@@ -36902,6 +36925,7 @@
 0.0.0.0 taiwanlottery.com.tw
 0.0.0.0 taiwin79.win
 0.0.0.0 taix1.club
+0.0.0.0 taixiugame777.com
 0.0.0.0 taixiusunwin.games
 0.0.0.0 tajikskoe.ru
 0.0.0.0 takarakuji-official.jp
@@ -36911,6 +36935,8 @@
 0.0.0.0 takevan.com
 0.0.0.0 takezoo.com
 0.0.0.0 taksi-butovo.ru
+0.0.0.0 talaphom.com
+0.0.0.0 talaphom123.com
 0.0.0.0 talg.ru
 0.0.0.0 talkingdirty.blogspot.com
 0.0.0.0 talktome.com
@@ -40654,8 +40680,10 @@
 0.0.0.0 vn3338.com
 0.0.0.0 vn3339.com
 0.0.0.0 vn34.com
+0.0.0.0 vn357.bet
 0.0.0.0 vn3x.me
 0.0.0.0 vn5858.com
+0.0.0.0 vn666.bet
 0.0.0.0 vn67801.com
 0.0.0.0 vn789.net
 0.0.0.0 vn88.bet
@@ -41540,6 +41568,8 @@
 0.0.0.0 wintermission.tumblr.com
 0.0.0.0 winvn.vip
 0.0.0.0 winvn13.com
+0.0.0.0 winvn15.com
+0.0.0.0 winvn17.com
 0.0.0.0 winvn18.com
 0.0.0.0 winx-club-hentai.com
 0.0.0.0 wiredpussy.com
@@ -41915,6 +41945,7 @@
 0.0.0.0 www.22betpartners.com
 0.0.0.0 www.22pixx.xyz
 0.0.0.0 www.22zalo.com
+0.0.0.0 www.23winvn.com
 0.0.0.0 www.24-xxx.com
 0.0.0.0 www.247tube.xyz
 0.0.0.0 www.24bettle.com
@@ -42161,6 +42192,7 @@
 0.0.0.0 www.8teenxxx.com
 0.0.0.0 www.8thstreetlatinas.com
 0.0.0.0 www.8vnd.club
+0.0.0.0 www.8vnd7.com
 0.0.0.0 www.8x055.com
 0.0.0.0 www.8xbet.fun
 0.0.0.0 www.8xbet.tv
@@ -49358,6 +49390,7 @@
 0.0.0.0 www.i9bet109.com
 0.0.0.0 www.i9bet111.com
 0.0.0.0 www.i9bet124.com
+0.0.0.0 www.i9bet145.com
 0.0.0.0 www.i9bet24.com
 0.0.0.0 www.i9bet25.com
 0.0.0.0 www.i9bet26.com
@@ -57115,7 +57148,9 @@
 0.0.0.0 www.vn138viet.com
 0.0.0.0 www.vn1610.com
 0.0.0.0 www.vn34.com
+0.0.0.0 www.vn357.bet
 0.0.0.0 www.vn500.com
+0.0.0.0 www.vn666.bet
 0.0.0.0 www.vn67801.com
 0.0.0.0 www.vn88.bet
 0.0.0.0 www.vn88.casino
@@ -57446,6 +57481,8 @@
 0.0.0.0 www.winningft.com
 0.0.0.0 www.winporn.com
 0.0.0.0 www.winvn13.com
+0.0.0.0 www.winvn15.com
+0.0.0.0 www.winvn17.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.winx-club-hentai.com
 0.0.0.0 www.wiredpussy.com
@@ -58899,6 +58936,7 @@
 0.0.0.0 xhxx.fans
 0.0.0.0 xhypnotube.com
 0.0.0.0 xidach.8day66.com
+0.0.0.0 xidachplay.com
 0.0.0.0 xihck.blogspot.com
 0.0.0.0 ximage.cyou
 0.0.0.0 xindiana.com
