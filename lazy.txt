@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-06-28 21:37:54 by:Mr.K----
+! ----Updatetime: 2023-12-16 21:37:27 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 cstm.baidu.com
@@ -159,7 +159,6 @@ youdao.com###topImgAd,#spTop
 mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 ||sina.com.cn/litong/
 ||adbox.sina.com.cn/
-||beacon.
 ||sbeacon.sina.com.cn/
 ||d1.sina.com.cn/
 ||d2.sina.com.cn/

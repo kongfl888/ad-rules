@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-11-22 21:37:33 by:Mr.K----
+! ----Updatetime: 2023-12-16 21:37:27 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -7,12 +7,10 @@ apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 show.ssports.com
-v.qq.com##.quick_games.quick_item,div.card-wrap
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
+v.qq.com##.quick_games.quick_item
+gdt.qq.com
 cm.l.qq.com
-||l.qq.com/lview?
-||l.qq.com/livemsg?
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?
+||qq.com/livemsg?
 ||gtimg.com/qqlive/
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
 ||news.ssp.qq.com/app
@@ -74,7 +72,6 @@ waust.at
 jads.co
 statsy.net
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
-wpadmngr.com
 aqours.today
 chushoushijian.cn
 z4a.net
@@ -90,6 +87,8 @@ stgowan.com
 @@||mmstat.com^$domain=youku.com
 ||cibntv.net/youku/$media
 ||sealine.youku.com/yk/*callback=adpagesdk$script
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
@@ -115,8 +114,6 @@ stgowan.com
 ||dyncdn.me/static/20/js/showads.js$script
 ||dyncdn.me/static/20/js/expla$script
 ||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
-||nunuyingyuan.tk/serviceworker.js^$script
-||nunuyy.cf/serviceworker.js^$script
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
