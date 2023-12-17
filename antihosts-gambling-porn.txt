@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-12-16 21:37:28
+# DATE: 2023-12-17 21:37:32
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -14480,6 +14480,7 @@
 0.0.0.0 game.b52.win
 0.0.0.0 game.b52d.club
 0.0.0.0 game.bom52.club
+0.0.0.0 game.man79.org
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
@@ -14893,6 +14894,7 @@
 0.0.0.0 gentletwinks.com
 0.0.0.0 genvip88.com
 0.0.0.0 genvipios.com
+0.0.0.0 genvipios2023.com
 0.0.0.0 genvipweb2023.com
 0.0.0.0 geo.cliphunter.com
 0.0.0.0 geobet.com
@@ -14978,6 +14980,7 @@
 0.0.0.0 giaimanhacai.com
 0.0.0.0 giaitri.fun
 0.0.0.0 giaitri.tv
+0.0.0.0 giaitrinet88.live
 0.0.0.0 giannaman.blogspot.com
 0.0.0.0 giannamichaelspics.blogspot.com
 0.0.0.0 gibby666.tumblr.com
@@ -23845,6 +23848,7 @@
 0.0.0.0 mamscasting.com
 0.0.0.0 man.club
 0.0.0.0 man1.club
+0.0.0.0 man79.org
 0.0.0.0 manatoki122.net
 0.0.0.0 manclub.fun
 0.0.0.0 manclub.live
@@ -30713,6 +30717,7 @@
 0.0.0.0 play.choisport.com
 0.0.0.0 play.choiwin79.net
 0.0.0.0 play.fa88.win
+0.0.0.0 play.giaitrinet88.live
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.im
 0.0.0.0 play.go88.vip
@@ -38159,6 +38164,7 @@
 0.0.0.0 taido99.net
 0.0.0.0 taido99.win
 0.0.0.0 taigame789.club
+0.0.0.0 taigamehay.site
 0.0.0.0 taigamehot.pro
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
@@ -39314,6 +39320,7 @@
 0.0.0.0 thothub.to
 0.0.0.0 thothub.vip
 0.0.0.0 thotleaks.org
+0.0.0.0 thotmax.com
 0.0.0.0 thotpacks.com
 0.0.0.0 thotsbay.com
 0.0.0.0 thotseek.com
@@ -51359,7 +51366,6 @@
 0.0.0.0 www.insideangels.forumcommunity.net
 0.0.0.0 www.insideevilangel.com
 0.0.0.0 www.instacasino.com
-0.0.0.0 www.instagram.com
 0.0.0.0 www.instantactionsports.com
 0.0.0.0 www.instantfap.com
 0.0.0.0 www.instintomasculinogay.blogspot.com
@@ -51879,7 +51885,6 @@
 0.0.0.0 www.keonhacai3.com
 0.0.0.0 www.kevinloreaux.blogspot.com
 0.0.0.0 www.keyarena.gg
-0.0.0.0 www.keyforsteam.de
 0.0.0.0 www.khazarmilkers.com
 0.0.0.0 www.khurafaat.blogspot.com
 0.0.0.0 www.kichduc.cc

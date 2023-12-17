@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-12-16 21:37:27
+! Version: 2023-12-17 21:37:32
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -12,6 +12,8 @@ cad.youku.com
 @@||mmstat.com^$domain=youku.com
 ||cibntv.net/youku/$media
 ||valipl.cp31.ott.cibntv.net/$media
+||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
+||alicdn.com/awsc/et/
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
