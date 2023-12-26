@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2023-12-17 21:37:32
+! Version: 2023-12-26 21:37:33
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -28,6 +28,7 @@ static.g.iqiyi.com
 show.ssports.com
 v.qq.com##.quick_games.quick_item
 qq.com##+js(json-prune, ads ad material.video)
+qq.com##+js(no-fetch-if, beacon.)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 gdt.qq.com
 cm.l.qq.com
@@ -119,28 +120,18 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 */preroll/$media,domain=91porn.com
 91p20.space
 waust.at
-||btsow.mom/app/jav$image
+||btsow.motorcycles/app/javu$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.mom|rarbgprx.org
-statsy.net
-||dyncdn.me/static/20/js/showads.js$script
-||dyncdn.me/static/20/js/expla$script
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 ||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
-dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
-dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
-dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
-chushoushijian.cn
+2qpqwkx.cn
 z4a.net
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
-onenews.vip
-quickapp.cn
-v4dwkcv.com
 weizhenwx.com
 youle55.com
 ||www.yatu.tv:2082/image/*.gif^$image

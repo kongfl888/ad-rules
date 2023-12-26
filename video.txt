@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-12-17 21:37:32 by:Mr.K----
+! ----Updatetime: 2023-12-26 21:37:33 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -71,14 +71,10 @@ youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkl
 91p20.space
 waust.at
 jads.co
-statsy.net
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
-chushoushijian.cn
+2qpqwkx.cn
 z4a.net
-onenews.vip
-quickapp.cn
-v4dwkcv.com
 weizhenwx.com
 youle55.com
 bixinlive.com
@@ -112,9 +108,7 @@ stgowan.com
 ||msstatic.com/huya/*/p2plib.js$script
 ||stripe.com^$script,domain=~nextdns.io|~obsidian.md
 */preroll/$media,domain=91porn.com
-||btsow.mom/app/jav$image
-||dyncdn.me/static/20/js/showads.js$script
-||dyncdn.me/static/20/js/expla$script
+||btsow.motorcycles/app/javu$image
 ||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
