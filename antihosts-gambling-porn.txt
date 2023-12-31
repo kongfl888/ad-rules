@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2023-12-26 21:37:34
+# DATE: 2023-12-31 21:37:33
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -8404,6 +8404,7 @@
 0.0.0.0 chocolatemodels.com
 0.0.0.0 chogai.net
 0.0.0.0 chogai.xyz
+0.0.0.0 choi.conggamehot.fun
 0.0.0.0 choi.gameb52a.me
 0.0.0.0 choi.gamingsoc88.org
 0.0.0.0 choi.playiwin.uk
@@ -8928,6 +8929,7 @@
 0.0.0.0 confessions-of-a-cumprincess.tumblr.com
 0.0.0.0 confessionsofateenperv.blogspot.com
 0.0.0.0 confissoesintimasdesandra.blogspot.com
+0.0.0.0 conggamehot.fun
 0.0.0.0 connectrural.uk
 0.0.0.0 connectsport.tumblr.com
 0.0.0.0 connecttospirit.blogspot.com
@@ -10601,6 +10603,7 @@
 0.0.0.0 dmssapp.tumblr.com
 0.0.0.0 dndnha.mx
 0.0.0.0 dnvideos.com
+0.0.0.0 do99.pro
 0.0.0.0 do99.site
 0.0.0.0 dobbyporn.com
 0.0.0.0 dobet.com
@@ -38164,6 +38167,7 @@
 0.0.0.0 taichichlive.xyz
 0.0.0.0 taichoang.fun
 0.0.0.0 taido99.net
+0.0.0.0 taido99.online
 0.0.0.0 taido99.win
 0.0.0.0 taigame789.club
 0.0.0.0 taigamehay.site
