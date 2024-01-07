@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-01-04 21:37:28
+# DATE: 2024-01-07 21:37:25
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -110,6 +110,7 @@
 0.0.0.0 11bet.mobi
 0.0.0.0 11bet.net
 0.0.0.0 11bet.online
+0.0.0.0 11bet.org
 0.0.0.0 11bet.us
 0.0.0.0 11bet.vin
 0.0.0.0 11bet.win
@@ -887,6 +888,7 @@
 0.0.0.0 789d.club
 0.0.0.0 789k.club
 0.0.0.0 789v.club
+0.0.0.0 789winchan.com
 0.0.0.0 789x.club
 0.0.0.0 78win01.com
 0.0.0.0 78win04.com
@@ -998,6 +1000,7 @@
 0.0.0.0 88new.cc
 0.0.0.0 88online.live
 0.0.0.0 88online.me
+0.0.0.0 88online.moe
 0.0.0.0 88quay.com
 0.0.0.0 88quayclub.com
 0.0.0.0 88sports.com
@@ -1827,6 +1830,7 @@
 0.0.0.0 ae58888.com
 0.0.0.0 ae788.bet
 0.0.0.0 ae888.com
+0.0.0.0 ae888.men
 0.0.0.0 ae888.mobi
 0.0.0.0 ae888.net
 0.0.0.0 ae88827.com
@@ -8400,7 +8404,10 @@
 0.0.0.0 cheapwebcamsexlive.com
 0.0.0.0 cheating-sluts.com
 0.0.0.0 checkerfc.xyz
+0.0.0.0 checkerviet.bet
 0.0.0.0 checkerviet.bid
+0.0.0.0 checkerviet.bz
+0.0.0.0 checkerviet.fan
 0.0.0.0 checkerviet.fun
 0.0.0.0 checkerviet.one
 0.0.0.0 checkgaigoi.cc
@@ -11263,7 +11270,9 @@
 0.0.0.0 ee88.club
 0.0.0.0 ee88.com
 0.0.0.0 ee88.in
+0.0.0.0 ee88.law
 0.0.0.0 ee88.plus
+0.0.0.0 ee88.tips
 0.0.0.0 ee8801.com
 0.0.0.0 ee8802.com
 0.0.0.0 ee8803.com
@@ -14684,6 +14693,7 @@
 0.0.0.0 game.man79.org
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
+0.0.0.0 game365.online
 0.0.0.0 game69.top
 0.0.0.0 game69club.win
 0.0.0.0 game789club.net
@@ -15089,6 +15099,7 @@
 0.0.0.0 gem79.win
 0.0.0.0 gembanca.com
 0.0.0.0 gemmeporn.com
+0.0.0.0 gemwin.page
 0.0.0.0 gencomics.es
 0.0.0.0 genderimmigrant.blogspot.com
 0.0.0.0 genderx.com
@@ -15451,8 +15462,11 @@
 0.0.0.0 go88.club
 0.0.0.0 go88.com
 0.0.0.0 go88.im
+0.0.0.0 go88.info
 0.0.0.0 go88.live
 0.0.0.0 go88.luxury
+0.0.0.0 go88.study
+0.0.0.0 go88.tv
 0.0.0.0 go88.vip
 0.0.0.0 go888.asia
 0.0.0.0 go88b.com
@@ -19501,6 +19515,7 @@
 0.0.0.0 iwin888.com
 0.0.0.0 iwinapk.link
 0.0.0.0 iwinapplink.club
+0.0.0.0 iwinclub.onl
 0.0.0.0 iwinclub.win
 0.0.0.0 iwriteadirtyblog.blogspot.com
 0.0.0.0 ixiporn-com.ru
@@ -20633,6 +20648,7 @@
 0.0.0.0 jun88bet.biz
 0.0.0.0 jun88bet.xyz
 0.0.0.0 jun88k.com
+0.0.0.0 jun88w.com
 0.0.0.0 juneloi-myfun.blogspot.com
 0.0.0.0 jungespornovideo.com
 0.0.0.0 junglexh.xyz
@@ -20957,7 +20973,9 @@
 0.0.0.0 k8bet8.com
 0.0.0.0 k8bet88.com
 0.0.0.0 k8bet99.com
+0.0.0.0 k8betno1.com
 0.0.0.0 k8betting.com
+0.0.0.0 k8betvn.club
 0.0.0.0 k8bongda.com
 0.0.0.0 k8cacuoc.club
 0.0.0.0 k8cacuoc.com
@@ -21498,6 +21516,7 @@
 0.0.0.0 k8vii36.com
 0.0.0.0 k8vii85.com
 0.0.0.0 k8vin.fun
+0.0.0.0 k8vina1.net
 0.0.0.0 k8vinavn028.com
 0.0.0.0 k8vinavn029.com
 0.0.0.0 k8vinavn030.com
@@ -23986,6 +24005,8 @@
 0.0.0.0 ma.newbienudes.com
 0.0.0.0 maap.12b99.com
 0.0.0.0 mac.panel-laboralcj.gob.mx
+0.0.0.0 macao99.bid
+0.0.0.0 macao99.club
 0.0.0.0 macau-slot.com
 0.0.0.0 macau.adultsearch.com
 0.0.0.0 macau.club
@@ -25793,6 +25814,7 @@
 0.0.0.0 msmeb.com
 0.0.0.0 msp2.leto58.xyz
 0.0.0.0 msporn.net
+0.0.0.0 msrcxx.com
 0.0.0.0 mstatic.definefetish.com
 0.0.0.0 msterg.tumblr.com
 0.0.0.0 msxolne.angelfire.com
@@ -25911,6 +25933,7 @@
 0.0.0.0 mtrpr.com
 0.0.0.0 mtruyen18.com
 0.0.0.0 mu.anwap.tube
+0.0.0.0 mu111.vip
 0.0.0.0 mu88.game
 0.0.0.0 mu88.id
 0.0.0.0 mu88.uk
@@ -31061,6 +31084,7 @@
 0.0.0.0 play.giaitrinet88.live
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.im
+0.0.0.0 play.go88.tv
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88l.top
 0.0.0.0 play.go88s.tv
@@ -37639,6 +37663,7 @@
 0.0.0.0 st66602.com
 0.0.0.0 st66606.com
 0.0.0.0 st666win.us
+0.0.0.0 st666yet.site
 0.0.0.0 stackedcurves.blogspot.com
 0.0.0.0 stacydia.tumblr.com
 0.0.0.0 stacyindiapers.tumblr.com
@@ -38532,6 +38557,7 @@
 0.0.0.0 tai.genvip88.com
 0.0.0.0 tai.go88.club
 0.0.0.0 tai.go88.com
+0.0.0.0 tai.go88.info
 0.0.0.0 tai.go88.live
 0.0.0.0 tai.go88b.com
 0.0.0.0 tai.go88f.com
@@ -38573,6 +38599,7 @@
 0.0.0.0 taido99.win
 0.0.0.0 taigame789.club
 0.0.0.0 taigamehay.site
+0.0.0.0 taigamehayvip.vip
 0.0.0.0 taigamehot.pro
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
@@ -38592,6 +38619,9 @@
 0.0.0.0 taiiwinclub.cc
 0.0.0.0 taiiwinclub.vip
 0.0.0.0 taikufun.com
+0.0.0.0 taimacao.club
+0.0.0.0 taimacao99.club
+0.0.0.0 taimacao99.shop
 0.0.0.0 taimacau.club
 0.0.0.0 taimanclub.com
 0.0.0.0 tainbet.net
@@ -42095,6 +42125,7 @@
 0.0.0.0 vin777.co
 0.0.0.0 vin777.work
 0.0.0.0 vin999.fun
+0.0.0.0 vina88.net
 0.0.0.0 vinalottery.com
 0.0.0.0 vinb00.com
 0.0.0.0 vinbet1001.com
@@ -42649,6 +42680,7 @@
 0.0.0.0 vnbiz88.com
 0.0.0.0 vnboc.com
 0.0.0.0 vnbong88.live
+0.0.0.0 vnbongvip.net
 0.0.0.0 vnchich.com
 0.0.0.0 vnchich.net
 0.0.0.0 vnclub88.live
@@ -52274,6 +52306,7 @@
 0.0.0.0 www.julie-skyhigh.com
 0.0.0.0 www.julievalmont.blogspot.com
 0.0.0.0 www.jun889.vip
+0.0.0.0 www.jun88w.com
 0.0.0.0 www.juneloi-myfun.blogspot.com
 0.0.0.0 www.jungeladies.de
 0.0.0.0 www.juniorcizinha.blogspot.com
@@ -53677,6 +53710,8 @@
 0.0.0.0 www.msbiggirl.blogspot.com
 0.0.0.0 www.msbrattydesigns.blogspot.com
 0.0.0.0 www.msl.ua
+0.0.0.0 www.msrcxx.com
+0.0.0.0 www.mu111.vip
 0.0.0.0 www.mu88.uk
 0.0.0.0 www.mu88ads.com
 0.0.0.0 www.mu9.com
