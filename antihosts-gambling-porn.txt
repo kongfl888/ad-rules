@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-01-07 21:37:25
+# DATE: 2024-01-14 21:37:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -13,6 +13,7 @@
 0.0.0.0 007milf.com
 0.0.0.0 007zeed.com
 0.0.0.0 009.casino
+0.0.0.0 009.com
 0.0.0.0 009songbai.com
 0.0.0.0 00dirtyone.tumblr.com
 0.0.0.0 010bestk8.com
@@ -760,6 +761,7 @@
 0.0.0.0 567livestop.com
 0.0.0.0 567livewin.com
 0.0.0.0 570manx.com
+0.0.0.0 58cc.live
 0.0.0.0 59y2x.com
 0.0.0.0 5besten-sexdatingseiten.ch
 0.0.0.0 5dimes.com
@@ -797,10 +799,13 @@
 0.0.0.0 68gamebai.tel
 0.0.0.0 68gamebai4.com
 0.0.0.0 68gamebaix.com
+0.0.0.0 68gb.cam
 0.0.0.0 68gb.vip
+0.0.0.0 68gb1.vip
 0.0.0.0 68gb2025.com
 0.0.0.0 68gb3.com
 0.0.0.0 68iwin.club
+0.0.0.0 68lottery.com
 0.0.0.0 68rich.com
 0.0.0.0 69-sexgames.com
 0.0.0.0 69-webcams.com
@@ -3669,6 +3674,7 @@
 0.0.0.0 api.shbetvv.com
 0.0.0.0 api.simply-hentai.com
 0.0.0.0 api.sky88.fun
+0.0.0.0 api.sodo.host
 0.0.0.0 api.st666.win
 0.0.0.0 api.st66606.com
 0.0.0.0 api.t8bet999.com
@@ -3683,6 +3689,7 @@
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
 0.0.0.0 api.vnq8.net
+0.0.0.0 api.vnxoso66.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
 0.0.0.0 api4.hit1.co
@@ -5549,6 +5556,7 @@
 0.0.0.0 betting195.com
 0.0.0.0 bettingchamps.eu
 0.0.0.0 bettingexpress.com
+0.0.0.0 bettingroup.net
 0.0.0.0 bettingworld.co.za
 0.0.0.0 bettopsport.com
 0.0.0.0 bettor.com
@@ -8551,6 +8559,7 @@
 0.0.0.0 choiemdi.com
 0.0.0.0 choigai.xyz
 0.0.0.0 choigaigoi.com
+0.0.0.0 choigamevua.club
 0.0.0.0 choigiaitri.net
 0.0.0.0 choihay.vip
 0.0.0.0 choihitclub.fun
@@ -17936,6 +17945,7 @@
 0.0.0.0 i7a8a9b6.ssl.hwcdn.net
 0.0.0.0 i8.pc20160301.com
 0.0.0.0 i8bet.org
+0.0.0.0 i9-bet.com
 0.0.0.0 i9.pc20160301.com
 0.0.0.0 i998.co
 0.0.0.0 i99902.com
@@ -17947,6 +17957,7 @@
 0.0.0.0 i9bet.app
 0.0.0.0 i9bet.bet
 0.0.0.0 i9bet.com
+0.0.0.0 i9bet.llc
 0.0.0.0 i9bet.net
 0.0.0.0 i9bet.poker
 0.0.0.0 i9bet.vip
@@ -19547,6 +19558,7 @@
 0.0.0.0 iyottube.com
 0.0.0.0 izispicy.com
 0.0.0.0 izporn.net
+0.0.0.0 izv5n.cc
 0.0.0.0 j.nozomi.la
 0.0.0.0 j.spreee.pro
 0.0.0.0 j0.wlmediahub.com
@@ -22426,6 +22438,7 @@
 0.0.0.0 kute3x.net
 0.0.0.0 kutlay-victoraou.netlify.app
 0.0.0.0 kuuldan.blogspot.com
+0.0.0.0 kuwaitfunddev.com
 0.0.0.0 kuwin.bet
 0.0.0.0 kuxxx.com
 0.0.0.0 kuznica-resheniy.ru
@@ -23057,6 +23070,7 @@
 0.0.0.0 linksex.pro
 0.0.0.0 linksexchange.net
 0.0.0.0 linkshit.com
+0.0.0.0 linkvao009.com
 0.0.0.0 linkvaobong88w88.com
 0.0.0.0 linkvaobw.info
 0.0.0.0 linkvaom88.xyz
@@ -25226,6 +25240,7 @@
 0.0.0.0 missavd.com
 0.0.0.0 missax.com
 0.0.0.0 missbadkitty.blogspot.com
+0.0.0.0 missbet.com
 0.0.0.0 missdanidaniels.tumblr.com
 0.0.0.0 missesslut.blogspot.com
 0.0.0.0 misshellenroxx.tumblr.com
@@ -33700,6 +33715,7 @@
 0.0.0.0 qh236.com
 0.0.0.0 qh238.com
 0.0.0.0 qh250.com
+0.0.0.0 qh322.com
 0.0.0.0 qh52.com
 0.0.0.0 qh88vn.live
 0.0.0.0 qh91.com
@@ -34253,6 +34269,7 @@
 0.0.0.0 rf18.ru
 0.0.0.0 rg.choihitclub.run
 0.0.0.0 rg.choiwin79.pro
+0.0.0.0 rgames.org
 0.0.0.0 rgcsn.com
 0.0.0.0 rhdhrdhfhfdhhvcnrtr.blogspot.com
 0.0.0.0 rhdtube.com
@@ -37310,6 +37327,9 @@
 0.0.0.0 socvip9.club
 0.0.0.0 socvl.net
 0.0.0.0 sodienthoaigai.com
+0.0.0.0 sodo.host
+0.0.0.0 sodo02.com
+0.0.0.0 sodo100.com
 0.0.0.0 sodo103.com
 0.0.0.0 sodo107.com
 0.0.0.0 sodo109.com
@@ -37317,7 +37337,10 @@
 0.0.0.0 sodo13.com
 0.0.0.0 sodo14.com
 0.0.0.0 sodo15.com
+0.0.0.0 sodo3839.com
 0.0.0.0 sodo66.app
+0.0.0.0 sodo66.com
+0.0.0.0 sodo668.net
 0.0.0.0 sodo678.com
 0.0.0.0 sodo6868.com
 0.0.0.0 sodok.blogspot.com
@@ -38238,7 +38261,11 @@
 0.0.0.0 sv1.sv88vn.com
 0.0.0.0 sv1.sv88vn.net
 0.0.0.0 sv288.net
+0.0.0.0 sv368.casino
+0.0.0.0 sv368.one
+0.0.0.0 sv368.vin
 0.0.0.0 sv368.vip
+0.0.0.0 sv368ga.com
 0.0.0.0 sv388.biz
 0.0.0.0 sv388.cam
 0.0.0.0 sv388.cloud
@@ -42712,6 +42739,7 @@
 0.0.0.0 vnq8.com
 0.0.0.0 vnq8.net
 0.0.0.0 vnq8.win
+0.0.0.0 vnrg5269.com
 0.0.0.0 vnshow.cc
 0.0.0.0 vntop88.com
 0.0.0.0 vntopg88.live
@@ -42721,6 +42749,7 @@
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.pro
 0.0.0.0 vnxnxx.xyz
+0.0.0.0 vnxoso66.net
 0.0.0.0 vnxx.app
 0.0.0.0 vnxx.me
 0.0.0.0 vnxx.xyz
@@ -42862,6 +42891,7 @@
 0.0.0.0 vtube.mobi
 0.0.0.0 vua1004.club
 0.0.0.0 vua1005.club
+0.0.0.0 vua2.club
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabet88.org
@@ -43575,6 +43605,7 @@
 0.0.0.0 winclub.net
 0.0.0.0 windelzofe.tumblr.com
 0.0.0.0 winderland.ru
+0.0.0.0 wingo88.vin
 0.0.0.0 winjp2.comapatecoman.gob.mx
 0.0.0.0 winladaxraycross.ru
 0.0.0.0 winmasters.com
@@ -43758,6 +43789,7 @@
 0.0.0.0 www-pictoa-com.lgbtporn.org
 0.0.0.0 www-pornhat-com.ru
 0.0.0.0 www-porntry-com.ru
+0.0.0.0 www-sodo.com
 0.0.0.0 www-stage.pornhub.com
 0.0.0.0 www-stage2.pornhub.com
 0.0.0.0 www-stage3.pornhub.com
@@ -44130,6 +44162,7 @@
 0.0.0.0 www.5533789.com
 0.0.0.0 www.558kbet.com
 0.0.0.0 www.55qh88.com
+0.0.0.0 www.58cc.live
 0.0.0.0 www.5dimes.com
 0.0.0.0 www.5fing.com
 0.0.0.0 www.5kporn.com
@@ -51990,6 +52023,7 @@
 0.0.0.0 www.ixxxclips.com
 0.0.0.0 www.iyottube.com
 0.0.0.0 www.izporn.net
+0.0.0.0 www.izv5n.cc
 0.0.0.0 www.j-model.co.jp
 0.0.0.0 www.ja77.net
 0.0.0.0 www.jabcomix.com
@@ -56578,6 +56612,7 @@
 0.0.0.0 www.qh236.com
 0.0.0.0 www.qh238.com
 0.0.0.0 www.qh250.com
+0.0.0.0 www.qh322.com
 0.0.0.0 www.qhb1.com
 0.0.0.0 www.qoqoz.com
 0.0.0.0 www.qorno.com
@@ -57897,6 +57932,7 @@
 0.0.0.0 www.socvip9.club
 0.0.0.0 www.sod.co.jp
 0.0.0.0 www.sodc.co.jp
+0.0.0.0 www.sodo.host
 0.0.0.0 www.sodo107.com
 0.0.0.0 www.sodo109.com
 0.0.0.0 www.sodo14.com
@@ -59749,6 +59785,7 @@
 0.0.0.0 www.vnq8.net
 0.0.0.0 www.vnq8.win
 0.0.0.0 www.vntop88.com
+0.0.0.0 www.vnxoso66.net
 0.0.0.0 www.vnzb8.com
 0.0.0.0 www.voayeurs.com
 0.0.0.0 www.vod.com
