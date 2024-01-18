@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-01-14 21:37:27
+# DATE: 2024-01-18 21:37:34
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -791,6 +791,7 @@
 0.0.0.0 668kbet.com
 0.0.0.0 66ko1.com
 0.0.0.0 66ko9.com
+0.0.0.0 67777.tv
 0.0.0.0 6789live.com
 0.0.0.0 679king.com
 0.0.0.0 67win9.com
@@ -865,6 +866,7 @@
 0.0.0.0 789.fun
 0.0.0.0 789.mobi
 0.0.0.0 789.moi
+0.0.0.0 789.win
 0.0.0.0 78966.app
 0.0.0.0 7897890.bet
 0.0.0.0 7897890.vip
@@ -3652,6 +3654,8 @@
 0.0.0.0 api.mc876.com
 0.0.0.0 api.minicasino.io
 0.0.0.0 api.minivn.com
+0.0.0.0 api.mu88.ag
+0.0.0.0 api.mu88.mu
 0.0.0.0 api.mu9.club
 0.0.0.0 api.mu9.com
 0.0.0.0 api.mxvietnam.com
@@ -3689,7 +3693,6 @@
 0.0.0.0 api.vnq8.bet
 0.0.0.0 api.vnq8.com
 0.0.0.0 api.vnq8.net
-0.0.0.0 api.vnxoso66.net
 0.0.0.0 api.vx88.com
 0.0.0.0 api2-gateway.go88.com
 0.0.0.0 api4.hit1.co
@@ -4356,6 +4359,7 @@
 0.0.0.0 asvintageporn.com
 0.0.0.0 asztroszex.hu
 0.0.0.0 at.transfixed.com
+0.0.0.0 at99.club
 0.0.0.0 ata-cdn.metart.network
 0.0.0.0 atarnishedhalo.blogspot.com
 0.0.0.0 atashows.com
@@ -4593,17 +4597,20 @@
 0.0.0.0 b00b3d.booru.org
 0.0.0.0 b1388.com
 0.0.0.0 b29.bet
+0.0.0.0 b29.cafe
 0.0.0.0 b29qc.win
 0.0.0.0 b2branked.com
 0.0.0.0 b2wblog.com
 0.0.0.0 b44.com
 0.0.0.0 b52.me
+0.0.0.0 b52.mobi
 0.0.0.0 b52.vip
 0.0.0.0 b52.win
 0.0.0.0 b52d.club
 0.0.0.0 b52k.club
 0.0.0.0 b52m.club
 0.0.0.0 b52vn.org
+0.0.0.0 b69.cafe
 0.0.0.0 b69.city
 0.0.0.0 b77.fun
 0.0.0.0 b77.life
@@ -4712,6 +4719,7 @@
 0.0.0.0 backroomfuckers.com
 0.0.0.0 backseatbangers.com
 0.0.0.0 backtobabyhood.tumblr.com
+0.0.0.0 bacty88.com
 0.0.0.0 bad-babes.blogspot.com
 0.0.0.0 bad-boys-blue.ru
 0.0.0.0 badashley.com
@@ -5857,6 +5865,10 @@
 0.0.0.0 bizarroporno.com
 0.0.0.0 bizarropornos.com
 0.0.0.0 bizzarre.adult.directnic.com
+0.0.0.0 bj288.com
+0.0.0.0 bj39.com
+0.0.0.0 bj88vietnam.com
+0.0.0.0 bj88vn.com
 0.0.0.0 bjd.booru.org
 0.0.0.0 bjswallow.com
 0.0.0.0 bk368.com
@@ -6198,6 +6210,7 @@
 0.0.0.0 bong88page.com
 0.0.0.0 bong88vivaw88.com
 0.0.0.0 bong90.bet
+0.0.0.0 bong99.cc
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
 0.0.0.0 bong99.in
@@ -9509,6 +9522,7 @@
 0.0.0.0 css.pornpics.com
 0.0.0.0 css.superhentais.com
 0.0.0.0 cstarty.tumblr.com
+0.0.0.0 cstga.com
 0.0.0.0 cstor.com
 0.0.0.0 csucsvideok.hu
 0.0.0.0 ct1.myporn.club
@@ -9839,6 +9853,7 @@
 0.0.0.0 dabet.fun
 0.0.0.0 dabet.me
 0.0.0.0 dabet.top
+0.0.0.0 dabet.uk
 0.0.0.0 dabet.us
 0.0.0.0 dabet.win
 0.0.0.0 dabong.thethaofb88.com
@@ -12372,6 +12387,7 @@
 0.0.0.0 fabet.tv
 0.0.0.0 fabet.us
 0.0.0.0 fabet.vip
+0.0.0.0 fabet.win
 0.0.0.0 fabet77.net
 0.0.0.0 fabet88.net
 0.0.0.0 fabetvn.com
@@ -12702,6 +12718,7 @@
 0.0.0.0 fcb8.club
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
+0.0.0.0 fcb8.mobi
 0.0.0.0 fcb8.top
 0.0.0.0 fcb8.vin
 0.0.0.0 fcb8.vip
@@ -14359,6 +14376,7 @@
 0.0.0.0 ga-blog.blogspot.com
 0.0.0.0 ga.poebushki.com
 0.0.0.0 ga179.com
+0.0.0.0 ga98.net
 0.0.0.0 gabbyquinteros.com
 0.0.0.0 gabbysxrated.blogspot.com
 0.0.0.0 gabe6146.tumblr.com
@@ -14714,6 +14732,7 @@
 0.0.0.0 gamebai.club
 0.0.0.0 gamebai.manclub.us
 0.0.0.0 gamebai.manclub.vin
+0.0.0.0 gamebai.vin
 0.0.0.0 gamebaisumvip.net
 0.0.0.0 gamebancaonline.com
 0.0.0.0 gamebay365.us
@@ -15209,6 +15228,7 @@
 0.0.0.0 giaimanhacai.com
 0.0.0.0 giaitri.fun
 0.0.0.0 giaitri.tv
+0.0.0.0 giaitrimu88.com
 0.0.0.0 giaitrinet88.live
 0.0.0.0 giannaman.blogspot.com
 0.0.0.0 giannamichaelspics.blogspot.com
@@ -16994,6 +17014,7 @@
 0.0.0.0 hitachihoes.com
 0.0.0.0 hitahottie.com
 0.0.0.0 hitbdsm.com
+0.0.0.0 hitclub.win
 0.0.0.0 hithomemovies.com
 0.0.0.0 hititbet.com
 0.0.0.0 hitmanx3z.blogspot.com
@@ -19517,6 +19538,7 @@
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
+0.0.0.0 iwin.net
 0.0.0.0 iwin.us
 0.0.0.0 iwin10.club
 0.0.0.0 iwin12.club
@@ -24010,6 +24032,7 @@
 0.0.0.0 m88vina.com
 0.0.0.0 m8bet.net
 0.0.0.0 m8poker.com
+0.0.0.0 m8u8.cc
 0.0.0.0 m8winvip.com
 0.0.0.0 m8winvnd.com
 0.0.0.0 m8winvnn.com
@@ -24167,6 +24190,7 @@
 0.0.0.0 mamporno.com
 0.0.0.0 mamscasting.com
 0.0.0.0 man.club
+0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
 0.0.0.0 manatoki122.net
@@ -25949,9 +25973,16 @@
 0.0.0.0 mtruyen18.com
 0.0.0.0 mu.anwap.tube
 0.0.0.0 mu111.vip
+0.0.0.0 mu88.ae
+0.0.0.0 mu88.ag
+0.0.0.0 mu88.black
+0.0.0.0 mu88.com
 0.0.0.0 mu88.game
 0.0.0.0 mu88.id
+0.0.0.0 mu88.mu
+0.0.0.0 mu88.ooo
 0.0.0.0 mu88.uk
+0.0.0.0 mu88.ws
 0.0.0.0 mu88a.com
 0.0.0.0 mu88ads.com
 0.0.0.0 mu88b.com
@@ -26677,6 +26708,7 @@
 0.0.0.0 nbet.com
 0.0.0.0 nbet.fun
 0.0.0.0 nbet.me
+0.0.0.0 nbet.net
 0.0.0.0 nbet.site
 0.0.0.0 nbet.top
 0.0.0.0 nbet.tv
@@ -27658,7 +27690,6 @@
 0.0.0.0 nuttloads.tumblr.com
 0.0.0.0 nuvid.com
 0.0.0.0 nuvid.tv
-0.0.0.0 nv.ku6107.net
 0.0.0.0 nv89w.top
 0.0.0.0 nwsgifs.com
 0.0.0.0 nxb8.com
@@ -31087,6 +31118,7 @@
 0.0.0.0 play-angel.com
 0.0.0.0 play-boom.com
 0.0.0.0 play-with-kitten.tumblr.com
+0.0.0.0 play.b52.mobi
 0.0.0.0 play.b52.win
 0.0.0.0 play.b52m.club
 0.0.0.0 play.b52vn.org
@@ -31109,6 +31141,7 @@
 0.0.0.0 play.hit38.co
 0.0.0.0 play.hit68.net
 0.0.0.0 play.im99.com
+0.0.0.0 play.iwin.net
 0.0.0.0 play.kichduc.to
 0.0.0.0 play.kphim.cc
 0.0.0.0 play.lo88.live
@@ -34307,6 +34340,7 @@
 0.0.0.0 rikvip.uk
 0.0.0.0 rikvip.us
 0.0.0.0 rikvip.vip
+0.0.0.0 rikvip.win
 0.0.0.0 rikvip2.vip
 0.0.0.0 rikvipclub.us
 0.0.0.0 rikvipp.net
@@ -37891,6 +37925,7 @@
 0.0.0.0 statvideo.xmodels-live.ch
 0.0.0.0 staxus.com
 0.0.0.0 staz.me
+0.0.0.0 stby.com
 0.0.0.0 stcontent.premiumhdv.com
 0.0.0.0 steaminghot.tumblr.com
 0.0.0.0 steamtraffic.com
@@ -38614,9 +38649,11 @@
 0.0.0.0 taianhsex.com
 0.0.0.0 taiapplive.com
 0.0.0.0 taiappliveshow.blogspot.com
+0.0.0.0 taib29.cafe
 0.0.0.0 taib52.club
 0.0.0.0 taib52.com
 0.0.0.0 taib52.vin
+0.0.0.0 taib69.cafe
 0.0.0.0 taiboc.fun
 0.0.0.0 taibum.tv
 0.0.0.0 taichichlive.xyz
@@ -42655,7 +42692,6 @@
 0.0.0.0 vn.solarbet.com
 0.0.0.0 vn.solbet88.com
 0.0.0.0 vn.tbab556.com
-0.0.0.0 vn.tbab953.com
 0.0.0.0 vn.viet69.chat
 0.0.0.0 vn.vlxxtube.cc
 0.0.0.0 vn.vndbetway.com
@@ -42749,7 +42785,6 @@
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.pro
 0.0.0.0 vnxnxx.xyz
-0.0.0.0 vnxoso66.net
 0.0.0.0 vnxx.app
 0.0.0.0 vnxx.me
 0.0.0.0 vnxx.xyz
@@ -43580,6 +43615,7 @@
 0.0.0.0 win365vip9.com
 0.0.0.0 win456.cc
 0.0.0.0 win79.app
+0.0.0.0 win79.com
 0.0.0.0 win79.download
 0.0.0.0 win79.live
 0.0.0.0 win79.pro
@@ -53746,10 +53782,14 @@
 0.0.0.0 www.msl.ua
 0.0.0.0 www.msrcxx.com
 0.0.0.0 www.mu111.vip
+0.0.0.0 www.mu88.ae
+0.0.0.0 www.mu88.ag
+0.0.0.0 www.mu88.mu
 0.0.0.0 www.mu88.uk
 0.0.0.0 www.mu88ads.com
 0.0.0.0 www.mu9.com
 0.0.0.0 www.mu90.com
+0.0.0.0 www.mu929.com
 0.0.0.0 www.muchfuck.com
 0.0.0.0 www.muchohentai.com
 0.0.0.0 www.muchoporno.xxx
@@ -59785,7 +59825,6 @@
 0.0.0.0 www.vnq8.net
 0.0.0.0 www.vnq8.win
 0.0.0.0 www.vntop88.com
-0.0.0.0 www.vnxoso66.net
 0.0.0.0 www.vnzb8.com
 0.0.0.0 www.voayeurs.com
 0.0.0.0 www.vod.com
@@ -63687,6 +63726,7 @@
 0.0.0.0 yvonfamily.com
 0.0.0.0 ywebcams.com
 0.0.0.0 yylive.top
+0.0.0.0 yylive.tv
 0.0.0.0 z-hentai.blogspot.com
 0.0.0.0 z.720vedeo.me
 0.0.0.0 z.phimsexsub.co
