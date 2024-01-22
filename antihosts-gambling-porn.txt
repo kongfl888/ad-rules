@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-01-18 21:37:34
+# DATE: 2024-01-22 21:37:37
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -38610,6 +38610,7 @@
 0.0.0.0 tagralsadh.blogspot.com
 0.0.0.0 tagshemale.top
 0.0.0.0 tahlil.biz
+0.0.0.0 tai-sumvip.city
 0.0.0.0 tai.b52vn.fun
 0.0.0.0 tai.boc8.fun
 0.0.0.0 tai.do99.site
@@ -38680,6 +38681,7 @@
 0.0.0.0 taihit.win
 0.0.0.0 taihotlive.xyz
 0.0.0.0 taiiwin.club
+0.0.0.0 taiiwin.vin
 0.0.0.0 taiiwinclub.cc
 0.0.0.0 taiiwinclub.vip
 0.0.0.0 taikufun.com
