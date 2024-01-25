@@ -1,4 +1,4 @@
-! ----Updatetime: 2023-12-26 21:37:33 by:Mr.K----
+! ----Updatetime: 2024-01-25 21:37:36 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -85,8 +85,6 @@ stgowan.com
 ||cibntv.net/youku/$media
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
 ||sealine.youku.com/yk/*callback=adpagesdk$script
-||iqiyi.com/videos/other/202$xmlhttprequest
-||71edge.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
