@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-01-25 21:37:36 by:Mr.K----
+! ----Updatetime: 2024-02-09 21:37:39 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -99,6 +99,8 @@ stgowan.com
 ||css.tv.itc.cn/m/img/player/dlBanner.$image
 ||data.vod.itc.cn/*&prod=ad&$media
 ||tv.sohu.com/upload/csad/admaster/$image
+||ott.cibntv.net/*/letv-wzgug/$media
+*/letv-gug/$media
 ||letvimg.com/*_gugwl/$image
 ||js.letvcdn.com/*_banner_$script
 ||jd.com/$domain=le.com
