@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-02-09 21:37:39
+! Version: 2024-02-12 21:37:26
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -24,7 +24,7 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
-v.qq.com##.quick_games.quick_item
+v.qq.com##.quick_games.quick_item, div.game-switch-ad
 qq.com##+js(json-prune, ads ad material.video)
 qq.com##+js(no-fetch-if, beacon.)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
@@ -57,6 +57,7 @@ de.as.pptv.com
 ||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
 pub.funshion.com
 ||relive.vodfile.m1905.com/video/qiantie202$media
+1905.com##.pauseInfoWrap:remove()
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 ||video.da.mgtv.com/$media

@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-02-09 21:37:39 by:Mr.K----
+! ----Updatetime: 2024-02-12 21:37:26 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -8,7 +8,7 @@ apisgame.iqiyi.com
 static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 show.ssports.com
-v.qq.com##.quick_games.quick_item
+v.qq.com##.quick_games.quick_item, div.game-switch-ad
 gdt.qq.com
 cm.l.qq.com
 ||qq.com/livemsg?
@@ -30,6 +30,7 @@ pptv.com##.advView-two,#p-mark
 synacast.com
 de.as.pptv.com
 pub.funshion.com
+1905.com##.pauseInfoWrap:remove()
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 @@||js.tv.itc.cn/gg.seed.js
