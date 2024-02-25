@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-02-12 21:37:26 by:Mr.K----
+! ----Updatetime: 2024-02-25 21:37:26 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -59,6 +59,7 @@ le.com##.hv_wm_logo
 wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
+www.huya.com##.main-ab-close-mode, div.sidebar-banner
 g.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
@@ -106,6 +107,8 @@ stgowan.com
 ||js.letvcdn.com/*_banner_$script
 ||jd.com/$domain=le.com
 ||douyucdn.cn/adxdsp/$image
+||business.msstatic.com/advertiser/$image
+||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
 ||msstatic.com/huya/*/p2plib.js$script
 ||stripe.com^$script,domain=~nextdns.io|~obsidian.md
 */preroll/$media,domain=91porn.com

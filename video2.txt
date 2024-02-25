@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-02-18 21:38:11
+! Version: 2024-02-25 21:37:26
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 yy.com,le.com##+js(nowebrtc)
@@ -99,6 +99,9 @@ douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
+www.huya.com##.main-ab-close-mode, div.sidebar-banner
+||business.msstatic.com/advertiser/$image
+||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
 g.huya.com
 ||msstatic.com/huya/*/p2plib.js$script
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest

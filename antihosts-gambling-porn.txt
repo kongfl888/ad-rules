@@ -1,8 +1,7 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-02-24 21:37:33
+# DATE: 2024-02-25 21:37:27
 # This hosts lite from StevenBlack/hosts.
  
-0.0.0.0 .0.0.0 
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 0.xd-cdn.com
 0.0.0.0 0.xxx-cdn.com
@@ -24110,6 +24109,7 @@
 0.0.0.0 hamsterzoo.pro
 0.0.0.0 hana-diapered.tumblr.com
 0.0.0.0 hana-elazhari.com
+0.0.0.0 handcore-henry.prvn.fetlifeblog.com
 0.0.0.0 handjob-hd.net
 0.0.0.0 handjob-land.blogspot.com
 0.0.0.0 handjob-movies.blogspot.com
