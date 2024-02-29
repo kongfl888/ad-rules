@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-02-25 21:37:27
+# DATE: 2024-02-29 21:37:28
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -14698,6 +14698,7 @@
 0.0.0.0 dangkyee88.online
 0.0.0.0 dangkygo88.in
 0.0.0.0 dangkykubet.vip
+0.0.0.0 dangkyrikvip.org
 0.0.0.0 dangkyrikvip.tv
 0.0.0.0 dangkythabet.com
 0.0.0.0 danhbaidoithuongizi.com
@@ -34393,6 +34394,7 @@
 0.0.0.0 logger007.cam4.com
 0.0.0.0 logicporn.com
 0.0.0.0 login.d2pass.com
+0.0.0.0 login.dangkyrikvip.org
 0.0.0.0 login.playboy.com
 0.0.0.0 login.riadanda.com
 0.0.0.0 login.sankakucomplex.com
