@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-02-29 21:37:28
+# DATE: 2024-03-05 21:37:43
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1941,6 +1941,7 @@
 0.0.0.0 ad.playhit.biz
 0.0.0.0 ad.pornfuzepremium.videobox.com
 0.0.0.0 ad.porno666.one
+0.0.0.0 ad.qc789.vip
 0.0.0.0 ad.rikvip.uk
 0.0.0.0 ad.sexcount.de
 0.0.0.0 ad.taihit.win
@@ -10563,6 +10564,7 @@
 0.0.0.0 cdn.maxixxx.com
 0.0.0.0 cdn.mb.datingadzone.com
 0.0.0.0 cdn.megatube.xxx
+0.0.0.0 cdn.megawin88.mobi
 0.0.0.0 cdn.members.pascalssubsluts.com
 0.0.0.0 cdn.metartnetwork.com
 0.0.0.0 cdn.meyzo.info
@@ -12613,6 +12615,7 @@
 0.0.0.0 chich.pro
 0.0.0.0 chich.xyz
 0.0.0.0 chich3x.net
+0.0.0.0 chich69.co
 0.0.0.0 chichchichchich.com
 0.0.0.0 chichgaixinh.com
 0.0.0.0 chichlive.biz
@@ -15305,6 +15308,7 @@
 0.0.0.0 debet88.win
 0.0.0.0 debiutext.eu
 0.0.0.0 debtdandy.com
+0.0.0.0 deca88.com
 0.0.0.0 decay-nl.tlsext.com
 0.0.0.0 decius-c.tumblr.com
 0.0.0.0 decorativemodels.com
@@ -27485,6 +27489,8 @@
 0.0.0.0 idealnudeteens.com
 0.0.0.0 idealsex.nl
 0.0.0.0 idealteentube.com
+0.0.0.0 ideepthroat.com
+0.0.0.0 ideeptube.com
 0.0.0.0 idhad.com
 0.0.0.0 idol.sankakucomplex.com
 0.0.0.0 idol147.blogspot.com
@@ -32551,6 +32557,7 @@
 0.0.0.0 kenh3x.net
 0.0.0.0 kenh3x.xxx
 0.0.0.0 kenh4.com
+0.0.0.0 kenh69.co
 0.0.0.0 kenhbong.com
 0.0.0.0 kenhdammy.com
 0.0.0.0 kenhjav.pro
@@ -36493,6 +36500,7 @@
 0.0.0.0 megaupload-xxx.com
 0.0.0.0 megavirt-com.ru
 0.0.0.0 megavirt.com
+0.0.0.0 megawin88.mobi
 0.0.0.0 megaxh.com
 0.0.0.0 megaxmovie.blogspot.com
 0.0.0.0 megaxvideo.com
@@ -43336,6 +43344,9 @@
 0.0.0.0 phdownload.net
 0.0.0.0 phe3x.xyz
 0.0.0.0 phe69.com
+0.0.0.0 pheclip.co
+0.0.0.0 pheclip.com
+0.0.0.0 pheclip.net
 0.0.0.0 pheloi.com
 0.0.0.0 pheonix.money
 0.0.0.0 phesex.pro
@@ -49613,6 +49624,7 @@
 0.0.0.0 qc.x8.club
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
+0.0.0.0 qc789.vip
 0.0.0.0 qe3trugjk.blogspot.com
 0.0.0.0 qep.me
 0.0.0.0 qeraera.com
@@ -53699,6 +53711,7 @@
 0.0.0.0 sexvietnamnhanh.pro
 0.0.0.0 sexvietonline.org
 0.0.0.0 sexvietsub.mobi
+0.0.0.0 sexvietsub.net
 0.0.0.0 sexvietsub.today
 0.0.0.0 sexvietsub.vip
 0.0.0.0 sexvietsub123.com
@@ -54539,7 +54552,9 @@
 0.0.0.0 sidfit.co.in
 0.0.0.0 sieubomtan.com
 0.0.0.0 sieubong88.info
+0.0.0.0 sieudam.co
 0.0.0.0 sieudamtv.com
+0.0.0.0 sieudamtv.pro
 0.0.0.0 sieukeo.live
 0.0.0.0 sieukhung.us
 0.0.0.0 sieukhungg.net
@@ -56974,6 +56989,7 @@
 0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.rikvip.vip
+0.0.0.0 tai.rikvip.win
 0.0.0.0 tai.samvip.bet
 0.0.0.0 tai.son.club
 0.0.0.0 tai.taisum2.com
@@ -57067,6 +57083,7 @@
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
+0.0.0.0 taivip52.shop
 0.0.0.0 taiwanlottery.com.tw
 0.0.0.0 taiwin79.win
 0.0.0.0 taix1.club
@@ -57244,6 +57261,7 @@
 0.0.0.0 tdsmain.ru
 0.0.0.0 tdtc.cc
 0.0.0.0 tdtc.fun
+0.0.0.0 tdtc.vn
 0.0.0.0 tdtcyy.com
 0.0.0.0 tdtczz.com
 0.0.0.0 te-teen.com
@@ -63854,6 +63872,7 @@
 0.0.0.0 wbfbyr.angelfire.com
 0.0.0.0 wbwaqwovhr.blogspot.com
 0.0.0.0 wc.taiuk88.net
+0.0.0.0 wcdn.megawin88.mobi
 0.0.0.0 wcdn.sdjlbg.xyz
 0.0.0.0 wcdn.vbet88.fun
 0.0.0.0 wcgtube.com
@@ -76180,6 +76199,7 @@
 0.0.0.0 www.megasses.blogspot.com
 0.0.0.0 www.megatube.xxx
 0.0.0.0 www.megaupload-xxx.com
+0.0.0.0 www.megawin88.mobi
 0.0.0.0 www.megaxmovie.blogspot.com
 0.0.0.0 www.megayoungsex.com
 0.0.0.0 www.meine-fickseite.com
