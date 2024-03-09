@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-03-05 21:37:43
+# DATE: 2024-03-09 21:37:35
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -37188,7 +37188,6 @@
 0.0.0.0 mixvintagesex.com
 0.0.0.0 mixx.com
 0.0.0.0 mixxporn.com
-0.0.0.0 mixxx.org
 0.0.0.0 miya.porntrex.com
 0.0.0.0 miyoshi1.comapatecoman.gob.mx
 0.0.0.0 miyuhot.com
@@ -61721,7 +61720,6 @@
 0.0.0.0 veronicasdiary.com
 0.0.0.0 verpornocomic.com
 0.0.0.0 verpornos.org
-0.0.0.0 version1-other.0.0
 0.0.0.0 veruska-en.blogspot.com
 0.0.0.0 vervesex.com
 0.0.0.0 vervideospornohd.blogspot.com
