@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-03-09 21:37:35
+# DATE: 2024-03-15 21:37:33
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -7564,6 +7564,7 @@
 0.0.0.0 bet69933.com
 0.0.0.0 bet69955.com
 0.0.0.0 bet7days.com
+0.0.0.0 bet88.systems
 0.0.0.0 bet88010.com
 0.0.0.0 bet88011.com
 0.0.0.0 bet88012.com
@@ -7571,6 +7572,7 @@
 0.0.0.0 bet88014.com
 0.0.0.0 bet88099.com
 0.0.0.0 bet885678.com
+0.0.0.0 bet88biz.com
 0.0.0.0 bet90.com
 0.0.0.0 bet9ja.com
 0.0.0.0 beta-api.cams.com
