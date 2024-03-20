@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-03-15 21:37:33
+# DATE: 2024-03-20 21:37:52
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -18961,6 +18961,7 @@
 0.0.0.0 fbestporn.com
 0.0.0.0 fbjav-com.zproxy.org
 0.0.0.0 fbjav.com
+0.0.0.0 fbking33.com
 0.0.0.0 fbw.11bet.us
 0.0.0.0 fc1.fcb88d.com
 0.0.0.0 fc2.com
@@ -21654,6 +21655,7 @@
 0.0.0.0 fun7778.com
 0.0.0.0 fun789.club
 0.0.0.0 fun88.co.uk
+0.0.0.0 fun88.green
 0.0.0.0 fun881211.com
 0.0.0.0 fun88epl.com
 0.0.0.0 fun88event.com
@@ -35030,6 +35032,7 @@
 0.0.0.0 m.eroprofile.com
 0.0.0.0 m.escortdirectory.com
 0.0.0.0 m.fapix.porn
+0.0.0.0 m.fbking33.com
 0.0.0.0 m.ficool.com
 0.0.0.0 m.five88.com
 0.0.0.0 m.five88.me
@@ -71597,6 +71600,7 @@
 0.0.0.0 www.fbbtop100.com
 0.0.0.0 www.fbestporn.com
 0.0.0.0 www.fbjav.com
+0.0.0.0 www.fbking33.com
 0.0.0.0 www.fcb8.com
 0.0.0.0 www.fckps.com
 0.0.0.0 www.fckya.com.es
