@@ -1,0 +1,54 @@
+# [K] (c) 2020
+
+name: UPDATE
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/master.yml'
+      - 'scripts/**'
+  schedule:
+    - cron: '30 21 * * *'
+
+jobs:
+  create:
+
+    runs-on: ubuntu-latest
+    if: github.repository == 'kongfl888/ad-rules'
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@main
+      with:
+        ref: master
+
+    - name: Set git identity
+      run : |
+        git config --global user.email "kongfl888@outlook.com"
+        git config --global user.name "kongfl888 K"
+    - name: Git Init
+      run:  |
+        git checkout master || echo ""
+        mkdir -p /tmp/myrules/old
+        mkdir -p /tmp/patches
+        cp -f ./*.txt /tmp/myrules/old || echo ""
+        cp -f ./patches/*.txt /tmp/patches
+        echo "get-rules.sh"
+        sh ./scripts/get-rules.sh
+        echo "md5files.sh"
+        sh ./scripts/md5files.sh
+        sh ./scripts/get-g-p-hosts.sh
+        sh ./scripts/get-mal-hosts.sh
+        rm -rf /tmp/myrules/old
+        ls /tmp/myrules/*
+        cp -f /tmp/myrules/*.txt ./
+        cp -f /tmp/myrules/*.json ./
+        git add .
+        git commit -m "Update rules" || echo ""
+    - name: Push Commits
+      env:
+        DOWNSTREAM_BRANCH: master
+      run:  |
+        git push origin $DOWNSTREAM_BRANCH || echo ""
