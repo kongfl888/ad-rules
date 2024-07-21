@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-07-16 21:38:23
+# DATE: 2024-07-21 21:37:30
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -12783,6 +12783,7 @@
 0.0.0.0 choidangcap.org
 0.0.0.0 choidangcap.pro
 0.0.0.0 choidangcap.us
+0.0.0.0 choidebet.biz
 0.0.0.0 choidon.club
 0.0.0.0 choidonclub.club
 0.0.0.0 choiemdi.com
@@ -27202,6 +27203,7 @@
 0.0.0.0 i9bet.bet
 0.0.0.0 i9bet.com
 0.0.0.0 i9bet.llc
+0.0.0.0 i9bet.me
 0.0.0.0 i9bet.net
 0.0.0.0 i9bet.poker
 0.0.0.0 i9bet.tw
@@ -44955,6 +44957,7 @@
 0.0.0.0 play.bay789.life
 0.0.0.0 play.bom52.club
 0.0.0.0 play.bum3.club
+0.0.0.0 play.choidebet.biz
 0.0.0.0 play.choisport.com
 0.0.0.0 play.choiwin79.net
 0.0.0.0 play.doodlink.info
@@ -59166,6 +59169,7 @@
 0.0.0.0 tiedup.tv
 0.0.0.0 tiemposyencanto.blogspot.com
 0.0.0.0 tienlen.8day66.com
+0.0.0.0 tienlenpoker.fun
 0.0.0.0 tienve.thethaofb88.com
 0.0.0.0 tiffani-amber-thiessen.blogspot.com
 0.0.0.0 tiffany-amber-thiessen.blogspot.com
@@ -61834,6 +61838,7 @@
 0.0.0.0 vazoudozap.com
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
+0.0.0.0 vb777.top
 0.0.0.0 vb9.biz
 0.0.0.0 vbbwporn.com
 0.0.0.0 vbet.com
