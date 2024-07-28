@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-07-21 21:37:30
+# DATE: 2024-07-28 21:37:39
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -6370,6 +6370,7 @@
 0.0.0.0 b3.img.mobypicture.com
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b44.com
+0.0.0.0 b52.game
 0.0.0.0 b52.me
 0.0.0.0 b52.mobi
 0.0.0.0 b52.vin
