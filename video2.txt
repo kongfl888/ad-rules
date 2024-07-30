@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-07-12 21:37:27
+! Version: 2024-07-30 21:37:27
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -98,6 +98,7 @@ wan.douyu.com
 ||shark2.douyucdn.cn/front-publish/live-master/js/room/SuspendedBallAd_$script
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
+www.huya.com##.huya-ab
 www.huya.com##.sidebar-banner, a.J_g_resource
 www.huya.com###public-screen-ab
 ||business.msstatic.com/advertiser/$image
