@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-07-28 21:37:39
+# DATE: 2024-08-02 21:38:43
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -49840,6 +49840,7 @@
 0.0.0.0 qc.top88.uk
 0.0.0.0 qc.top88.us
 0.0.0.0 qc.top88.vn
+0.0.0.0 qc.vaobet.club
 0.0.0.0 qc.vic.win
 0.0.0.0 qc.x8.club
 0.0.0.0 qc.x8.games
@@ -61819,6 +61820,7 @@
 0.0.0.0 vao789club.win
 0.0.0.0 vao78win.xyz
 0.0.0.0 vaob52.click
+0.0.0.0 vaobet.club
 0.0.0.0 vaoku.net
 0.0.0.0 vaorikvip.com
 0.0.0.0 vaorikvip.net
