@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-08-05 21:37:34
+# DATE: 2024-08-08 21:38:40
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4937,6 +4937,7 @@
 0.0.0.0 appmmlive.com
 0.0.0.0 approachingstorm.blogspot.com
 0.0.0.0 apps-ratgeber.com
+0.0.0.0 appstore.nosap.win
 0.0.0.0 apptk.app
 0.0.0.0 appuc.4eappapi1.com
 0.0.0.0 appzplanet.com
@@ -6381,6 +6382,7 @@
 0.0.0.0 b52m.club
 0.0.0.0 b52vn.info
 0.0.0.0 b52vn.org
+0.0.0.0 b69.bar
 0.0.0.0 b69.cafe
 0.0.0.0 b69.city
 0.0.0.0 b77.fun
@@ -8160,6 +8162,7 @@
 0.0.0.0 bj-porn.com
 0.0.0.0 bj288.com
 0.0.0.0 bj39.com
+0.0.0.0 bj88.games
 0.0.0.0 bj88vietnam.com
 0.0.0.0 bj88vn.com
 0.0.0.0 bj988.com
@@ -12776,6 +12779,7 @@
 0.0.0.0 choi.gamingsoc88.org
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choi77.com
+0.0.0.0 choi789.link
 0.0.0.0 choi99.com
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
@@ -16107,6 +16111,7 @@
 0.0.0.0 dk.thethaovua.co
 0.0.0.0 dk.topcc88.me
 0.0.0.0 dk.vaorikvip.net
+0.0.0.0 dk.zoplay.top
 0.0.0.0 dk8.games
 0.0.0.0 dk8.link
 0.0.0.0 dk801.com
@@ -23421,6 +23426,7 @@
 0.0.0.0 go88p.com
 0.0.0.0 go88r.pro
 0.0.0.0 go88s.tv
+0.0.0.0 go88tv.win
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
 0.0.0.0 go88x.club
@@ -32984,6 +32990,7 @@
 0.0.0.0 klubxx.com
 0.0.0.0 klusvoorsex.nl
 0.0.0.0 km-pics.phncdn.com
+0.0.0.0 km.choi789.link
 0.0.0.0 km.gamingsoc88.one
 0.0.0.0 km.playmanclub.vin
 0.0.0.0 km.thethaob52.org
@@ -40157,6 +40164,7 @@
 0.0.0.0 norskeautomater.com
 0.0.0.0 norskespilleautomater.com
 0.0.0.0 northern-angels.co.uk
+0.0.0.0 nosap.win
 0.0.0.0 nosora-no-hentai.blogspot.com
 0.0.0.0 nossaaposta.pt
 0.0.0.0 nossas-esposas.blogspot.com
@@ -41001,6 +41009,7 @@
 0.0.0.0 ok.porn
 0.0.0.0 ok.theporn.house
 0.0.0.0 ok.xxx
+0.0.0.0 ok388.tv
 0.0.0.0 okanarzu.tumblr.com
 0.0.0.0 okaybbs.com
 0.0.0.0 okazurand.net
@@ -44987,9 +44996,11 @@
 0.0.0.0 play.loc789.club
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
+0.0.0.0 play.nosap.win
 0.0.0.0 play.playiwin.biz
 0.0.0.0 play.rik88.life
 0.0.0.0 play.rikgame.live
+0.0.0.0 play.rikvip.services
 0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.sexmotarjam.com
@@ -50817,6 +50828,8 @@
 0.0.0.0 rikkk.net
 0.0.0.0 rikstoto.no
 0.0.0.0 rikvip.fun
+0.0.0.0 rikvip.property
+0.0.0.0 rikvip.services
 0.0.0.0 rikvip.tv
 0.0.0.0 rikvip.uk
 0.0.0.0 rikvip.us
@@ -51720,6 +51733,8 @@
 0.0.0.0 santtas.com
 0.0.0.0 sanvip.club
 0.0.0.0 sany.notmik.com
+0.0.0.0 saowin.ink
+0.0.0.0 saowin.plus
 0.0.0.0 sapphic-porn.com
 0.0.0.0 sapphicangels.com
 0.0.0.0 sapphicerotica.com
@@ -56620,7 +56635,9 @@
 0.0.0.0 sun15.win
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
+0.0.0.0 sun52.cloud
 0.0.0.0 sun52.fun
+0.0.0.0 sun52.link
 0.0.0.0 sun52.live
 0.0.0.0 sun52.site
 0.0.0.0 sun52.tv
@@ -57257,6 +57274,7 @@
 0.0.0.0 tahlil.biz
 0.0.0.0 tai-sumvip.city
 0.0.0.0 tai.b52vn.fun
+0.0.0.0 tai.b69.bar
 0.0.0.0 tai.boc8.fun
 0.0.0.0 tai.do99.site
 0.0.0.0 tai.fa88.win
@@ -57300,8 +57318,10 @@
 0.0.0.0 taiapplive.com
 0.0.0.0 taiappliveshow.blogspot.com
 0.0.0.0 taib29.cafe
+0.0.0.0 taib52.bet
 0.0.0.0 taib52.club
 0.0.0.0 taib52.com
+0.0.0.0 taib52.dev
 0.0.0.0 taib52.vin
 0.0.0.0 taib69.cafe
 0.0.0.0 taiboc.fun
@@ -57346,7 +57366,9 @@
 0.0.0.0 taimacao99.club
 0.0.0.0 taimacao99.shop
 0.0.0.0 taimacau.club
+0.0.0.0 taimanclub.app
 0.0.0.0 taimanclub.com
+0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
 0.0.0.0 tainster.com
 0.0.0.0 taiok88.app
@@ -57374,6 +57396,7 @@
 0.0.0.0 taisum1.club
 0.0.0.0 taisum2.com
 0.0.0.0 taisumvip6.city
+0.0.0.0 taisun52.fun
 0.0.0.0 taisun52.live
 0.0.0.0 taisunwin.live
 0.0.0.0 taitx1.club
@@ -91513,6 +91536,7 @@
 0.0.0.0 zoozooporn.com
 0.0.0.0 zoozoosexporn.com
 0.0.0.0 zoozootube.com
+0.0.0.0 zoplay.top
 0.0.0.0 zorbabes.blogspot.com
 0.0.0.0 zorritas-delivery.blogspot.com
 0.0.0.0 zorritasmalas.blogspot.com
