@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-08-08 21:38:40
+# DATE: 2024-08-11 21:37:44
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -2087,14 +2087,19 @@
 0.0.0.0 ads06.win888b.com
 0.0.0.0 ads08.win888b.com
 0.0.0.0 ads09.win888b.com
+0.0.0.0 ads1.thangto.one
 0.0.0.0 ads1.tuccus.com
 0.0.0.0 ads11.win888b.com
 0.0.0.0 ads13.win888b.com
 0.0.0.0 ads14.win888b.com
 0.0.0.0 ads16.win888b.com
+0.0.0.0 ads2.thangto.one
 0.0.0.0 ads2.tuccus.com
 0.0.0.0 ads23.win888b.com
+0.0.0.0 ads3.thangto.one
+0.0.0.0 ads4.thangto.one
 0.0.0.0 ads5.dangkybum.club
+0.0.0.0 ads5.thangto.one
 0.0.0.0 adserver.gallerytrafficservice.com
 0.0.0.0 adserver.juicybucks.com
 0.0.0.0 adserver.penthouse.com
@@ -4771,6 +4776,7 @@
 0.0.0.0 api.ae88855.com
 0.0.0.0 api.ae88857.com
 0.0.0.0 api.ae88859.com
+0.0.0.0 api.bachhoa88.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.bookmark.xxx
 0.0.0.0 api.cambang.com
@@ -6215,6 +6221,7 @@
 0.0.0.0 avfay.com
 0.0.0.0 avforme.com
 0.0.0.0 avgle.com
+0.0.0.0 avhd.cc
 0.0.0.0 avhd.mobi
 0.0.0.0 avhotgirl.net
 0.0.0.0 avideos.xxx
@@ -6365,6 +6372,7 @@
 0.0.0.0 b2.trafficdeposit.com
 0.0.0.0 b29.bet
 0.0.0.0 b29.cafe
+0.0.0.0 b29.pub
 0.0.0.0 b29qc.win
 0.0.0.0 b2branked.com
 0.0.0.0 b2wblog.com
@@ -6521,6 +6529,7 @@
 0.0.0.0 bacanaplay.pt
 0.0.0.0 baccoo.tumblr.com
 0.0.0.0 bachelorettepartiesinphiladephia.com
+0.0.0.0 bachhoa88.com
 0.0.0.0 backblaze.xn--ygba1c.chat
 0.0.0.0 backdoorlesbians.com
 0.0.0.0 backpageporn.com
@@ -6653,11 +6662,13 @@
 0.0.0.0 banatdream.com
 0.0.0.0 banatinsta.blogspot.com
 0.0.0.0 banca-red88.top
+0.0.0.0 banca.cc
 0.0.0.0 banca.red88.us
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
 0.0.0.0 bancakings.com
 0.0.0.0 bancalucky88.com
+0.0.0.0 bancarongdoi.com
 0.0.0.0 bandarsub.com
 0.0.0.0 bandeiradois.blog.br
 0.0.0.0 banditmovies.com
@@ -12699,7 +12710,6 @@
 0.0.0.0 chimlon.net
 0.0.0.0 china-porn.net
 0.0.0.0 china-tube.site
-0.0.0.0 chinababe.net
 0.0.0.0 chinabdsm.com.es
 0.0.0.0 chinafuck.click
 0.0.0.0 chinamatureporn.com
@@ -14664,6 +14674,7 @@
 0.0.0.0 dagachoi.tv
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
+0.0.0.0 dagaok88.net
 0.0.0.0 dagatructiep.casino
 0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
@@ -15387,6 +15398,7 @@
 0.0.0.0 debet88.win
 0.0.0.0 debiutext.eu
 0.0.0.0 debtdandy.com
+0.0.0.0 deca.bet
 0.0.0.0 deca88.com
 0.0.0.0 decay-nl.tlsext.com
 0.0.0.0 decius-c.tumblr.com
@@ -28063,6 +28075,7 @@
 0.0.0.0 img.javhdporn.net
 0.0.0.0 img.javmec.com
 0.0.0.0 img.javsin.tv
+0.0.0.0 img.javsubz.net
 0.0.0.0 img.javynow.com
 0.0.0.0 img.jzzo.com
 0.0.0.0 img.koxk.com
@@ -28135,6 +28148,7 @@
 0.0.0.0 img.veryfreeporn.com
 0.0.0.0 img.videojav.com
 0.0.0.0 img.vipwank.org
+0.0.0.0 img.vl69.pro
 0.0.0.0 img.vod.com
 0.0.0.0 img.web-starlets.com
 0.0.0.0 img.xbooru.com
@@ -28147,6 +28161,7 @@
 0.0.0.0 img.xxx18hot.com
 0.0.0.0 img.xxxfiles.com
 0.0.0.0 img.xxxfiles.tv
+0.0.0.0 img.xxxphim.top
 0.0.0.0 img.xxxpornhd.pro
 0.0.0.0 img.xxxtophd.com
 0.0.0.0 img.xxxvideosfinder.pro
@@ -30394,6 +30409,7 @@
 0.0.0.0 javfun.me
 0.0.0.0 javgg.me
 0.0.0.0 javgg.net
+0.0.0.0 javgg.sbs
 0.0.0.0 javgiga.com
 0.0.0.0 javgirl.pics
 0.0.0.0 javgirls.info
@@ -30414,6 +30430,8 @@
 0.0.0.0 javhay.org
 0.0.0.0 javhay.site
 0.0.0.0 javhay.store
+0.0.0.0 javhay.to
+0.0.0.0 javhay.vip
 0.0.0.0 javhay.xxx
 0.0.0.0 javhay4k.com
 0.0.0.0 javhaytop.net
@@ -30481,6 +30499,7 @@
 0.0.0.0 javhdpro.org
 0.0.0.0 javhdsex.net
 0.0.0.0 javhdvd.net
+0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
 0.0.0.0 javheroine.com
 0.0.0.0 javhihi.com
@@ -30569,6 +30588,7 @@
 0.0.0.0 javphim.org
 0.0.0.0 javphim.site
 0.0.0.0 javphim.space
+0.0.0.0 javphim.vin
 0.0.0.0 javphim.xyz
 0.0.0.0 javphimsex.pro
 0.0.0.0 javphimx.net
@@ -30627,6 +30647,7 @@
 0.0.0.0 javsex.cc
 0.0.0.0 javsex.guru
 0.0.0.0 javsex.love
+0.0.0.0 javsex.moe
 0.0.0.0 javsex.to
 0.0.0.0 javsex.vip
 0.0.0.0 javsexmovie.com
@@ -30665,6 +30686,7 @@
 0.0.0.0 javsubmoi.net
 0.0.0.0 javsubtitle.co
 0.0.0.0 javsubz.com
+0.0.0.0 javsubz.net
 0.0.0.0 javsun.net
 0.0.0.0 javsxxx.com
 0.0.0.0 javtape.site
@@ -33025,6 +33047,8 @@
 0.0.0.0 ko.xhamster.com
 0.0.0.0 ko.xhchannel2.com
 0.0.0.0 ko.xhcoins.xyz
+0.0.0.0 ko66vip.casino
+0.0.0.0 ko66vip.club
 0.0.0.0 kobietywbieliznie.tumblr.com
 0.0.0.0 kobsl.defensoria-nsjp.gob.mx
 0.0.0.0 kodiefiles.nl
@@ -34559,6 +34583,7 @@
 0.0.0.0 lode555.com
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
+0.0.0.0 lode88j.cc
 0.0.0.0 lodegoc.net
 0.0.0.0 lodevip.us
 0.0.0.0 lodevn789.net
@@ -34874,6 +34899,7 @@
 0.0.0.0 lp.mayclub.net
 0.0.0.0 lp.nextdoorstudios.com
 0.0.0.0 lp.nurumassage.com
+0.0.0.0 lp.playrik79.site
 0.0.0.0 lp.puretaboo.com
 0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
@@ -43602,6 +43628,7 @@
 0.0.0.0 phim.damvodoi.com
 0.0.0.0 phim.heo69.top
 0.0.0.0 phim.javhay.asia
+0.0.0.0 phim.javsubz.net
 0.0.0.0 phim.k9sex.com
 0.0.0.0 phim.sex
 0.0.0.0 phim.sex68.link
@@ -43902,6 +43929,7 @@
 0.0.0.0 phimsexchauau.club
 0.0.0.0 phimsexchauau.net
 0.0.0.0 phimsexchauau247.xyz
+0.0.0.0 phimsexche.com
 0.0.0.0 phimsexchina.club
 0.0.0.0 phimsexchina.com
 0.0.0.0 phimsexchina.net
@@ -44061,6 +44089,7 @@
 0.0.0.0 phimsexkhongche.xyz
 0.0.0.0 phimsexkhongche69.com
 0.0.0.0 phimsexkoche.casa
+0.0.0.0 phimsexkoche.info
 0.0.0.0 phimsexkoche.me
 0.0.0.0 phimsexkoche.net
 0.0.0.0 phimsexkoche.top
@@ -44161,7 +44190,9 @@
 0.0.0.0 phimsexsub.plus
 0.0.0.0 phimsexsub.pro
 0.0.0.0 phimsexsub.pw
+0.0.0.0 phimsexsub.red
 0.0.0.0 phimsexsub.sex
+0.0.0.0 phimsexsub.tube
 0.0.0.0 phimsexsub.vip
 0.0.0.0 phimsexsub69.net
 0.0.0.0 phimsexsubhd.com
@@ -45129,6 +45160,7 @@
 0.0.0.0 playpornfree.xyz
 0.0.0.0 playporngames.com
 0.0.0.0 playpornogames.com
+0.0.0.0 playrik79.site
 0.0.0.0 playsexgames.xxx
 0.0.0.0 playsexygame.com
 0.0.0.0 playtech.com
@@ -45815,7 +45847,6 @@
 0.0.0.0 pornautas.blogspot.com
 0.0.0.0 pornav.net
 0.0.0.0 pornaxo.com
-0.0.0.0 pornaz.net
 0.0.0.0 pornbaker.com
 0.0.0.0 pornbaker.deutschhentai.net
 0.0.0.0 pornbaker.men
@@ -50599,6 +50630,7 @@
 0.0.0.0 refinery29.com
 0.0.0.0 reformedstrippersanon.blogspot.com
 0.0.0.0 refractory-us.tlsext.com
+0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 regionalnudes.com
 0.0.0.0 register.2girls1camera.com
@@ -52506,6 +52538,7 @@
 0.0.0.0 sex3x.info
 0.0.0.0 sex3x.pro
 0.0.0.0 sex3x.tv
+0.0.0.0 sex3xhay.net
 0.0.0.0 sex3xhay.pro
 0.0.0.0 sex3xhd.pro
 0.0.0.0 sex3xmoi.pro
@@ -52964,6 +52997,7 @@
 0.0.0.0 sexhay99.com
 0.0.0.0 sexhaydam.com
 0.0.0.0 sexhaydam.net
+0.0.0.0 sexhayday.tv
 0.0.0.0 sexhaydi.com
 0.0.0.0 sexhayhanquoc.com
 0.0.0.0 sexhayhd.me
@@ -53033,6 +53067,7 @@
 0.0.0.0 sexheo69.net
 0.0.0.0 sexheodem.com
 0.0.0.0 sexheodem.info
+0.0.0.0 sexheovl.net
 0.0.0.0 sexhi88.com
 0.0.0.0 sexhiep.net
 0.0.0.0 sexhihi.biz
@@ -53319,6 +53354,7 @@
 0.0.0.0 sexmxxxindia.pro
 0.0.0.0 sexmy.one
 0.0.0.0 sexmy.tv
+0.0.0.0 sexmyvietsub.info
 0.0.0.0 sexnaked.net
 0.0.0.0 sexnaked.pro
 0.0.0.0 sexnakedlesbians.com
@@ -53581,6 +53617,7 @@
 0.0.0.0 sexpuss.org
 0.0.0.0 sexpussyfuck.com
 0.0.0.0 sexpussynude.com
+0.0.0.0 sexqe.com
 0.0.0.0 sexquat.com
 0.0.0.0 sexquaylen.me
 0.0.0.0 sexquaylen.org
@@ -53654,6 +53691,7 @@
 0.0.0.0 sexsub.xyz
 0.0.0.0 sexsub3x.net
 0.0.0.0 sexsubjav.pro
+0.0.0.0 sexsubs.me
 0.0.0.0 sexsubs.net
 0.0.0.0 sexsubvl.com
 0.0.0.0 sexsucces.com
@@ -53723,6 +53761,7 @@
 0.0.0.0 sextop1.one
 0.0.0.0 sextop1.porn
 0.0.0.0 sextop1.sex
+0.0.0.0 sextop1.site
 0.0.0.0 sextop1.uk
 0.0.0.0 sextop1.video
 0.0.0.0 sextop1.win
@@ -55027,6 +55066,8 @@
 0.0.0.0 site-ma.fakehub.com
 0.0.0.0 site-rip.co
 0.0.0.0 site.img.4tube.com
+0.0.0.0 site.ko66vip.casino
+0.0.0.0 site.ko66vip.club
 0.0.0.0 siteadulto.com
 0.0.0.0 sitecoquin.com
 0.0.0.0 sitedehentai.com
@@ -56537,6 +56578,7 @@
 0.0.0.0 subjav.live
 0.0.0.0 subjav.one
 0.0.0.0 subjav.org
+0.0.0.0 subjav.sex
 0.0.0.0 subjav.tv
 0.0.0.0 subjavhd.net
 0.0.0.0 subjavz.com
@@ -57273,6 +57315,7 @@
 0.0.0.0 tahhttpr.tukif.com
 0.0.0.0 tahlil.biz
 0.0.0.0 tai-sumvip.city
+0.0.0.0 tai.b29.pub
 0.0.0.0 tai.b52vn.fun
 0.0.0.0 tai.b69.bar
 0.0.0.0 tai.boc8.fun
@@ -58512,6 +58555,7 @@
 0.0.0.0 thaixxxtubes.com
 0.0.0.0 thangiwin.org
 0.0.0.0 thangtien188bet.com
+0.0.0.0 thangto.one
 0.0.0.0 thanhdam.net
 0.0.0.0 thanhlau.tv
 0.0.0.0 thanhlau.xyz
@@ -62889,6 +62933,7 @@
 0.0.0.0 vietfun.me
 0.0.0.0 vietimg.com
 0.0.0.0 vietlott66.com
+0.0.0.0 vietnam35.com
 0.0.0.0 vietnamese-porn.com
 0.0.0.0 vietnamese-sex.com
 0.0.0.0 vietset.com
@@ -63394,6 +63439,7 @@
 0.0.0.0 vl3x.me
 0.0.0.0 vl3x.net
 0.0.0.0 vl4x.net
+0.0.0.0 vl69.pro
 0.0.0.0 vl69.tv
 0.0.0.0 vl69.vip
 0.0.0.0 vl88.biz
@@ -63541,7 +63587,6 @@
 0.0.0.0 vn.dam69.tv
 0.0.0.0 vn.gaimup.net
 0.0.0.0 vn.hisex.pro
-0.0.0.0 vn.javbabe.net
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
 0.0.0.0 vn.ku6108.net
@@ -65068,7 +65113,6 @@
 0.0.0.0 ww01.asiantraps.com
 0.0.0.0 ww01.porno-lesbica.it
 0.0.0.0 ww1.1pondohd.com
-0.0.0.0 ww1.chinababe.net
 0.0.0.0 ww1.heyzohd.com
 0.0.0.0 ww1.japanhdv.biz
 0.0.0.0 ww1.javbabe.net
@@ -88398,6 +88442,7 @@
 0.0.0.0 xstory.pl
 0.0.0.0 xstp88.com
 0.0.0.0 xstreams.to
+0.0.0.0 xsub.day
 0.0.0.0 xsub.me
 0.0.0.0 xsuperporn.com
 0.0.0.0 xszex.hu
@@ -88990,6 +89035,7 @@
 0.0.0.0 xxphim.co
 0.0.0.0 xxphim.live
 0.0.0.0 xxphim.me
+0.0.0.0 xxphim.mom
 0.0.0.0 xxphim.vin
 0.0.0.0 xxphim.vip
 0.0.0.0 xxphim.xyz
