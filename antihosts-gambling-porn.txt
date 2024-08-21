@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-08-11 21:37:44
+# DATE: 2024-08-21 21:37:35
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -6378,6 +6378,7 @@
 0.0.0.0 b2wblog.com
 0.0.0.0 b3.img.mobypicture.com
 0.0.0.0 b3.trafficdeposit.com
+0.0.0.0 b369.com
 0.0.0.0 b44.com
 0.0.0.0 b52.game
 0.0.0.0 b52.me
@@ -35043,6 +35044,7 @@
 0.0.0.0 lukeford.com
 0.0.0.0 lukehardyxxx.com
 0.0.0.0 lukespov.net
+0.0.0.0 luky88.me
 0.0.0.0 lulucdn.com
 0.0.0.0 lumestudio.ru
 0.0.0.0 lumibet.com
@@ -61893,6 +61895,7 @@
 0.0.0.0 vanillaporn.com
 0.0.0.0 vanillasexgoddess.blogspot.com
 0.0.0.0 vanna69.blogspot.com
+0.0.0.0 vao.luky88.me
 0.0.0.0 vao.vin777.blog
 0.0.0.0 vao789club.win
 0.0.0.0 vao78win.xyz
