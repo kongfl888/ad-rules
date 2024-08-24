@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-05-16 21:37:43 by:Mr.K----
+! ----Updatetime: 2024-08-24 21:38:22 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 ||dup.baidustatic.com/
@@ -226,6 +226,7 @@ u8.hujiang.com
 ||ja2.gamersky.com/
 ||dm.gucheng.com/
 ||dmjs.gucheng.com/
+www.hao123.com##.siye,#mingzhanresource
 iciba.com##div.newpc-entry
 g1.tagtic.cn
 qiushibaike.com##div.shopwindow
