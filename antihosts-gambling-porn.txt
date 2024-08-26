@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-08-21 21:37:35
+# DATE: 2024-08-26 21:38:21
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -571,6 +571,7 @@
 0.0.0.0 2023.allhen.online
 0.0.0.0 2023porno.com
 0.0.0.0 2024.radiohit24.ru
+0.0.0.0 2024xemwc.com
 0.0.0.0 2089.vntopg88.live
 0.0.0.0 20asiansex.com
 0.0.0.0 20betvnd.com
@@ -1873,6 +1874,7 @@
 0.0.0.0 access.vivthomas.com
 0.0.0.0 accidentalmistress.blogspot.com
 0.0.0.0 accidentalpornographer.blogspot.com
+0.0.0.0 account.2024xemwc.com
 0.0.0.0 account.analvids.com
 0.0.0.0 account.legalporno.com
 0.0.0.0 account.w88ac.com
@@ -13251,6 +13253,7 @@
 0.0.0.0 cmd368t.com
 0.0.0.0 cmd368tip.com
 0.0.0.0 cmdbet.com
+0.0.0.0 cmgw.2024xemwc.com
 0.0.0.0 cmnfenfoon.tumblr.com
 0.0.0.0 cms.pornhub.com
 0.0.0.0 cms.v79top.com
@@ -14588,6 +14591,7 @@
 0.0.0.0 da.pornocomcoroas.com
 0.0.0.0 da.pornrabbit.com
 0.0.0.0 da.yaeby.org
+0.0.0.0 da88.com
 0.0.0.0 da88.pro
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.cc
@@ -23468,6 +23472,7 @@
 0.0.0.0 goctoi.xyz
 0.0.0.0 god55.zone
 0.0.0.0 god55viet.com
+0.0.0.0 god66.win
 0.0.0.0 goddessabellaanderson.blogspot.com
 0.0.0.0 goddessblessyou2.thumblogger.com
 0.0.0.0 goddessesofporn.blogspot.com
@@ -25674,6 +25679,7 @@
 0.0.0.0 histoiressexe.com
 0.0.0.0 historietasperversas.blogspot.com
 0.0.0.0 hit.club
+0.0.0.0 hit.game
 0.0.0.0 hit1.club
 0.0.0.0 hit1.co
 0.0.0.0 hit21.club
@@ -25688,6 +25694,8 @@
 0.0.0.0 hitclub.win
 0.0.0.0 hithomemovies.com
 0.0.0.0 hititbet.com
+0.0.0.0 hitlub.fun
+0.0.0.0 hitlub.net
 0.0.0.0 hitmanx3z.blogspot.com
 0.0.0.0 hitmoe.com
 0.0.0.0 hitodzuma69.net
@@ -34816,6 +34824,7 @@
 0.0.0.0 love.voffka.com
 0.0.0.0 love3030.blogspot.com
 0.0.0.0 love4porn.com
+0.0.0.0 love580.vip
 0.0.0.0 loveamateur.com
 0.0.0.0 loveanal.org
 0.0.0.0 loveandsexcam.com
@@ -64357,6 +64366,7 @@
 0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
 0.0.0.0 web.hitclub.top
+0.0.0.0 web.hitlub.fun
 0.0.0.0 web.macau.club
 0.0.0.0 web.macauclub.fun
 0.0.0.0 web.mayclub.net
@@ -65473,6 +65483,7 @@
 0.0.0.0 www.2020porn.watch
 0.0.0.0 www.2022.blog73.fc2.com
 0.0.0.0 www.2022.dev
+0.0.0.0 www.2024xemwc.com
 0.0.0.0 www.20asiansex.com
 0.0.0.0 www.20betvnd.com
 0.0.0.0 www.20felezyab.com
@@ -88884,6 +88895,7 @@
 0.0.0.0 xvintageporntube.com
 0.0.0.0 xvintagetube.com
 0.0.0.0 xviptv.com
+0.0.0.0 xvipwin.info
 0.0.0.0 xvirgins.com
 0.0.0.0 xvirtual.com
 0.0.0.0 xvix.eu
