@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-08-29 21:38:07
+# DATE: 2024-08-31 21:38:03
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -7226,8 +7226,11 @@
 0.0.0.0 belrose.eu
 0.0.0.0 bemup.biz
 0.0.0.0 bemyhole.com
+0.0.0.0 ben.bet
 0.0.0.0 benaughty.com
 0.0.0.0 benbartlettca.com
+0.0.0.0 benbet.app
+0.0.0.0 benbet.com
 0.0.0.0 bend-me-over.com
 0.0.0.0 bendover.tumblr.com
 0.0.0.0 bengalisexvideos.com
@@ -12817,6 +12820,7 @@
 0.0.0.0 choihitclub.fun
 0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
+0.0.0.0 choiiwin79.vip
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay11b.vin
@@ -16114,6 +16118,7 @@
 0.0.0.0 dk.bongacams.com
 0.0.0.0 dk.bongacams.org
 0.0.0.0 dk.bongvip.website
+0.0.0.0 dk.choiiwin79.vip
 0.0.0.0 dk.choitet.vip
 0.0.0.0 dk.choiwin79.net
 0.0.0.0 dk.eurolive.com
@@ -21912,6 +21917,7 @@
 0.0.0.0 ga-blog.blogspot.com
 0.0.0.0 ga.poebushki.com
 0.0.0.0 ga179.com
+0.0.0.0 ga836.com
 0.0.0.0 ga939.com
 0.0.0.0 ga98.net
 0.0.0.0 gabbyquinteros.com
@@ -27130,6 +27136,7 @@
 0.0.0.0 i.uzbek-porno.ru
 0.0.0.0 i.voffka.com
 0.0.0.0 i.wetmeets.com
+0.0.0.0 i.win79.com
 0.0.0.0 i.win79.fun
 0.0.0.0 i.xandxxporn.com
 0.0.0.0 i.xcafe.com
@@ -51073,6 +51080,8 @@
 0.0.0.0 rphangx.me
 0.0.0.0 rphangx.net
 0.0.0.0 rphangx.tv
+0.0.0.0 rr88.link
+0.0.0.0 rr88.live
 0.0.0.0 rrlegend.com
 0.0.0.0 rs-intrad.com
 0.0.0.0 rs.1cam.webcam
@@ -51519,6 +51528,7 @@
 0.0.0.0 s.smutty.com
 0.0.0.0 s.sv66c.com
 0.0.0.0 s.teennakedporn.com
+0.0.0.0 s.topzo.club
 0.0.0.0 s.trupornolabs.org
 0.0.0.0 s.uzbechka.xyz
 0.0.0.0 s.vnchich.net
@@ -59948,7 +59958,9 @@
 0.0.0.0 topxxxvideo.cc
 0.0.0.0 topyoungkitties.com
 0.0.0.0 topyoungporn.com
+0.0.0.0 topzo.club
 0.0.0.0 topzo.com
+0.0.0.0 topzo.top
 0.0.0.0 topzo.vip
 0.0.0.0 torchemada.net
 0.0.0.0 torchier-uk.tlsext.com
@@ -81119,6 +81131,7 @@
 0.0.0.0 www.royalpanda.com
 0.0.0.0 www.royalslots.com
 0.0.0.0 www.royrichie.com
+0.0.0.0 www.rr88.live
 0.0.0.0 www.rsextube.com
 0.0.0.0 www.rtalabel.org
 0.0.0.0 www.ru-traffic.com
