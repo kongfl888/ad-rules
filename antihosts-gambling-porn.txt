@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-09-04 21:37:46
+# DATE: 2024-09-07 21:37:38
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -63394,6 +63394,7 @@
 0.0.0.0 truba-rf.ru
 0.0.0.0 truckofporn.com
 0.0.0.0 tructiepdaga.info
+0.0.0.0 tructiepketqua.net
 0.0.0.0 true-sex-porn-voyeur.blogspot.com
 0.0.0.0 trueamateurmodels.com
 0.0.0.0 trueamateurporn.com
@@ -94423,6 +94424,8 @@
 0.0.0.0 yxv3.yourxxxvideos.pro
 0.0.0.0 yylive.top
 0.0.0.0 yylive.tv
+0.0.0.0 yylive.vip
+0.0.0.0 yylive.xyz
 0.0.0.0 yyporn.net
 0.0.0.0 yyy.cam
 0.0.0.0 z-gay.com
