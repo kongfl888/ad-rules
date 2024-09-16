@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-09-07 21:37:38
+# DATE: 2024-09-16 21:58:04
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1185,6 +1185,7 @@
 0.0.0.0 666bukkake.com
 0.0.0.0 666casino.com
 0.0.0.0 6677444.com
+0.0.0.0 6686.vn
 0.0.0.0 6686vn76.com
 0.0.0.0 668dg.net
 0.0.0.0 668kbet.com
@@ -8755,6 +8756,9 @@
 0.0.0.0 bong88page.com
 0.0.0.0 bong88vivaw88.com
 0.0.0.0 bong90.bet
+0.0.0.0 bong90.com
+0.0.0.0 bong90.life
+0.0.0.0 bong90.tech
 0.0.0.0 bong99.cc
 0.0.0.0 bong99.com
 0.0.0.0 bong99.fun
@@ -15585,11 +15589,13 @@
 0.0.0.0 deathbyporno2.chatango.com
 0.0.0.0 deauxmalive.com
 0.0.0.0 debet.bet
+0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
+0.0.0.0 debet.uk
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
@@ -22742,6 +22748,7 @@
 0.0.0.0 games.williamhill.com
 0.0.0.0 gamesofdesire.com
 0.0.0.0 gamesofdesired.com
+0.0.0.0 gameta88.me
 0.0.0.0 gametime88.com
 0.0.0.0 gamevip.info
 0.0.0.0 gamevipclub.fun
@@ -47719,6 +47726,7 @@
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
 0.0.0.0 play.taib52.com
+0.0.0.0 play.taingayking52.fun
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
@@ -53390,6 +53398,7 @@
 0.0.0.0 refinery29.com
 0.0.0.0 reformedstrippersanon.blogspot.com
 0.0.0.0 refractory-us.tlsext.com
+0.0.0.0 reg.gameta88.me
 0.0.0.0 reg.lode88j.cc
 0.0.0.0 reg.playiwin.site
 0.0.0.0 regionalnudes.com
@@ -60269,6 +60278,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 taimanvip.vip
 0.0.0.0 tainbet.net
+0.0.0.0 taingayking52.fun
 0.0.0.0 tainster.com
 0.0.0.0 taiok88.app
 0.0.0.0 taiphimsex.co
@@ -66685,6 +66695,7 @@
 0.0.0.0 vlzz.net
 0.0.0.0 vmilfporn.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.app
 0.0.0.0 vn.avhd.mobi
 0.0.0.0 vn.bway88vietnam.com
 0.0.0.0 vn.dam69.tv
@@ -66795,6 +66806,7 @@
 0.0.0.0 vnn8d.com
 0.0.0.0 vnnmarket.com
 0.0.0.0 vnok.net
+0.0.0.0 vnon.app
 0.0.0.0 vnphimsex.info
 0.0.0.0 vnpro88.com
 0.0.0.0 vnq8.bet
