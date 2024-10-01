@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-09-16 21:58:04
+# DATE: 2024-10-01 21:38:51
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -141,6 +141,7 @@
 0.0.0.0 116almet.ru
 0.0.0.0 11779494.ahcdn.com
 0.0.0.0 118kbet.com
+0.0.0.0 11bet.bz
 0.0.0.0 11bet.club
 0.0.0.0 11bet.com
 0.0.0.0 11bet.fun
@@ -6395,6 +6396,7 @@
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b369.com
 0.0.0.0 b44.com
+0.0.0.0 b52.club
 0.0.0.0 b52.game
 0.0.0.0 b52.me
 0.0.0.0 b52.mobi
@@ -12851,6 +12853,7 @@
 0.0.0.0 choigaigoi.com
 0.0.0.0 choigamedonclub.online
 0.0.0.0 choigamedons.club
+0.0.0.0 choigametip.org
 0.0.0.0 choigamevua.club
 0.0.0.0 choigem.fun
 0.0.0.0 choigiaitri.net
@@ -14791,6 +14794,7 @@
 0.0.0.0 daga360vn.com
 0.0.0.0 daga88.bet
 0.0.0.0 daga88.com
+0.0.0.0 daga88z.net
 0.0.0.0 daga999.live
 0.0.0.0 dagablv.com
 0.0.0.0 dagacampuchia.com
@@ -14799,6 +14803,7 @@
 0.0.0.0 dagacuadao.org
 0.0.0.0 dagahomqua.com
 0.0.0.0 dagaok88.net
+0.0.0.0 dagathomovn.info
 0.0.0.0 dagatructiep.casino
 0.0.0.0 dagatructiep.io
 0.0.0.0 dagatructiep24h.net
@@ -15596,6 +15601,7 @@
 0.0.0.0 debet.net
 0.0.0.0 debet.top
 0.0.0.0 debet.uk
+0.0.0.0 debet.us
 0.0.0.0 debet.win
 0.0.0.0 debet79.info
 0.0.0.0 debet88.win
@@ -22483,6 +22489,7 @@
 0.0.0.0 gaigoivip.org
 0.0.0.0 gaigoivip.pro
 0.0.0.0 gaigoivip.site
+0.0.0.0 gaigoivip247.com
 0.0.0.0 gaigoivn.club
 0.0.0.0 gaigoixinh.me
 0.0.0.0 gaigoixx.xyz
@@ -23274,6 +23281,7 @@
 0.0.0.0 gekso.org
 0.0.0.0 gekso.xyz
 0.0.0.0 gelbooru.com
+0.0.0.0 gem.win
 0.0.0.0 gem1.win
 0.0.0.0 gem79.win
 0.0.0.0 gem88.win
@@ -42779,6 +42787,7 @@
 0.0.0.0 noquartocomolucas.blogspot.com
 0.0.0.0 nordestinas.com
 0.0.0.0 nordicbet.com
+0.0.0.0 nordvpn.com
 0.0.0.0 norgesautomaten.com
 0.0.0.0 norgesspill.com
 0.0.0.0 noritasex.blogspot.com
@@ -47492,6 +47501,7 @@
 0.0.0.0 pix43.blogspot.com
 0.0.0.0 pix4dicks.com
 0.0.0.0 pixabay-com.ru
+0.0.0.0 pixabay.com
 0.0.0.0 pixazsexy.com
 0.0.0.0 pixhentai.com
 0.0.0.0 pixhost.to
@@ -52634,8 +52644,10 @@
 0.0.0.0 qc.789k.club
 0.0.0.0 qc.b52.win
 0.0.0.0 qc.choidabanh.com
+0.0.0.0 qc.choigametip.org
 0.0.0.0 qc.conggiaitri.com
 0.0.0.0 qc.gamevipclub.fun
+0.0.0.0 qc.gem.win
 0.0.0.0 qc.hitpro.run
 0.0.0.0 qc.macau.club
 0.0.0.0 qc.manclubwin.club
@@ -52903,6 +52915,7 @@
 0.0.0.0 rapexxx.pro
 0.0.0.0 rapid-xxx.com
 0.0.0.0 rapidcityfcc.com
+0.0.0.0 rapidgator.net
 0.0.0.0 rapidsharepornlinks.blogspot.com
 0.0.0.0 rapidzona.tv
 0.0.0.0 rapsababe.tv
@@ -53638,6 +53651,7 @@
 0.0.0.0 rikvip.vip
 0.0.0.0 rikvip.win
 0.0.0.0 rikvip2.vip
+0.0.0.0 rikvip8.win
 0.0.0.0 rikvipclub.us
 0.0.0.0 rikvipp.net
 0.0.0.0 rim4k.com
@@ -60250,6 +60264,7 @@
 0.0.0.0 taigamengay.biz
 0.0.0.0 taigamengay.click
 0.0.0.0 taigamengay.digital
+0.0.0.0 taigamengay.pw
 0.0.0.0 taigameslotsumvip50k.info
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
@@ -62300,6 +62315,7 @@
 0.0.0.0 tinyteen-x.pw
 0.0.0.0 tinyteens-tube.com
 0.0.0.0 tinyvirgins.cjb.net
+0.0.0.0 tip.club
 0.0.0.0 tipbet.com
 0.0.0.0 tipico.com
 0.0.0.0 tipkeo.thethaofb88.com
@@ -66229,6 +66245,7 @@
 0.0.0.0 vip.dangkyrikvip.me
 0.0.0.0 vip.dangkyrikvip.tv
 0.0.0.0 vip.mtree.com
+0.0.0.0 vip.rikvip8.win
 0.0.0.0 vip.sexbab.com
 0.0.0.0 vip.sexhd.pics
 0.0.0.0 vip.v99win.app
@@ -67829,6 +67846,7 @@
 0.0.0.0 whoseurdaddy.net
 0.0.0.0 whosgotthebestporn.blogspot.com
 0.0.0.0 whynotbi.com
+0.0.0.0 wi88.top
 0.0.0.0 wi88.win
 0.0.0.0 wichscam.com
 0.0.0.0 wichspornos.com
@@ -78359,6 +78377,7 @@
 0.0.0.0 www.jdavsp.live
 0.0.0.0 www.jdb66.vip
 0.0.0.0 www.jdforum.net
+0.0.0.0 www.jdownloader.org
 0.0.0.0 www.jeanswing.com
 0.0.0.0 www.jebetting.com
 0.0.0.0 www.jejantanhot.blogspot.com
@@ -78540,6 +78559,7 @@
 0.0.0.0 www.justhdporn.com
 0.0.0.0 www.justicehentai.com
 0.0.0.0 www.justindiansex.com
+0.0.0.0 www.justjared.com
 0.0.0.0 www.justmatureporn.com
 0.0.0.0 www.justmaturetube.com
 0.0.0.0 www.justmomsex.com
