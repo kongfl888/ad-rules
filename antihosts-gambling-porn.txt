@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-06 21:38:21
+# DATE: 2024-10-09 21:38:22
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -83087,6 +83087,7 @@
 0.0.0.0 ymlporn.com
 0.0.0.0 ymlporn.net
 0.0.0.0 ymlporn7.net
+0.0.0.0 yn1666.com
 0.0.0.0 yngoldtube.com
 0.0.0.0 ynknc.com
 0.0.0.0 ynpaaa.com
