@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-09 21:38:22
+# DATE: 2024-10-10 21:38:48
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -947,7 +947,6 @@
 0.0.0.0 4celeb.net
 0.0.0.0 4chan.com
 0.0.0.0 4chan.org
-0.0.0.0 4desiz.blogspot.com
 0.0.0.0 4eappapi1.com
 0.0.0.0 4edit.booru.org
 0.0.0.0 4ertik.xyz
@@ -38725,7 +38724,6 @@
 0.0.0.0 nopixeljaps.com
 0.0.0.0 nordestinas.com
 0.0.0.0 nordicbet.com
-0.0.0.0 nordvpn.com
 0.0.0.0 norgesautomaten.com
 0.0.0.0 norgesspill.com
 0.0.0.0 normal.clgalleries.net
@@ -47801,7 +47799,6 @@
 0.0.0.0 rapexxx.pro
 0.0.0.0 rapid-xxx.com
 0.0.0.0 rapidcityfcc.com
-0.0.0.0 rapidgator.net
 0.0.0.0 rapidzona.tv
 0.0.0.0 rapsababe.tv
 0.0.0.0 raquelexibida.com
@@ -55868,7 +55865,6 @@
 0.0.0.0 theporndude.org
 0.0.0.0 theporndude.vip
 0.0.0.0 theporndude.yachts
-0.0.0.0 theporndudecom.tumblr.com
 0.0.0.0 thepornerotic.com
 0.0.0.0 thepornfaq.com
 0.0.0.0 thepornfessor.com
@@ -62418,7 +62414,6 @@
 0.0.0.0 www.4affiliate.net
 0.0.0.0 www.4chan.com
 0.0.0.0 www.4chan.org
-0.0.0.0 www.4desiz.blogspot.com
 0.0.0.0 www.4fappers.com
 0.0.0.0 www.4fappers99.com
 0.0.0.0 www.4gay.com
@@ -69749,7 +69744,6 @@
 0.0.0.0 www.jdavsp.live
 0.0.0.0 www.jdb66.vip
 0.0.0.0 www.jdforum.net
-0.0.0.0 www.jdownloader.org
 0.0.0.0 www.jeanswing.com
 0.0.0.0 www.jebetting.com
 0.0.0.0 www.jelenajensen.com
@@ -69899,7 +69893,6 @@
 0.0.0.0 www.justgreatporn.com
 0.0.0.0 www.justhdporn.com
 0.0.0.0 www.justindiansex.com
-0.0.0.0 www.justjared.com
 0.0.0.0 www.justmatureporn.com
 0.0.0.0 www.justmaturetube.com
 0.0.0.0 www.justmomsex.com
@@ -82566,7 +82559,6 @@
 0.0.0.0 xxxsexxx.cc
 0.0.0.0 xxxsexxx.net
 0.0.0.0 xxxsexxx.pro
-0.0.0.0 xxxsexxx.tumblr.com
 0.0.0.0 xxxsexymilf.com
 0.0.0.0 xxxsexyteens.net
 0.0.0.0 xxxsexzoo.com
