@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-10 21:38:48
+# DATE: 2024-10-11 21:39:48
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -42936,7 +42936,6 @@
 0.0.0.0 pix.teentubeonline.com
 0.0.0.0 pix4dicks.com
 0.0.0.0 pixabay-com.ru
-0.0.0.0 pixabay.com
 0.0.0.0 pixazsexy.com
 0.0.0.0 pixhentai.com
 0.0.0.0 pixhost.to
