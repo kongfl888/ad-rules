@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-11 21:39:48
+# DATE: 2024-10-13 21:37:48
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -721,6 +721,7 @@
 0.0.0.0 33betf.com
 0.0.0.0 33betx.com
 0.0.0.0 33porn.com
+0.0.0.0 33win.to
 0.0.0.0 33win7.com
 0.0.0.0 33win9.com
 0.0.0.0 33winz.com
@@ -1829,6 +1830,7 @@
 0.0.0.0 ad.viprik.click
 0.0.0.0 ad.xxam.org
 0.0.0.0 ad.yo88.net
+0.0.0.0 ad.yo88.tv
 0.0.0.0 ad.yo88.win
 0.0.0.0 ad.yo88vn.com
 0.0.0.0 ad.yo88vn.vip
@@ -6863,6 +6865,7 @@
 0.0.0.0 bj39.com
 0.0.0.0 bj88.estate
 0.0.0.0 bj88.games
+0.0.0.0 bj88.im
 0.0.0.0 bj88.vision
 0.0.0.0 bj88vietnam.com
 0.0.0.0 bj88vn.com
@@ -23057,6 +23060,7 @@
 0.0.0.0 hi.xhamster.com
 0.0.0.0 hi.xhchannel2.com
 0.0.0.0 hi.xhcoins.xyz
+0.0.0.0 hi88.chat
 0.0.0.0 hi88.gd
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip1.com
@@ -24572,13 +24576,14 @@
 0.0.0.0 i8bet.org
 0.0.0.0 i9-bet.com
 0.0.0.0 i9.bet
+0.0.0.0 i9.hethongxacthuc.com
 0.0.0.0 i9.pc20160301.com
+0.0.0.0 i9.pro
 0.0.0.0 i90.fastpic.ru
 0.0.0.0 i92.fastpic.ru
 0.0.0.0 i93.fastpic.ru
 0.0.0.0 i97.fastpic.ru
 0.0.0.0 i998.co
-0.0.0.0 i99902.com
 0.0.0.0 i99903.com
 0.0.0.0 i99904.com
 0.0.0.0 i99906.com
@@ -32306,6 +32311,7 @@
 0.0.0.0 krugerbets.com
 0.0.0.0 krutiindia.in
 0.0.0.0 krx18.com
+0.0.0.0 ks.bet
 0.0.0.0 ksaksaksa.com
 0.0.0.0 ksbingo.com
 0.0.0.0 ksk.moe
@@ -33765,6 +33771,7 @@
 0.0.0.0 love.voffka.com
 0.0.0.0 love4porn.com
 0.0.0.0 love580.vip
+0.0.0.0 love678.tv
 0.0.0.0 loveamateur.com
 0.0.0.0 loveanal.org
 0.0.0.0 loveandsexcam.com
@@ -35238,6 +35245,7 @@
 0.0.0.0 max.porn
 0.0.0.0 max10.pro
 0.0.0.0 max10.vin
+0.0.0.0 max88.com
 0.0.0.0 maxanalporn.com
 0.0.0.0 maxbet.one
 0.0.0.0 maxbet.website
@@ -38031,6 +38039,8 @@
 0.0.0.0 net18plus.sbs
 0.0.0.0 net3x.org
 0.0.0.0 net69.nl
+0.0.0.0 net88.ac
+0.0.0.0 net88.tv
 0.0.0.0 net88.vip
 0.0.0.0 netbet.co.uk
 0.0.0.0 netbet.com
@@ -38099,8 +38109,10 @@
 0.0.0.0 new86leap5067.spankbang.com
 0.0.0.0 new86leap8827.spankbang.com
 0.0.0.0 new88.ai
+0.0.0.0 new88.fo
 0.0.0.0 new88.love
 0.0.0.0 new88.tips
+0.0.0.0 new88.today
 0.0.0.0 new8803.com
 0.0.0.0 new8805.com
 0.0.0.0 new8808.vip
@@ -47595,6 +47607,7 @@
 0.0.0.0 qh52.com
 0.0.0.0 qh88vn.live
 0.0.0.0 qh91.com
+0.0.0.0 qh99.com
 0.0.0.0 qhottestporn.com
 0.0.0.0 qingse.one
 0.0.0.0 qip1.pornogratis.pro
@@ -52683,6 +52696,7 @@
 0.0.0.0 sobeldades.com.br
 0.0.0.0 sobrasileiras.com
 0.0.0.0 soc3x.com
+0.0.0.0 soc88.com
 0.0.0.0 soc88.uk
 0.0.0.0 soc99.com
 0.0.0.0 socalmovies.com
@@ -61258,6 +61272,7 @@
 0.0.0.0 web.top88.vip
 0.0.0.0 web.topzo.com
 0.0.0.0 web.vicplay.io
+0.0.0.0 web.yo88.tv
 0.0.0.0 web.zo.game
 0.0.0.0 web.zowinvn.vip
 0.0.0.0 web2.sexvip1.com
@@ -69137,7 +69152,6 @@
 0.0.0.0 www.i18girls.com
 0.0.0.0 www.i2px.com
 0.0.0.0 www.i8bet.org
-0.0.0.0 www.i99902.com
 0.0.0.0 www.i99903.com
 0.0.0.0 www.i99904.com
 0.0.0.0 www.i99906.com
@@ -83092,6 +83106,7 @@
 0.0.0.0 yo69.pro
 0.0.0.0 yo789.fun
 0.0.0.0 yo88.net
+0.0.0.0 yo88.tv
 0.0.0.0 yo88.win
 0.0.0.0 yo88vn.com
 0.0.0.0 yo88vn.us
