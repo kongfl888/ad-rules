@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-13 21:37:48
+# DATE: 2024-10-14 21:38:14
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1370,7 +1370,6 @@
 0.0.0.0 888b.in
 0.0.0.0 888b.moe
 0.0.0.0 888b.trade
-0.0.0.0 888b.xkiosx.xyz
 0.0.0.0 888betk8.net
 0.0.0.0 888bvn.vip
 0.0.0.0 888k8vn.com
@@ -33909,6 +33908,7 @@
 0.0.0.0 ltn.hitomi.la
 0.0.0.0 lturl.net
 0.0.0.0 lu.xporno.me
+0.0.0.0 lu88.co
 0.0.0.0 lubed.com
 0.0.0.0 lubed.us
 0.0.0.0 lubedfan.com
@@ -79979,7 +79979,6 @@
 0.0.0.0 xjporn.com
 0.0.0.0 xkeezmovies.com
 0.0.0.0 xkinny.com
-0.0.0.0 xkiosx.xyz
 0.0.0.0 xknoop.com
 0.0.0.0 xko.red
 0.0.0.0 xksqb.com
