@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-14 21:38:14
+# DATE: 2024-10-16 21:39:13
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -680,6 +680,7 @@
 0.0.0.0 2ola.pro
 0.0.0.0 2pornhub.com
 0.0.0.0 2porno.online
+0.0.0.0 2q.team
 0.0.0.0 2sexvideo.com
 0.0.0.0 2umovies.lol
 0.0.0.0 2umovies.org
@@ -31865,6 +31866,7 @@
 0.0.0.0 keyarena.gg
 0.0.0.0 keyserver.muchohentai.com
 0.0.0.0 kezvideos.com
+0.0.0.0 khamphasampham.cc
 0.0.0.0 khattinh.pro
 0.0.0.0 khattinh.tech
 0.0.0.0 khazarmilkers.com
@@ -55663,6 +55665,7 @@
 0.0.0.0 thanhdam.net
 0.0.0.0 thanhlau.tv
 0.0.0.0 thanhlau.xyz
+0.0.0.0 thanhnien.khamphasampham.cc
 0.0.0.0 thantai68.com
 0.0.0.0 thao.live
 0.0.0.0 thao88.com
