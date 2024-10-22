@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-07-30 21:37:27
+! Version: 2024-10-22 21:38:26
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -60,17 +60,14 @@ miguvideo.com###adver-box
 pub.funshion.com
 ||relive.vodfile.m1905.com/video/qiantie202$media
 1905.com##.pauseInfoWrap:remove()
+||www.1905.com/uploadfile/2024/0401/20240401094429405834.jpg^$image
 sobot.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 ||video.da.mgtv.com/$media
 ||da.mgtv.com/mediafiles/wiad_creative/$image
 miaozhen.com
 @@||js.tv.itc.cn/gg.seed.js
-||css.tv.itc.cn/m/img/player/dlBanner.$image
-||data.vod.itc.cn/*&prod=ad&$media
-||api.my.tv.sohu.com/wm/getads.do?
 ||aty.sohu.com/
-adpushup.com
 ||go.sohu.com/
 ||tv.sohu.com/upload/csad/admaster/$image
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
@@ -119,7 +116,6 @@ litix.io
 jads.co
 |https://tellme.pw/go/jav$popup
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
-||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 nnyy.in##.gm-fp-body video:style(max-height:100%!important)
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)

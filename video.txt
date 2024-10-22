@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-07-30 21:37:27 by:Mr.K----
+! ----Updatetime: 2024-10-22 21:38:26 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -34,9 +34,7 @@ pub.funshion.com
 sobot.com
 miaozhen.com
 @@||js.tv.itc.cn/gg.seed.js
-||api.my.tv.sohu.com/wm/getads.do?
 ||aty.sohu.com/
-adpushup.com
 ||go.sohu.com/
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 17173.com###vjs-ad-on-pause
@@ -81,11 +79,10 @@ z4a.net
 ||osswc.pplive.cn/cccms/$image
 ||mediamax.suning.com/adssp/sdk/$script
 ||relive.vodfile.m1905.com/video/qiantie202$media
+||www.1905.com/uploadfile/2024/0401/20240401094429405834.jpg^$image
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 ||video.da.mgtv.com/$media
 ||da.mgtv.com/mediafiles/wiad_creative/$image
-||css.tv.itc.cn/m/img/player/dlBanner.$image
-||data.vod.itc.cn/*&prod=ad&$media
 ||tv.sohu.com/upload/csad/admaster/$image
 ||ott.cibntv.net/*/letv-wzgug/$media
 ||letvimg.com/lc*_iscms/202$image
@@ -103,7 +100,6 @@ z4a.net
 ||tx-live-cover.msstatic.com/huyalive/*/format,webp/$image
 ||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||btsow.motorcycles/app/javu$image
-||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
