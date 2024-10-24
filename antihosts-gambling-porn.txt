@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-16 21:39:13
+# DATE: 2024-10-24 21:40:11
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1818,6 +1818,7 @@
 0.0.0.0 ad.gamequyong.xyz
 0.0.0.0 ad.gem88.win
 0.0.0.0 ad.giaitriwin79.club
+0.0.0.0 ad.hitgame.in
 0.0.0.0 ad.mibet.com
 0.0.0.0 ad.playhit.biz
 0.0.0.0 ad.pornfuzepremium.videobox.com
@@ -11174,6 +11175,7 @@
 0.0.0.0 choitrai.net
 0.0.0.0 choivuaclub55k.info
 0.0.0.0 choiwin79.com
+0.0.0.0 choiwin79.in
 0.0.0.0 choiwin79.net
 0.0.0.0 choiwin79.pro
 0.0.0.0 choiyo88.co
@@ -21175,6 +21177,7 @@
 0.0.0.0 gohairygirls.com
 0.0.0.0 gohorsebetting.ag
 0.0.0.0 gohubnow.com
+0.0.0.0 goidao.com
 0.0.0.0 goigai2k.xyz
 0.0.0.0 goigai3m.xyz
 0.0.0.0 goigaicaocap.xyz
@@ -23188,6 +23191,7 @@
 0.0.0.0 hitbdsm.com
 0.0.0.0 hitclub.top
 0.0.0.0 hitclub.win
+0.0.0.0 hitgame.in
 0.0.0.0 hithomemovies.com
 0.0.0.0 hititbet.com
 0.0.0.0 hitlub.fun
@@ -37139,6 +37143,7 @@
 0.0.0.0 mundohentaioficial.com
 0.0.0.0 mundomais.com.br
 0.0.0.0 mup.sex
+0.0.0.0 mupdep.net
 0.0.0.0 mupxx.net
 0.0.0.0 mupxxx.net
 0.0.0.0 muriellecopper.camvideoz.club
