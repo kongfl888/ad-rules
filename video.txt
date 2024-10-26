@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-10-23 21:38:22 by:Mr.K----
+! ----Updatetime: 2024-10-26 21:38:19 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -60,7 +60,6 @@ litix.io
 ||google.*/pagead/
 ||gstatic.com/shopping?
 jads.co
-age.tv,agedm.org##.ratio-16x9:style(--bs-aspect-ratio:0!important)
 nnyy.in##.gm-fp-body video:style(max-height:100%!important)
 stgowan.com
 youle55.com
