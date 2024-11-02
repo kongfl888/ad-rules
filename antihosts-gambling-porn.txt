@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-10-27 21:38:04
+# DATE: 2024-11-02 21:37:47
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -656,6 +656,7 @@
 0.0.0.0 2chan.net
 0.0.0.0 2chen.moe
 0.0.0.0 2chickssametime.naughtyamerica.com
+0.0.0.0 2click.goidao.com
 0.0.0.0 2d-market.com
 0.0.0.0 2damnhot.com
 0.0.0.0 2devil.com
@@ -1813,6 +1814,7 @@
 0.0.0.0 ad.choingay11b.vin
 0.0.0.0 ad.choingay88.com
 0.0.0.0 ad.choiyo88.co
+0.0.0.0 ad.da88vn.win
 0.0.0.0 ad.dangkygo88.in
 0.0.0.0 ad.gamequyong.site
 0.0.0.0 ad.gamequyong.xyz
@@ -24449,6 +24451,7 @@
 0.0.0.0 i.analdin.com
 0.0.0.0 i.apornor.net
 0.0.0.0 i.asianladyboys.pro
+0.0.0.0 i.b52.club
 0.0.0.0 i.bang.com
 0.0.0.0 i.bangassets.com
 0.0.0.0 i.bcicdn.com
@@ -33850,6 +33853,7 @@
 0.0.0.0 lp.puretaboo.com
 0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
+0.0.0.0 lp.sieub52.vip
 0.0.0.0 lp.sun6.win
 0.0.0.0 lp.sunwinvn.club
 0.0.0.0 lp.taiv8.top
@@ -38302,6 +38306,7 @@
 0.0.0.0 nhat.game
 0.0.0.0 nhat.it
 0.0.0.0 nhat1.club
+0.0.0.0 nhat9.vip
 0.0.0.0 nhatkimaymua.com
 0.0.0.0 nhatvip.mobi
 0.0.0.0 nhatvip.org
@@ -43163,6 +43168,7 @@
 0.0.0.0 play.sexmotarjam.com
 0.0.0.0 play.son.club
 0.0.0.0 play.son5.club
+0.0.0.0 play.son8.club
 0.0.0.0 play.sum27.club
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
@@ -43276,6 +43282,7 @@
 0.0.0.0 playrik79.site
 0.0.0.0 playsexgames.xxx
 0.0.0.0 playsexygame.com
+0.0.0.0 playson.link
 0.0.0.0 playtech.com
 0.0.0.0 playteentube.com
 0.0.0.0 playtube.co.za
@@ -52259,6 +52266,7 @@
 0.0.0.0 sid-vd.ru
 0.0.0.0 side6.dk
 0.0.0.0 sidfit.co.in
+0.0.0.0 sieub52.vip
 0.0.0.0 sieubomtan.com
 0.0.0.0 sieubong88.info
 0.0.0.0 sieudam.co
@@ -52818,6 +52826,7 @@
 0.0.0.0 somulhergostosa.com
 0.0.0.0 son.club
 0.0.0.0 son5.club
+0.0.0.0 son8.club
 0.0.0.0 sonandmature.com
 0.0.0.0 sonasea-phuquoc.com
 0.0.0.0 soncreampiesmom.com
@@ -53819,6 +53828,7 @@
 0.0.0.0 sultanswomen.com
 0.0.0.0 sum.club
 0.0.0.0 sum27.club
+0.0.0.0 sum30.club
 0.0.0.0 sum4.club
 0.0.0.0 sum5.club
 0.0.0.0 sumclub1.xyz
@@ -58692,6 +58702,7 @@
 0.0.0.0 v.javhdo.net
 0.0.0.0 v.jizzoncam.com
 0.0.0.0 v.liveanal.tv
+0.0.0.0 v.nhat9.vip
 0.0.0.0 v.phimsex9.com
 0.0.0.0 v.porno333.com
 0.0.0.0 v.sex1x.com
@@ -60659,6 +60670,7 @@
 0.0.0.0 vntop88.com
 0.0.0.0 vntopg88.live
 0.0.0.0 vntopg88.vip
+0.0.0.0 vnvn77.com
 0.0.0.0 vnvwbet.com
 0.0.0.0 vnvwin.com
 0.0.0.0 vnxnxx.cc
@@ -61263,6 +61275,7 @@
 0.0.0.0 web.0000130.com
 0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
+0.0.0.0 web.choigametip.org
 0.0.0.0 web.hit.club
 0.0.0.0 web.hitclub.top
 0.0.0.0 web.hitlub.fun
