@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-10-28 21:38:34 by:Mr.K----
+! ----Updatetime: 2024-11-06 21:38:32 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -28,7 +28,6 @@ bjcathay.com
 pptv.com##.advView-two,#p-mark
 synacast.com
 de.as.pptv.com
-miguvideo.com###adver-box
 pub.funshion.com
 1905.com##.pauseInfoWrap:remove()
 sobot.com
@@ -78,6 +77,7 @@ z4a.net
 ||g.pptv.com/game/$subdocument
 ||osswc.pplive.cn/cccms/$image
 ||mediamax.suning.com/adssp/sdk/$script
+||miguvideo.com/mgs/common/miguplayerPlugins/prd/WWWggView.js^$script
 ||relive.vodfile.m1905.com/video/qiantie202$media
 ||www.1905.com/uploadfile/2024/0401/20240401094429405834.jpg^$image
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
