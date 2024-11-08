@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-11-02 21:37:47
+# DATE: 2024-11-08 21:38:12
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1160,6 +1160,7 @@
 0.0.0.0 69-sexgames.com
 0.0.0.0 69-webcams.com
 0.0.0.0 6990425.ahcdn.com
+0.0.0.0 69chichgaixinh.one
 0.0.0.0 69dinhtruong.com
 0.0.0.0 69ducthien.com
 0.0.0.0 69ebony.com
@@ -37989,6 +37990,7 @@
 0.0.0.0 nchat.321sexchat.com
 0.0.0.0 ndcontent.com
 0.0.0.0 ndlc.info
+0.0.0.0 ne88.bet
 0.0.0.0 neakarab.com
 0.0.0.0 neangel.com
 0.0.0.0 nearhentai.com
@@ -38051,6 +38053,8 @@
 0.0.0.0 net3x.org
 0.0.0.0 net69.nl
 0.0.0.0 net88.ac
+0.0.0.0 net88.men
+0.0.0.0 net88.run
 0.0.0.0 net88.tv
 0.0.0.0 net88.vip
 0.0.0.0 netbet.co.uk
@@ -38191,6 +38195,7 @@
 0.0.0.0 newpornreport.com
 0.0.0.0 newpornsearch.com
 0.0.0.0 newporntv.me
+0.0.0.0 news.ne88.bet
 0.0.0.0 news.r18.com
 0.0.0.0 news.tokimeki-s.com
 0.0.0.0 newsalloy.com
