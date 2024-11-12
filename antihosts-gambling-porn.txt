@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-11-08 21:38:12
+# DATE: 2024-11-12 21:38:07
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -3973,6 +3973,7 @@
 0.0.0.0 api.mc876.com
 0.0.0.0 api.minicasino.io
 0.0.0.0 api.minivn.com
+0.0.0.0 api.mocbai.cc
 0.0.0.0 api.mu88.ag
 0.0.0.0 api.mu88.mu
 0.0.0.0 api.mu9.club
@@ -5555,6 +5556,7 @@
 0.0.0.0 bangxxxbang.com
 0.0.0.0 bangxxxteens.com
 0.0.0.0 bangyoulater.com
+0.0.0.0 banhbeo.net
 0.0.0.0 banman.iafd.com
 0.0.0.0 bannedcelebs.com
 0.0.0.0 bannedporntube.com
@@ -6802,6 +6804,10 @@
 0.0.0.0 bimbim.com
 0.0.0.0 bimbo.cam
 0.0.0.0 bimbolive.com
+0.0.0.0 bimdep.net
+0.0.0.0 bimdep.vip
+0.0.0.0 bimhong.net
+0.0.0.0 bimmup.tv
 0.0.0.0 bimxinh.com
 0.0.0.0 bimxinh.net
 0.0.0.0 bindastimes.com
@@ -11185,6 +11191,7 @@
 0.0.0.0 cholitas.top
 0.0.0.0 cholotube.org
 0.0.0.0 chomikuj.pl
+0.0.0.0 chongtoico.link
 0.0.0.0 chongtoico.org
 0.0.0.0 chopsticktube.com
 0.0.0.0 chotot.info
@@ -11341,6 +11348,7 @@
 0.0.0.0 clip-sex.biz
 0.0.0.0 clip2vip.com
 0.0.0.0 clip31.xyz
+0.0.0.0 clip3x.info
 0.0.0.0 clip3xxx.com
 0.0.0.0 clipcake.com
 0.0.0.0 clipcat.net
@@ -11362,6 +11370,7 @@
 0.0.0.0 cliphot-vn.com
 0.0.0.0 cliphot.biz
 0.0.0.0 cliphot.cc
+0.0.0.0 cliphot.co
 0.0.0.0 cliphot.live
 0.0.0.0 cliphot.lol
 0.0.0.0 cliphot.me
@@ -11371,11 +11380,13 @@
 0.0.0.0 cliphot69.blog
 0.0.0.0 cliphot69.cc
 0.0.0.0 cliphot69.life
+0.0.0.0 cliphot69.one
 0.0.0.0 cliphot69.org
 0.0.0.0 cliphot69.win
 0.0.0.0 cliphotne.com
 0.0.0.0 cliphotqua.com
 0.0.0.0 cliphotvn.com
+0.0.0.0 cliphotvn.info
 0.0.0.0 cliphotvn.org
 0.0.0.0 cliphubs.com
 0.0.0.0 cliphunter.biz
@@ -11398,6 +11409,7 @@
 0.0.0.0 clipnong18.com
 0.0.0.0 clipnong24h.com
 0.0.0.0 clipnongmobi.com
+0.0.0.0 clipphot.net
 0.0.0.0 clippussy.com
 0.0.0.0 clipquaylen.net
 0.0.0.0 clips4free.is
@@ -13664,6 +13676,7 @@
 0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
+0.0.0.0 debet.fun
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
@@ -14363,6 +14376,7 @@
 0.0.0.0 doctruyen3qvn.com
 0.0.0.0 doctruyennguoilonhay.blogspot.com
 0.0.0.0 doctruyennguoilonvl.wordpress.com
+0.0.0.0 doctruyensex.pro
 0.0.0.0 documentingreality.com
 0.0.0.0 dodaivirgin.fora.pl
 0.0.0.0 doeda-cqz.xyz
@@ -22069,6 +22083,7 @@
 0.0.0.0 haysex.net
 0.0.0.0 haysex.one
 0.0.0.0 haysex.xyz
+0.0.0.0 haysex3xyz.net
 0.0.0.0 hayvkl.xyz
 0.0.0.0 hayvl.pro
 0.0.0.0 hayvonxxxuz.ru
@@ -23067,6 +23082,7 @@
 0.0.0.0 hi.xhchannel2.com
 0.0.0.0 hi.xhcoins.xyz
 0.0.0.0 hi88.chat
+0.0.0.0 hi88.de
 0.0.0.0 hi88.gd
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip1.com
@@ -32351,6 +32367,7 @@
 0.0.0.0 kubet.ac
 0.0.0.0 kubet.ai
 0.0.0.0 kubet.biz
+0.0.0.0 kubet.fo
 0.0.0.0 kubet.gg
 0.0.0.0 kubet.kim
 0.0.0.0 kubet.life
@@ -32413,11 +32430,19 @@
 0.0.0.0 kynudanang.link
 0.0.0.0 kynudanang.xyz
 0.0.0.0 kynudep.com
+0.0.0.0 kynudep.net
 0.0.0.0 kynukiemdinh.fun
 0.0.0.0 kynukiemdinh.link
 0.0.0.0 kynukiemdinh.net
 0.0.0.0 kynukiemdinhx.xyz
+0.0.0.0 kynuviet.baby
+0.0.0.0 kynuviet.bid
+0.0.0.0 kynuviet.city
+0.0.0.0 kynuviet.fan
+0.0.0.0 kynuviet.men
 0.0.0.0 kynuviet.net
+0.0.0.0 kynuviet.plus
+0.0.0.0 kynuviet.zone
 0.0.0.0 kyobibbs.ranks1.apserver.net
 0.0.0.0 kyra.booru.org
 0.0.0.0 kyrayung.mysexydump.com
@@ -33569,6 +33594,7 @@
 0.0.0.0 localxh2.com
 0.0.0.0 localxlist.org
 0.0.0.0 loclipnong.com
+0.0.0.0 loclipsex.net
 0.0.0.0 lode247.sin88.biz
 0.0.0.0 lode555.co
 0.0.0.0 lode555.com
@@ -36330,6 +36356,7 @@
 0.0.0.0 mobocasino.com
 0.0.0.0 mobporno.org
 0.0.0.0 mobypicture.com
+0.0.0.0 mocbai.cc
 0.0.0.0 moclon.cc
 0.0.0.0 model.booru.org
 0.0.0.0 modelcenter.jasmin.com
@@ -42485,6 +42512,7 @@
 0.0.0.0 phimtcc.com
 0.0.0.0 phimthudam.com
 0.0.0.0 phimthudam.top
+0.0.0.0 phimtoico.com
 0.0.0.0 phimtop.pro
 0.0.0.0 phimtop1.pro
 0.0.0.0 phimtrantrui.com
@@ -42569,6 +42597,7 @@
 0.0.0.0 phimyy.vip
 0.0.0.0 phimyz.com
 0.0.0.0 phncdn.com
+0.0.0.0 phodacbiet.club
 0.0.0.0 phodem.link
 0.0.0.0 phodem.xyz
 0.0.0.0 phodendo.xyz
@@ -50729,6 +50758,7 @@
 0.0.0.0 sexleech.com
 0.0.0.0 sexlen.com
 0.0.0.0 sexlenlut.com
+0.0.0.0 sexlenlut.pro
 0.0.0.0 sexlesbian.net
 0.0.0.0 sexliebe.com
 0.0.0.0 sexliemlon.pro
@@ -51231,6 +51261,7 @@
 0.0.0.0 sextna.com
 0.0.0.0 sexto.mobi
 0.0.0.0 sextoday.cc
+0.0.0.0 sextoico.pro
 0.0.0.0 sextoolbox.com
 0.0.0.0 sextoons.be
 0.0.0.0 sextoonscomics.com
@@ -53326,6 +53357,7 @@
 0.0.0.0 static.hentai-img.com
 0.0.0.0 static.hentai.direct
 0.0.0.0 static.hentaicdn.com
+0.0.0.0 static.hi88.de
 0.0.0.0 static.hog.tv
 0.0.0.0 static.homo.xxx
 0.0.0.0 static.htvncdn.net
@@ -58870,6 +58902,8 @@
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
 0.0.0.0 vb777.top
+0.0.0.0 vb88.com
+0.0.0.0 vb88.win
 0.0.0.0 vb9.biz
 0.0.0.0 vbbwporn.com
 0.0.0.0 vbet.com
@@ -60491,6 +60525,7 @@
 0.0.0.0 vlxx.xyz
 0.0.0.0 vlxx1.me
 0.0.0.0 vlxx18.net
+0.0.0.0 vlxx18.pro
 0.0.0.0 vlxx24h.com
 0.0.0.0 vlxx24h.info
 0.0.0.0 vlxx24h.net
@@ -60607,6 +60642,7 @@
 0.0.0.0 vn88.casino
 0.0.0.0 vn88.club
 0.0.0.0 vn88.com
+0.0.0.0 vn88.fun
 0.0.0.0 vn88.io
 0.0.0.0 vn88.mobi
 0.0.0.0 vn887.com
@@ -71133,6 +71169,7 @@
 0.0.0.0 www.mobiporntube.com
 0.0.0.0 www.mobocasino.com
 0.0.0.0 www.mobs.jp
+0.0.0.0 www.mocbai.cc
 0.0.0.0 www.modelhub.com
 0.0.0.0 www.modelmuscles.com
 0.0.0.0 www.modelzone.org
@@ -79411,6 +79448,8 @@
 0.0.0.0 xceleb.org
 0.0.0.0 xcelebhub18.com
 0.0.0.0 xchatz.com
+0.0.0.0 xcheckerviet.cam
+0.0.0.0 xcheckerviet.in
 0.0.0.0 xchica.com
 0.0.0.0 xchina.co
 0.0.0.0 xchineseporn.com
