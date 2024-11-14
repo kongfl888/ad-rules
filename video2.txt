@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-11-07 21:37:59
+! Version: 2024-11-14 21:38:37
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -28,7 +28,8 @@ show.ssports.com
 v.qq.com##.video-card-module > .card-wrap
 v.qq.com##.quick_games.quick_item, div.game-switch-ad
 qq.com##+js(json-prune, ads ad material.video)
-v.qq.com##+js(no-fetch-if, /(beacon|trace)\.qq\.com/)
+v.qq.com,news.qq.com##+js(no-fetch-if, /(beacon|trace)\.qq\.com/)
+v.qq.com,news.qq.com##+js(no-xhr-if, snowflake.qq.com)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 iwan-s.video.qq.com
 gdt.qq.com
@@ -38,8 +39,14 @@ cm.l.qq.com
 ||gtimg.com/qqlive/
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
-new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
+news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||news.ssp.qq.com/app
+||ssp.qq.com/ad^$xhr
+||staticfile.qq.com/datong/$script
+||staticfile.qq.com/qimei/$script
+||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
+||res.ab.qq.com/tab/$script
+||v.qq.com/cache/wuji/object^$script
 bilibili.com##.ad-report, .ad-floor
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
