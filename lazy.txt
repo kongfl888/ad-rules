@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-11-01 21:38:08 by:Mr.K----
+! ----Updatetime: 2024-11-16 21:37:53 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 ||dup.baidustatic.com/
@@ -37,6 +37,7 @@ zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,
 ||admaster.
 ||market.aliyun.com/
 ||allyes.
+webcert.cnmstl.net
 ||cnzz.
 ||coinhive.com/
 ||coin-hive.com/
