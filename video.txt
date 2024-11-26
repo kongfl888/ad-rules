@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-11-14 21:38:37 by:Mr.K----
+! ----Updatetime: 2024-11-26 21:39:59 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -61,7 +61,6 @@ litix.io
 jads.co
 dandanzan.net,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
 stgowan.com
-youle55.com
 z4a.net
 @@||log.mmstat.com/eg.js^$script
 ||cibntv.net/youku/$media
@@ -106,7 +105,7 @@ z4a.net
 ||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||btsow.motorcycles/app/jav$image
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com
+||toutiaoimg.com/origin/$image,domain=agedm.org
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image

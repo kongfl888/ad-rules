@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-11-14 21:38:37
+! Version: 2024-11-26 21:39:59
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -123,13 +123,12 @@ jads.co
 |https://tellme.pw/go/jav$popup
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com
+||toutiaoimg.com/origin/$image,domain=agedm.org
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 dandanzan.net,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
-yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
+yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||tracker.$xhr,websocket,script,ping
 stgowan.com
-youle55.com
 z4a.net
