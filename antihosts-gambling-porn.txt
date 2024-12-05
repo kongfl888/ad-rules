@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-03 21:39:52
+# DATE: 2024-12-05 21:39:54
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -9043,6 +9043,7 @@
 0.0.0.0 cdn.javcc.tv
 0.0.0.0 cdn.javfor.me
 0.0.0.0 cdn.javfree.sh
+0.0.0.0 cdn.javhd.vc
 0.0.0.0 cdn.javsts.com
 0.0.0.0 cdn.javsun.net
 0.0.0.0 cdn.javthe.com
@@ -13744,6 +13745,7 @@
 0.0.0.0 debet.com
 0.0.0.0 debet.fun
 0.0.0.0 debet.info
+0.0.0.0 debet.moi
 0.0.0.0 debet.net
 0.0.0.0 debet.top
 0.0.0.0 debet.uk
@@ -23101,6 +23103,7 @@
 0.0.0.0 hentaitokyo.com
 0.0.0.0 hentaitools.com
 0.0.0.0 hentaitoonami.com
+0.0.0.0 hentaitop.xyz
 0.0.0.0 hentaitorrents.com
 0.0.0.0 hentaitruyen.pro
 0.0.0.0 hentaitruyenvn.net
@@ -29907,6 +29910,7 @@
 0.0.0.0 javhd.team
 0.0.0.0 javhd.tech
 0.0.0.0 javhd.today
+0.0.0.0 javhd.vc
 0.0.0.0 javhd.video
 0.0.0.0 javhd.vip
 0.0.0.0 javhd.ws
@@ -29942,6 +29946,9 @@
 0.0.0.0 javhdvd.net
 0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
+0.0.0.0 javhdz.onl
+0.0.0.0 javhdz.pro
+0.0.0.0 javhdz.vin
 0.0.0.0 javheroine.com
 0.0.0.0 javhihi.com
 0.0.0.0 javhihi.me
@@ -81399,6 +81406,7 @@
 0.0.0.0 xnxxzz.net
 0.0.0.0 xo68.gamehot88.fun
 0.0.0.0 xo68.vip
+0.0.0.0 xo88.club
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
