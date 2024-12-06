@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-05 21:39:54
+# DATE: 2024-12-06 21:39:38
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -12902,6 +12902,7 @@
 0.0.0.0 da.yaeby.org
 0.0.0.0 da88.com
 0.0.0.0 da88.pro
+0.0.0.0 da88.win
 0.0.0.0 da88vn.win
 0.0.0.0 dabanh.thethaofb88.com
 0.0.0.0 dabet.cc
@@ -38391,6 +38392,7 @@
 0.0.0.0 net3x.org
 0.0.0.0 net69.nl
 0.0.0.0 net88.ac
+0.0.0.0 net88.day
 0.0.0.0 net88.men
 0.0.0.0 net88.run
 0.0.0.0 net88.tv
@@ -80662,6 +80664,7 @@
 0.0.0.0 xhyourself.site
 0.0.0.0 xhypnotube.com
 0.0.0.0 xiaoou.tv
+0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xillimite.com
 0.0.0.0 ximage.cyou
@@ -81412,6 +81415,7 @@
 0.0.0.0 xo88.info
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
+0.0.0.0 xo88bet.com
 0.0.0.0 xo88moi.com
 0.0.0.0 xoac69.xyz
 0.0.0.0 xoafterglow.com
