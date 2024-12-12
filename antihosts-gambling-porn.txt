@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-06 21:39:38
+# DATE: 2024-12-12 21:40:07
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -31960,8 +31960,6 @@
 0.0.0.0 kaivip.club
 0.0.0.0 kak.xxx
 0.0.0.0 kakalive.app
-0.0.0.0 kakalive.show
-0.0.0.0 kakavn.live
 0.0.0.0 kakavn.mom
 0.0.0.0 kakopis.ru
 0.0.0.0 kalevalakasino.com
