@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-11-26 21:39:59
+! Version: 2024-12-13 21:39:17
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -48,6 +48,7 @@ news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||res.ab.qq.com/tab/$script
 ||v.qq.com/cache/wuji/object^$script
 bilibili.com##.ad-report, .ad-floor
+bilibili.com##.container.is-version8 > .feed-card:has(>div:only-child), .container.is-version8 > .bili-video-card:has(>div:only-child)
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
 ||hdslb.com/bfs/sycp/creative_img/$image
