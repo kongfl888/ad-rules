@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-12-13 21:39:17 by:Mr.K----
+! ----Updatetime: 2024-12-15 21:38:30 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -20,8 +20,6 @@ cm.l.qq.com
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
 ||news.ssp.qq.com/app
 bilibili.com##.ad-report, .ad-floor
-bilibili.com##.container.is-version8 > .feed-card:has(>div:only-child), .container.is-version8 > .bili-video-card:has(>div:only-child)
-cm.bilibili.com
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
@@ -78,7 +76,7 @@ z4a.net
 ||res.ab.qq.com/tab/$script
 ||v.qq.com/cache/wuji/object^$script
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
-||hdslb.com/bfs/sycp/creative_img/$image
+||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
 ||g.pptv.com/game/$subdocument
 ||osswc.pplive.cn/cccms/$image
 ||mediamax.suning.com/adssp/sdk/$script

@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-12 21:40:07
+# DATE: 2024-12-15 21:38:31
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -178,6 +178,7 @@
 0.0.0.0 123bdy.com
 0.0.0.0 123bhh.com
 0.0.0.0 123gayporn.com
+0.0.0.0 123phim.site
 0.0.0.0 123porn.com
 0.0.0.0 123pornox.info
 0.0.0.0 123pornox.shop
@@ -3984,6 +3985,7 @@
 0.0.0.0 api.jun889.vip
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.kinky.nl
+0.0.0.0 api.linkchuanon.com
 0.0.0.0 api.lovense.com
 0.0.0.0 api.luscious.net
 0.0.0.0 api.mc876.com
@@ -16363,6 +16365,8 @@
 0.0.0.0 ev.rdtcdn.com
 0.0.0.0 ev.ypncdn.com
 0.0.0.0 ev88.com
+0.0.0.0 ev88.fun
+0.0.0.0 ev88.vip
 0.0.0.0 eva-angelina-1.com
 0.0.0.0 eva-angelina-pics.com
 0.0.0.0 eva-angelina.info
@@ -33449,6 +33453,7 @@
 0.0.0.0 link77.site
 0.0.0.0 linkbk8.com
 0.0.0.0 linkbong88moinhat.com
+0.0.0.0 linkchuanon.com
 0.0.0.0 linkclipsex.com
 0.0.0.0 linkclipsex.xyz
 0.0.0.0 linkdegrupoporno.xyz
