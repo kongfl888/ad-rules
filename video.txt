@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-12-15 21:38:30 by:Mr.K----
+! ----Updatetime: 2024-12-17 21:38:18 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -75,7 +75,7 @@ z4a.net
 ||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
 ||res.ab.qq.com/tab/$script
 ||v.qq.com/cache/wuji/object^$script
-||api.bilibili.com/x/web-show/res/loc?pf=$~script
+||api.bilibili.com/x/web-show/res/locs?$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
 ||g.pptv.com/game/$subdocument
 ||osswc.pplive.cn/cccms/$image
