@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-15 21:38:31
+# DATE: 2024-12-20 21:38:10
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -727,8 +727,8 @@
 0.0.0.0 33betf.com
 0.0.0.0 33betx.com
 0.0.0.0 33porn.com
+0.0.0.0 33win.com
 0.0.0.0 33win.to
-0.0.0.0 33win7.com
 0.0.0.0 33win9.com
 0.0.0.0 33winz.com
 0.0.0.0 3547711.com
