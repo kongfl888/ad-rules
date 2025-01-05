@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2024-12-17 21:38:18
+! Version: 2025-01-05 21:37:42
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -88,7 +88,6 @@ banana.le.com
 ipinyou.com
 ||yoyi.com.cn^3p
 le.com##.min_pause_img
-le.com##.hv_wm_logo
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 ||douyucdn.cn/adxdsp/$image
 ||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
@@ -124,7 +123,7 @@ age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
 ||toutiaoimg.com/origin/$image,domain=agedm.org
 ||dd-static.jd.com^$image,domain=subaibaiys.com
-dandanzan.net,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.*,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
 yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image

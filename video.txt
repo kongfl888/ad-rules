@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-12-17 21:38:18 by:Mr.K----
+! ----Updatetime: 2025-01-05 21:37:42 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -42,7 +42,6 @@ banana.le.com
 ipinyou.com
 ||yoyi.com.cn^3p
 le.com##.min_pause_img
-le.com##.hv_wm_logo
 wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 huya.com###hy-ad,#hy-ab,#huya-ab
@@ -58,7 +57,7 @@ litix.io
 ||google.*/pagead/
 ||gstatic.com/shopping?
 jads.co
-dandanzan.net,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.*,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
 stgowan.com
 z4a.net
 @@||log.mmstat.com/eg.js^$script

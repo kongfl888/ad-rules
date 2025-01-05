@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2024-12-30 21:37:48
+# DATE: 2025-01-05 21:37:43
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -13233,6 +13233,7 @@
 0.0.0.0 dates-worldwide.com
 0.0.0.0 dates4you.net
 0.0.0.0 datexxx.site
+0.0.0.0 datezone.com
 0.0.0.0 dating-banners.com
 0.0.0.0 dating-horny-women.com
 0.0.0.0 dating-man.life
@@ -13746,6 +13747,7 @@
 0.0.0.0 deathbyporno2.chatango.com
 0.0.0.0 deauxmalive.com
 0.0.0.0 debet.bet
+0.0.0.0 debet.bot
 0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
@@ -15737,6 +15739,7 @@
 0.0.0.0 erocomicsxxx.com
 0.0.0.0 erocurves.com
 0.0.0.0 erodaioh.blog8.fc2.com
+0.0.0.0 erodate.pl
 0.0.0.0 erodouga.me
 0.0.0.0 erodynamics.nl
 0.0.0.0 eroero-gazou.net
@@ -53319,6 +53322,7 @@
 0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 sockets.videos.com
@@ -55050,6 +55054,7 @@
 0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.vf88.win
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
@@ -58870,6 +58875,7 @@
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.com
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
 0.0.0.0 txxx.ahcdn.com
@@ -59515,6 +59521,8 @@
 0.0.0.0 vazoudozap.com
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
+0.0.0.0 vb777.com
+0.0.0.0 vb777.pw
 0.0.0.0 vb777.top
 0.0.0.0 vb88.com
 0.0.0.0 vb88.win
@@ -59745,6 +59753,7 @@
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
 0.0.0.0 vf678.com
+0.0.0.0 vf88.win
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -61827,6 +61836,7 @@
 0.0.0.0 wantboobs.com
 0.0.0.0 wantedbabes.com
 0.0.0.0 wanthdxxx.com
+0.0.0.0 wantmatures.com
 0.0.0.0 wantmywife.com
 0.0.0.0 wantsprivate.com
 0.0.0.0 wap-xxx-tube.com
@@ -67381,6 +67391,7 @@
 0.0.0.0 www.erocom.tv
 0.0.0.0 www.erocurves.com
 0.0.0.0 www.erodaioh.blog8.fc2.com
+0.0.0.0 www.erodate.pl
 0.0.0.0 www.erodynamics.nl
 0.0.0.0 www.eroero-gazou.net
 0.0.0.0 www.erofullsets.com
@@ -78121,6 +78132,7 @@
 0.0.0.0 www.wannawatchme.com
 0.0.0.0 www.wantboobs.com
 0.0.0.0 www.wantedbabes.com
+0.0.0.0 www.wantmatures.com
 0.0.0.0 www.wantmywife.com
 0.0.0.0 www.wanz-factory.com
 0.0.0.0 www.wap-xxx-tube.com
@@ -79101,6 +79113,7 @@
 0.0.0.0 www.xxxfiles.com
 0.0.0.0 www.xxxfiles.tv
 0.0.0.0 www.xxxfilm.pro
+0.0.0.0 www.xxxflirting.com
 0.0.0.0 www.xxxfree.club
 0.0.0.0 www.xxxfree.pro
 0.0.0.0 www.xxxfree24.com
@@ -81446,6 +81459,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
+0.0.0.0 xo88.pro
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88bet.com
@@ -82737,6 +82751,7 @@
 0.0.0.0 xxxfilms.cc
 0.0.0.0 xxxfilms.pro
 0.0.0.0 xxxflare.com
+0.0.0.0 xxxflirting.com
 0.0.0.0 xxxfm.com
 0.0.0.0 xxxfoto.net
 0.0.0.0 xxxfrance.net
