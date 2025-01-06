@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-01-05 21:37:43
+# DATE: 2025-01-06 21:37:54
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1824,6 +1824,7 @@
 0.0.0.0 ad.8live.net
 0.0.0.0 ad.app8.top
 0.0.0.0 ad.blackystars.com
+0.0.0.0 ad.choigametip.org
 0.0.0.0 ad.choigem.fun
 0.0.0.0 ad.choigo88.run
 0.0.0.0 ad.choingay11b.mobi
@@ -50761,6 +50762,7 @@
 0.0.0.0 sexchauau.co
 0.0.0.0 sexchauau.link
 0.0.0.0 sexchauau.mobi
+0.0.0.0 sexchauau1.xyz
 0.0.0.0 sexchauau3s.net
 0.0.0.0 sexchich.com
 0.0.0.0 sexchich.net
@@ -59459,6 +59461,7 @@
 0.0.0.0 vagyonado.info
 0.0.0.0 vaiamador.com
 0.0.0.0 vaicalon.net
+0.0.0.0 vailonxx.co
 0.0.0.0 vailonxx.com
 0.0.0.0 vailonxx.vip
 0.0.0.0 vainovinha.net
