@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-01-06 21:37:54
+# DATE: 2025-01-09 21:38:11
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -6283,6 +6283,7 @@
 0.0.0.0 bestpornsites.love
 0.0.0.0 bestpornsites.net
 0.0.0.0 bestpornsites.org
+0.0.0.0 bestpornsites.porn
 0.0.0.0 bestpornsites.pro
 0.0.0.0 bestpornsites.tv
 0.0.0.0 bestpornsiteslist.net
@@ -43789,6 +43790,7 @@
 0.0.0.0 pmc88.com
 0.0.0.0 pmovieshq.com
 0.0.0.0 pmvclips.com
+0.0.0.0 pmvhaven.com
 0.0.0.0 pmvtube.com
 0.0.0.0 po88.cc
 0.0.0.0 pocket-viewer.ru
@@ -56503,6 +56505,7 @@
 0.0.0.0 theporndude.com.home
 0.0.0.0 theporndude.fun
 0.0.0.0 theporndude.io
+0.0.0.0 theporndude.net
 0.0.0.0 theporndude.org
 0.0.0.0 theporndude.vip
 0.0.0.0 theporndude.yachts
@@ -59210,7 +59213,6 @@
 0.0.0.0 uporno.xxx
 0.0.0.0 upornosite.com
 0.0.0.0 upox.com
-0.0.0.0 uproxx.com
 0.0.0.0 ups.panel-laboralcj.gob.mx
 0.0.0.0 upskirt.top
 0.0.0.0 upskirt.tv
@@ -59862,7 +59864,6 @@
 0.0.0.0 vi.xxxthong.com
 0.0.0.0 vi.xxxviejitas.com
 0.0.0.0 vi68.org
-0.0.0.0 via.placeholder.com
 0.0.0.0 viacrux.angelfire.com
 0.0.0.0 viagra-shop.com.ua
 0.0.0.0 vibepride.com
@@ -73362,6 +73363,7 @@
 0.0.0.0 www.plumpteens.net
 0.0.0.0 www.pmatehunter.com
 0.0.0.0 www.pmovieshq.com
+0.0.0.0 www.pmvhaven.com
 0.0.0.0 www.pnptube.com
 0.0.0.0 www.po88.cc
 0.0.0.0 www.pocketpussy.us
