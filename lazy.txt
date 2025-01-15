@@ -1,4 +1,4 @@
-! ----Updatetime: 2024-11-16 21:37:53 by:Mr.K----
+! ----Updatetime: 2025-01-15 21:38:33 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 ||dup.baidustatic.com/
@@ -198,6 +198,7 @@ www.epinv.com###container>#sidebar~*,div.huadong,div.epinv_f
 ||www.epinv.com/wp-content/themes/ep/tu/
 bbs.hupu.com###game-center-entrance-container
 ithome.com##.categoryimg,#hd_float,#side_func,#con>#tt5>div,div.related_buy,li.sb_list:nth-child(5)
+ithome.com###tt
 icws.jb51.net
 jianshu.com###note-fixed-ad-container
 udiab1.jianshu.com
@@ -892,6 +893,8 @@ pageMediaControl*$script
 ||www.hexun.com/hxpage/index.html$subdocument
 ||g.csdnimg.cn/asdf/*/trackad.js|$script,important
 ||firefoxchina.cn/html/$subdocument
+|https://img.ithome.com/file/dylive/dylive.min.js^$script
+|https://api.ithome.com/json/hot/dajia.json^$script
 ||files.jb51.net^$image
 ||jianshu.io/assets/web/*-ads-$image
 ||gold-cdn.xitu.io/asset/sidbar-banner/$image
