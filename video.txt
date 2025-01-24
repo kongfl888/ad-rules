@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-01-05 21:37:42 by:Mr.K----
+! ----Updatetime: 2025-01-24 21:37:39 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -89,7 +89,6 @@ z4a.net
 ||ott.cibntv.net/*/letv-wzgug/$media
 ||letvimg.com/lc*_iscms/202$image
 ||letvimg.com/*_gugwl/$image
-||douyucdn.cn/adxdsp/$image
 ||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
 ||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
 ||shark2.douyucdn.cn/front-publish/live-master/js/room/ScreenBannerAd_$script

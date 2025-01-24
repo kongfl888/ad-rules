@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2025-01-05 21:37:42
+! Version: 2025-01-24 21:37:39
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -89,7 +89,7 @@ ipinyou.com
 ||yoyi.com.cn^3p
 le.com##.min_pause_img
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
-||douyucdn.cn/adxdsp/$image
+||douyucdn.cn/adxdsp/$image,media
 ||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
 wan.douyu.com
 ||shark2.douyucdn.cn/front-publish/live-master/js/room/topBanner_$script
