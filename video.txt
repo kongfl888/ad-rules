@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-01-24 21:37:39 by:Mr.K----
+! ----Updatetime: 2025-02-06 21:38:01 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 atm.youku.com
@@ -32,6 +32,7 @@ pub.funshion.com
 sobot.com
 miaozhen.com
 @@||js.tv.itc.cn/gg.seed.js
+reke.at.sohu.com
 ||aty.sohu.com/
 ||go.sohu.com/
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
