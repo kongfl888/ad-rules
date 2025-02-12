@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-02-05 21:39:15
+# DATE: 2025-02-12 21:37:49
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -5722,7 +5722,6 @@
 0.0.0.0 bemup.biz
 0.0.0.0 bemyhole.com
 0.0.0.0 ben.bet
-0.0.0.0 benaughty.com
 0.0.0.0 benbartlettca.com
 0.0.0.0 benbet.app
 0.0.0.0 benbet.com
@@ -7598,6 +7597,7 @@
 0.0.0.0 buom.tv
 0.0.0.0 buomdep.pro
 0.0.0.0 buomhay.com
+0.0.0.0 buomngon.com
 0.0.0.0 buomsex.com
 0.0.0.0 buomtube.tv
 0.0.0.0 buomtv.io
@@ -14272,6 +14272,7 @@
 0.0.0.0 dthq.org
 0.0.0.0 dtvideo.com
 0.0.0.0 du.porn00.tv
+0.0.0.0 du88.com
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyenkq.com
@@ -16566,6 +16567,7 @@
 0.0.0.0 favouritecash.com
 0.0.0.0 fawmtube.com
 0.0.0.0 fb.giaitriwin79.club
+0.0.0.0 fb68.club
 0.0.0.0 fb88.com
 0.0.0.0 fb88.delivery
 0.0.0.0 fb88.top
@@ -16610,6 +16612,7 @@
 0.0.0.0 fc2.fcb88d.com
 0.0.0.0 fc2cm.com
 0.0.0.0 fc2ppv-tv.zproxy.org
+0.0.0.0 fc88.net
 0.0.0.0 fcb8.club
 0.0.0.0 fcb8.com
 0.0.0.0 fcb8.fun
@@ -19251,6 +19254,7 @@
 0.0.0.0 gadit.pro
 0.0.0.0 gagashemale.relayblog.com
 0.0.0.0 gagici.top
+0.0.0.0 gai2.buomngon.com
 0.0.0.0 gai35.com
 0.0.0.0 gaicantho.xyz
 0.0.0.0 gaicaocap.xyz
@@ -58585,7 +58589,6 @@
 0.0.0.0 wantboobs.com
 0.0.0.0 wantedbabes.com
 0.0.0.0 wanthdxxx.com
-0.0.0.0 wantmatures.com
 0.0.0.0 wantmywife.com
 0.0.0.0 wantsprivate.com
 0.0.0.0 wap-xxx-tube.com
@@ -61731,7 +61734,6 @@
 0.0.0.0 www.belosexo.com
 0.0.0.0 www.belrose.eu
 0.0.0.0 www.bemyhole.com
-0.0.0.0 www.benaughty.com
 0.0.0.0 www.bentleyrace.com
 0.0.0.0 www.bergaye.com
 0.0.0.0 www.bersek.xyz
@@ -74703,7 +74705,6 @@
 0.0.0.0 www.wannawatchme.com
 0.0.0.0 www.wantboobs.com
 0.0.0.0 www.wantedbabes.com
-0.0.0.0 www.wantmatures.com
 0.0.0.0 www.wantmywife.com
 0.0.0.0 www.wanz-factory.com
 0.0.0.0 www.wap-xxx-tube.com
@@ -75677,7 +75678,6 @@
 0.0.0.0 www.xxxfiles.com
 0.0.0.0 www.xxxfiles.tv
 0.0.0.0 www.xxxfilm.pro
-0.0.0.0 www.xxxflirting.com
 0.0.0.0 www.xxxfree.club
 0.0.0.0 www.xxxfree.pro
 0.0.0.0 www.xxxfree24.com
@@ -79158,7 +79158,6 @@
 0.0.0.0 xxxfilms.cc
 0.0.0.0 xxxfilms.pro
 0.0.0.0 xxxflare.com
-0.0.0.0 xxxflirting.com
 0.0.0.0 xxxfm.com
 0.0.0.0 xxxfoto.net
 0.0.0.0 xxxfrance.net
