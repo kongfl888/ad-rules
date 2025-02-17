@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-02-12 21:37:49
+# DATE: 2025-02-17 21:37:55
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -4996,6 +4996,7 @@
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b369.com
 0.0.0.0 b44.com
+0.0.0.0 b52.cc
 0.0.0.0 b52.club
 0.0.0.0 b52.game
 0.0.0.0 b52.me
@@ -6993,6 +6994,7 @@
 0.0.0.0 bollywoodxxx.pro
 0.0.0.0 bologna.trovagnocca.com
 0.0.0.0 bom52.club
+0.0.0.0 bom88.com
 0.0.0.0 bombaybets.eu
 0.0.0.0 bombporn.video
 0.0.0.0 bon-chat.com
@@ -30194,6 +30196,7 @@
 0.0.0.0 kidzilla.info
 0.0.0.0 kieunuvadaigia.xyz
 0.0.0.0 kieunuviet.xyz
+0.0.0.0 kieunuvn.com
 0.0.0.0 kieunuxinh.net
 0.0.0.0 kievescortangels.com
 0.0.0.0 kikdirty.com
@@ -80224,6 +80227,7 @@
 0.0.0.0 yeticasino.com
 0.0.0.0 yetiporntube.com
 0.0.0.0 yetisblog.com
+0.0.0.0 yeu22.com
 0.0.0.0 yeuanh.site
 0.0.0.0 yeusex.me
 0.0.0.0 yeusex.net
