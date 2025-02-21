@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-02-17 21:37:55
+# DATE: 2025-02-21 21:38:09
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -206,6 +206,7 @@
 0.0.0.0 188best188.net
 0.0.0.0 188bet.com
 0.0.0.0 188bet.pro
+0.0.0.0 188bet.vote
 0.0.0.0 188betcn2.com
 0.0.0.0 188bowls.com
 0.0.0.0 188dota.com
@@ -1147,6 +1148,7 @@
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
 0.0.0.0 789club.org
+0.0.0.0 789club.sx
 0.0.0.0 789clubs.club
 0.0.0.0 789clubs.vin
 0.0.0.0 789d.club
@@ -6085,6 +6087,7 @@
 0.0.0.0 bet365.com
 0.0.0.0 bet66.com
 0.0.0.0 bet7days.com
+0.0.0.0 bet88.ai
 0.0.0.0 bet88.systems
 0.0.0.0 bet88010.com
 0.0.0.0 bet88011.com
@@ -7084,6 +7087,7 @@
 0.0.0.0 bongcam.net
 0.0.0.0 bongda.thethaofb88.com
 0.0.0.0 bongdaeuro188.com
+0.0.0.0 bongdanet.co
 0.0.0.0 bongo.webcam
 0.0.0.0 bongocams.com
 0.0.0.0 bongocams.org
@@ -7859,7 +7863,11 @@
 0.0.0.0 cachew.camsoda.com
 0.0.0.0 cachewp.cdnhost2000xl.com
 0.0.0.0 cactusboy.com
+0.0.0.0 cacuoc.bet
 0.0.0.0 cacuoc247.com
+0.0.0.0 cacuoc365.blog
+0.0.0.0 cacuoconline.site
+0.0.0.0 cacuocso.com
 0.0.0.0 cadillacangels.com
 0.0.0.0 cado.pro
 0.0.0.0 cado.thethaofb88.com
@@ -13268,6 +13276,7 @@
 0.0.0.0 debet.com
 0.0.0.0 debet.fun
 0.0.0.0 debet.info
+0.0.0.0 debet.mn
 0.0.0.0 debet.moi
 0.0.0.0 debet.net
 0.0.0.0 debet.top
@@ -17351,6 +17360,7 @@
 0.0.0.0 flyflv.club
 0.0.0.0 flyflv.com
 0.0.0.0 flyingjizz.com
+0.0.0.0 fm88.vip
 0.0.0.0 fncash.com
 0.0.0.0 fngml.com
 0.0.0.0 fo.xxxarm.ru
@@ -36244,6 +36254,7 @@
 0.0.0.0 net69.nl
 0.0.0.0 net88.ac
 0.0.0.0 net88.day
+0.0.0.0 net88.in
 0.0.0.0 net88.men
 0.0.0.0 net88.run
 0.0.0.0 net88.tv
@@ -36472,6 +36483,7 @@
 0.0.0.0 nhacaisodo.net
 0.0.0.0 nhacaisomot.com
 0.0.0.0 nhacaiuytin.life
+0.0.0.0 nhacaiuytin.top
 0.0.0.0 nhacaiuytinso1vn.com
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhat.bet
@@ -45431,6 +45443,7 @@
 0.0.0.0 qbabes.com
 0.0.0.0 qc.789.mobi
 0.0.0.0 qc.789b.asia
+0.0.0.0 qc.789club.sx
 0.0.0.0 qc.789d.club
 0.0.0.0 qc.choidabanh.com
 0.0.0.0 qc.choigametip.org
@@ -46347,6 +46360,7 @@
 0.0.0.0 rikvip.tv
 0.0.0.0 rikvip.us
 0.0.0.0 rikvip.vip
+0.0.0.0 rikvip.wales
 0.0.0.0 rikvip.win
 0.0.0.0 rikvip8.win
 0.0.0.0 rikvipclub.us
@@ -57521,6 +57535,7 @@
 0.0.0.0 vin777.co
 0.0.0.0 vin777.work
 0.0.0.0 vin88.com
+0.0.0.0 vin88.net
 0.0.0.0 vin999.fun
 0.0.0.0 vina88.net
 0.0.0.0 vincivids.com
@@ -58184,6 +58199,7 @@
 0.0.0.0 vnvwin.com
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.xyz
+0.0.0.0 vnxoso-web.com
 0.0.0.0 vnxx.me
 0.0.0.0 vnxx.moe
 0.0.0.0 vnxxphim.pro
