@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-02-21 21:38:09
+# DATE: 2025-03-02 21:37:54
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -30628,6 +30628,7 @@
 0.0.0.0 ku6110.net
 0.0.0.0 ku6131.net
 0.0.0.0 ku777bet.com
+0.0.0.0 ku88.pro
 0.0.0.0 ku88.win
 0.0.0.0 ku888.one
 0.0.0.0 ku998.net
@@ -53876,6 +53877,7 @@
 0.0.0.0 tiavaporn.club
 0.0.0.0 tiavasforum.com
 0.0.0.0 tiavaswebcams.com
+0.0.0.0 tic88.com
 0.0.0.0 tickzoo.tv
 0.0.0.0 ticxxx.com
 0.0.0.0 tiedup.tv
@@ -53984,6 +53986,7 @@
 0.0.0.0 tinyteens-tube.com
 0.0.0.0 tinyvirgins.cjb.net
 0.0.0.0 tip.club
+0.0.0.0 tip88.com
 0.0.0.0 tipbet.com
 0.0.0.0 tipico.com
 0.0.0.0 tipkeo.thethaofb88.com
@@ -57944,6 +57947,7 @@
 0.0.0.0 vjav0.ahcdn.com
 0.0.0.0 vjav2.com
 0.0.0.0 vjxxx.com
+0.0.0.0 vk88.com
 0.0.0.0 vkclip.com
 0.0.0.0 vkfilmizlet.com
 0.0.0.0 vkldkm.sextgem.com
