@@ -1,16 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2025-02-16 21:38:00
+! Version: 2025-03-07 21:37:25
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-atm.youku.com
 cad.youku.com
 @@||log.mmstat.com/eg.js^$script
-||cibntv.net/youku/$media
-||valipl.cp31.ott.cibntv.net/$media
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
-||alicdn.com/awsc/et/
+||alicdn.com/awsc/et/$script
+||g.alicdn.com/htmlVodP2P/$script
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
 m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')

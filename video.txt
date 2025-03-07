@@ -1,9 +1,7 @@
-! ----Updatetime: 2025-02-16 21:38:00 by:Mr.K----
+! ----Updatetime: 2025-03-07 21:37:25 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-atm.youku.com
 cad.youku.com
-||alicdn.com/awsc/et/
 t7z.cupid.iqiyi.com
 ||www.iqiyi.com/service-worker.js
 apisgame.iqiyi.com
@@ -63,8 +61,9 @@ dandanzan.*,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!importa
 stgowan.com
 z4a.net
 @@||log.mmstat.com/eg.js^$script
-||cibntv.net/youku/$media
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
+||alicdn.com/awsc/et/$script
+||g.alicdn.com/htmlVodP2P/$script
 ||static.iqiyi.com/js/common/mars_v.js^$script
 ||127.0.0.1^$script,domain=iqiyi.com
 ||iqiyipic.com/image/20*_100000$image
