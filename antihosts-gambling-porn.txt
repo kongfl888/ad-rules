@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-03-02 21:37:54
+# DATE: 2025-03-08 21:38:29
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -31081,6 +31081,9 @@
 0.0.0.0 lenporno.tube
 0.0.0.0 lentaporno.me
 0.0.0.0 leo.cz
+0.0.0.0 leo88.com
+0.0.0.0 leo88.fun
+0.0.0.0 leo88.top
 0.0.0.0 leojackpot.com
 0.0.0.0 leojmp.com
 0.0.0.0 leomonitor.ru
@@ -53936,6 +53939,7 @@
 0.0.0.0 timtales.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
+0.0.0.0 tin88.top
 0.0.0.0 tin888.club
 0.0.0.0 tinaangel.com
 0.0.0.0 tinaporn.com
