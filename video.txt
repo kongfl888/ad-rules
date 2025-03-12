@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-03-07 21:37:25 by:Mr.K----
+! ----Updatetime: 2025-03-12 21:39:50 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 cad.youku.com
@@ -57,7 +57,7 @@ litix.io
 ||google.*/pagead/
 ||gstatic.com/shopping?
 jads.co
-dandanzan.*,nnyy.in,nunuyy5.com##.gm-fp-body video:style(max-height:100%!important)
+dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
 stgowan.com
 z4a.net
 @@||log.mmstat.com/eg.js^$script
