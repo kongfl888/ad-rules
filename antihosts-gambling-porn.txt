@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-03-08 21:38:29
+# DATE: 2025-03-13 21:39:01
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1375,6 +1375,7 @@
 0.0.0.0 94ero.com
 0.0.0.0 988bet.info
 0.0.0.0 989bet.com
+0.0.0.0 98win.com
 0.0.0.0 9911789.com
 0.0.0.0 9966789.com
 0.0.0.0 99994y.com
@@ -36902,7 +36903,9 @@
 0.0.0.0 nog.nogomi.ru
 0.0.0.0 nogomi.ru
 0.0.0.0 nohu.band
+0.0.0.0 nohu.win
 0.0.0.0 nohu35.com
+0.0.0.0 nohudoithuong.win
 0.0.0.0 nohuk8.info
 0.0.0.0 noirmale.com
 0.0.0.0 nolesbianporn.com
@@ -52131,6 +52134,7 @@
 0.0.0.0 tai.son.club
 0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.vf88.win
+0.0.0.0 tai.win79.com
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai567live.vip
@@ -58408,6 +58412,8 @@
 0.0.0.0 vtranny.com
 0.0.0.0 vtube.mobi
 0.0.0.0 vua2.club
+0.0.0.0 vua88.app
+0.0.0.0 vua88.biz
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com
