@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-03-13 21:39:01
+# DATE: 2025-03-17 21:39:07
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -23901,6 +23901,7 @@
 0.0.0.0 i.fapality.com
 0.0.0.0 i.freeporncategories.com
 0.0.0.0 i.gifsauce.com
+0.0.0.0 i.go88.com
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
 0.0.0.0 i.hdreporn.com
