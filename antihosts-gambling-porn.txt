@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-03-17 21:39:07
+# DATE: 2025-03-21 21:38:10
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -10,6 +10,10 @@
 0.0.0.0 0066130.com
 0.0.0.0 007dating.com
 0.0.0.0 007milf.com
+0.0.0.0 007win.com
+0.0.0.0 007win.org
+0.0.0.0 007win.shop
+0.0.0.0 007winand.taive.app
 0.0.0.0 007zeed.com
 0.0.0.0 009.casino
 0.0.0.0 009.com
@@ -1447,7 +1451,6 @@
 0.0.0.0 a.xxx-cdn.com
 0.0.0.0 a.xxxlibz.com
 0.0.0.0 a1.byxxxporn.com
-0.0.0.0 a1.defensoria-nsjp.gob.mx
 0.0.0.0 a1.dosugbar.com
 0.0.0.0 a1.grannyfucks.me
 0.0.0.0 a1005.ut000.com
@@ -1646,6 +1649,7 @@
 0.0.0.0 ad.giaitriwin79.club
 0.0.0.0 ad.hitgame.in
 0.0.0.0 ad.mibet.com
+0.0.0.0 ad.pagedebet.org
 0.0.0.0 ad.playhit.biz
 0.0.0.0 ad.pornfuzepremium.videobox.com
 0.0.0.0 ad.porno666.one
@@ -2228,6 +2232,7 @@
 0.0.0.0 ai-porn.ai
 0.0.0.0 ai-porn.art
 0.0.0.0 ai.phncdn.com
+0.0.0.0 ai18.pics
 0.0.0.0 aiboobs.net
 0.0.0.0 aideporno.com
 0.0.0.0 aiexotic.com
@@ -2299,6 +2304,7 @@
 0.0.0.0 alexablooms.babesnudepics.com
 0.0.0.0 alexaporn.com
 0.0.0.0 alexaporn.net
+0.0.0.0 alexboys.com
 0.0.0.0 alexistexas.com
 0.0.0.0 alexisvirgin.com
 0.0.0.0 alexlegend.com
@@ -3672,7 +3678,6 @@
 0.0.0.0 api-stage.pornhub.com
 0.0.0.0 api-stage2.pornhub.com
 0.0.0.0 api-stage3.pornhub.com
-0.0.0.0 api-web-pkg.camscanner.com
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.123bhh.com
@@ -4342,6 +4347,7 @@
 0.0.0.0 asian-mom-sex.com
 0.0.0.0 asian-moms.com
 0.0.0.0 asian-mum.com
+0.0.0.0 asian-nudes-tube.com
 0.0.0.0 asian-o.com
 0.0.0.0 asian-pinay.ru
 0.0.0.0 asian-porn-videos.com
@@ -5022,8 +5028,6 @@
 0.0.0.0 b98.nudevista.com
 0.0.0.0 b989.tv
 0.0.0.0 b99.nudevista.com
-0.0.0.0 bab1.defensoria-nsjp.gob.mx
-0.0.0.0 bab2.defensoria-nsjp.gob.mx
 0.0.0.0 babarooba.x.fc2.com
 0.0.0.0 babblesex.com
 0.0.0.0 babe-lounge.com
@@ -6557,7 +6561,6 @@
 0.0.0.0 bitchxpic.com
 0.0.0.0 bitchxxx.com
 0.0.0.0 bitcoinsports.eu
-0.0.0.0 bito.defensoria-nsjp.gob.mx
 0.0.0.0 bitporno.com
 0.0.0.0 bitporno.sx
 0.0.0.0 bitsaloon.com
@@ -7208,7 +7211,6 @@
 0.0.0.0 borwap.vip
 0.0.0.0 bos.so
 0.0.0.0 bosnahersekuniversitelerim.com
-0.0.0.0 boss.defensoria-nsjp.gob.mx
 0.0.0.0 bossgif.com
 0.0.0.0 bossvideotube.com
 0.0.0.0 bostanciescort34.com
@@ -7495,6 +7497,7 @@
 0.0.0.0 brutalfootdomination.net
 0.0.0.0 brutalgays.net
 0.0.0.0 brutalinvasion.com
+0.0.0.0 brutaljav.com
 0.0.0.0 brutalporn.me
 0.0.0.0 brutalporn.tv
 0.0.0.0 brutalpov.com
@@ -10493,7 +10496,6 @@
 0.0.0.0 cgaming.olg.ca
 0.0.0.0 ch.hdsex2.com
 0.0.0.0 chaaaxxxwin.com
-0.0.0.0 chacha.comapatecoman.gob.mx
 0.0.0.0 chakrasamvara.ru
 0.0.0.0 champagnebingo.com
 0.0.0.0 champagnecap.eu
@@ -10932,7 +10934,6 @@
 0.0.0.0 citytourgirls.com
 0.0.0.0 ciwox.com
 0.0.0.0 cjsebonyporn.com
-0.0.0.0 ck.comapatecoman.gob.mx
 0.0.0.0 cl.nsimg.net
 0.0.0.0 clamsangels.com
 0.0.0.0 clapdat.com
@@ -11293,6 +11294,7 @@
 0.0.0.0 cname.whitelabel.chaturbate.com
 0.0.0.0 cncporn.com
 0.0.0.0 cndata.jpg4.pw
+0.0.0.0 cnmgb.007win.org
 0.0.0.0 cnnamador-com.zproxy.org
 0.0.0.0 cnnamador.com
 0.0.0.0 cno.jerkmate.net
@@ -11311,6 +11313,7 @@
 0.0.0.0 cnt.xhamster3.com
 0.0.0.0 cnx.datoporn.co
 0.0.0.0 cnxvids.pro
+0.0.0.0 cnxx.me
 0.0.0.0 cnxx.org
 0.0.0.0 co.mileroticos.com
 0.0.0.0 coaching-et-formation-coaching.eu
@@ -12799,7 +12802,6 @@
 0.0.0.0 dbthethao.run
 0.0.0.0 dbxxqp.com
 0.0.0.0 dc-eee10d91bf28.sissysocial.net
-0.0.0.0 dc.defensoria-nsjp.gob.mx
 0.0.0.0 dc1.porndig.com
 0.0.0.0 dcbosf.com
 0.0.0.0 dcpgateway4.hs.gslb.mob.com
@@ -13699,7 +13701,6 @@
 0.0.0.0 digitalsexvideos.com
 0.0.0.0 digitalsweeties.com
 0.0.0.0 digporn.pro
-0.0.0.0 dikaiosyne.defensoria-nsjp.gob.mx
 0.0.0.0 dildocam.club
 0.0.0.0 dildoxxxtube.com
 0.0.0.0 dilf.com
@@ -13872,6 +13873,7 @@
 0.0.0.0 dk.sex4k.cam
 0.0.0.0 dk.sieutaixiu79.club
 0.0.0.0 dk.thethaouk88.org
+0.0.0.0 dk.thethaovin88.info
 0.0.0.0 dk.thethaovua.co
 0.0.0.0 dk.zoplay.top
 0.0.0.0 dk801.com
@@ -14060,7 +14062,6 @@
 0.0.0.0 doodlink.info
 0.0.0.0 doods18.online
 0.0.0.0 doodx.ink
-0.0.0.0 dop.panel-laboralcj.gob.mx
 0.0.0.0 dopaminegirl.com
 0.0.0.0 doporn.cc
 0.0.0.0 doppel-anal.net
@@ -14326,7 +14327,6 @@
 0.0.0.0 duongdenkhungthanh.com
 0.0.0.0 dupose.com
 0.0.0.0 durchficken.com
-0.0.0.0 durex.panel-laboralcj.gob.mx
 0.0.0.0 durum.tech.withlocals.com
 0.0.0.0 dutapoker.co
 0.0.0.0 dutchangels.nl
@@ -14727,7 +14727,6 @@
 0.0.0.0 em.ypncdn.com
 0.0.0.0 emaporn.com
 0.0.0.0 emb.lovebondage.pro
-0.0.0.0 embamex.sre.gob.mx
 0.0.0.0 embed.heavy-r.com
 0.0.0.0 embed.redtube.com
 0.0.0.0 embeds.sunporno.com
@@ -15654,7 +15653,6 @@
 0.0.0.0 escortvienna.info
 0.0.0.0 escortvips.net
 0.0.0.0 escortyorkshire.info
-0.0.0.0 esdm.comapatecoman.gob.mx
 0.0.0.0 esearch.youjizz.com
 0.0.0.0 esenyurtajans.com
 0.0.0.0 esexxxx.com
@@ -16623,6 +16621,7 @@
 0.0.0.0 fc2.com
 0.0.0.0 fc2.fcb88d.com
 0.0.0.0 fc2cm.com
+0.0.0.0 fc2covid.com
 0.0.0.0 fc2ppv-tv.zproxy.org
 0.0.0.0 fc88.net
 0.0.0.0 fcb8.club
@@ -16927,7 +16926,6 @@
 0.0.0.0 fightingangels.fsn.net
 0.0.0.0 fightinglifestyleuae.com
 0.0.0.0 fightpulse.com
-0.0.0.0 figure.comapatecoman.gob.mx
 0.0.0.0 fik-fap.com
 0.0.0.0 fikacasino.com
 0.0.0.0 fikante.com
@@ -17190,7 +17188,6 @@
 0.0.0.0 fipics2.xxxvideo.best
 0.0.0.0 fipics3.xxxvideo.best
 0.0.0.0 fiqfuq.com
-0.0.0.0 fire.comapatecoman.gob.mx
 0.0.0.0 firecams.com
 0.0.0.0 firepornhq.com
 0.0.0.0 firmyoungbreast.com
@@ -17942,7 +17939,6 @@
 0.0.0.0 fr2.videospornodelatinos.com
 0.0.0.0 fr2.videosxxxviejitas.com
 0.0.0.0 fragileslaves.com
-0.0.0.0 framework-gb.cdn.gob.mx
 0.0.0.0 francais.top
 0.0.0.0 franceescortguide.com
 0.0.0.0 franco.evangelista.free.fr
@@ -19159,6 +19155,7 @@
 0.0.0.0 funpic.hu
 0.0.0.0 funshemale.com
 0.0.0.0 funsizeboys.com
+0.0.0.0 funsizeboys.org
 0.0.0.0 funtaikhoan.com
 0.0.0.0 funteensex.com
 0.0.0.0 funtructuyen88.com
@@ -20439,7 +20436,6 @@
 0.0.0.0 girlzboom.top
 0.0.0.0 girlznation.com
 0.0.0.0 girlzoutwest.com
-0.0.0.0 gis.defensoria-nsjp.gob.mx
 0.0.0.0 giutcohon.sin88.biz
 0.0.0.0 give.xxx
 0.0.0.0 givemeaporn.com
@@ -20607,7 +20603,6 @@
 0.0.0.0 goarabporn.com
 0.0.0.0 goasexescort.co.in
 0.0.0.0 goatse.me
-0.0.0.0 gob.mx
 0.0.0.0 gobbwxxx.com
 0.0.0.0 gobdsm.com
 0.0.0.0 gobestpornmovies.com
@@ -20677,7 +20672,6 @@
 0.0.0.0 goindiansextube.com
 0.0.0.0 goindianxxxmovies.com
 0.0.0.0 gojav.xyz
-0.0.0.0 gol.defensoria-nsjp.gob.mx
 0.0.0.0 golazobet.com
 0.0.0.0 gold-gay.com
 0.0.0.0 gold.faphouse.com
@@ -20819,7 +20813,6 @@
 0.0.0.0 gothdporn.com
 0.0.0.0 gothpornlog.com
 0.0.0.0 gotjav.com
-0.0.0.0 goto.comapatecoman.gob.mx
 0.0.0.0 gotocasino.com
 0.0.0.0 gotofap.tk
 0.0.0.0 gotohole.com
@@ -21149,7 +21142,6 @@
 0.0.0.0 gulagay.com
 0.0.0.0 gulfsexx.com
 0.0.0.0 gulfsexxx.com
-0.0.0.0 gun.panel-laboralcj.gob.mx
 0.0.0.0 gungoin.tk
 0.0.0.0 gunnersgaming.com
 0.0.0.0 gupchup.app
@@ -21331,6 +21323,8 @@
 0.0.0.0 halaplay.com
 0.0.0.0 halerusel.mandypeek.com
 0.0.0.0 halohul.com
+0.0.0.0 hammerboys.tv
+0.0.0.0 hammerboysxxx.com
 0.0.0.0 hammerporno.pornovista.org
 0.0.0.0 hammerporno.xxx
 0.0.0.0 hamsterbet.com
@@ -21530,7 +21524,6 @@
 0.0.0.0 harley-quinn-nude.com
 0.0.0.0 harleyquinn.us
 0.0.0.0 harmanit.co.il
-0.0.0.0 harmonia.comapatecoman.gob.mx
 0.0.0.0 haus-katona.de
 0.0.0.0 hausporno.com
 0.0.0.0 havefunporn.com
@@ -22086,7 +22079,6 @@
 0.0.0.0 hello-teen.com
 0.0.0.0 hello.asiansingles.me
 0.0.0.0 hello.bbwsexdates.net
-0.0.0.0 hello.defensoria-nsjp.gob.mx
 0.0.0.0 hello.fuckbook.tv
 0.0.0.0 hello.fuckbookmobile.com
 0.0.0.0 hello.porn
@@ -24243,7 +24235,6 @@
 0.0.0.0 icfcdn.com
 0.0.0.0 ichan.org
 0.0.0.0 ichiav.com
-0.0.0.0 ichigo.panel-laboralcj.gob.mx
 0.0.0.0 ichigocandy.com
 0.0.0.0 ichmussmalpipi.com
 0.0.0.0 ichwillficken.info
@@ -24525,6 +24516,7 @@
 0.0.0.0 ideeptube.com
 0.0.0.0 idhad.com
 0.0.0.0 idol.sankakucomplex.com
+0.0.0.0 idol69.net
 0.0.0.0 idoldouganew.com
 0.0.0.0 idolporno.com
 0.0.0.0 idolzone.blog137.fc2.com
@@ -24558,7 +24550,6 @@
 0.0.0.0 igfap.com
 0.0.0.0 igg-games.com
 0.0.0.0 igg.biz
-0.0.0.0 iggcl.panel-laboralcj.gob.mx
 0.0.0.0 igomexicoxxxping.net
 0.0.0.0 igorsclouds.com
 0.0.0.0 igotfakes.com
@@ -24596,7 +24587,6 @@
 0.0.0.0 ikibu.com
 0.0.0.0 ikidsfuture.club
 0.0.0.0 iknowthatgirl.com
-0.0.0.0 ikoya.defensoria-nsjp.gob.mx
 0.0.0.0 iktonix.ru
 0.0.0.0 ikuhentai.net
 0.0.0.0 il.1cam.webcam
@@ -28830,6 +28820,7 @@
 0.0.0.0 javau.net
 0.0.0.0 javav.me
 0.0.0.0 javbabe.net
+0.0.0.0 javball.com
 0.0.0.0 javbangers.com
 0.0.0.0 javbangers.pornobrasileirinhas.com
 0.0.0.0 javbest.tv
@@ -30012,7 +30003,6 @@
 0.0.0.0 kagneylinnkarter.com
 0.0.0.0 kainpopoy.com
 0.0.0.0 kaisa-nord.ru
-0.0.0.0 kaiser.defensoria-nsjp.gob.mx
 0.0.0.0 kaiserslots.com
 0.0.0.0 kaivip.club
 0.0.0.0 kak.xxx
@@ -30474,9 +30464,7 @@
 0.0.0.0 ko66.com
 0.0.0.0 ko66vip.casino
 0.0.0.0 ko66vip.club
-0.0.0.0 kobsl.defensoria-nsjp.gob.mx
 0.0.0.0 kodiefiles.nl
-0.0.0.0 koide3.comapatecoman.gob.mx
 0.0.0.0 kojka.com
 0.0.0.0 koketti.com
 0.0.0.0 kokobumer.com
@@ -31450,7 +31438,6 @@
 0.0.0.0 link-o-rama.com
 0.0.0.0 link.enf-cmnf.com
 0.0.0.0 link.vuabai9.com
-0.0.0.0 link1.panel-laboralcj.gob.mx
 0.0.0.0 link123b.com
 0.0.0.0 link2bet.com
 0.0.0.0 link4game.com
@@ -32127,6 +32114,7 @@
 0.0.0.0 lp.sun6.win
 0.0.0.0 lp.sunwinvn.club
 0.0.0.0 lp.taiv8.top
+0.0.0.0 lp.tip88vn.me
 0.0.0.0 lp.vip79.com
 0.0.0.0 lp.vip79.vip
 0.0.0.0 lp.vip79gamebai.vip
@@ -32672,7 +32660,6 @@
 0.0.0.0 ma.newbienudes.com
 0.0.0.0 maandporno.com
 0.0.0.0 maap.12b99.com
-0.0.0.0 mac.panel-laboralcj.gob.mx
 0.0.0.0 macao99.club
 0.0.0.0 macau-slot.com
 0.0.0.0 macau.adultsearch.com
@@ -32683,7 +32670,6 @@
 0.0.0.0 macauslot.com
 0.0.0.0 macbookporn.com
 0.0.0.0 maccms.la
-0.0.0.0 machika.panel-laboralcj.gob.mx
 0.0.0.0 machinefucked.me
 0.0.0.0 macho.tv
 0.0.0.0 machogayporn.com
@@ -32794,7 +32780,6 @@
 0.0.0.0 mail.phatfetishes.com
 0.0.0.0 mail.pornhub.com
 0.0.0.0 mail.rawdollars.com
-0.0.0.0 mail.sanquintin.gob.mx
 0.0.0.0 mail.streamxxx.me
 0.0.0.0 mail.tnaflix.com
 0.0.0.0 mail.wxqcbxg.com
@@ -34349,7 +34334,6 @@
 0.0.0.0 mixx.com
 0.0.0.0 mixxporn.com
 0.0.0.0 miya.porntrex.com
-0.0.0.0 miyoshi1.comapatecoman.gob.mx
 0.0.0.0 miyuhot.com
 0.0.0.0 mizugi.pro
 0.0.0.0 mizukierika.yankcams.com
@@ -34920,7 +34904,6 @@
 0.0.0.0 moreyoungporn.com
 0.0.0.0 morganablanche.rowdycams.com
 0.0.0.0 morganbet.eu
-0.0.0.0 moriyama3.comapatecoman.gob.mx
 0.0.0.0 morningg.cc
 0.0.0.0 moronisangels.com
 0.0.0.0 morritasonline.com
@@ -36629,7 +36612,6 @@
 0.0.0.0 nipporn.asia
 0.0.0.0 nips.com
 0.0.0.0 nipvideos.info
-0.0.0.0 nistan.comapatecoman.gob.mx
 0.0.0.0 nitafuck.com
 0.0.0.0 niteflirt.com
 0.0.0.0 nitroflare-porn.com
@@ -37164,6 +37146,7 @@
 0.0.0.0 nudebeachpics.pro
 0.0.0.0 nudebeachpussy.com
 0.0.0.0 nudebeauty.teenpussyimg.com
+0.0.0.0 nudebfs.com
 0.0.0.0 nudebird.biz
 0.0.0.0 nudeblackgirlsphotos.com
 0.0.0.0 nudeblackporn.com
@@ -37604,8 +37587,6 @@
 0.0.0.0 o.hotsextube.tv
 0.0.0.0 o.yourlust.com
 0.0.0.0 oaihdk.com
-0.0.0.0 oapi-us.camscanner.com
-0.0.0.0 oapi.camscanner.com
 0.0.0.0 oascentral.alladultchannel.com
 0.0.0.0 oascentral.wickedlocal.com
 0.0.0.0 oasisvixens.com
@@ -38188,9 +38169,6 @@
 0.0.0.0 opalovani-opaleni.novyinternetovyobchod.cz
 0.0.0.0 opap.gr
 0.0.0.0 opcrates.com
-0.0.0.0 open-bak.camscanner.com
-0.0.0.0 open-im-us.camscanner.com
-0.0.0.0 open.camscanner.com
 0.0.0.0 openerotic.co.uk
 0.0.0.0 openerotic.fr
 0.0.0.0 openerotik.com
@@ -38241,7 +38219,6 @@
 0.0.0.0 orangeporntube.net
 0.0.0.0 orangepornvideos.net
 0.0.0.0 orchisasia.org
-0.0.0.0 oregs.pagostepeapulco.gob.mx
 0.0.0.0 orgasm.com
 0.0.0.0 orgasmatrix.com
 0.0.0.0 orgasmlist.com
@@ -38282,7 +38259,6 @@
 0.0.0.0 originalhindiporn.mobi
 0.0.0.0 originalindianporn.com
 0.0.0.0 originporn.com
-0.0.0.0 orini.comapatecoman.gob.mx
 0.0.0.0 orivive.com
 0.0.0.0 orlandocasino.com
 0.0.0.0 orlandoxh.life
@@ -38308,7 +38284,6 @@
 0.0.0.0 otpervogolica.com
 0.0.0.0 otpornsites.top
 0.0.0.0 otsos.tv
-0.0.0.0 otsuka.comapatecoman.gob.mx
 0.0.0.0 ottpornhub.com
 0.0.0.0 ouagalab.info
 0.0.0.0 oubaba.top
@@ -39493,6 +39468,7 @@
 0.0.0.0 paf.com
 0.0.0.0 pagapau.com
 0.0.0.0 page-x.com
+0.0.0.0 pagedebet.org
 0.0.0.0 pages-angelfire.whowhere.com
 0.0.0.0 paheal.net
 0.0.0.0 pai.booru.org
@@ -40806,7 +40782,6 @@
 0.0.0.0 pinfaps.com
 0.0.0.0 pinflix.com
 0.0.0.0 pink-pornstars.com
-0.0.0.0 pink.panel-laboralcj.gob.mx
 0.0.0.0 pink42203.com
 0.0.0.0 pinkbabes.net
 0.0.0.0 pinkcams.com
@@ -40920,7 +40895,6 @@
 0.0.0.0 pjatnitsa.ru
 0.0.0.0 pjs.rusvideos.porn
 0.0.0.0 pk5.net
-0.0.0.0 pki.panel-laboralcj.gob.mx
 0.0.0.0 pkresurs-spb.ru
 0.0.0.0 pkwin1.com
 0.0.0.0 pl-shemale.xvideos2.com.se
@@ -41279,7 +41253,6 @@
 0.0.0.0 polskiepornole.pl
 0.0.0.0 polympusfree.com
 0.0.0.0 polynerowanson.livegirls-secrets.com
-0.0.0.0 poma.defensoria-nsjp.gob.mx
 0.0.0.0 pombaloka.com
 0.0.0.0 ponbook.net
 0.0.0.0 ponhub.pro
@@ -45632,6 +45605,7 @@
 0.0.0.0 radioaktywni.eu
 0.0.0.0 radiohit24.ru
 0.0.0.0 ragingstallion.com
+0.0.0.0 rahaporn.com
 0.0.0.0 rahatupu.net
 0.0.0.0 raidporn.com
 0.0.0.0 rainporn18.net
@@ -45661,7 +45635,6 @@
 0.0.0.0 rambo.xhamster.desi
 0.0.0.0 rambo.xhchannel2.com
 0.0.0.0 rambo.xhmagazines.world
-0.0.0.0 ramen.comapatecoman.gob.mx
 0.0.0.0 rampant.tv
 0.0.0.0 randcams.com
 0.0.0.0 randomale.net
@@ -46393,7 +46366,6 @@
 0.0.0.0 rivalo.com
 0.0.0.0 rivalry.com
 0.0.0.0 rivcams.com
-0.0.0.0 river.defensoria-nsjp.gob.mx
 0.0.0.0 riverasian.com
 0.0.0.0 riverporn.pro
 0.0.0.0 riversedge-photography.com
@@ -46403,7 +46375,6 @@
 0.0.0.0 rizk.com
 0.0.0.0 riztube.com
 0.0.0.0 rk.com
-0.0.0.0 rlr.panel-laboralcj.gob.mx
 0.0.0.0 rmshqa.com
 0.0.0.0 rnopo.com
 0.0.0.0 rnosh.com
@@ -46627,7 +46598,6 @@
 0.0.0.0 rtb-4.anysex.com
 0.0.0.0 rtb-4.xgroovy.com
 0.0.0.0 rtgallery.net
-0.0.0.0 rtkl.defensoria-nsjp.gob.mx
 0.0.0.0 rtsp.pornhub.com
 0.0.0.0 ru-chaturbate.ru
 0.0.0.0 ru-porn.club
@@ -47419,6 +47389,7 @@
 0.0.0.0 scotbet.com
 0.0.0.0 scout69.com
 0.0.0.0 scoutboys.com
+0.0.0.0 scoutboys.org
 0.0.0.0 screenhumor.com
 0.0.0.0 screenshots.anysex.com
 0.0.0.0 script.bangdom.com
@@ -49645,7 +49616,6 @@
 0.0.0.0 sgbb.pro
 0.0.0.0 sgirls.net
 0.0.0.0 sgnow.to
-0.0.0.0 sgp.defensoria-nsjp.gob.mx
 0.0.0.0 sh-cdn.com
 0.0.0.0 sh102.empflix.com
 0.0.0.0 shabakngy.com
@@ -50364,7 +50334,6 @@
 0.0.0.0 smokefreerussia.ru
 0.0.0.0 smoking.fetish-movies.ch
 0.0.0.0 smokinglust.com
-0.0.0.0 smos.defensoria-nsjp.gob.mx
 0.0.0.0 smotret-porno-s-mamkami.ru
 0.0.0.0 smotret-russkoe-porno-onlajn.ru
 0.0.0.0 smotretporno.top
@@ -50421,13 +50390,13 @@
 0.0.0.0 snxxx.top
 0.0.0.0 snyde.booru.org
 0.0.0.0 snyggabrudar.adultstation.nl
-0.0.0.0 so3.defensoria-nsjp.gob.mx
 0.0.0.0 soamadorasbr.com
 0.0.0.0 soarabporn.com
 0.0.0.0 soasianporn.com
 0.0.0.0 soasiantube.com
 0.0.0.0 sobeldades.com.br
 0.0.0.0 sobrasileiras.com
+0.0.0.0 soc.sieutaixiu79.club
 0.0.0.0 soc3x.com
 0.0.0.0 soc88.com
 0.0.0.0 soc99.com
@@ -52210,6 +52179,7 @@
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
+0.0.0.0 taive.app
 0.0.0.0 taiwanlottery.com.tw
 0.0.0.0 taiwin79.win
 0.0.0.0 taixiu.taisum2.com
@@ -53606,6 +53576,7 @@
 0.0.0.0 thethaofb88.com
 0.0.0.0 thethaofi88.com
 0.0.0.0 thethaouk88.org
+0.0.0.0 thethaovin88.info
 0.0.0.0 thethaovip.vip
 0.0.0.0 thethaovua.co
 0.0.0.0 thethaowin.net
@@ -53908,7 +53879,6 @@
 0.0.0.0 tightteenpussy.online
 0.0.0.0 tightteensgalleries.com
 0.0.0.0 tightvirgins.com.ar
-0.0.0.0 tigoki.defensoria-nsjp.gob.mx
 0.0.0.0 tik-tok.porn
 0.0.0.0 tik-tok.virgin-anal.xyz
 0.0.0.0 tik.porn
@@ -53996,6 +53966,7 @@
 0.0.0.0 tinyvirgins.cjb.net
 0.0.0.0 tip.club
 0.0.0.0 tip88.com
+0.0.0.0 tip88vn.me
 0.0.0.0 tipbet.com
 0.0.0.0 tipico.com
 0.0.0.0 tipkeo.thethaofb88.com
@@ -54761,7 +54732,6 @@
 0.0.0.0 tr.yourporn.cam
 0.0.0.0 tr.zverstva.net
 0.0.0.0 tr.zzztube.com
-0.0.0.0 tra.comapatecoman.gob.mx
 0.0.0.0 tracilordsporn.com
 0.0.0.0 track.adultdialersolution.com
 0.0.0.0 track.bestpornsites.tv
@@ -55588,7 +55558,6 @@
 0.0.0.0 tukif.icu
 0.0.0.0 tukifporno.com
 0.0.0.0 tuktukpatrol.com
-0.0.0.0 tuku.defensoria-nsjp.gob.mx
 0.0.0.0 tulip.paheal.net
 0.0.0.0 tumbex.com
 0.0.0.0 tumblr.freepornpreview.net
@@ -56149,7 +56118,6 @@
 0.0.0.0 uporno.xxx
 0.0.0.0 upornosite.com
 0.0.0.0 upox.com
-0.0.0.0 ups.panel-laboralcj.gob.mx
 0.0.0.0 upskirt.top
 0.0.0.0 upskirt.tv
 0.0.0.0 upskirthairypics.com
@@ -56432,7 +56400,6 @@
 0.0.0.0 vaohitclub.me
 0.0.0.0 vaoku.net
 0.0.0.0 vaquitarosada.live-sex-facts.com
-0.0.0.0 vara.pagostepeapulco.gob.mx
 0.0.0.0 vardh.com
 0.0.0.0 vase-eroticke-povidky.cz
 0.0.0.0 vast.livejasmin.com
@@ -59222,7 +59189,6 @@
 0.0.0.0 winclub.net
 0.0.0.0 winderland.ru
 0.0.0.0 wingo88.vin
-0.0.0.0 winjp2.comapatecoman.gob.mx
 0.0.0.0 winladaxraycross.ru
 0.0.0.0 winmasters.com
 0.0.0.0 winningft.com
@@ -71364,6 +71330,7 @@
 0.0.0.0 www.radiosex.ro
 0.0.0.0 www.radix-net.com
 0.0.0.0 www.ragingstallion.com
+0.0.0.0 www.rahaporn.com
 0.0.0.0 www.rainbow.topbucks.com
 0.0.0.0 www.rajahbet.com
 0.0.0.0 www.rajwap.center
@@ -80812,7 +80779,6 @@
 0.0.0.0 yumporn.org
 0.0.0.0 yumxxx.com
 0.0.0.0 yumyum-babes.com
-0.0.0.0 yun.comapatecoman.gob.mx
 0.0.0.0 yuotubeporno.tripod.com
 0.0.0.0 yura.pro
 0.0.0.0 yuriluv.com
@@ -81114,7 +81080,6 @@
 0.0.0.0 zuckerporno.com
 0.0.0.0 zuleaandhackim.camgirlfacts.com
 0.0.0.0 zulli.evooli.com
-0.0.0.0 zulma.defensoria-nsjp.gob.mx
 0.0.0.0 zuzana.com
 0.0.0.0 zuzandra.com
 0.0.0.0 zuzazu.com
@@ -81129,7 +81094,6 @@
 0.0.0.0 zxctube.com
 0.0.0.0 zxfinder.com
 0.0.0.0 zxxxa.com
-0.0.0.0 zxz.defensoria-nsjp.gob.mx
 0.0.0.0 zybrdr.com
 0.0.0.0 zygal-us.tlsext.com
 0.0.0.0 zz.100pezd.cc
