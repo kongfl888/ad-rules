@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-03-21 21:38:10
+# DATE: 2025-03-28 21:38:44
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -34366,6 +34366,7 @@
 0.0.0.0 mm.onaego.info
 0.0.0.0 mm1cloud.com
 0.0.0.0 mm819.me
+0.0.0.0 mm99.vip
 0.0.0.0 mmballbusting.booru.org
 0.0.0.0 mmcams.com
 0.0.0.0 mmda.booru.org
