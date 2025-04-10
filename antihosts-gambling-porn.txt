@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-04-06 21:38:55
+# DATE: 2025-04-10 21:39:19
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -994,6 +994,7 @@
 0.0.0.0 5516688.com
 0.0.0.0 5533789.com
 0.0.0.0 555.porn
+0.0.0.0 555win.mobi
 0.0.0.0 5566688.com
 0.0.0.0 5566688.net
 0.0.0.0 558kbet.com
@@ -3678,6 +3679,7 @@
 0.0.0.0 api-stage.pornhub.com
 0.0.0.0 api-stage2.pornhub.com
 0.0.0.0 api-stage3.pornhub.com
+0.0.0.0 api-v2.zbet.tv
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.123bhh.com
@@ -3746,6 +3748,7 @@
 0.0.0.0 api.oppa888.com
 0.0.0.0 api.oppa88888888.com
 0.0.0.0 api.pornhub.com
+0.0.0.0 api.red88.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
@@ -3755,6 +3758,7 @@
 0.0.0.0 api.sextpanther.com
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
+0.0.0.0 api.sky88.com
 0.0.0.0 api.sky88.fun
 0.0.0.0 api.st666.win
 0.0.0.0 api.superporn.com
@@ -3773,6 +3777,8 @@
 0.0.0.0 api.xv-cdn.net
 0.0.0.0 api.xxxshame.com
 0.0.0.0 api2-gateway.go88.com
+0.0.0.0 api2.debet.uk
+0.0.0.0 api2.sin88.com
 0.0.0.0 api4.taitx1.club
 0.0.0.0 api6.taitx1.club
 0.0.0.0 apicmsdl.loc89.fun
@@ -6262,6 +6268,7 @@
 0.0.0.0 betusa.ag
 0.0.0.0 betvictor.com
 0.0.0.0 betvisa.com
+0.0.0.0 betvisa.dog
 0.0.0.0 betvnd.cc
 0.0.0.0 betvnd.vip
 0.0.0.0 betway.bg
@@ -10807,6 +10814,7 @@
 0.0.0.0 choi.gameb52a.me
 0.0.0.0 choi789.link
 0.0.0.0 choi99.com
+0.0.0.0 choib52.club
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choidabanh.com
@@ -12428,6 +12436,7 @@
 0.0.0.0 d06.cdn3x.com
 0.0.0.0 d1.dabet.club
 0.0.0.0 d1.debet.info
+0.0.0.0 d1.debet.so
 0.0.0.0 d1.debet.top
 0.0.0.0 d1.debet.win
 0.0.0.0 d1.playboy.com
@@ -12588,6 +12597,10 @@
 0.0.0.0 damadolove.com
 0.0.0.0 daman2.com
 0.0.0.0 damchim.com
+0.0.0.0 damconuong.cc
+0.0.0.0 damconuong.fit
+0.0.0.0 damconuong.love
+0.0.0.0 damconuong.net
 0.0.0.0 damduc.org
 0.0.0.0 damensex.com
 0.0.0.0 damimage.com
@@ -12622,6 +12635,7 @@
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.iwin.bio
 0.0.0.0 dangky.thethaofb88.com
+0.0.0.0 dangky.thethaovb88.biz
 0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
 0.0.0.0 dangky789.vin
@@ -13282,6 +13296,7 @@
 0.0.0.0 debet.mn
 0.0.0.0 debet.moi
 0.0.0.0 debet.net
+0.0.0.0 debet.so
 0.0.0.0 debet.top
 0.0.0.0 debet.uk
 0.0.0.0 debet.us
@@ -23920,6 +23935,7 @@
 0.0.0.0 i.shoujoramune.com
 0.0.0.0 i.unjav.com
 0.0.0.0 i.uzbek-porno.ru
+0.0.0.0 i.vip79.com
 0.0.0.0 i.voffka.com
 0.0.0.0 i.wetmeets.com
 0.0.0.0 i.win79.com
@@ -33941,6 +33957,7 @@
 0.0.0.0 mibet.cc
 0.0.0.0 mibet.com
 0.0.0.0 mibet.mobi
+0.0.0.0 mibet.net
 0.0.0.0 mibet.win
 0.0.0.0 mibet88.com
 0.0.0.0 mibet88.win
@@ -47093,6 +47110,7 @@
 0.0.0.0 s2.sin88.biz
 0.0.0.0 s2.sin88.cc
 0.0.0.0 s2.sin88.club
+0.0.0.0 s2.sin88.com
 0.0.0.0 s2.trafficdeposit.com
 0.0.0.0 s2.xxxvideohub.top
 0.0.0.0 s20.erome.com
@@ -50373,6 +50391,7 @@
 0.0.0.0 smutv.com
 0.0.0.0 smutwebcams.com
 0.0.0.0 smutx.me
+0.0.0.0 sn1.sin88.me
 0.0.0.0 snabbare.com
 0.0.0.0 snailsreviews.com
 0.0.0.0 snakeporntube.com
@@ -50421,8 +50440,10 @@
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.red88.vip
+0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 socket.static.reallifecam.com
@@ -53580,6 +53601,7 @@
 0.0.0.0 thethaofi88.com
 0.0.0.0 thethaouk88.org
 0.0.0.0 thethaova88.club
+0.0.0.0 thethaovb88.biz
 0.0.0.0 thethaovin88.info
 0.0.0.0 thethaovip.vip
 0.0.0.0 thethaovua.co
@@ -59334,11 +59356,14 @@
 0.0.0.0 wowyoungporn.com
 0.0.0.0 wp.choigiaitri.net
 0.0.0.0 wp.debet79.info
+0.0.0.0 wp.mibet.net
 0.0.0.0 wp.nbet.vin
+0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
+0.0.0.0 wp.sky88.com
 0.0.0.0 wp.sky88.fun
 0.0.0.0 wp.yourlustmedia.com
 0.0.0.0 wpbuddy.net
@@ -80260,6 +80285,7 @@
 0.0.0.0 yo.fan
 0.0.0.0 yo4tube.com
 0.0.0.0 yo69.pro
+0.0.0.0 yo88.cool
 0.0.0.0 yo88.net
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.win
@@ -80815,6 +80841,7 @@
 0.0.0.0 z00.rocks
 0.0.0.0 z00.world
 0.0.0.0 z1.zbet.com
+0.0.0.0 z1.zbet.tv
 0.0.0.0 z2.zbet.com
 0.0.0.0 z3.zbet.com
 0.0.0.0 z3.zbetvn.com
