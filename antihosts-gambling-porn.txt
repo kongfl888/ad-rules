@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-04-17 21:39:45
+# DATE: 2025-04-23 21:40:57
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1158,6 +1158,7 @@
 0.0.0.0 789clubs.club
 0.0.0.0 789clubs.vin
 0.0.0.0 789d.club
+0.0.0.0 789f.ac
 0.0.0.0 789k.club
 0.0.0.0 789v.club
 0.0.0.0 789vg.net
@@ -3688,6 +3689,7 @@
 0.0.0.0 api.33beta.com
 0.0.0.0 api.448kbet.com
 0.0.0.0 api.7897890.vip
+0.0.0.0 api.789f.ac
 0.0.0.0 api.881ae888.com
 0.0.0.0 api.882ae888.com
 0.0.0.0 api.883ae888.com
@@ -17375,6 +17377,7 @@
 0.0.0.0 flyflv.club
 0.0.0.0 flyflv.com
 0.0.0.0 flyingjizz.com
+0.0.0.0 fm88.com
 0.0.0.0 fm88.vip
 0.0.0.0 fncash.com
 0.0.0.0 fngml.com
@@ -30126,6 +30129,7 @@
 0.0.0.0 kazatube.com
 0.0.0.0 kazatube.mobi
 0.0.0.0 kazinoigri.com
+0.0.0.0 kbet.com
 0.0.0.0 kbjfree.com
 0.0.0.0 kbnmnl.com
 0.0.0.0 kc0.leisiba.net
@@ -30731,6 +30735,7 @@
 0.0.0.0 l.pornxp.me
 0.0.0.0 l.pornxp.me.home
 0.0.0.0 l33t.incest.click
+0.0.0.0 l4.lode88.ai
 0.0.0.0 la-sexcam.fr
 0.0.0.0 la-xxx.com
 0.0.0.0 la.spankbang.com
@@ -31853,6 +31858,7 @@
 0.0.0.0 lode247.sin88.biz
 0.0.0.0 lode555.co
 0.0.0.0 lode555.com
+0.0.0.0 lode88.ai
 0.0.0.0 lode88.online
 0.0.0.0 lode88.vip
 0.0.0.0 lode88j.cc
@@ -32638,6 +32644,7 @@
 0.0.0.0 m0002.gamecopyworld.com
 0.0.0.0 m1.17sexvideo.com
 0.0.0.0 m1.dvdl.net
+0.0.0.0 m1.fm88.com
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.mir-porno.life
 0.0.0.0 m12.hairysluts.tv
@@ -50176,6 +50183,7 @@
 0.0.0.0 sk.bimbolive.com
 0.0.0.0 sk.bongacams.com
 0.0.0.0 sk.bongacams.org
+0.0.0.0 sk.fm88.com
 0.0.0.0 sk.hot-live-sex-shows.com
 0.0.0.0 sk.sex4k.cam
 0.0.0.0 skachatporno-7.com
@@ -56316,6 +56324,7 @@
 0.0.0.0 v1.homemade.xxx
 0.0.0.0 v1.idealgasm.com
 0.0.0.0 v1.justincestporn.com
+0.0.0.0 v1.lode88.ai
 0.0.0.0 v1.milffox.com
 0.0.0.0 v1.paradisehill.cc
 0.0.0.0 v1.phimsex3x.cc
@@ -59990,6 +59999,7 @@
 0.0.0.0 www.789.club
 0.0.0.0 www.7897890.vip
 0.0.0.0 www.789b.live
+0.0.0.0 www.789f.ac
 0.0.0.0 www.78win01.com
 0.0.0.0 www.78win07.com
 0.0.0.0 www.79lucky.com
