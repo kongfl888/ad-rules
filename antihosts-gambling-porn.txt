@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-04-23 21:40:57
+# DATE: 2025-04-25 21:41:22
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -3705,6 +3705,7 @@
 0.0.0.0 api.ae88827.com
 0.0.0.0 api.ae88837.com
 0.0.0.0 api.bachhoa88.com
+0.0.0.0 api.bec88.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.bookmark.xxx
 0.0.0.0 api.cambang.com
@@ -5607,6 +5608,7 @@
 0.0.0.0 beautyxxxtube.com
 0.0.0.0 beaverbattle.com
 0.0.0.0 beavertron.com
+0.0.0.0 bec88.com
 0.0.0.0 becomingfemme.com
 0.0.0.0 bedpage.com
 0.0.0.0 beefcakehunter.com
