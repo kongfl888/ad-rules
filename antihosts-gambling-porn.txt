@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-04-25 21:41:22
+# DATE: 2025-05-05 21:40:58
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -80981,6 +80981,7 @@
 0.0.0.0 zo1.win
 0.0.0.0 zo2.win
 0.0.0.0 zo3x.cc
+0.0.0.0 zo88.com
 0.0.0.0 zo88.org
 0.0.0.0 zobrawy.com
 0.0.0.0 zodiacu.com
