@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-03-12 21:39:50 by:Mr.K----
+! ----Updatetime: 2025-05-07 21:40:01 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 cad.youku.com
@@ -44,8 +44,7 @@ ipinyou.com
 le.com##.min_pause_img
 wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
-huya.com###hy-ad,#hy-ab,#huya-ab
-www.huya.com##.huya-ab
+huya.com##.huya-ab,#hy-ad,#hy-ab,#huya-ab
 www.huya.com##.sidebar-banner, a.J_g_resource
 www.huya.com###public-screen-ab
 g.huya.com
