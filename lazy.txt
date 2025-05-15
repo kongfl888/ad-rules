@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-05-09 21:39:54 by:Mr.K----
+! ----Updatetime: 2025-05-15 21:40:38 by:Mr.K----
 ! Modified from xinggsf,hacamer.Thanks
 ada.baidu.com
 ||dup.baidustatic.com/
@@ -881,6 +881,7 @@ pageMediaControl*$script
 @@||qidian.gtimg.com/*/qd/js/component/ad_strategies.$script
 ||qidian.com/upload/gamesy/20$image
 ||qidian.qpic.cn/qidian_common/$image
+||file.myqcloud.com/yuewen/game/images/$image,domain=qidian.com
 ||static.zongheng.com/*/ad$script
 ||static.zongheng.com/upload/recommend/game/201$image
 ||hjwzw.com/js/n$script

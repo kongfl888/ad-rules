@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-05-05 21:40:58
+# DATE: 2025-05-15 21:40:38
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -5014,6 +5014,8 @@
 0.0.0.0 b3.img.mobypicture.com
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b369.com
+0.0.0.0 b4.pum88.com
+0.0.0.0 b4.zet88.com
 0.0.0.0 b44.com
 0.0.0.0 b52.cc
 0.0.0.0 b52.club
@@ -19278,6 +19280,7 @@
 0.0.0.0 ga179.com
 0.0.0.0 ga836.com
 0.0.0.0 ga88.pro
+0.0.0.0 ga88.top
 0.0.0.0 ga939.com
 0.0.0.0 gabbyquinteros.com
 0.0.0.0 gabrio.com
@@ -45240,6 +45243,7 @@
 0.0.0.0 pullporno.com
 0.0.0.0 pulpo69.com
 0.0.0.0 pulse2.sakura.ne.jp
+0.0.0.0 pum88.com
 0.0.0.0 pumaswede.com
 0.0.0.0 pump-cdn.com
 0.0.0.0 punchbets.com
@@ -80925,6 +80929,7 @@
 0.0.0.0 zerotolerancefilms.com
 0.0.0.0 zesexy.com
 0.0.0.0 zet4xxxx1227.duckdns.org
+0.0.0.0 zet88.com
 0.0.0.0 zetpoker.eu
 0.0.0.0 zeus.gotanynudes.com
 0.0.0.0 zevera.com
