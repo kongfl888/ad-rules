@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-05-15 21:40:38
+# DATE: 2025-05-21 21:40:45
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -10822,8 +10822,10 @@
 0.0.0.0 choi789.link
 0.0.0.0 choi99.com
 0.0.0.0 choib52.club
+0.0.0.0 choib52.me
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
+0.0.0.0 choibec88.vip
 0.0.0.0 choidabanh.com
 0.0.0.0 choidangcap.org
 0.0.0.0 choidangcap.pro
@@ -12645,6 +12647,7 @@
 0.0.0.0 dangky.thethaovb88.biz
 0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
+0.0.0.0 dangky789.one
 0.0.0.0 dangky789.vin
 0.0.0.0 dangkygo88.in
 0.0.0.0 dangkykubet.vip
@@ -13894,6 +13897,7 @@
 0.0.0.0 dk.playgem.me
 0.0.0.0 dk.sex4k.cam
 0.0.0.0 dk.sieutaixiu79.club
+0.0.0.0 dk.taiwin79.my
 0.0.0.0 dk.thethaouk88.org
 0.0.0.0 dk.thethaovin88.info
 0.0.0.0 dk.thethaovua.co
@@ -32130,6 +32134,7 @@
 0.0.0.0 lp.agentredgirl.com
 0.0.0.0 lp.b52vn.info
 0.0.0.0 lp.blowpass.com
+0.0.0.0 lp.choib52.me
 0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
 0.0.0.0 lp.da88vn.win
@@ -52223,6 +52228,7 @@
 0.0.0.0 taiv8.top
 0.0.0.0 taive.app
 0.0.0.0 taiwanlottery.com.tw
+0.0.0.0 taiwin79.my
 0.0.0.0 taiwin79.win
 0.0.0.0 taixiu.taisum2.com
 0.0.0.0 taixiu.xinloiduocchua.co
@@ -58792,6 +58798,7 @@
 0.0.0.0 web-starlets.com
 0.0.0.0 web.0000130.com
 0.0.0.0 web.choigametip.org
+0.0.0.0 web.dangky789.one
 0.0.0.0 web.hit.club
 0.0.0.0 web.hitclub.top
 0.0.0.0 web.hitlub.fun
