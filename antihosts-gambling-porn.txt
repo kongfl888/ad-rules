@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-05-28 21:40:24
+# DATE: 2025-06-02 21:42:15
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1245,6 +1245,7 @@
 0.0.0.0 868vip.onl
 0.0.0.0 868vip.top
 0.0.0.0 868vip1.live
+0.0.0.0 86bet.net
 0.0.0.0 87vnd.com
 0.0.0.0 881ae888.com
 0.0.0.0 882ae888.com
@@ -12684,6 +12685,7 @@
 0.0.0.0 dangkyrikvip.win
 0.0.0.0 dangkysanvip.site
 0.0.0.0 dangkythabet.com
+0.0.0.0 dangkyva88.info
 0.0.0.0 danhloo.com
 0.0.0.0 daniblake.livecum.club
 0.0.0.0 danielagrandes.pussyvideo.club
@@ -30453,6 +30455,7 @@
 0.0.0.0 km-pics.phncdn.com
 0.0.0.0 km.choi789.link
 0.0.0.0 km.choivin88.us
+0.0.0.0 km.dangkyva88.info
 0.0.0.0 km1888866b.com
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
