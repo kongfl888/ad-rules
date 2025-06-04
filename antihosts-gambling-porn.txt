@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-06-02 21:42:15
+# DATE: 2025-06-04 21:37:52
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -5023,7 +5023,9 @@
 0.0.0.0 b3.img.mobypicture.com
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b369.com
+0.0.0.0 b4.big88.com
 0.0.0.0 b4.pum88.com
+0.0.0.0 b4.qibet.com
 0.0.0.0 b4.zet88.com
 0.0.0.0 b44.com
 0.0.0.0 b52.cc
@@ -6367,6 +6369,7 @@
 0.0.0.0 big-tits-model.com
 0.0.0.0 big-tits-porn.pro
 0.0.0.0 big7.com
+0.0.0.0 big88.com
 0.0.0.0 big88.one
 0.0.0.0 bigass.biz
 0.0.0.0 bigass.cool
@@ -45583,6 +45586,7 @@
 0.0.0.0 qh91.com
 0.0.0.0 qh99.com
 0.0.0.0 qhottestporn.com
+0.0.0.0 qibet.com
 0.0.0.0 qingse.one
 0.0.0.0 qip1.pornogratis.pro
 0.0.0.0 qip2.pornogratis.pro
@@ -50271,6 +50275,7 @@
 0.0.0.0 sk.fm88.com
 0.0.0.0 sk.hot-live-sex-shows.com
 0.0.0.0 sk.sex4k.cam
+0.0.0.0 sk.xibet.com
 0.0.0.0 skachatporno-7.com
 0.0.0.0 skbiotech.ru
 0.0.0.0 skbj.tv
@@ -58517,6 +58522,7 @@
 0.0.0.0 vtrahetut.porn
 0.0.0.0 vtranny.com
 0.0.0.0 vtube.mobi
+0.0.0.0 vu88.com
 0.0.0.0 vua2.club
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
@@ -58638,6 +58644,7 @@
 0.0.0.0 w1.qfilm.tv
 0.0.0.0 w1024.luscious.net
 0.0.0.0 w1w.kingporno.cc
+0.0.0.0 w2.wi88.win
 0.0.0.0 w2018.xyzprinting.com
 0.0.0.0 w26.my-cima.net
 0.0.0.0 w3.phimsex9.com
@@ -77344,6 +77351,7 @@
 0.0.0.0 xhyourself.site
 0.0.0.0 xhypnotube.com
 0.0.0.0 xiaoou.tv
+0.0.0.0 xibet.com
 0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xillimite.com
