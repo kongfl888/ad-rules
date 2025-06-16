@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-06-12 21:40:50
+# DATE: 2025-06-16 21:41:47
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -3734,6 +3734,7 @@
 0.0.0.0 api.go88r.pro
 0.0.0.0 api.hb8887.com
 0.0.0.0 api.hb88p.com
+0.0.0.0 api.hdbet.com
 0.0.0.0 api.hdroom.xxx
 0.0.0.0 api.hentaihaven.app
 0.0.0.0 api.hentaihaven.xxx
@@ -3747,6 +3748,7 @@
 0.0.0.0 api.linkchuanon.com
 0.0.0.0 api.lovense.com
 0.0.0.0 api.luscious.net
+0.0.0.0 api.min88.com
 0.0.0.0 api.minivn.com
 0.0.0.0 api.mocbai.cc
 0.0.0.0 api.mu88.mu
@@ -5026,6 +5028,9 @@
 0.0.0.0 b4.big88.com
 0.0.0.0 b4.pum88.com
 0.0.0.0 b4.qibet.com
+0.0.0.0 b4.vibet.com
+0.0.0.0 b4.vua88.com
+0.0.0.0 b4.won88.win
 0.0.0.0 b4.zet88.com
 0.0.0.0 b44.com
 0.0.0.0 b52.cc
@@ -10898,6 +10903,7 @@
 0.0.0.0 choitrai.net
 0.0.0.0 choivin88.us
 0.0.0.0 choiwin79.in
+0.0.0.0 choiwon88.info
 0.0.0.0 choiyo88.co
 0.0.0.0 cholitas.top
 0.0.0.0 cholotube.org
@@ -21697,6 +21703,7 @@
 0.0.0.0 hdbbwporn.com
 0.0.0.0 hdbbwxxx.com
 0.0.0.0 hdbeegfree.net
+0.0.0.0 hdbet.com
 0.0.0.0 hdbigass.com
 0.0.0.0 hdbigassporn.com
 0.0.0.0 hdbigtitstube.com
@@ -25059,6 +25066,7 @@
 0.0.0.0 img.metaxgirl.com
 0.0.0.0 img.metaxpic.com
 0.0.0.0 img.mfcimg.com
+0.0.0.0 img.min88.com
 0.0.0.0 img.mizugi.pro
 0.0.0.0 img.morritastube.com
 0.0.0.0 img.mu9.club
@@ -30083,6 +30091,7 @@
 0.0.0.0 k8win90.com
 0.0.0.0 k8worldcup666.com
 0.0.0.0 k8xoso.com
+0.0.0.0 k9bet.net
 0.0.0.0 k9sex.com
 0.0.0.0 k9vidz.com
 0.0.0.0 k9vn1.com
@@ -32731,6 +32740,7 @@
 0.0.0.0 m1.fm88.com
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.mir-porno.life
+0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
 0.0.0.0 m12.hairysluts.tv
 0.0.0.0 m2.17sexvideo.com
@@ -34340,6 +34350,7 @@
 0.0.0.0 milujemeporno.cz
 0.0.0.0 mimg.lcmcdn.net
 0.0.0.0 mimi-teenz.com
+0.0.0.0 min88.com
 0.0.0.0 mince.nl
 0.0.0.0 mindcontroltheatre.com
 0.0.0.0 mindimink.com
@@ -36601,6 +36612,7 @@
 0.0.0.0 nhatkimaymua.com
 0.0.0.0 nhatvip.mobi
 0.0.0.0 nhatvip.us
+0.0.0.0 nhatvip.vip
 0.0.0.0 nhentai-xxx.zproxy.org
 0.0.0.0 nhentai.com
 0.0.0.0 nhentai.gg
@@ -37161,6 +37173,7 @@
 0.0.0.0 nshoneys.com
 0.0.0.0 nsimg.net
 0.0.0.0 nsk.erobodio.com
+0.0.0.0 nt.choiwon88.info
 0.0.0.0 nt.freelatinapics.com
 0.0.0.0 nt.grannyoldpussy.com
 0.0.0.0 nt.nudeblackporn.com
@@ -45280,6 +45293,7 @@
 0.0.0.0 pub.nakedreel.com
 0.0.0.0 pub.sex.com
 0.0.0.0 pub.xxx
+0.0.0.0 pub88.com
 0.0.0.0 puba.com
 0.0.0.0 pubbock.com
 0.0.0.0 public-images.unlockd.me
@@ -45565,6 +45579,7 @@
 0.0.0.0 qc.vic.win
 0.0.0.0 qc.x8.club
 0.0.0.0 qc.x8.games
+0.0.0.0 qc.x8.mobi
 0.0.0.0 qc.x8vn.top
 0.0.0.0 qc.zo88.org
 0.0.0.0 qc789.vip
@@ -47318,7 +47333,6 @@
 0.0.0.0 safadinhasdejoinville.com
 0.0.0.0 safaribet.com.gh
 0.0.0.0 safeanal.com
-0.0.0.0 safebooru.org
 0.0.0.0 safefaststatic.com
 0.0.0.0 safesex.gr
 0.0.0.0 saff.cc
@@ -50282,6 +50296,7 @@
 0.0.0.0 sk.fm88.com
 0.0.0.0 sk.hot-live-sex-shows.com
 0.0.0.0 sk.sex4k.cam
+0.0.0.0 sk.tin88.bet
 0.0.0.0 sk.vin88.net
 0.0.0.0 sk.xibet.com
 0.0.0.0 skachatporno-7.com
@@ -50557,6 +50572,7 @@
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
+0.0.0.0 socket.hdbet.com
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 sockets.videos.com
 0.0.0.0 soco88.com
@@ -51762,6 +51778,7 @@
 0.0.0.0 susi.live
 0.0.0.0 susilive.com
 0.0.0.0 susyhaley.mandyfeed.com
+0.0.0.0 sut88.com
 0.0.0.0 sutra.wordpress.com
 0.0.0.0 suzepps.com
 0.0.0.0 suzisporn.com
@@ -54055,6 +54072,7 @@
 0.0.0.0 timtales.com
 0.0.0.0 tin.11bet.net
 0.0.0.0 tin010.com
+0.0.0.0 tin88.bet
 0.0.0.0 tin88.top
 0.0.0.0 tin888.club
 0.0.0.0 tinaangel.com
@@ -55701,6 +55719,7 @@
 0.0.0.0 tukif.club
 0.0.0.0 tukif.com
 0.0.0.0 tukif.icu
+0.0.0.0 tukif.porn
 0.0.0.0 tukifporno.com
 0.0.0.0 tuktukpatrol.com
 0.0.0.0 tulip.paheal.net
@@ -56414,6 +56433,7 @@
 0.0.0.0 v.jizzoncam.com
 0.0.0.0 v.liveanal.tv
 0.0.0.0 v.nhat9.vip
+0.0.0.0 v.nhatvip.vip
 0.0.0.0 v.phimsex9.com
 0.0.0.0 v.porno333.com
 0.0.0.0 v.sex1x.com
@@ -56901,6 +56921,7 @@
 0.0.0.0 viacrux.angelfire.com
 0.0.0.0 viagra-shop.com.ua
 0.0.0.0 vibepride.com
+0.0.0.0 vibet.com
 0.0.0.0 vibragame.net
 0.0.0.0 vibragame.org
 0.0.0.0 vibrasian.com
@@ -58539,6 +58560,7 @@
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
 0.0.0.0 vua88.club
+0.0.0.0 vua88.com
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com
 0.0.0.0 vuabet.com
@@ -58919,6 +58941,7 @@
 0.0.0.0 web.top88.vip
 0.0.0.0 web.topzo.com
 0.0.0.0 web.vicplay.io
+0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.tv
 0.0.0.0 web2sex.com
 0.0.0.0 web2sex.top
@@ -59396,6 +59419,8 @@
 0.0.0.0 womennude.pro
 0.0.0.0 womenofplayboy.com
 0.0.0.0 won.images.streamray.com
+0.0.0.0 won88.com
+0.0.0.0 won88.win
 0.0.0.0 wonderfullook.top
 0.0.0.0 wonderpornmovies.com
 0.0.0.0 wonderpornvideos.com
@@ -59485,6 +59510,7 @@
 0.0.0.0 wowyoungporn.com
 0.0.0.0 wp.choigiaitri.net
 0.0.0.0 wp.debet79.info
+0.0.0.0 wp.hdbet.com
 0.0.0.0 wp.mibet.net
 0.0.0.0 wp.nbet.vin
 0.0.0.0 wp.red88.com
@@ -74139,6 +74165,7 @@
 0.0.0.0 www.tugoclock.com
 0.0.0.0 www.tugpass.com
 0.0.0.0 www.tukif.com
+0.0.0.0 www.tukif.porn
 0.0.0.0 www.tumanude.com
 0.0.0.0 www.tumbex.com
 0.0.0.0 www.tumview.com
@@ -76750,6 +76777,7 @@
 0.0.0.0 x748.2f20.com
 0.0.0.0 x8.club
 0.0.0.0 x8.games
+0.0.0.0 x8.mobi
 0.0.0.0 x8vn.com
 0.0.0.0 x8vn.top
 0.0.0.0 x97.nudevista.com
@@ -80418,6 +80446,7 @@
 0.0.0.0 yo4tube.com
 0.0.0.0 yo69.pro
 0.0.0.0 yo88.cool
+0.0.0.0 yo88.is
 0.0.0.0 yo88.net
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.win

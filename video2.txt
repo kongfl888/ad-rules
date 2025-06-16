@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Video Created by MrK
-! Version: 2025-05-09 21:39:54
+! Version: 2025-06-16 21:41:46
 ! Expires: 12 Hours
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
@@ -117,7 +117,7 @@ www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 litix.io
 ||google.*/pagead/
 ||gstatic.com/shopping?
-||btsow.motorcycles/app/jav$image
+||btsow.pics/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
@@ -125,8 +125,8 @@ jads.co
 ||dd-static.jd.com^$image,domain=subaibaiys.com
 dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
 yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
-||www.yatu.tv:2082/image/*.gif^$image
-||www.yatu.tv:2082/m/images/$image
+||www.yatu.tv/image/*.gif^$image
+||www.yatu.tv/m/images/$image
 ||tracker.$xhr,websocket,script,ping
 stgowan.com
 z4a.net
