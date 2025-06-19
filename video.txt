@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-06-16 21:41:46 by:Mr.K----
+! ----Updatetime: 2025-06-19 21:41:12 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 cad.youku.com
@@ -103,7 +103,7 @@ z4a.net
 ||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||btsow.pics/app/jav$image
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agefans.la
-||dd-static.jd.com^$image,domain=subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=agedm.me
+||dd-static.jd.com^$image,domain=subaibai.com
 ||www.yatu.tv/image/*.gif^$image
 ||www.yatu.tv/m/images/$image
