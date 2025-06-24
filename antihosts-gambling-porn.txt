@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-06-19 21:41:12
+# DATE: 2025-06-24 21:41:52
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1012,6 +1012,8 @@
 0.0.0.0 567lives.top
 0.0.0.0 58cc.live
 0.0.0.0 58n0pk.hotsexyandbigtity.com
+0.0.0.0 58win.com
+0.0.0.0 58win.cool
 0.0.0.0 5besten-sexdatingseiten.ch
 0.0.0.0 5dimes.com
 0.0.0.0 5ex.incest.click
@@ -20142,6 +20144,7 @@
 0.0.0.0 gemidos.tv
 0.0.0.0 gemmeporn.com
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.vip
 0.0.0.0 gen88.com
 0.0.0.0 gencomics.es
 0.0.0.0 genderx.com
@@ -22885,6 +22888,7 @@
 0.0.0.0 honestpornreviews.com
 0.0.0.0 honestwife.com
 0.0.0.0 honeyvirgins.com
+0.0.0.0 hong88vn.click
 0.0.0.0 hong88vn.win
 0.0.0.0 hongbiencang.com
 0.0.0.0 hoodamateurs.com
@@ -33624,6 +33628,7 @@
 0.0.0.0 mb66.com
 0.0.0.0 mb88.bet
 0.0.0.0 mb88.com
+0.0.0.0 mb88.vip
 0.0.0.0 mbbg-binhduong.blogspot.com
 0.0.0.0 mbbg.cc
 0.0.0.0 mbbg.club
@@ -41166,6 +41171,7 @@
 0.0.0.0 play.choisport.com
 0.0.0.0 play.doodlink.info
 0.0.0.0 play.fa88.win
+0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
 0.0.0.0 play.go88.tv
 0.0.0.0 play.hit.club
@@ -58942,6 +58948,7 @@
 0.0.0.0 web.vicplay.io
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.tv
+0.0.0.0 web.zowin.tv
 0.0.0.0 web2sex.com
 0.0.0.0 web2sex.top
 0.0.0.0 web3x.sexlondep.pro
@@ -81248,6 +81255,7 @@
 0.0.0.0 zoplay.top
 0.0.0.0 zorroporn.pro
 0.0.0.0 zossip.com
+0.0.0.0 zowin.tv
 0.0.0.0 zoyaporn.com
 0.0.0.0 zoztube.com
 0.0.0.0 zphimsex.me
