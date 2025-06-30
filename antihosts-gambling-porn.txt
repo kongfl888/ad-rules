@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-06-24 21:41:52
+# DATE: 2025-06-30 21:41:49
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -77631,6 +77631,7 @@
 0.0.0.0 xnnx.name
 0.0.0.0 xnnx.pro
 0.0.0.0 xnnx.watch
+0.0.0.0 xnnx69.com
 0.0.0.0 xnnxfap.com
 0.0.0.0 xnnxfree.com
 0.0.0.0 xnnxnxxx.org
