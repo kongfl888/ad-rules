@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-06-23 21:41:59 by:Mr.K----
+! ----Updatetime: 2025-07-08 21:42:09 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 cad.youku.com
@@ -74,7 +74,7 @@ z4a.net
 ||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
 ||res.ab.qq.com/tab/$script
 ||v.qq.com/cache/wuji/object^$script
-||api.bilibili.com/x/web-show/res/locs?$~script
+||api.bilibili.com/x/*/res/locs?$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
 ||hdslb.com/bfs/seed/jinkela/short/user-fingerprint/$script
 ||g.pptv.com/game/$subdocument
