@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-07-03 21:41:44
+# DATE: 2025-07-11 21:42:06
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -6557,6 +6557,7 @@
 0.0.0.0 bimmup.net
 0.0.0.0 bimmup.tv
 0.0.0.0 bimxinh.com
+0.0.0.0 bin88.com
 0.0.0.0 bindastimes.com
 0.0.0.0 bindastimesuk.com
 0.0.0.0 bindasxflix.com
@@ -32748,6 +32749,7 @@
 0.0.0.0 m1.17sexvideo.com
 0.0.0.0 m1.dvdl.net
 0.0.0.0 m1.fm88.com
+0.0.0.0 m1.max88.vip
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.mir-porno.life
 0.0.0.0 m1.tin88.bet
@@ -33585,6 +33587,7 @@
 0.0.0.0 max.porn
 0.0.0.0 max10.pro
 0.0.0.0 max88.com
+0.0.0.0 max88.vip
 0.0.0.0 maxanalporn.com
 0.0.0.0 maxbet.one
 0.0.0.0 maxbet.website
@@ -50204,6 +50207,7 @@
 0.0.0.0 sin88.vip
 0.0.0.0 sin88.win
 0.0.0.0 sin88s.com
+0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
 0.0.0.0 sindeejennings.com
 0.0.0.0 sinemangoo.org
