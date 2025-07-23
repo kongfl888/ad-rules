@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-07-18 21:43:07
+# DATE: 2025-07-23 21:43:45
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1320,7 +1320,10 @@
 0.0.0.0 8hentai.net
 0.0.0.0 8jbet.vin
 0.0.0.0 8k00000.com
+0.0.0.0 8k88.live
+0.0.0.0 8k88.plus
 0.0.0.0 8kbet.app
+0.0.0.0 8kbet.com
 0.0.0.0 8kpornmovies.com
 0.0.0.0 8kpornvids.com
 0.0.0.0 8ksexmovie.com
@@ -11402,6 +11405,7 @@
 0.0.0.0 cocomilfs.com
 0.0.0.0 coconey.ru
 0.0.0.0 code.jquery.comembed.redtube.com
+0.0.0.0 code8k.vip
 0.0.0.0 codere.bet.ar
 0.0.0.0 codere.com.co
 0.0.0.0 codere.es
@@ -31695,6 +31699,9 @@
 0.0.0.0 live.twixy.app
 0.0.0.0 live.vuabai9.com
 0.0.0.0 live.wickedpictures.com
+0.0.0.0 live18k.com
+0.0.0.0 live18k.me
+0.0.0.0 live18k.vip
 0.0.0.0 live2hustle.net
 0.0.0.0 live69cams.com
 0.0.0.0 liveadultchat.com
@@ -58451,6 +58458,7 @@
 0.0.0.0 vp2.vjav.com
 0.0.0.0 vphimsex.net
 0.0.0.0 vpizdenke.com
+0.0.0.0 vpn8k.top
 0.0.0.0 vpnlxpcs.com
 0.0.0.0 vpopke.com
 0.0.0.0 vporn.asia
