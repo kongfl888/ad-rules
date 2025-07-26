@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-07-23 21:43:45
+# DATE: 2025-07-26 21:43:23
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -12288,6 +12288,7 @@
 0.0.0.0 cuocbanh88.net
 0.0.0.0 cuocbong.thethaofb88.com
 0.0.0.0 cuock8.com
+0.0.0.0 cuocxau188bet.com
 0.0.0.0 cuongdam.org
 0.0.0.0 cuongsex.com
 0.0.0.0 cup-nl.tlsext.com
@@ -24113,6 +24114,7 @@
 0.0.0.0 i9.hethongxacthuc.com
 0.0.0.0 i9.pc20160301.com
 0.0.0.0 i9.pro
+0.0.0.0 i9.top
 0.0.0.0 i90.fastpic.ru
 0.0.0.0 i92.fastpic.ru
 0.0.0.0 i93.fastpic.ru
@@ -24229,6 +24231,7 @@
 0.0.0.0 i9bet91.com
 0.0.0.0 i9bet92.com
 0.0.0.0 i9bet999.com
+0.0.0.0 i9betapp.win
 0.0.0.0 i9betdl.com
 0.0.0.0 i9i9bet.com
 0.0.0.0 i9vn.com
@@ -36319,6 +36322,7 @@
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
 0.0.0.0 nbet88.org
+0.0.0.0 nc88.net
 0.0.0.0 ncc.sex-explorer.com
 0.0.0.0 nchat.321chat.com
 0.0.0.0 nchat.321sexchat.com
@@ -54986,6 +54990,7 @@
 0.0.0.0 trampararam.net
 0.0.0.0 tranceangel.startmee.nl
 0.0.0.0 tranent.nl
+0.0.0.0 trang188vn.com
 0.0.0.0 trangchu.life
 0.0.0.0 trangweb.co
 0.0.0.0 tranh18.com
