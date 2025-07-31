@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-07-26 21:43:23
+# DATE: 2025-07-31 21:45:04
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1135,6 +1135,7 @@
 0.0.0.0 789.club
 0.0.0.0 789.fun
 0.0.0.0 789.mobi
+0.0.0.0 789.sx
 0.0.0.0 789.win
 0.0.0.0 78966.app
 0.0.0.0 7897890.bet
@@ -1741,6 +1742,7 @@
 0.0.0.0 ads.jerk2it.com
 0.0.0.0 ads.mucunki.com
 0.0.0.0 ads.myjizztube.com
+0.0.0.0 ads.nangcuc.link
 0.0.0.0 ads.playboy.bg
 0.0.0.0 ads.playmay88.top
 0.0.0.0 ads.pornerbros.com
@@ -22531,11 +22533,13 @@
 0.0.0.0 heotv.net
 0.0.0.0 heoviet.com
 0.0.0.0 heovl.blog
+0.0.0.0 heovl.bot
 0.0.0.0 heovl.cc
 0.0.0.0 heovl.com
 0.0.0.0 heovl.fun
 0.0.0.0 heovl.live
 0.0.0.0 heovl.me
+0.0.0.0 heovl.moe
 0.0.0.0 heovl.net
 0.0.0.0 heovl.tube
 0.0.0.0 heovl.tv
@@ -24669,6 +24673,7 @@
 0.0.0.0 ihentai.fun
 0.0.0.0 ihentai.to
 0.0.0.0 ihentai.uk
+0.0.0.0 ihentai.ws
 0.0.0.0 ihookup.com
 0.0.0.0 ihpc.info
 0.0.0.0 ihporn.com
@@ -25090,6 +25095,8 @@
 0.0.0.0 img.mu9.club
 0.0.0.0 img.mu9.com
 0.0.0.0 img.myhdjav.net
+0.0.0.0 img.nangcuc.link
+0.0.0.0 img.nangcuc.live
 0.0.0.0 img.nbet.vin
 0.0.0.0 img.nicexgirl.com
 0.0.0.0 img.o-be.com
@@ -31194,6 +31201,7 @@
 0.0.0.0 lemonmov.com
 0.0.0.0 lemovies.net
 0.0.0.0 lenatoplist.com
+0.0.0.0 lenlut.blog
 0.0.0.0 lenlut.info
 0.0.0.0 lenlut.net
 0.0.0.0 lenlut.tv
@@ -36175,6 +36183,7 @@
 0.0.0.0 nana.my.id
 0.0.0.0 nanabook.com
 0.0.0.0 nanairo.co
+0.0.0.0 nangcuc.link
 0.0.0.0 nangcuc.live
 0.0.0.0 nangcuc.org
 0.0.0.0 nangiphotos.com
@@ -58166,6 +58175,7 @@
 0.0.0.0 vlxx.bio
 0.0.0.0 vlxx.blue
 0.0.0.0 vlxx.buzz
+0.0.0.0 vlxx.bz
 0.0.0.0 vlxx.casa
 0.0.0.0 vlxx.cc
 0.0.0.0 vlxx.cfd
