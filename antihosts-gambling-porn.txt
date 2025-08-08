@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-07-31 21:45:04
+# DATE: 2025-08-08 21:42:38
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -5037,6 +5037,7 @@
 0.0.0.0 b3.trafficdeposit.com
 0.0.0.0 b369.com
 0.0.0.0 b4.big88.com
+0.0.0.0 b4.big88.net
 0.0.0.0 b4.pum88.com
 0.0.0.0 b4.qibet.com
 0.0.0.0 b4.vibet.com
@@ -6386,6 +6387,7 @@
 0.0.0.0 big-tits-porn.pro
 0.0.0.0 big7.com
 0.0.0.0 big88.com
+0.0.0.0 big88.net
 0.0.0.0 big88.one
 0.0.0.0 bigass.biz
 0.0.0.0 bigass.cool
@@ -20667,6 +20669,10 @@
 0.0.0.0 go4freeporn.com
 0.0.0.0 go50.net
 0.0.0.0 go789.nl
+0.0.0.0 go8.lv
+0.0.0.0 go8.plus
+0.0.0.0 go8.pub
+0.0.0.0 go8.pw
 0.0.0.0 go88-vn.com
 0.0.0.0 go88.ca
 0.0.0.0 go88.cam
@@ -34189,7 +34195,6 @@
 0.0.0.0 milfdp.com
 0.0.0.0 milfed.com
 0.0.0.0 milfemdom.com
-0.0.0.0 milffinder.com
 0.0.0.0 milffox.club
 0.0.0.0 milffox.com
 0.0.0.0 milffox.mobi
@@ -37748,6 +37753,7 @@
 0.0.0.0 o-r-g-a-s-m-o-s.tumblr.com
 0.0.0.0 o.hotsextube.tv
 0.0.0.0 o.yourlust.com
+0.0.0.0 o4.oxbet.in
 0.0.0.0 oaihdk.com
 0.0.0.0 oascentral.alladultchannel.com
 0.0.0.0 oascentral.wickedlocal.com
@@ -68585,7 +68591,6 @@
 0.0.0.0 www.milfcumsuckers.com
 0.0.0.0 www.milfed.com
 0.0.0.0 www.milffabrik.com
-0.0.0.0 www.milffinder.com
 0.0.0.0 www.milffox.com
 0.0.0.0 www.milfhdvideos.com
 0.0.0.0 www.milfhookup.net
