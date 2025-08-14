@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-08-08 21:42:38
+# DATE: 2025-08-14 21:42:20
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -6305,6 +6305,7 @@
 0.0.0.0 betus.com.pa
 0.0.0.0 betusa.ag
 0.0.0.0 betvictor.com
+0.0.0.0 betvip.center
 0.0.0.0 betvisa.com
 0.0.0.0 betvisa.dog
 0.0.0.0 betvnd.cc
@@ -29932,6 +29933,7 @@
 0.0.0.0 k8.social
 0.0.0.0 k801k.com
 0.0.0.0 k81206.com
+0.0.0.0 k88.pro
 0.0.0.0 k89bet.com
 0.0.0.0 k8asia.com
 0.0.0.0 k8asia12.com
@@ -30311,6 +30313,8 @@
 0.0.0.0 keyarena.gg
 0.0.0.0 keyserver.muchohentai.com
 0.0.0.0 kezvideos.com
+0.0.0.0 kg88.com
+0.0.0.0 kg88.shop
 0.0.0.0 khamphasampham.cc
 0.0.0.0 khattinh.pro
 0.0.0.0 khazarmilkers.com
@@ -33030,6 +33034,7 @@
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
+0.0.0.0 man88.net
 0.0.0.0 manatoki122.net
 0.0.0.0 manclub.fun
 0.0.0.0 manclub.live
@@ -80975,6 +80980,7 @@
 0.0.0.0 youvideos.net
 0.0.0.0 youwager.eu
 0.0.0.0 youwatchporn.com
+0.0.0.0 youwevnak.kg88.shop
 0.0.0.0 youwin.com
 0.0.0.0 youwix.com
 0.0.0.0 youx.xxx
