@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-09-05 21:39:16
+# DATE: 2025-09-09 21:38:09
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -2281,6 +2281,7 @@
 0.0.0.0 aisan-porn.org
 0.0.0.0 aisex.club
 0.0.0.0 ajajas.one
+0.0.0.0 akaihentai.com
 0.0.0.0 akceleratorbiznesu.eu
 0.0.0.0 aki-h.com
 0.0.0.0 akiba-online.com
@@ -7170,6 +7171,7 @@
 0.0.0.0 boobpedia.com
 0.0.0.0 boobs-4u.com
 0.0.0.0 boobsa.com
+0.0.0.0 boobsandboobs.nl
 0.0.0.0 boobsandpussy.net
 0.0.0.0 boobsandtits.co.uk
 0.0.0.0 boobsaroundtheworld.com
@@ -10741,6 +10743,7 @@
 0.0.0.0 cherrycamtv.com
 0.0.0.0 cherrycasino.com
 0.0.0.0 cherryface.com
+0.0.0.0 cherrygif.com
 0.0.0.0 cherrynovelty.com
 0.0.0.0 cherrynudes.com
 0.0.0.0 cherrypimps.com
@@ -18353,6 +18356,7 @@
 0.0.0.0 freematurepornpics.com
 0.0.0.0 freematuresgallery.com
 0.0.0.0 freematureworld.com
+0.0.0.0 freemilf.org
 0.0.0.0 freemilfporn.cc
 0.0.0.0 freemilfporn.me
 0.0.0.0 freemilfporn.org
@@ -22192,6 +22196,7 @@
 0.0.0.0 hellocasino.com
 0.0.0.0 helloladyboy.com
 0.0.0.0 helloonlyfans.com
+0.0.0.0 helloporn.com
 0.0.0.0 hellpass.com
 0.0.0.0 hellporno.com
 0.0.0.0 hellporno.net
@@ -22421,6 +22426,7 @@
 0.0.0.0 hentairider.com
 0.0.0.0 hentairing.com
 0.0.0.0 hentairock.com
+0.0.0.0 hentairosub.com
 0.0.0.0 hentairox.com
 0.0.0.0 hentais.biz
 0.0.0.0 hentais.tube
@@ -34397,6 +34403,7 @@
 0.0.0.0 mince.nl
 0.0.0.0 mindcontroltheatre.com
 0.0.0.0 mindimink.com
+0.0.0.0 mindrunway.ru
 0.0.0.0 minepornclips.com
 0.0.0.0 miner.evooli.com
 0.0.0.0 minesextube.com
@@ -38235,6 +38242,8 @@
 0.0.0.0 onlyfreeporns.com
 0.0.0.0 onlyfreesextube.com
 0.0.0.0 onlyfreesextube.net
+0.0.0.0 onlyfuck.net
+0.0.0.0 onlyfuck.site
 0.0.0.0 onlyfuckme.com
 0.0.0.0 onlyfuckmovies.com
 0.0.0.0 onlyfuckmovies.pro
@@ -41089,6 +41098,7 @@
 0.0.0.0 pl-oferta-543856.sbs
 0.0.0.0 pl-oferta-63486.sbs
 0.0.0.0 pl-oferta-64623.shop
+0.0.0.0 pl-oferta-6483938.sbs
 0.0.0.0 pl-oferta-654423.top
 0.0.0.0 pl-oferta-65843.top
 0.0.0.0 pl-oferta-66053.shop
@@ -41099,6 +41109,7 @@
 0.0.0.0 pl-oferta-753256.top
 0.0.0.0 pl-oferta-75635.rest
 0.0.0.0 pl-oferta-758861-prywatna.cfd
+0.0.0.0 pl-oferta-7655670.sbs
 0.0.0.0 pl-oferta-785291-prywatna.cfd
 0.0.0.0 pl-oferta-78943.top
 0.0.0.0 pl-oferta-8303618.cfd
@@ -41120,6 +41131,7 @@
 0.0.0.0 pl-oferta-94636.top
 0.0.0.0 pl-oferta-98425.top
 0.0.0.0 pl-oferta-98432.rest
+0.0.0.0 pl-oferta-989766.sbs
 0.0.0.0 pl-oferta-firmowa726538.icu
 0.0.0.0 pl-oferta-firmowa739748.sbs
 0.0.0.0 pl-oferta-id094527.sbs
@@ -41142,6 +41154,7 @@
 0.0.0.0 pl-oferta00057230983.cfd
 0.0.0.0 pl-oferta004921847598195.icu
 0.0.0.0 pl-oferta005863781.cfd
+0.0.0.0 pl-oferta007121.icu
 0.0.0.0 pl-oferta0078964219.cfd
 0.0.0.0 pl-oferta0152814.icu
 0.0.0.0 pl-oferta0173619.icu
@@ -41150,14 +41163,19 @@
 0.0.0.0 pl-oferta017628.icu
 0.0.0.0 pl-oferta019275671.icu
 0.0.0.0 pl-oferta01953728942.cfd
+0.0.0.0 pl-oferta020121.icu
+0.0.0.0 pl-oferta020621.icu
 0.0.0.0 pl-oferta0257096.cfd
+0.0.0.0 pl-oferta026121.icu
 0.0.0.0 pl-oferta027860467.cfd
 0.0.0.0 pl-oferta02804.icu
 0.0.0.0 pl-oferta029758076.cfd
 0.0.0.0 pl-oferta0341642.icu
+0.0.0.0 pl-oferta034667.top
 0.0.0.0 pl-oferta04034346.icu
 0.0.0.0 pl-oferta043488.icu
 0.0.0.0 pl-oferta051121.icu
+0.0.0.0 pl-oferta054009.icu
 0.0.0.0 pl-oferta054121.icu
 0.0.0.0 pl-oferta055121.icu
 0.0.0.0 pl-oferta0714598.cfd
@@ -41172,6 +41190,7 @@
 0.0.0.0 pl-oferta087640.shop
 0.0.0.0 pl-oferta08845.top
 0.0.0.0 pl-oferta0896589725.cfd
+0.0.0.0 pl-oferta0923419.cfd
 0.0.0.0 pl-oferta09284671.icu
 0.0.0.0 pl-oferta09344.cfd
 0.0.0.0 pl-oferta09344.sbs
@@ -41179,11 +41198,13 @@
 0.0.0.0 pl-oferta097253.cfd
 0.0.0.0 pl-oferta098456634563.icu
 0.0.0.0 pl-oferta0984717.icu
+0.0.0.0 pl-oferta100121.icu
 0.0.0.0 pl-oferta1012236.sbs
 0.0.0.0 pl-oferta1024782.icu
 0.0.0.0 pl-oferta10280550305.cfd
 0.0.0.0 pl-oferta103458710801.icu
 0.0.0.0 pl-oferta1037382.cyou
+0.0.0.0 pl-oferta1038892.shop
 0.0.0.0 pl-oferta1047060.sbs
 0.0.0.0 pl-oferta104720.sbs
 0.0.0.0 pl-oferta1052683724319502.link
@@ -41196,6 +41217,8 @@
 0.0.0.0 pl-oferta1082902.shop
 0.0.0.0 pl-oferta108945.cyou
 0.0.0.0 pl-oferta110121.icu
+0.0.0.0 pl-oferta1102561.shop
+0.0.0.0 pl-oferta111621.icu
 0.0.0.0 pl-oferta1125135.cfd
 0.0.0.0 pl-oferta113948430415.sbs
 0.0.0.0 pl-oferta1151975.icu
@@ -41210,6 +41233,7 @@
 0.0.0.0 pl-oferta1227570.icu
 0.0.0.0 pl-oferta123529837.cfd
 0.0.0.0 pl-oferta1243317.shop
+0.0.0.0 pl-oferta12442.icu
 0.0.0.0 pl-oferta1245380.icu
 0.0.0.0 pl-oferta124565.sbs
 0.0.0.0 pl-oferta125121.icu
@@ -41218,10 +41242,14 @@
 0.0.0.0 pl-oferta12731946.icu
 0.0.0.0 pl-oferta128591.icu
 0.0.0.0 pl-oferta1290168.shop
+0.0.0.0 pl-oferta129857.icu
 0.0.0.0 pl-oferta1316728.icu
 0.0.0.0 pl-oferta1328135.icu
 0.0.0.0 pl-oferta1333512.cyou
+0.0.0.0 pl-oferta1344409.icu
 0.0.0.0 pl-oferta1345871.icu
+0.0.0.0 pl-oferta135791.icu
+0.0.0.0 pl-oferta1371220.store
 0.0.0.0 pl-oferta1385.icu
 0.0.0.0 pl-oferta13913.cfd
 0.0.0.0 pl-oferta13913.cyou
@@ -41230,6 +41258,7 @@
 0.0.0.0 pl-oferta1408350.cfd
 0.0.0.0 pl-oferta1430698.shop
 0.0.0.0 pl-oferta144536.icu
+0.0.0.0 pl-oferta1467657.cfd
 0.0.0.0 pl-oferta1483682.top
 0.0.0.0 pl-oferta1485731.icu
 0.0.0.0 pl-oferta15220162.icu
@@ -41247,6 +41276,7 @@
 0.0.0.0 pl-oferta1597763.shop
 0.0.0.0 pl-oferta162810.icu
 0.0.0.0 pl-oferta1630173.icu
+0.0.0.0 pl-oferta164974.icu
 0.0.0.0 pl-oferta1662168.icu
 0.0.0.0 pl-oferta167220162.icu
 0.0.0.0 pl-oferta1672778.cfd
@@ -41268,11 +41298,14 @@
 0.0.0.0 pl-oferta183741.icu
 0.0.0.0 pl-oferta1837439.sbs
 0.0.0.0 pl-oferta1862430.shop
+0.0.0.0 pl-oferta1869289.shop
+0.0.0.0 pl-oferta1870593.shop
 0.0.0.0 pl-oferta188151571.cfd
 0.0.0.0 pl-oferta1888172.sbs
 0.0.0.0 pl-oferta1893529.cfd
 0.0.0.0 pl-oferta189648007.icu
 0.0.0.0 pl-oferta1896550.sbs
+0.0.0.0 pl-oferta19038.icu
 0.0.0.0 pl-oferta1905135.cfd
 0.0.0.0 pl-oferta1905378.cfd
 0.0.0.0 pl-oferta1905900.shop
@@ -41282,6 +41315,7 @@
 0.0.0.0 pl-oferta192473.top
 0.0.0.0 pl-oferta192835.icu
 0.0.0.0 pl-oferta19439.icu
+0.0.0.0 pl-oferta194819.cfd
 0.0.0.0 pl-oferta195126.icu
 0.0.0.0 pl-oferta1959060.shop
 0.0.0.0 pl-oferta1972686.sbs
@@ -41324,7 +41358,10 @@
 0.0.0.0 pl-oferta214794545.icu
 0.0.0.0 pl-oferta21678250.icu
 0.0.0.0 pl-oferta21681.icu
+0.0.0.0 pl-oferta216827.icu
 0.0.0.0 pl-oferta2169174.icu
+0.0.0.0 pl-oferta2202506.sbs
+0.0.0.0 pl-oferta2219451.cfd
 0.0.0.0 pl-oferta2235154.shop
 0.0.0.0 pl-oferta2251674.icu
 0.0.0.0 pl-oferta2253351.sbs
@@ -41333,6 +41370,7 @@
 0.0.0.0 pl-oferta2290977.cfd
 0.0.0.0 pl-oferta2294272.sbs
 0.0.0.0 pl-oferta22948349093.sbs
+0.0.0.0 pl-oferta2295837.cfd
 0.0.0.0 pl-oferta2312890.icu
 0.0.0.0 pl-oferta2315044.icu
 0.0.0.0 pl-oferta2318924.icu
@@ -41342,8 +41380,10 @@
 0.0.0.0 pl-oferta23451.top
 0.0.0.0 pl-oferta2346626.cfd
 0.0.0.0 pl-oferta2347304.icu
+0.0.0.0 pl-oferta2347409.icu
 0.0.0.0 pl-oferta23488.top
 0.0.0.0 pl-oferta2350427.cfd
+0.0.0.0 pl-oferta236921.icu
 0.0.0.0 pl-oferta2379113.shop
 0.0.0.0 pl-oferta2379806.cfd
 0.0.0.0 pl-oferta238.icu
@@ -41375,6 +41415,7 @@
 0.0.0.0 pl-oferta2467149.co.in
 0.0.0.0 pl-oferta24945820809.sbs
 0.0.0.0 pl-oferta2521124.icu
+0.0.0.0 pl-oferta253689.icu
 0.0.0.0 pl-oferta2546631.shop
 0.0.0.0 pl-oferta2553508.sbs
 0.0.0.0 pl-oferta2562520.sbs
@@ -41393,6 +41434,7 @@
 0.0.0.0 pl-oferta26803.icu
 0.0.0.0 pl-oferta2684585.cfd
 0.0.0.0 pl-oferta2687327.icu
+0.0.0.0 pl-oferta27145151.icu
 0.0.0.0 pl-oferta2732553.icu
 0.0.0.0 pl-oferta2732646.cfd
 0.0.0.0 pl-oferta27362908.sbs
@@ -41457,6 +41499,8 @@
 0.0.0.0 pl-oferta2938989.icu
 0.0.0.0 pl-oferta2939449308.sbs
 0.0.0.0 pl-oferta2939462.sbs
+0.0.0.0 pl-oferta294583646580.sbs
+0.0.0.0 pl-oferta294583927580.sbs
 0.0.0.0 pl-oferta2947430260.icu
 0.0.0.0 pl-oferta29482803.sbs
 0.0.0.0 pl-oferta2949492.sbs
@@ -41483,8 +41527,10 @@
 0.0.0.0 pl-oferta3148.icu
 0.0.0.0 pl-oferta3154714.shop
 0.0.0.0 pl-oferta3161559.icu
+0.0.0.0 pl-oferta3163775.cfd
 0.0.0.0 pl-oferta3204595.sbs
 0.0.0.0 pl-oferta32364.icu
+0.0.0.0 pl-oferta3248907.sbs
 0.0.0.0 pl-oferta3253125.icu
 0.0.0.0 pl-oferta3255586.cfd
 0.0.0.0 pl-oferta32590.icu
@@ -41501,13 +41547,13 @@
 0.0.0.0 pl-oferta33314.cyou
 0.0.0.0 pl-oferta33314.icu
 0.0.0.0 pl-oferta33314.sbs
-0.0.0.0 pl-oferta3339534.shop
 0.0.0.0 pl-oferta3367397.icu
 0.0.0.0 pl-oferta3370758.icu
 0.0.0.0 pl-oferta3391284678.icu
 0.0.0.0 pl-oferta3392937.cfd
 0.0.0.0 pl-oferta3399735.sbs
 0.0.0.0 pl-oferta34302.sbs
+0.0.0.0 pl-oferta343903.icu
 0.0.0.0 pl-oferta3454.icu
 0.0.0.0 pl-oferta34574.icu
 0.0.0.0 pl-oferta3460677.shop
@@ -41521,6 +41567,7 @@
 0.0.0.0 pl-oferta3505348.icu
 0.0.0.0 pl-oferta35466.icu
 0.0.0.0 pl-oferta354664.cfd
+0.0.0.0 pl-oferta3559192.sbs
 0.0.0.0 pl-oferta3567576.icu
 0.0.0.0 pl-oferta358034.icu
 0.0.0.0 pl-oferta359590.sbs
@@ -41535,6 +41582,7 @@
 0.0.0.0 pl-oferta365743.sbs
 0.0.0.0 pl-oferta3658971.shop
 0.0.0.0 pl-oferta3660179.shop
+0.0.0.0 pl-oferta3663177.sbs
 0.0.0.0 pl-oferta36712.icu
 0.0.0.0 pl-oferta3681909.icu
 0.0.0.0 pl-oferta3685877.icu
@@ -41556,6 +41604,7 @@
 0.0.0.0 pl-oferta38458.icu
 0.0.0.0 pl-oferta3848403.sbs
 0.0.0.0 pl-oferta38509582351.icu
+0.0.0.0 pl-oferta385216.icu
 0.0.0.0 pl-oferta3863895.sbs
 0.0.0.0 pl-oferta3863895.shop
 0.0.0.0 pl-oferta3891593.icu
@@ -41577,6 +41626,7 @@
 0.0.0.0 pl-oferta3992077.icu
 0.0.0.0 pl-oferta3997324.icu
 0.0.0.0 pl-oferta4011311.cfd
+0.0.0.0 pl-oferta4017810.eu
 0.0.0.0 pl-oferta4059941.shop
 0.0.0.0 pl-oferta4088526.icu
 0.0.0.0 pl-oferta409713.sbs
@@ -41591,7 +41641,7 @@
 0.0.0.0 pl-oferta41651.icu
 0.0.0.0 pl-oferta4166800.cfd
 0.0.0.0 pl-oferta4179440.icu
-0.0.0.0 pl-oferta4198852.pl
+0.0.0.0 pl-oferta4187384.cfd
 0.0.0.0 pl-oferta4200794.cfd
 0.0.0.0 pl-oferta42045.icu
 0.0.0.0 pl-oferta42045.sbs
@@ -41601,6 +41651,7 @@
 0.0.0.0 pl-oferta4256423.shop
 0.0.0.0 pl-oferta42586748.icu
 0.0.0.0 pl-oferta425954.icu
+0.0.0.0 pl-oferta4268133.co.in
 0.0.0.0 pl-oferta4268473.cfd
 0.0.0.0 pl-oferta426954.icu
 0.0.0.0 pl-oferta4274.icu
@@ -41613,6 +41664,8 @@
 0.0.0.0 pl-oferta43215.icu
 0.0.0.0 pl-oferta4327319.cfd
 0.0.0.0 pl-oferta4330509.shop
+0.0.0.0 pl-oferta434537.icu
+0.0.0.0 pl-oferta4345456.icu
 0.0.0.0 pl-oferta435423423.icu
 0.0.0.0 pl-oferta4355441.sbs
 0.0.0.0 pl-oferta436381.icu
@@ -41651,6 +41704,7 @@
 0.0.0.0 pl-oferta45334.sbs
 0.0.0.0 pl-oferta45334.shop
 0.0.0.0 pl-oferta453465.icu
+0.0.0.0 pl-oferta45346674.icu
 0.0.0.0 pl-oferta453488.icu
 0.0.0.0 pl-oferta4537477.cfd
 0.0.0.0 pl-oferta454352.sbs
@@ -41659,6 +41713,7 @@
 0.0.0.0 pl-oferta4574689.sbs
 0.0.0.0 pl-oferta458846195.icu
 0.0.0.0 pl-oferta459126.icu
+0.0.0.0 pl-oferta4596899.cfd
 0.0.0.0 pl-oferta46074.icu
 0.0.0.0 pl-oferta46078.icu
 0.0.0.0 pl-oferta4614510.shop
@@ -41668,8 +41723,10 @@
 0.0.0.0 pl-oferta4672502.icu
 0.0.0.0 pl-oferta46744.icu
 0.0.0.0 pl-oferta468843.icu
+0.0.0.0 pl-oferta4694832.sbs
 0.0.0.0 pl-oferta469857901.cfd
 0.0.0.0 pl-oferta4700386.sbs
+0.0.0.0 pl-oferta4705634.sbs
 0.0.0.0 pl-oferta47094.sbs
 0.0.0.0 pl-oferta471924201312.icu
 0.0.0.0 pl-oferta471924201313.icu
@@ -41681,6 +41738,7 @@
 0.0.0.0 pl-oferta4770628.icu
 0.0.0.0 pl-oferta47735628.icu
 0.0.0.0 pl-oferta47735629.cfd
+0.0.0.0 pl-oferta477937.icu
 0.0.0.0 pl-oferta478345.cyou
 0.0.0.0 pl-oferta478345.icu
 0.0.0.0 pl-oferta478561.icu
@@ -41689,14 +41747,20 @@
 0.0.0.0 pl-oferta4824213159.sbs
 0.0.0.0 pl-oferta483.icu
 0.0.0.0 pl-oferta4832671.icu
+0.0.0.0 pl-oferta483455.icu
 0.0.0.0 pl-oferta4862188.icu
 0.0.0.0 pl-oferta4866305.icu
 0.0.0.0 pl-oferta4877780.cfd
+0.0.0.0 pl-oferta4887992.cfd
+0.0.0.0 pl-oferta491275.icu
 0.0.0.0 pl-oferta4924010.icu
+0.0.0.0 pl-oferta4933064.icu
 0.0.0.0 pl-oferta49459.icu
 0.0.0.0 pl-oferta4949623.cfd
 0.0.0.0 pl-oferta495494.icu
 0.0.0.0 pl-oferta4955539.icu
+0.0.0.0 pl-oferta495933400.icu
+0.0.0.0 pl-oferta4959486.icu
 0.0.0.0 pl-oferta4987283.icu
 0.0.0.0 pl-oferta5009192.cfd
 0.0.0.0 pl-oferta5020614.icu
@@ -41712,6 +41776,7 @@
 0.0.0.0 pl-oferta5095356.shop
 0.0.0.0 pl-oferta5106156.cfd
 0.0.0.0 pl-oferta5121911.cfd
+0.0.0.0 pl-oferta51230926.shop
 0.0.0.0 pl-oferta512566234.icu
 0.0.0.0 pl-oferta5158362.cfd
 0.0.0.0 pl-oferta5161075.cfd
@@ -41738,6 +41803,7 @@
 0.0.0.0 pl-oferta53253.sbs
 0.0.0.0 pl-oferta5325421.icu
 0.0.0.0 pl-oferta5325435.sbs
+0.0.0.0 pl-oferta53256.icu
 0.0.0.0 pl-oferta5333525.icu
 0.0.0.0 pl-oferta5348398.icu
 0.0.0.0 pl-oferta5353452.icu
@@ -41752,6 +41818,8 @@
 0.0.0.0 pl-oferta5409332.cfd
 0.0.0.0 pl-oferta5423665.icu
 0.0.0.0 pl-oferta542557.icu
+0.0.0.0 pl-oferta543296.cfd
+0.0.0.0 pl-oferta543296.sbs
 0.0.0.0 pl-oferta54363it.top
 0.0.0.0 pl-oferta5443316.cfd
 0.0.0.0 pl-oferta5456170.icu
@@ -41784,6 +41852,7 @@
 0.0.0.0 pl-oferta5654.icu
 0.0.0.0 pl-oferta565453.icu
 0.0.0.0 pl-oferta5654805.icu
+0.0.0.0 pl-oferta566121.icu
 0.0.0.0 pl-oferta5669595.cfd
 0.0.0.0 pl-oferta56735634.cfd
 0.0.0.0 pl-oferta56735635.cfd
@@ -41819,6 +41888,7 @@
 0.0.0.0 pl-oferta573925.sbs
 0.0.0.0 pl-oferta57461834.cfd
 0.0.0.0 pl-oferta5747749.shop
+0.0.0.0 pl-oferta5767560.cfd
 0.0.0.0 pl-oferta5780262.icu
 0.0.0.0 pl-oferta57856785.shop
 0.0.0.0 pl-oferta579062.cfd
@@ -41829,6 +41899,7 @@
 0.0.0.0 pl-oferta581951.icu
 0.0.0.0 pl-oferta58259.icu
 0.0.0.0 pl-oferta5827400.icu
+0.0.0.0 pl-oferta582931.icu
 0.0.0.0 pl-oferta5830863.icu
 0.0.0.0 pl-oferta58314.icu
 0.0.0.0 pl-oferta5832610.cfd
@@ -41836,10 +41907,13 @@
 0.0.0.0 pl-oferta5838573.icu
 0.0.0.0 pl-oferta58392.sbs
 0.0.0.0 pl-oferta5843298.cfd
+0.0.0.0 pl-oferta5844961.shop
 0.0.0.0 pl-oferta5847850.cfd
 0.0.0.0 pl-oferta58483847.cfd
 0.0.0.0 pl-oferta58485383.sbs
 0.0.0.0 pl-oferta5853728.sbs
+0.0.0.0 pl-oferta5856711.sbs
+0.0.0.0 pl-oferta58567139.sbs
 0.0.0.0 pl-oferta5870011.cfd
 0.0.0.0 pl-oferta5871610.cfd
 0.0.0.0 pl-oferta5874507.cfd
@@ -41849,6 +41923,7 @@
 0.0.0.0 pl-oferta59321.icu
 0.0.0.0 pl-oferta5937661.shop
 0.0.0.0 pl-oferta5940259.shop
+0.0.0.0 pl-oferta5940898.shop
 0.0.0.0 pl-oferta5943925.shop
 0.0.0.0 pl-oferta5948239.cyou
 0.0.0.0 pl-oferta5948261.icu
@@ -41861,18 +41936,23 @@
 0.0.0.0 pl-oferta5966505.shop
 0.0.0.0 pl-oferta596832.icu
 0.0.0.0 pl-oferta59685945.cfd
+0.0.0.0 pl-oferta597821.icu
+0.0.0.0 pl-oferta59867943.sbs
+0.0.0.0 pl-oferta599021.icu
 0.0.0.0 pl-oferta6006947.icu
 0.0.0.0 pl-oferta6013603.icu
+0.0.0.0 pl-oferta6034192.sbs
 0.0.0.0 pl-oferta6035920.cfd
 0.0.0.0 pl-oferta6071829.cfd
 0.0.0.0 pl-oferta6116697.shop
+0.0.0.0 pl-oferta614283.icu
 0.0.0.0 pl-oferta616936.icu
 0.0.0.0 pl-oferta6172786.icu
-0.0.0.0 pl-oferta6192.pl
 0.0.0.0 pl-oferta6196343.icu
 0.0.0.0 pl-oferta619836.cfd
 0.0.0.0 pl-oferta6199067.cfd
 0.0.0.0 pl-oferta625469.icu
+0.0.0.0 pl-oferta625491.icu
 0.0.0.0 pl-oferta6270027.icu
 0.0.0.0 pl-oferta627154.icu
 0.0.0.0 pl-oferta6272120.icu
@@ -41894,7 +41974,6 @@
 0.0.0.0 pl-oferta632124.icu
 0.0.0.0 pl-oferta6324120.icu
 0.0.0.0 pl-oferta634442.icu
-0.0.0.0 pl-oferta634653.live
 0.0.0.0 pl-oferta6349004.cfd
 0.0.0.0 pl-oferta6352329.icu
 0.0.0.0 pl-oferta635283.cfd
@@ -41934,6 +42013,7 @@
 0.0.0.0 pl-oferta6670794.shop
 0.0.0.0 pl-oferta6698409.cfd
 0.0.0.0 pl-oferta6704652.us
+0.0.0.0 pl-oferta6712509.sbs
 0.0.0.0 pl-oferta6721554.shop
 0.0.0.0 pl-oferta6723664.shop
 0.0.0.0 pl-oferta673153.icu
@@ -41943,7 +42023,9 @@
 0.0.0.0 pl-oferta6742312.cfd
 0.0.0.0 pl-oferta674353.icu
 0.0.0.0 pl-oferta6744723.icu
+0.0.0.0 pl-oferta676115617.icu
 0.0.0.0 pl-oferta6764045.sbs
+0.0.0.0 pl-oferta676515617.icu
 0.0.0.0 pl-oferta67726491.cfd
 0.0.0.0 pl-oferta67735629.cfd
 0.0.0.0 pl-oferta6775743.icu
@@ -41953,6 +42035,7 @@
 0.0.0.0 pl-oferta678645.cyou
 0.0.0.0 pl-oferta6787486.icu
 0.0.0.0 pl-oferta68314.icu
+0.0.0.0 pl-oferta6839590.shop
 0.0.0.0 pl-oferta6842051.shop
 0.0.0.0 pl-oferta6857178.cfd
 0.0.0.0 pl-oferta6857666.icu
@@ -41960,11 +42043,13 @@
 0.0.0.0 pl-oferta6859469.shop
 0.0.0.0 pl-oferta6874079.icu
 0.0.0.0 pl-oferta6876568.cfd
+0.0.0.0 pl-oferta68834.top
 0.0.0.0 pl-oferta6894958.com
 0.0.0.0 pl-oferta689723.cfd
 0.0.0.0 pl-oferta6897617.icu
 0.0.0.0 pl-oferta6906283.icu
 0.0.0.0 pl-oferta6921427.icu
+0.0.0.0 pl-oferta6932343.co.in
 0.0.0.0 pl-oferta69405935.cfd
 0.0.0.0 pl-oferta69483594.icu
 0.0.0.0 pl-oferta69485934.cfd
@@ -41980,6 +42065,7 @@
 0.0.0.0 pl-oferta700981.icu
 0.0.0.0 pl-oferta70124.cyou
 0.0.0.0 pl-oferta70124.icu
+0.0.0.0 pl-oferta7017697.icu
 0.0.0.0 pl-oferta7025273.icu
 0.0.0.0 pl-oferta7032999.shop
 0.0.0.0 pl-oferta70492346.cfd
@@ -41990,6 +42076,7 @@
 0.0.0.0 pl-oferta708373.cfd
 0.0.0.0 pl-oferta710043.icu
 0.0.0.0 pl-oferta7108243.icu
+0.0.0.0 pl-oferta710942.icu
 0.0.0.0 pl-oferta7112735.cyou
 0.0.0.0 pl-oferta7125093.icu
 0.0.0.0 pl-oferta7128388.sbs
@@ -41998,7 +42085,6 @@
 0.0.0.0 pl-oferta71289.icu
 0.0.0.0 pl-oferta7133118.icu
 0.0.0.0 pl-oferta713453.icu
-0.0.0.0 pl-oferta7146510.cfd
 0.0.0.0 pl-oferta7151922.com
 0.0.0.0 pl-oferta7160040.cfd
 0.0.0.0 pl-oferta7165451.cfd
@@ -42015,6 +42101,7 @@
 0.0.0.0 pl-oferta722137.sbs
 0.0.0.0 pl-oferta7222555.icu
 0.0.0.0 pl-oferta7228592.sbs
+0.0.0.0 pl-oferta7239913.icu
 0.0.0.0 pl-oferta7274840.icu
 0.0.0.0 pl-oferta7284647.cfd
 0.0.0.0 pl-oferta729726.icu
@@ -42026,6 +42113,7 @@
 0.0.0.0 pl-oferta7335250.cfd
 0.0.0.0 pl-oferta7342219.icu
 0.0.0.0 pl-oferta735389.cfd
+0.0.0.0 pl-oferta736194.icu
 0.0.0.0 pl-oferta736253187.icu
 0.0.0.0 pl-oferta7362894.cfd
 0.0.0.0 pl-oferta7367.icu
@@ -42054,8 +42142,10 @@
 0.0.0.0 pl-oferta7500952.cfd
 0.0.0.0 pl-oferta751223.icu
 0.0.0.0 pl-oferta7521.icu
+0.0.0.0 pl-oferta7524259.sbs
 0.0.0.0 pl-oferta7526311.icu
 0.0.0.0 pl-oferta753453.icu
+0.0.0.0 pl-oferta753478.icu
 0.0.0.0 pl-oferta753553.icu
 0.0.0.0 pl-oferta754382.cfd
 0.0.0.0 pl-oferta754387.cfd
@@ -42073,6 +42163,8 @@
 0.0.0.0 pl-oferta7587464.icu
 0.0.0.0 pl-oferta759825.cfd
 0.0.0.0 pl-oferta76026.top
+0.0.0.0 pl-oferta7607531.sbs
+0.0.0.0 pl-oferta761235.icu
 0.0.0.0 pl-oferta7613491.shop
 0.0.0.0 pl-oferta7621284.cfd
 0.0.0.0 pl-oferta762741.cfd
@@ -42151,14 +42243,18 @@
 0.0.0.0 pl-oferta79269.sbs
 0.0.0.0 pl-oferta7928190.icu
 0.0.0.0 pl-oferta7930136.sbs
+0.0.0.0 pl-oferta79513509.sbs
+0.0.0.0 pl-oferta79513511.sbs
+0.0.0.0 pl-oferta7959543.sbs
+0.0.0.0 pl-oferta7971643.cfd
 0.0.0.0 pl-oferta7983638.cfd
 0.0.0.0 pl-oferta7983724.shop
 0.0.0.0 pl-oferta798479290.cfd
 0.0.0.0 pl-oferta79953201743.cfd
-0.0.0.0 pl-oferta7996506.icu
 0.0.0.0 pl-oferta8.icu
 0.0.0.0 pl-oferta8012873.icu
 0.0.0.0 pl-oferta8033160.icu
+0.0.0.0 pl-oferta8064788.shop
 0.0.0.0 pl-oferta8067528.icu
 0.0.0.0 pl-oferta8072072.cfd
 0.0.0.0 pl-oferta8117237.icu
@@ -42168,11 +42264,11 @@
 0.0.0.0 pl-oferta8131638.cfd
 0.0.0.0 pl-oferta8139134.cfd
 0.0.0.0 pl-oferta8143749.icu
+0.0.0.0 pl-oferta814576.icu
 0.0.0.0 pl-oferta8148665.icu
 0.0.0.0 pl-oferta815236.icu
 0.0.0.0 pl-oferta8152543.icu
 0.0.0.0 pl-oferta8170857.shop
-0.0.0.0 pl-oferta8188127.icu
 0.0.0.0 pl-oferta8192628.icu
 0.0.0.0 pl-oferta8196201.icu
 0.0.0.0 pl-oferta8200748.icu
@@ -42217,11 +42313,11 @@
 0.0.0.0 pl-oferta839502xhd63wg38hse.cfd
 0.0.0.0 pl-oferta8411316.icu
 0.0.0.0 pl-oferta8418782.cfd
+0.0.0.0 pl-oferta84188581.icu
 0.0.0.0 pl-oferta8419296.icu
 0.0.0.0 pl-oferta842837438.shop
 0.0.0.0 pl-oferta8429737.icu
 0.0.0.0 pl-oferta8432233.cfd
-0.0.0.0 pl-oferta8432842389.icu
 0.0.0.0 pl-oferta84364924.icu
 0.0.0.0 pl-oferta8438439352.shop
 0.0.0.0 pl-oferta844567.top
@@ -42241,6 +42337,8 @@
 0.0.0.0 pl-oferta8467864792.shop
 0.0.0.0 pl-oferta846792521892.shop
 0.0.0.0 pl-oferta8471249.cfd
+0.0.0.0 pl-oferta8471776.cfd
+0.0.0.0 pl-oferta8471822.cfd
 0.0.0.0 pl-oferta8471840.cfd
 0.0.0.0 pl-oferta84719491.cfd
 0.0.0.0 pl-oferta847204.cfd
@@ -42257,9 +42355,12 @@
 0.0.0.0 pl-oferta84955682.icu
 0.0.0.0 pl-oferta84972.cfd
 0.0.0.0 pl-oferta8520522.icu
+0.0.0.0 pl-oferta85234.cfd
 0.0.0.0 pl-oferta8527439251.com
 0.0.0.0 pl-oferta8528457362.com
 0.0.0.0 pl-oferta8529356385.com
+0.0.0.0 pl-oferta85327.cfd
+0.0.0.0 pl-oferta85327.icu
 0.0.0.0 pl-oferta8534960.icu
 0.0.0.0 pl-oferta85373465234.shop
 0.0.0.0 pl-oferta8537428463.com
@@ -42272,6 +42373,7 @@
 0.0.0.0 pl-oferta85559642.icu
 0.0.0.0 pl-oferta8558102.icu
 0.0.0.0 pl-oferta85676399.icu
+0.0.0.0 pl-oferta857193.cfd
 0.0.0.0 pl-oferta857195.cfd
 0.0.0.0 pl-oferta85917849.cfd
 0.0.0.0 pl-oferta8606224.icu
@@ -42283,10 +42385,12 @@
 0.0.0.0 pl-oferta86329632.shop
 0.0.0.0 pl-oferta8633723.icu
 0.0.0.0 pl-oferta86375324734.shop
+0.0.0.0 pl-oferta864320.icu
 0.0.0.0 pl-oferta8645378392.shop
 0.0.0.0 pl-oferta8645378394.shop
 0.0.0.0 pl-oferta864576.cfd
 0.0.0.0 pl-oferta8646573821.shop
+0.0.0.0 pl-oferta8647894357.shop
 0.0.0.0 pl-oferta8648154.shop
 0.0.0.0 pl-oferta8649278954.shop
 0.0.0.0 pl-oferta86496378324.shop
@@ -42304,6 +42408,7 @@
 0.0.0.0 pl-oferta8702097.sbs
 0.0.0.0 pl-oferta870352.icu
 0.0.0.0 pl-oferta8706497.sbs
+0.0.0.0 pl-oferta8721546.cfd
 0.0.0.0 pl-oferta87224385.icu
 0.0.0.0 pl-oferta873491.cfd
 0.0.0.0 pl-oferta87362341783.shop
@@ -42322,6 +42427,7 @@
 0.0.0.0 pl-oferta881481418.icu
 0.0.0.0 pl-oferta8820735240.cfd
 0.0.0.0 pl-oferta8828950.cfd
+0.0.0.0 pl-oferta8830667.cfd
 0.0.0.0 pl-oferta884937.shop
 0.0.0.0 pl-oferta8863510.cfd
 0.0.0.0 pl-oferta8867491.shop
@@ -42336,6 +42442,7 @@
 0.0.0.0 pl-oferta893457.sbs
 0.0.0.0 pl-oferta89354761.icu
 0.0.0.0 pl-oferta89371243.icu
+0.0.0.0 pl-oferta8941715715.icu
 0.0.0.0 pl-oferta8942390.shop
 0.0.0.0 pl-oferta8943641.icu
 0.0.0.0 pl-oferta8945637841.shop
@@ -42378,6 +42485,7 @@
 0.0.0.0 pl-oferta9084729.cfd
 0.0.0.0 pl-oferta9098925.icu
 0.0.0.0 pl-oferta9140662.icu
+0.0.0.0 pl-oferta9143845818451.icu
 0.0.0.0 pl-oferta9150535.icu
 0.0.0.0 pl-oferta9160361.icu
 0.0.0.0 pl-oferta9176391.icu
@@ -42386,6 +42494,7 @@
 0.0.0.0 pl-oferta9182068.sbs
 0.0.0.0 pl-oferta918519.icu
 0.0.0.0 pl-oferta9185792.cfd
+0.0.0.0 pl-oferta9188421.sbs
 0.0.0.0 pl-oferta91958636.icu
 0.0.0.0 pl-oferta9203748.icu
 0.0.0.0 pl-oferta9208172.cfd
@@ -42394,6 +42503,7 @@
 0.0.0.0 pl-oferta9219732.shop
 0.0.0.0 pl-oferta92219.cfd
 0.0.0.0 pl-oferta9222928.cfd
+0.0.0.0 pl-oferta92234.top
 0.0.0.0 pl-oferta9232388.cfd
 0.0.0.0 pl-oferta9237192.sbs
 0.0.0.0 pl-oferta9243095.cfd
@@ -42403,7 +42513,6 @@
 0.0.0.0 pl-oferta9256150.icu
 0.0.0.0 pl-oferta92586773.icu
 0.0.0.0 pl-oferta926481634.cfd
-0.0.0.0 pl-oferta9270318.shop
 0.0.0.0 pl-oferta927154.icu
 0.0.0.0 pl-oferta927483.icu
 0.0.0.0 pl-oferta9278917.sbs
@@ -42418,13 +42527,16 @@
 0.0.0.0 pl-oferta9327229.shop
 0.0.0.0 pl-oferta932853.cfd
 0.0.0.0 pl-oferta9336793.cfd
+0.0.0.0 pl-oferta9337455.cfd
 0.0.0.0 pl-oferta9338303.sbs
 0.0.0.0 pl-oferta9341016.icu
 0.0.0.0 pl-oferta934466.top
 0.0.0.0 pl-oferta9345257880.cfd
 0.0.0.0 pl-oferta93457.sbs
 0.0.0.0 pl-oferta93493.icu
+0.0.0.0 pl-oferta9349312.icu
 0.0.0.0 pl-oferta9351995.icu
+0.0.0.0 pl-oferta9352867.sbs
 0.0.0.0 pl-oferta935415.sbs
 0.0.0.0 pl-oferta935512.cfd
 0.0.0.0 pl-oferta935562.cfd
@@ -42437,6 +42549,7 @@
 0.0.0.0 pl-oferta9376305.cfd
 0.0.0.0 pl-oferta9378696.shop
 0.0.0.0 pl-oferta93853.cfd
+0.0.0.0 pl-oferta93943322.icu
 0.0.0.0 pl-oferta939439.icu
 0.0.0.0 pl-oferta9402181.cfd
 0.0.0.0 pl-oferta9421.icu
@@ -42456,9 +42569,11 @@
 0.0.0.0 pl-oferta94714.cfd
 0.0.0.0 pl-oferta9471949.cfd
 0.0.0.0 pl-oferta9471994.cfd
+0.0.0.0 pl-oferta947216.icu
 0.0.0.0 pl-oferta947262.top
 0.0.0.0 pl-oferta947267.top
 0.0.0.0 pl-oferta9472927.cfd
+0.0.0.0 pl-oferta9474637.cfd
 0.0.0.0 pl-oferta9474647.cfd
 0.0.0.0 pl-oferta94814.icu
 0.0.0.0 pl-oferta94815166.icu
@@ -42470,6 +42585,7 @@
 0.0.0.0 pl-oferta9520618.icu
 0.0.0.0 pl-oferta9528675.shop
 0.0.0.0 pl-oferta95303serach.icu
+0.0.0.0 pl-oferta9539971.cfd
 0.0.0.0 pl-oferta95453.cfd
 0.0.0.0 pl-oferta9548869.icu
 0.0.0.0 pl-oferta9550484.sbs
@@ -42492,6 +42608,7 @@
 0.0.0.0 pl-oferta9663927.cfd
 0.0.0.0 pl-oferta96734.cyou
 0.0.0.0 pl-oferta96734.icu
+0.0.0.0 pl-oferta9673527.shop
 0.0.0.0 pl-oferta9699345.cyou
 0.0.0.0 pl-oferta9705212.sbs
 0.0.0.0 pl-oferta9711033.icu
@@ -42505,14 +42622,15 @@
 0.0.0.0 pl-oferta97828978921089154213t231.icu
 0.0.0.0 pl-oferta978532.cfd
 0.0.0.0 pl-oferta9788151599.icu
+0.0.0.0 pl-oferta97881691217.cfd
 0.0.0.0 pl-oferta9812347.cfd
 0.0.0.0 pl-oferta9813475.cfd
 0.0.0.0 pl-oferta9815559.sbs
 0.0.0.0 pl-oferta982583.icu
 0.0.0.0 pl-oferta9827420.icu
-0.0.0.0 pl-oferta9830.pl
 0.0.0.0 pl-oferta9831454.cfd
 0.0.0.0 pl-oferta98321.icu
+0.0.0.0 pl-oferta983274.icu
 0.0.0.0 pl-oferta9833.icu
 0.0.0.0 pl-oferta98438.icu
 0.0.0.0 pl-oferta98531.cfd
@@ -42525,12 +42643,14 @@
 0.0.0.0 pl-oferta988235.cfd
 0.0.0.0 pl-oferta9884701.co.in
 0.0.0.0 pl-oferta989736.cfd
+0.0.0.0 pl-oferta98974381.sbs
 0.0.0.0 pl-oferta9907918.icu
 0.0.0.0 pl-oferta9910294851845230.icu
 0.0.0.0 pl-oferta9912270.com
 0.0.0.0 pl-oferta991712.cfd
 0.0.0.0 pl-oferta9921.cfd
 0.0.0.0 pl-oferta9921.icu
+0.0.0.0 pl-oferta992821.icu
 0.0.0.0 pl-oferta9937635.cfd
 0.0.0.0 pl-oferta99428720.icu
 0.0.0.0 pl-oferta99492.cfd
@@ -42634,7 +42754,6 @@
 0.0.0.0 pl-ogloszenia16782519827591825.shop
 0.0.0.0 pl-ogloszenia2891.icu
 0.0.0.0 pl-ogloszenia2891.shop
-0.0.0.0 pl-ogloszenia78517.shop
 0.0.0.0 pl-ogloszenie-002949281.icu
 0.0.0.0 pl-ogloszenie-003948912.icu
 0.0.0.0 pl-ogloszenie-02103994.rest
@@ -42664,6 +42783,7 @@
 0.0.0.0 pl-ogloszenie-092094892.cfd
 0.0.0.0 pl-ogloszenie-093494092.top
 0.0.0.0 pl-ogloszenie-094302.top
+0.0.0.0 pl-ogloszenie-096054.rest
 0.0.0.0 pl-ogloszenie-201029293.rest
 0.0.0.0 pl-ogloszenie-20103293.top
 0.0.0.0 pl-ogloszenie-202392023.shop
@@ -42688,13 +42808,16 @@
 0.0.0.0 pl-ogloszenie-8532752.cfd
 0.0.0.0 pl-ogloszenie-854374.top
 0.0.0.0 pl-ogloszenie-86752.rest
+0.0.0.0 pl-ogloszenie-879202.rest
 0.0.0.0 pl-ogloszenie-902305921.icu
 0.0.0.0 pl-ogloszenie-90239340.icu
 0.0.0.0 pl-ogloszenie-90293094.cfd
 0.0.0.0 pl-ogloszenie-9029650.sbs
 0.0.0.0 pl-ogloszenie-903093209.cfd
 0.0.0.0 pl-ogloszenie-9034909506.top
+0.0.0.0 pl-ogloszenie-904890.top
 0.0.0.0 pl-ogloszenie-90569.top
+0.0.0.0 pl-ogloszenie-905924.rest
 0.0.0.0 pl-ogloszenie-907059023.cfd
 0.0.0.0 pl-ogloszenie-90853427.icu
 0.0.0.0 pl-ogloszenie-92012948.cfd
@@ -42730,7 +42853,6 @@
 0.0.0.0 pl-ogloszenie-firmowe-918577.icu
 0.0.0.0 pl-ogloszenie-firmowe-918911.icu
 0.0.0.0 pl-ogloszenie-firmowe-985911.cfd
-0.0.0.0 pl-ogloszenie-firmowe823801.icu
 0.0.0.0 pl-ogloszenie-firmowe843801.icu
 0.0.0.0 pl-ogloszenie-promowane-5324835.icu
 0.0.0.0 pl-ogloszenie-promowane-532835.icu
@@ -42745,7 +42867,6 @@
 0.0.0.0 pl-ogloszenie412380345.sbs
 0.0.0.0 pl-ogloszenie472819.cfd
 0.0.0.0 pl-ogloszenie542364.live
-0.0.0.0 pl-ogloszenie63214.icu
 0.0.0.0 pl-ogloszenie765452311.shop
 0.0.0.0 pl-ogloszenie78618729432.sbs
 0.0.0.0 pl-ogloszenie81234.cfd
@@ -71846,6 +71967,7 @@
 0.0.0.0 www.pl-oferta-543856.sbs
 0.0.0.0 www.pl-oferta-63486.sbs
 0.0.0.0 www.pl-oferta-64623.shop
+0.0.0.0 www.pl-oferta-6483938.sbs
 0.0.0.0 www.pl-oferta-654423.top
 0.0.0.0 www.pl-oferta-65843.top
 0.0.0.0 www.pl-oferta-66053.shop
@@ -71856,6 +71978,7 @@
 0.0.0.0 www.pl-oferta-753256.top
 0.0.0.0 www.pl-oferta-75635.rest
 0.0.0.0 www.pl-oferta-758861-prywatna.cfd
+0.0.0.0 www.pl-oferta-7655670.sbs
 0.0.0.0 www.pl-oferta-785291-prywatna.cfd
 0.0.0.0 www.pl-oferta-78943.top
 0.0.0.0 www.pl-oferta-8303618.cfd
@@ -71877,6 +72000,7 @@
 0.0.0.0 www.pl-oferta-94636.top
 0.0.0.0 www.pl-oferta-98425.top
 0.0.0.0 www.pl-oferta-98432.rest
+0.0.0.0 www.pl-oferta-989766.sbs
 0.0.0.0 www.pl-oferta-firmowa726538.icu
 0.0.0.0 www.pl-oferta-firmowa739748.sbs
 0.0.0.0 www.pl-oferta-id094527.sbs
@@ -71899,6 +72023,7 @@
 0.0.0.0 www.pl-oferta00057230983.cfd
 0.0.0.0 www.pl-oferta004921847598195.icu
 0.0.0.0 www.pl-oferta005863781.cfd
+0.0.0.0 www.pl-oferta007121.icu
 0.0.0.0 www.pl-oferta0078964219.cfd
 0.0.0.0 www.pl-oferta0152814.icu
 0.0.0.0 www.pl-oferta0173619.icu
@@ -71907,14 +72032,19 @@
 0.0.0.0 www.pl-oferta017628.icu
 0.0.0.0 www.pl-oferta019275671.icu
 0.0.0.0 www.pl-oferta01953728942.cfd
+0.0.0.0 www.pl-oferta020121.icu
+0.0.0.0 www.pl-oferta020621.icu
 0.0.0.0 www.pl-oferta0257096.cfd
+0.0.0.0 www.pl-oferta026121.icu
 0.0.0.0 www.pl-oferta027860467.cfd
 0.0.0.0 www.pl-oferta02804.icu
 0.0.0.0 www.pl-oferta029758076.cfd
 0.0.0.0 www.pl-oferta0341642.icu
+0.0.0.0 www.pl-oferta034667.top
 0.0.0.0 www.pl-oferta04034346.icu
 0.0.0.0 www.pl-oferta043488.icu
 0.0.0.0 www.pl-oferta051121.icu
+0.0.0.0 www.pl-oferta054009.icu
 0.0.0.0 www.pl-oferta054121.icu
 0.0.0.0 www.pl-oferta055121.icu
 0.0.0.0 www.pl-oferta0714598.cfd
@@ -71929,6 +72059,7 @@
 0.0.0.0 www.pl-oferta087640.shop
 0.0.0.0 www.pl-oferta08845.top
 0.0.0.0 www.pl-oferta0896589725.cfd
+0.0.0.0 www.pl-oferta0923419.cfd
 0.0.0.0 www.pl-oferta09284671.icu
 0.0.0.0 www.pl-oferta09344.cfd
 0.0.0.0 www.pl-oferta09344.sbs
@@ -71936,11 +72067,13 @@
 0.0.0.0 www.pl-oferta097253.cfd
 0.0.0.0 www.pl-oferta098456634563.icu
 0.0.0.0 www.pl-oferta0984717.icu
+0.0.0.0 www.pl-oferta100121.icu
 0.0.0.0 www.pl-oferta1012236.sbs
 0.0.0.0 www.pl-oferta1024782.icu
 0.0.0.0 www.pl-oferta10280550305.cfd
 0.0.0.0 www.pl-oferta103458710801.icu
 0.0.0.0 www.pl-oferta1037382.cyou
+0.0.0.0 www.pl-oferta1038892.shop
 0.0.0.0 www.pl-oferta1047060.sbs
 0.0.0.0 www.pl-oferta104720.sbs
 0.0.0.0 www.pl-oferta1052683724319502.link
@@ -71953,6 +72086,8 @@
 0.0.0.0 www.pl-oferta1082902.shop
 0.0.0.0 www.pl-oferta108945.cyou
 0.0.0.0 www.pl-oferta110121.icu
+0.0.0.0 www.pl-oferta1102561.shop
+0.0.0.0 www.pl-oferta111621.icu
 0.0.0.0 www.pl-oferta1125135.cfd
 0.0.0.0 www.pl-oferta113948430415.sbs
 0.0.0.0 www.pl-oferta1151975.icu
@@ -71967,6 +72102,7 @@
 0.0.0.0 www.pl-oferta1227570.icu
 0.0.0.0 www.pl-oferta123529837.cfd
 0.0.0.0 www.pl-oferta1243317.shop
+0.0.0.0 www.pl-oferta12442.icu
 0.0.0.0 www.pl-oferta1245380.icu
 0.0.0.0 www.pl-oferta124565.sbs
 0.0.0.0 www.pl-oferta125121.icu
@@ -71975,10 +72111,14 @@
 0.0.0.0 www.pl-oferta12731946.icu
 0.0.0.0 www.pl-oferta128591.icu
 0.0.0.0 www.pl-oferta1290168.shop
+0.0.0.0 www.pl-oferta129857.icu
 0.0.0.0 www.pl-oferta1316728.icu
 0.0.0.0 www.pl-oferta1328135.icu
 0.0.0.0 www.pl-oferta1333512.cyou
+0.0.0.0 www.pl-oferta1344409.icu
 0.0.0.0 www.pl-oferta1345871.icu
+0.0.0.0 www.pl-oferta135791.icu
+0.0.0.0 www.pl-oferta1371220.store
 0.0.0.0 www.pl-oferta1385.icu
 0.0.0.0 www.pl-oferta13913.cfd
 0.0.0.0 www.pl-oferta13913.cyou
@@ -71987,6 +72127,7 @@
 0.0.0.0 www.pl-oferta1408350.cfd
 0.0.0.0 www.pl-oferta1430698.shop
 0.0.0.0 www.pl-oferta144536.icu
+0.0.0.0 www.pl-oferta1467657.cfd
 0.0.0.0 www.pl-oferta1483682.top
 0.0.0.0 www.pl-oferta1485731.icu
 0.0.0.0 www.pl-oferta15220162.icu
@@ -72004,6 +72145,7 @@
 0.0.0.0 www.pl-oferta1597763.shop
 0.0.0.0 www.pl-oferta162810.icu
 0.0.0.0 www.pl-oferta1630173.icu
+0.0.0.0 www.pl-oferta164974.icu
 0.0.0.0 www.pl-oferta1662168.icu
 0.0.0.0 www.pl-oferta167220162.icu
 0.0.0.0 www.pl-oferta1672778.cfd
@@ -72025,11 +72167,14 @@
 0.0.0.0 www.pl-oferta183741.icu
 0.0.0.0 www.pl-oferta1837439.sbs
 0.0.0.0 www.pl-oferta1862430.shop
+0.0.0.0 www.pl-oferta1869289.shop
+0.0.0.0 www.pl-oferta1870593.shop
 0.0.0.0 www.pl-oferta188151571.cfd
 0.0.0.0 www.pl-oferta1888172.sbs
 0.0.0.0 www.pl-oferta1893529.cfd
 0.0.0.0 www.pl-oferta189648007.icu
 0.0.0.0 www.pl-oferta1896550.sbs
+0.0.0.0 www.pl-oferta19038.icu
 0.0.0.0 www.pl-oferta1905135.cfd
 0.0.0.0 www.pl-oferta1905378.cfd
 0.0.0.0 www.pl-oferta1905900.shop
@@ -72039,6 +72184,7 @@
 0.0.0.0 www.pl-oferta192473.top
 0.0.0.0 www.pl-oferta192835.icu
 0.0.0.0 www.pl-oferta19439.icu
+0.0.0.0 www.pl-oferta194819.cfd
 0.0.0.0 www.pl-oferta195126.icu
 0.0.0.0 www.pl-oferta1959060.shop
 0.0.0.0 www.pl-oferta1972686.sbs
@@ -72081,7 +72227,10 @@
 0.0.0.0 www.pl-oferta214794545.icu
 0.0.0.0 www.pl-oferta21678250.icu
 0.0.0.0 www.pl-oferta21681.icu
+0.0.0.0 www.pl-oferta216827.icu
 0.0.0.0 www.pl-oferta2169174.icu
+0.0.0.0 www.pl-oferta2202506.sbs
+0.0.0.0 www.pl-oferta2219451.cfd
 0.0.0.0 www.pl-oferta2235154.shop
 0.0.0.0 www.pl-oferta2251674.icu
 0.0.0.0 www.pl-oferta2253351.sbs
@@ -72090,6 +72239,7 @@
 0.0.0.0 www.pl-oferta2290977.cfd
 0.0.0.0 www.pl-oferta2294272.sbs
 0.0.0.0 www.pl-oferta22948349093.sbs
+0.0.0.0 www.pl-oferta2295837.cfd
 0.0.0.0 www.pl-oferta2312890.icu
 0.0.0.0 www.pl-oferta2315044.icu
 0.0.0.0 www.pl-oferta2318924.icu
@@ -72099,8 +72249,10 @@
 0.0.0.0 www.pl-oferta23451.top
 0.0.0.0 www.pl-oferta2346626.cfd
 0.0.0.0 www.pl-oferta2347304.icu
+0.0.0.0 www.pl-oferta2347409.icu
 0.0.0.0 www.pl-oferta23488.top
 0.0.0.0 www.pl-oferta2350427.cfd
+0.0.0.0 www.pl-oferta236921.icu
 0.0.0.0 www.pl-oferta2379113.shop
 0.0.0.0 www.pl-oferta2379806.cfd
 0.0.0.0 www.pl-oferta238.icu
@@ -72132,6 +72284,7 @@
 0.0.0.0 www.pl-oferta2467149.co.in
 0.0.0.0 www.pl-oferta24945820809.sbs
 0.0.0.0 www.pl-oferta2521124.icu
+0.0.0.0 www.pl-oferta253689.icu
 0.0.0.0 www.pl-oferta2546631.shop
 0.0.0.0 www.pl-oferta2553508.sbs
 0.0.0.0 www.pl-oferta2562520.sbs
@@ -72150,6 +72303,7 @@
 0.0.0.0 www.pl-oferta26803.icu
 0.0.0.0 www.pl-oferta2684585.cfd
 0.0.0.0 www.pl-oferta2687327.icu
+0.0.0.0 www.pl-oferta27145151.icu
 0.0.0.0 www.pl-oferta2732553.icu
 0.0.0.0 www.pl-oferta2732646.cfd
 0.0.0.0 www.pl-oferta27362908.sbs
@@ -72214,6 +72368,8 @@
 0.0.0.0 www.pl-oferta2938989.icu
 0.0.0.0 www.pl-oferta2939449308.sbs
 0.0.0.0 www.pl-oferta2939462.sbs
+0.0.0.0 www.pl-oferta294583646580.sbs
+0.0.0.0 www.pl-oferta294583927580.sbs
 0.0.0.0 www.pl-oferta2947430260.icu
 0.0.0.0 www.pl-oferta29482803.sbs
 0.0.0.0 www.pl-oferta2949492.sbs
@@ -72240,8 +72396,10 @@
 0.0.0.0 www.pl-oferta3148.icu
 0.0.0.0 www.pl-oferta3154714.shop
 0.0.0.0 www.pl-oferta3161559.icu
+0.0.0.0 www.pl-oferta3163775.cfd
 0.0.0.0 www.pl-oferta3204595.sbs
 0.0.0.0 www.pl-oferta32364.icu
+0.0.0.0 www.pl-oferta3248907.sbs
 0.0.0.0 www.pl-oferta3253125.icu
 0.0.0.0 www.pl-oferta3255586.cfd
 0.0.0.0 www.pl-oferta32590.icu
@@ -72258,13 +72416,13 @@
 0.0.0.0 www.pl-oferta33314.cyou
 0.0.0.0 www.pl-oferta33314.icu
 0.0.0.0 www.pl-oferta33314.sbs
-0.0.0.0 www.pl-oferta3339534.shop
 0.0.0.0 www.pl-oferta3367397.icu
 0.0.0.0 www.pl-oferta3370758.icu
 0.0.0.0 www.pl-oferta3391284678.icu
 0.0.0.0 www.pl-oferta3392937.cfd
 0.0.0.0 www.pl-oferta3399735.sbs
 0.0.0.0 www.pl-oferta34302.sbs
+0.0.0.0 www.pl-oferta343903.icu
 0.0.0.0 www.pl-oferta3454.icu
 0.0.0.0 www.pl-oferta34574.icu
 0.0.0.0 www.pl-oferta3460677.shop
@@ -72278,6 +72436,7 @@
 0.0.0.0 www.pl-oferta3505348.icu
 0.0.0.0 www.pl-oferta35466.icu
 0.0.0.0 www.pl-oferta354664.cfd
+0.0.0.0 www.pl-oferta3559192.sbs
 0.0.0.0 www.pl-oferta3567576.icu
 0.0.0.0 www.pl-oferta358034.icu
 0.0.0.0 www.pl-oferta359590.sbs
@@ -72292,6 +72451,7 @@
 0.0.0.0 www.pl-oferta365743.sbs
 0.0.0.0 www.pl-oferta3658971.shop
 0.0.0.0 www.pl-oferta3660179.shop
+0.0.0.0 www.pl-oferta3663177.sbs
 0.0.0.0 www.pl-oferta36712.icu
 0.0.0.0 www.pl-oferta3681909.icu
 0.0.0.0 www.pl-oferta3685877.icu
@@ -72313,6 +72473,7 @@
 0.0.0.0 www.pl-oferta38458.icu
 0.0.0.0 www.pl-oferta3848403.sbs
 0.0.0.0 www.pl-oferta38509582351.icu
+0.0.0.0 www.pl-oferta385216.icu
 0.0.0.0 www.pl-oferta3863895.sbs
 0.0.0.0 www.pl-oferta3863895.shop
 0.0.0.0 www.pl-oferta3891593.icu
@@ -72334,6 +72495,7 @@
 0.0.0.0 www.pl-oferta3992077.icu
 0.0.0.0 www.pl-oferta3997324.icu
 0.0.0.0 www.pl-oferta4011311.cfd
+0.0.0.0 www.pl-oferta4017810.eu
 0.0.0.0 www.pl-oferta4059941.shop
 0.0.0.0 www.pl-oferta4088526.icu
 0.0.0.0 www.pl-oferta409713.sbs
@@ -72348,7 +72510,7 @@
 0.0.0.0 www.pl-oferta41651.icu
 0.0.0.0 www.pl-oferta4166800.cfd
 0.0.0.0 www.pl-oferta4179440.icu
-0.0.0.0 www.pl-oferta4198852.pl
+0.0.0.0 www.pl-oferta4187384.cfd
 0.0.0.0 www.pl-oferta4200794.cfd
 0.0.0.0 www.pl-oferta42045.icu
 0.0.0.0 www.pl-oferta42045.sbs
@@ -72358,6 +72520,7 @@
 0.0.0.0 www.pl-oferta4256423.shop
 0.0.0.0 www.pl-oferta42586748.icu
 0.0.0.0 www.pl-oferta425954.icu
+0.0.0.0 www.pl-oferta4268133.co.in
 0.0.0.0 www.pl-oferta4268473.cfd
 0.0.0.0 www.pl-oferta426954.icu
 0.0.0.0 www.pl-oferta4274.icu
@@ -72370,6 +72533,8 @@
 0.0.0.0 www.pl-oferta43215.icu
 0.0.0.0 www.pl-oferta4327319.cfd
 0.0.0.0 www.pl-oferta4330509.shop
+0.0.0.0 www.pl-oferta434537.icu
+0.0.0.0 www.pl-oferta4345456.icu
 0.0.0.0 www.pl-oferta435423423.icu
 0.0.0.0 www.pl-oferta4355441.sbs
 0.0.0.0 www.pl-oferta436381.icu
@@ -72408,6 +72573,7 @@
 0.0.0.0 www.pl-oferta45334.sbs
 0.0.0.0 www.pl-oferta45334.shop
 0.0.0.0 www.pl-oferta453465.icu
+0.0.0.0 www.pl-oferta45346674.icu
 0.0.0.0 www.pl-oferta453488.icu
 0.0.0.0 www.pl-oferta4537477.cfd
 0.0.0.0 www.pl-oferta454352.sbs
@@ -72416,6 +72582,7 @@
 0.0.0.0 www.pl-oferta4574689.sbs
 0.0.0.0 www.pl-oferta458846195.icu
 0.0.0.0 www.pl-oferta459126.icu
+0.0.0.0 www.pl-oferta4596899.cfd
 0.0.0.0 www.pl-oferta46074.icu
 0.0.0.0 www.pl-oferta46078.icu
 0.0.0.0 www.pl-oferta4614510.shop
@@ -72425,8 +72592,10 @@
 0.0.0.0 www.pl-oferta4672502.icu
 0.0.0.0 www.pl-oferta46744.icu
 0.0.0.0 www.pl-oferta468843.icu
+0.0.0.0 www.pl-oferta4694832.sbs
 0.0.0.0 www.pl-oferta469857901.cfd
 0.0.0.0 www.pl-oferta4700386.sbs
+0.0.0.0 www.pl-oferta4705634.sbs
 0.0.0.0 www.pl-oferta47094.sbs
 0.0.0.0 www.pl-oferta471924201312.icu
 0.0.0.0 www.pl-oferta471924201313.icu
@@ -72438,6 +72607,7 @@
 0.0.0.0 www.pl-oferta4770628.icu
 0.0.0.0 www.pl-oferta47735628.icu
 0.0.0.0 www.pl-oferta47735629.cfd
+0.0.0.0 www.pl-oferta477937.icu
 0.0.0.0 www.pl-oferta478345.cyou
 0.0.0.0 www.pl-oferta478345.icu
 0.0.0.0 www.pl-oferta478561.icu
@@ -72446,14 +72616,20 @@
 0.0.0.0 www.pl-oferta4824213159.sbs
 0.0.0.0 www.pl-oferta483.icu
 0.0.0.0 www.pl-oferta4832671.icu
+0.0.0.0 www.pl-oferta483455.icu
 0.0.0.0 www.pl-oferta4862188.icu
 0.0.0.0 www.pl-oferta4866305.icu
 0.0.0.0 www.pl-oferta4877780.cfd
+0.0.0.0 www.pl-oferta4887992.cfd
+0.0.0.0 www.pl-oferta491275.icu
 0.0.0.0 www.pl-oferta4924010.icu
+0.0.0.0 www.pl-oferta4933064.icu
 0.0.0.0 www.pl-oferta49459.icu
 0.0.0.0 www.pl-oferta4949623.cfd
 0.0.0.0 www.pl-oferta495494.icu
 0.0.0.0 www.pl-oferta4955539.icu
+0.0.0.0 www.pl-oferta495933400.icu
+0.0.0.0 www.pl-oferta4959486.icu
 0.0.0.0 www.pl-oferta4987283.icu
 0.0.0.0 www.pl-oferta5009192.cfd
 0.0.0.0 www.pl-oferta5020614.icu
@@ -72469,6 +72645,7 @@
 0.0.0.0 www.pl-oferta5095356.shop
 0.0.0.0 www.pl-oferta5106156.cfd
 0.0.0.0 www.pl-oferta5121911.cfd
+0.0.0.0 www.pl-oferta51230926.shop
 0.0.0.0 www.pl-oferta512566234.icu
 0.0.0.0 www.pl-oferta5158362.cfd
 0.0.0.0 www.pl-oferta5161075.cfd
@@ -72495,6 +72672,7 @@
 0.0.0.0 www.pl-oferta53253.sbs
 0.0.0.0 www.pl-oferta5325421.icu
 0.0.0.0 www.pl-oferta5325435.sbs
+0.0.0.0 www.pl-oferta53256.icu
 0.0.0.0 www.pl-oferta5333525.icu
 0.0.0.0 www.pl-oferta5348398.icu
 0.0.0.0 www.pl-oferta5353452.icu
@@ -72509,6 +72687,8 @@
 0.0.0.0 www.pl-oferta5409332.cfd
 0.0.0.0 www.pl-oferta5423665.icu
 0.0.0.0 www.pl-oferta542557.icu
+0.0.0.0 www.pl-oferta543296.cfd
+0.0.0.0 www.pl-oferta543296.sbs
 0.0.0.0 www.pl-oferta54363it.top
 0.0.0.0 www.pl-oferta5443316.cfd
 0.0.0.0 www.pl-oferta5456170.icu
@@ -72541,6 +72721,7 @@
 0.0.0.0 www.pl-oferta5654.icu
 0.0.0.0 www.pl-oferta565453.icu
 0.0.0.0 www.pl-oferta5654805.icu
+0.0.0.0 www.pl-oferta566121.icu
 0.0.0.0 www.pl-oferta5669595.cfd
 0.0.0.0 www.pl-oferta56735634.cfd
 0.0.0.0 www.pl-oferta56735635.cfd
@@ -72576,6 +72757,7 @@
 0.0.0.0 www.pl-oferta573925.sbs
 0.0.0.0 www.pl-oferta57461834.cfd
 0.0.0.0 www.pl-oferta5747749.shop
+0.0.0.0 www.pl-oferta5767560.cfd
 0.0.0.0 www.pl-oferta5780262.icu
 0.0.0.0 www.pl-oferta57856785.shop
 0.0.0.0 www.pl-oferta579062.cfd
@@ -72586,6 +72768,7 @@
 0.0.0.0 www.pl-oferta581951.icu
 0.0.0.0 www.pl-oferta58259.icu
 0.0.0.0 www.pl-oferta5827400.icu
+0.0.0.0 www.pl-oferta582931.icu
 0.0.0.0 www.pl-oferta5830863.icu
 0.0.0.0 www.pl-oferta58314.icu
 0.0.0.0 www.pl-oferta5832610.cfd
@@ -72593,10 +72776,13 @@
 0.0.0.0 www.pl-oferta5838573.icu
 0.0.0.0 www.pl-oferta58392.sbs
 0.0.0.0 www.pl-oferta5843298.cfd
+0.0.0.0 www.pl-oferta5844961.shop
 0.0.0.0 www.pl-oferta5847850.cfd
 0.0.0.0 www.pl-oferta58483847.cfd
 0.0.0.0 www.pl-oferta58485383.sbs
 0.0.0.0 www.pl-oferta5853728.sbs
+0.0.0.0 www.pl-oferta5856711.sbs
+0.0.0.0 www.pl-oferta58567139.sbs
 0.0.0.0 www.pl-oferta5870011.cfd
 0.0.0.0 www.pl-oferta5871610.cfd
 0.0.0.0 www.pl-oferta5874507.cfd
@@ -72606,6 +72792,7 @@
 0.0.0.0 www.pl-oferta59321.icu
 0.0.0.0 www.pl-oferta5937661.shop
 0.0.0.0 www.pl-oferta5940259.shop
+0.0.0.0 www.pl-oferta5940898.shop
 0.0.0.0 www.pl-oferta5943925.shop
 0.0.0.0 www.pl-oferta5948239.cyou
 0.0.0.0 www.pl-oferta5948261.icu
@@ -72618,18 +72805,23 @@
 0.0.0.0 www.pl-oferta5966505.shop
 0.0.0.0 www.pl-oferta596832.icu
 0.0.0.0 www.pl-oferta59685945.cfd
+0.0.0.0 www.pl-oferta597821.icu
+0.0.0.0 www.pl-oferta59867943.sbs
+0.0.0.0 www.pl-oferta599021.icu
 0.0.0.0 www.pl-oferta6006947.icu
 0.0.0.0 www.pl-oferta6013603.icu
+0.0.0.0 www.pl-oferta6034192.sbs
 0.0.0.0 www.pl-oferta6035920.cfd
 0.0.0.0 www.pl-oferta6071829.cfd
 0.0.0.0 www.pl-oferta6116697.shop
+0.0.0.0 www.pl-oferta614283.icu
 0.0.0.0 www.pl-oferta616936.icu
 0.0.0.0 www.pl-oferta6172786.icu
-0.0.0.0 www.pl-oferta6192.pl
 0.0.0.0 www.pl-oferta6196343.icu
 0.0.0.0 www.pl-oferta619836.cfd
 0.0.0.0 www.pl-oferta6199067.cfd
 0.0.0.0 www.pl-oferta625469.icu
+0.0.0.0 www.pl-oferta625491.icu
 0.0.0.0 www.pl-oferta6270027.icu
 0.0.0.0 www.pl-oferta627154.icu
 0.0.0.0 www.pl-oferta6272120.icu
@@ -72651,7 +72843,6 @@
 0.0.0.0 www.pl-oferta632124.icu
 0.0.0.0 www.pl-oferta6324120.icu
 0.0.0.0 www.pl-oferta634442.icu
-0.0.0.0 www.pl-oferta634653.live
 0.0.0.0 www.pl-oferta6349004.cfd
 0.0.0.0 www.pl-oferta6352329.icu
 0.0.0.0 www.pl-oferta635283.cfd
@@ -72691,6 +72882,7 @@
 0.0.0.0 www.pl-oferta6670794.shop
 0.0.0.0 www.pl-oferta6698409.cfd
 0.0.0.0 www.pl-oferta6704652.us
+0.0.0.0 www.pl-oferta6712509.sbs
 0.0.0.0 www.pl-oferta6721554.shop
 0.0.0.0 www.pl-oferta6723664.shop
 0.0.0.0 www.pl-oferta673153.icu
@@ -72700,7 +72892,9 @@
 0.0.0.0 www.pl-oferta6742312.cfd
 0.0.0.0 www.pl-oferta674353.icu
 0.0.0.0 www.pl-oferta6744723.icu
+0.0.0.0 www.pl-oferta676115617.icu
 0.0.0.0 www.pl-oferta6764045.sbs
+0.0.0.0 www.pl-oferta676515617.icu
 0.0.0.0 www.pl-oferta67726491.cfd
 0.0.0.0 www.pl-oferta67735629.cfd
 0.0.0.0 www.pl-oferta6775743.icu
@@ -72710,6 +72904,7 @@
 0.0.0.0 www.pl-oferta678645.cyou
 0.0.0.0 www.pl-oferta6787486.icu
 0.0.0.0 www.pl-oferta68314.icu
+0.0.0.0 www.pl-oferta6839590.shop
 0.0.0.0 www.pl-oferta6842051.shop
 0.0.0.0 www.pl-oferta6857178.cfd
 0.0.0.0 www.pl-oferta6857666.icu
@@ -72717,11 +72912,13 @@
 0.0.0.0 www.pl-oferta6859469.shop
 0.0.0.0 www.pl-oferta6874079.icu
 0.0.0.0 www.pl-oferta6876568.cfd
+0.0.0.0 www.pl-oferta68834.top
 0.0.0.0 www.pl-oferta6894958.com
 0.0.0.0 www.pl-oferta689723.cfd
 0.0.0.0 www.pl-oferta6897617.icu
 0.0.0.0 www.pl-oferta6906283.icu
 0.0.0.0 www.pl-oferta6921427.icu
+0.0.0.0 www.pl-oferta6932343.co.in
 0.0.0.0 www.pl-oferta69405935.cfd
 0.0.0.0 www.pl-oferta69483594.icu
 0.0.0.0 www.pl-oferta69485934.cfd
@@ -72737,6 +72934,7 @@
 0.0.0.0 www.pl-oferta700981.icu
 0.0.0.0 www.pl-oferta70124.cyou
 0.0.0.0 www.pl-oferta70124.icu
+0.0.0.0 www.pl-oferta7017697.icu
 0.0.0.0 www.pl-oferta7025273.icu
 0.0.0.0 www.pl-oferta7032999.shop
 0.0.0.0 www.pl-oferta70492346.cfd
@@ -72747,6 +72945,7 @@
 0.0.0.0 www.pl-oferta708373.cfd
 0.0.0.0 www.pl-oferta710043.icu
 0.0.0.0 www.pl-oferta7108243.icu
+0.0.0.0 www.pl-oferta710942.icu
 0.0.0.0 www.pl-oferta7112735.cyou
 0.0.0.0 www.pl-oferta7125093.icu
 0.0.0.0 www.pl-oferta7128388.sbs
@@ -72755,7 +72954,6 @@
 0.0.0.0 www.pl-oferta71289.icu
 0.0.0.0 www.pl-oferta7133118.icu
 0.0.0.0 www.pl-oferta713453.icu
-0.0.0.0 www.pl-oferta7146510.cfd
 0.0.0.0 www.pl-oferta7151922.com
 0.0.0.0 www.pl-oferta7160040.cfd
 0.0.0.0 www.pl-oferta7165451.cfd
@@ -72772,6 +72970,7 @@
 0.0.0.0 www.pl-oferta722137.sbs
 0.0.0.0 www.pl-oferta7222555.icu
 0.0.0.0 www.pl-oferta7228592.sbs
+0.0.0.0 www.pl-oferta7239913.icu
 0.0.0.0 www.pl-oferta7274840.icu
 0.0.0.0 www.pl-oferta7284647.cfd
 0.0.0.0 www.pl-oferta729726.icu
@@ -72783,6 +72982,7 @@
 0.0.0.0 www.pl-oferta7335250.cfd
 0.0.0.0 www.pl-oferta7342219.icu
 0.0.0.0 www.pl-oferta735389.cfd
+0.0.0.0 www.pl-oferta736194.icu
 0.0.0.0 www.pl-oferta736253187.icu
 0.0.0.0 www.pl-oferta7362894.cfd
 0.0.0.0 www.pl-oferta7367.icu
@@ -72811,8 +73011,10 @@
 0.0.0.0 www.pl-oferta7500952.cfd
 0.0.0.0 www.pl-oferta751223.icu
 0.0.0.0 www.pl-oferta7521.icu
+0.0.0.0 www.pl-oferta7524259.sbs
 0.0.0.0 www.pl-oferta7526311.icu
 0.0.0.0 www.pl-oferta753453.icu
+0.0.0.0 www.pl-oferta753478.icu
 0.0.0.0 www.pl-oferta753553.icu
 0.0.0.0 www.pl-oferta754382.cfd
 0.0.0.0 www.pl-oferta754387.cfd
@@ -72830,6 +73032,8 @@
 0.0.0.0 www.pl-oferta7587464.icu
 0.0.0.0 www.pl-oferta759825.cfd
 0.0.0.0 www.pl-oferta76026.top
+0.0.0.0 www.pl-oferta7607531.sbs
+0.0.0.0 www.pl-oferta761235.icu
 0.0.0.0 www.pl-oferta7613491.shop
 0.0.0.0 www.pl-oferta7621284.cfd
 0.0.0.0 www.pl-oferta762741.cfd
@@ -72908,14 +73112,18 @@
 0.0.0.0 www.pl-oferta79269.sbs
 0.0.0.0 www.pl-oferta7928190.icu
 0.0.0.0 www.pl-oferta7930136.sbs
+0.0.0.0 www.pl-oferta79513509.sbs
+0.0.0.0 www.pl-oferta79513511.sbs
+0.0.0.0 www.pl-oferta7959543.sbs
+0.0.0.0 www.pl-oferta7971643.cfd
 0.0.0.0 www.pl-oferta7983638.cfd
 0.0.0.0 www.pl-oferta7983724.shop
 0.0.0.0 www.pl-oferta798479290.cfd
 0.0.0.0 www.pl-oferta79953201743.cfd
-0.0.0.0 www.pl-oferta7996506.icu
 0.0.0.0 www.pl-oferta8.icu
 0.0.0.0 www.pl-oferta8012873.icu
 0.0.0.0 www.pl-oferta8033160.icu
+0.0.0.0 www.pl-oferta8064788.shop
 0.0.0.0 www.pl-oferta8067528.icu
 0.0.0.0 www.pl-oferta8072072.cfd
 0.0.0.0 www.pl-oferta8117237.icu
@@ -72925,11 +73133,11 @@
 0.0.0.0 www.pl-oferta8131638.cfd
 0.0.0.0 www.pl-oferta8139134.cfd
 0.0.0.0 www.pl-oferta8143749.icu
+0.0.0.0 www.pl-oferta814576.icu
 0.0.0.0 www.pl-oferta8148665.icu
 0.0.0.0 www.pl-oferta815236.icu
 0.0.0.0 www.pl-oferta8152543.icu
 0.0.0.0 www.pl-oferta8170857.shop
-0.0.0.0 www.pl-oferta8188127.icu
 0.0.0.0 www.pl-oferta8192628.icu
 0.0.0.0 www.pl-oferta8196201.icu
 0.0.0.0 www.pl-oferta8200748.icu
@@ -72974,11 +73182,11 @@
 0.0.0.0 www.pl-oferta839502xhd63wg38hse.cfd
 0.0.0.0 www.pl-oferta8411316.icu
 0.0.0.0 www.pl-oferta8418782.cfd
+0.0.0.0 www.pl-oferta84188581.icu
 0.0.0.0 www.pl-oferta8419296.icu
 0.0.0.0 www.pl-oferta842837438.shop
 0.0.0.0 www.pl-oferta8429737.icu
 0.0.0.0 www.pl-oferta8432233.cfd
-0.0.0.0 www.pl-oferta8432842389.icu
 0.0.0.0 www.pl-oferta84364924.icu
 0.0.0.0 www.pl-oferta8438439352.shop
 0.0.0.0 www.pl-oferta844567.top
@@ -72998,6 +73206,8 @@
 0.0.0.0 www.pl-oferta8467864792.shop
 0.0.0.0 www.pl-oferta846792521892.shop
 0.0.0.0 www.pl-oferta8471249.cfd
+0.0.0.0 www.pl-oferta8471776.cfd
+0.0.0.0 www.pl-oferta8471822.cfd
 0.0.0.0 www.pl-oferta8471840.cfd
 0.0.0.0 www.pl-oferta84719491.cfd
 0.0.0.0 www.pl-oferta847204.cfd
@@ -73014,9 +73224,12 @@
 0.0.0.0 www.pl-oferta84955682.icu
 0.0.0.0 www.pl-oferta84972.cfd
 0.0.0.0 www.pl-oferta8520522.icu
+0.0.0.0 www.pl-oferta85234.cfd
 0.0.0.0 www.pl-oferta8527439251.com
 0.0.0.0 www.pl-oferta8528457362.com
 0.0.0.0 www.pl-oferta8529356385.com
+0.0.0.0 www.pl-oferta85327.cfd
+0.0.0.0 www.pl-oferta85327.icu
 0.0.0.0 www.pl-oferta8534960.icu
 0.0.0.0 www.pl-oferta85373465234.shop
 0.0.0.0 www.pl-oferta8537428463.com
@@ -73029,6 +73242,7 @@
 0.0.0.0 www.pl-oferta85559642.icu
 0.0.0.0 www.pl-oferta8558102.icu
 0.0.0.0 www.pl-oferta85676399.icu
+0.0.0.0 www.pl-oferta857193.cfd
 0.0.0.0 www.pl-oferta857195.cfd
 0.0.0.0 www.pl-oferta85917849.cfd
 0.0.0.0 www.pl-oferta8606224.icu
@@ -73040,10 +73254,12 @@
 0.0.0.0 www.pl-oferta86329632.shop
 0.0.0.0 www.pl-oferta8633723.icu
 0.0.0.0 www.pl-oferta86375324734.shop
+0.0.0.0 www.pl-oferta864320.icu
 0.0.0.0 www.pl-oferta8645378392.shop
 0.0.0.0 www.pl-oferta8645378394.shop
 0.0.0.0 www.pl-oferta864576.cfd
 0.0.0.0 www.pl-oferta8646573821.shop
+0.0.0.0 www.pl-oferta8647894357.shop
 0.0.0.0 www.pl-oferta8648154.shop
 0.0.0.0 www.pl-oferta8649278954.shop
 0.0.0.0 www.pl-oferta86496378324.shop
@@ -73061,6 +73277,7 @@
 0.0.0.0 www.pl-oferta8702097.sbs
 0.0.0.0 www.pl-oferta870352.icu
 0.0.0.0 www.pl-oferta8706497.sbs
+0.0.0.0 www.pl-oferta8721546.cfd
 0.0.0.0 www.pl-oferta87224385.icu
 0.0.0.0 www.pl-oferta873491.cfd
 0.0.0.0 www.pl-oferta87362341783.shop
@@ -73079,6 +73296,7 @@
 0.0.0.0 www.pl-oferta881481418.icu
 0.0.0.0 www.pl-oferta8820735240.cfd
 0.0.0.0 www.pl-oferta8828950.cfd
+0.0.0.0 www.pl-oferta8830667.cfd
 0.0.0.0 www.pl-oferta884937.shop
 0.0.0.0 www.pl-oferta8863510.cfd
 0.0.0.0 www.pl-oferta8867491.shop
@@ -73093,6 +73311,7 @@
 0.0.0.0 www.pl-oferta893457.sbs
 0.0.0.0 www.pl-oferta89354761.icu
 0.0.0.0 www.pl-oferta89371243.icu
+0.0.0.0 www.pl-oferta8941715715.icu
 0.0.0.0 www.pl-oferta8942390.shop
 0.0.0.0 www.pl-oferta8943641.icu
 0.0.0.0 www.pl-oferta8945637841.shop
@@ -73135,6 +73354,7 @@
 0.0.0.0 www.pl-oferta9084729.cfd
 0.0.0.0 www.pl-oferta9098925.icu
 0.0.0.0 www.pl-oferta9140662.icu
+0.0.0.0 www.pl-oferta9143845818451.icu
 0.0.0.0 www.pl-oferta9150535.icu
 0.0.0.0 www.pl-oferta9160361.icu
 0.0.0.0 www.pl-oferta9176391.icu
@@ -73143,6 +73363,7 @@
 0.0.0.0 www.pl-oferta9182068.sbs
 0.0.0.0 www.pl-oferta918519.icu
 0.0.0.0 www.pl-oferta9185792.cfd
+0.0.0.0 www.pl-oferta9188421.sbs
 0.0.0.0 www.pl-oferta91958636.icu
 0.0.0.0 www.pl-oferta9203748.icu
 0.0.0.0 www.pl-oferta9208172.cfd
@@ -73151,6 +73372,7 @@
 0.0.0.0 www.pl-oferta9219732.shop
 0.0.0.0 www.pl-oferta92219.cfd
 0.0.0.0 www.pl-oferta9222928.cfd
+0.0.0.0 www.pl-oferta92234.top
 0.0.0.0 www.pl-oferta9232388.cfd
 0.0.0.0 www.pl-oferta9237192.sbs
 0.0.0.0 www.pl-oferta9243095.cfd
@@ -73160,7 +73382,6 @@
 0.0.0.0 www.pl-oferta9256150.icu
 0.0.0.0 www.pl-oferta92586773.icu
 0.0.0.0 www.pl-oferta926481634.cfd
-0.0.0.0 www.pl-oferta9270318.shop
 0.0.0.0 www.pl-oferta927154.icu
 0.0.0.0 www.pl-oferta927483.icu
 0.0.0.0 www.pl-oferta9278917.sbs
@@ -73175,13 +73396,16 @@
 0.0.0.0 www.pl-oferta9327229.shop
 0.0.0.0 www.pl-oferta932853.cfd
 0.0.0.0 www.pl-oferta9336793.cfd
+0.0.0.0 www.pl-oferta9337455.cfd
 0.0.0.0 www.pl-oferta9338303.sbs
 0.0.0.0 www.pl-oferta9341016.icu
 0.0.0.0 www.pl-oferta934466.top
 0.0.0.0 www.pl-oferta9345257880.cfd
 0.0.0.0 www.pl-oferta93457.sbs
 0.0.0.0 www.pl-oferta93493.icu
+0.0.0.0 www.pl-oferta9349312.icu
 0.0.0.0 www.pl-oferta9351995.icu
+0.0.0.0 www.pl-oferta9352867.sbs
 0.0.0.0 www.pl-oferta935415.sbs
 0.0.0.0 www.pl-oferta935512.cfd
 0.0.0.0 www.pl-oferta935562.cfd
@@ -73194,6 +73418,7 @@
 0.0.0.0 www.pl-oferta9376305.cfd
 0.0.0.0 www.pl-oferta9378696.shop
 0.0.0.0 www.pl-oferta93853.cfd
+0.0.0.0 www.pl-oferta93943322.icu
 0.0.0.0 www.pl-oferta939439.icu
 0.0.0.0 www.pl-oferta9402181.cfd
 0.0.0.0 www.pl-oferta9421.icu
@@ -73213,9 +73438,11 @@
 0.0.0.0 www.pl-oferta94714.cfd
 0.0.0.0 www.pl-oferta9471949.cfd
 0.0.0.0 www.pl-oferta9471994.cfd
+0.0.0.0 www.pl-oferta947216.icu
 0.0.0.0 www.pl-oferta947262.top
 0.0.0.0 www.pl-oferta947267.top
 0.0.0.0 www.pl-oferta9472927.cfd
+0.0.0.0 www.pl-oferta9474637.cfd
 0.0.0.0 www.pl-oferta9474647.cfd
 0.0.0.0 www.pl-oferta94814.icu
 0.0.0.0 www.pl-oferta94815166.icu
@@ -73227,6 +73454,7 @@
 0.0.0.0 www.pl-oferta9520618.icu
 0.0.0.0 www.pl-oferta9528675.shop
 0.0.0.0 www.pl-oferta95303serach.icu
+0.0.0.0 www.pl-oferta9539971.cfd
 0.0.0.0 www.pl-oferta95453.cfd
 0.0.0.0 www.pl-oferta9548869.icu
 0.0.0.0 www.pl-oferta9550484.sbs
@@ -73249,6 +73477,7 @@
 0.0.0.0 www.pl-oferta9663927.cfd
 0.0.0.0 www.pl-oferta96734.cyou
 0.0.0.0 www.pl-oferta96734.icu
+0.0.0.0 www.pl-oferta9673527.shop
 0.0.0.0 www.pl-oferta9699345.cyou
 0.0.0.0 www.pl-oferta9705212.sbs
 0.0.0.0 www.pl-oferta9711033.icu
@@ -73262,14 +73491,15 @@
 0.0.0.0 www.pl-oferta97828978921089154213t231.icu
 0.0.0.0 www.pl-oferta978532.cfd
 0.0.0.0 www.pl-oferta9788151599.icu
+0.0.0.0 www.pl-oferta97881691217.cfd
 0.0.0.0 www.pl-oferta9812347.cfd
 0.0.0.0 www.pl-oferta9813475.cfd
 0.0.0.0 www.pl-oferta9815559.sbs
 0.0.0.0 www.pl-oferta982583.icu
 0.0.0.0 www.pl-oferta9827420.icu
-0.0.0.0 www.pl-oferta9830.pl
 0.0.0.0 www.pl-oferta9831454.cfd
 0.0.0.0 www.pl-oferta98321.icu
+0.0.0.0 www.pl-oferta983274.icu
 0.0.0.0 www.pl-oferta9833.icu
 0.0.0.0 www.pl-oferta98438.icu
 0.0.0.0 www.pl-oferta98531.cfd
@@ -73282,12 +73512,14 @@
 0.0.0.0 www.pl-oferta988235.cfd
 0.0.0.0 www.pl-oferta9884701.co.in
 0.0.0.0 www.pl-oferta989736.cfd
+0.0.0.0 www.pl-oferta98974381.sbs
 0.0.0.0 www.pl-oferta9907918.icu
 0.0.0.0 www.pl-oferta9910294851845230.icu
 0.0.0.0 www.pl-oferta9912270.com
 0.0.0.0 www.pl-oferta991712.cfd
 0.0.0.0 www.pl-oferta9921.cfd
 0.0.0.0 www.pl-oferta9921.icu
+0.0.0.0 www.pl-oferta992821.icu
 0.0.0.0 www.pl-oferta9937635.cfd
 0.0.0.0 www.pl-oferta99428720.icu
 0.0.0.0 www.pl-oferta99492.cfd
@@ -73391,7 +73623,6 @@
 0.0.0.0 www.pl-ogloszenia16782519827591825.shop
 0.0.0.0 www.pl-ogloszenia2891.icu
 0.0.0.0 www.pl-ogloszenia2891.shop
-0.0.0.0 www.pl-ogloszenia78517.shop
 0.0.0.0 www.pl-ogloszenie-002949281.icu
 0.0.0.0 www.pl-ogloszenie-003948912.icu
 0.0.0.0 www.pl-ogloszenie-02103994.rest
@@ -73421,6 +73652,7 @@
 0.0.0.0 www.pl-ogloszenie-092094892.cfd
 0.0.0.0 www.pl-ogloszenie-093494092.top
 0.0.0.0 www.pl-ogloszenie-094302.top
+0.0.0.0 www.pl-ogloszenie-096054.rest
 0.0.0.0 www.pl-ogloszenie-201029293.rest
 0.0.0.0 www.pl-ogloszenie-20103293.top
 0.0.0.0 www.pl-ogloszenie-202392023.shop
@@ -73445,13 +73677,16 @@
 0.0.0.0 www.pl-ogloszenie-8532752.cfd
 0.0.0.0 www.pl-ogloszenie-854374.top
 0.0.0.0 www.pl-ogloszenie-86752.rest
+0.0.0.0 www.pl-ogloszenie-879202.rest
 0.0.0.0 www.pl-ogloszenie-902305921.icu
 0.0.0.0 www.pl-ogloszenie-90239340.icu
 0.0.0.0 www.pl-ogloszenie-90293094.cfd
 0.0.0.0 www.pl-ogloszenie-9029650.sbs
 0.0.0.0 www.pl-ogloszenie-903093209.cfd
 0.0.0.0 www.pl-ogloszenie-9034909506.top
+0.0.0.0 www.pl-ogloszenie-904890.top
 0.0.0.0 www.pl-ogloszenie-90569.top
+0.0.0.0 www.pl-ogloszenie-905924.rest
 0.0.0.0 www.pl-ogloszenie-907059023.cfd
 0.0.0.0 www.pl-ogloszenie-90853427.icu
 0.0.0.0 www.pl-ogloszenie-92012948.cfd
@@ -73487,7 +73722,6 @@
 0.0.0.0 www.pl-ogloszenie-firmowe-918577.icu
 0.0.0.0 www.pl-ogloszenie-firmowe-918911.icu
 0.0.0.0 www.pl-ogloszenie-firmowe-985911.cfd
-0.0.0.0 www.pl-ogloszenie-firmowe823801.icu
 0.0.0.0 www.pl-ogloszenie-firmowe843801.icu
 0.0.0.0 www.pl-ogloszenie-promowane-5324835.icu
 0.0.0.0 www.pl-ogloszenie-promowane-532835.icu
@@ -73502,7 +73736,6 @@
 0.0.0.0 www.pl-ogloszenie412380345.sbs
 0.0.0.0 www.pl-ogloszenie472819.cfd
 0.0.0.0 www.pl-ogloszenie542364.live
-0.0.0.0 www.pl-ogloszenie63214.icu
 0.0.0.0 www.pl-ogloszenie765452311.shop
 0.0.0.0 www.pl-ogloszenie78618729432.sbs
 0.0.0.0 www.pl-ogloszenie81234.cfd
@@ -81603,6 +81836,7 @@
 0.0.0.0 xplastic.com.br
 0.0.0.0 xplay.me
 0.0.0.0 xpoleuno.com
+0.0.0.0 xporn-gifs.com
 0.0.0.0 xporn.desi
 0.0.0.0 xporn.gay
 0.0.0.0 xporn.host
@@ -81648,6 +81882,7 @@
 0.0.0.0 xpornvideo.cc
 0.0.0.0 xpornvideo.mobi
 0.0.0.0 xpornz.com
+0.0.0.0 xposedpassion.com
 0.0.0.0 xprime.biz
 0.0.0.0 xprimeuk.biz
 0.0.0.0 xprivate.club
@@ -84558,6 +84793,7 @@
 0.0.0.0 zoiofilmesadulto.com
 0.0.0.0 zom8.club
 0.0.0.0 zombiporn.com
+0.0.0.0 zona-adultilor.net
 0.0.0.0 zonaintima.pt
 0.0.0.0 zonawebcams.com
 0.0.0.0 zone-archive.com
