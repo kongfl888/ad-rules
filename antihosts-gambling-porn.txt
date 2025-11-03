@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2025-11-01 21:38:17
+# DATE: 2025-11-03 21:39:42
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -2318,7 +2318,6 @@
 0.0.0.0 albums193.zbporn.tv
 0.0.0.0 albumsvideo.onlc.be
 0.0.0.0 alcuda.com
-0.0.0.0 alegrolokalnie.pl-oferta48206.icu
 0.0.0.0 aleksapratt.pornsugars.com
 0.0.0.0 alesbiansporn.com
 0.0.0.0 alesbianxxx.com
@@ -41271,8 +41270,6 @@
 0.0.0.0 pl-oferta3906094.sbs
 0.0.0.0 pl-oferta3919452.icu
 0.0.0.0 pl-oferta393521.icu
-0.0.0.0 pl-oferta393621.icu
-0.0.0.0 pl-oferta393721.icu
 0.0.0.0 pl-oferta39434234828999.icu
 0.0.0.0 pl-oferta394521.icu
 0.0.0.0 pl-oferta3949090.icu
@@ -41303,7 +41300,6 @@
 0.0.0.0 pl-oferta47567.top
 0.0.0.0 pl-oferta4758578.sbs
 0.0.0.0 pl-oferta4776715847252623-ipad-air-gen5-rozowy.cfd
-0.0.0.0 pl-oferta48239145.shop
 0.0.0.0 pl-oferta489561419764629-macbook-air-m2.click
 0.0.0.0 pl-oferta495784899.sbs
 0.0.0.0 pl-oferta496472541747261-zestaw-kina-domowego-samung.cfd
@@ -41362,10 +41358,8 @@
 0.0.0.0 pl-oferta634487899.sbs
 0.0.0.0 pl-oferta6374503.sbs
 0.0.0.0 pl-oferta64263.rest
-0.0.0.0 pl-oferta64376.top
 0.0.0.0 pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0 pl-oferta65235728158.shop
-0.0.0.0 pl-oferta65285393672.shop
 0.0.0.0 pl-oferta66210.icu
 0.0.0.0 pl-oferta662115.sbs
 0.0.0.0 pl-oferta662318.icu
@@ -41393,7 +41387,6 @@
 0.0.0.0 pl-oferta736938.cfd
 0.0.0.0 pl-oferta7373038.sbs
 0.0.0.0 pl-oferta7378831.sbs
-0.0.0.0 pl-oferta73863494614190.shop
 0.0.0.0 pl-oferta73921471.cfd
 0.0.0.0 pl-oferta7420859.sbs
 0.0.0.0 pl-oferta74237.rest
@@ -41406,8 +41399,6 @@
 0.0.0.0 pl-oferta747723.cfd
 0.0.0.0 pl-oferta7480932.sbs
 0.0.0.0 pl-oferta7482916350.cfd
-0.0.0.0 pl-oferta75237.cfd
-0.0.0.0 pl-oferta75237.sbs
 0.0.0.0 pl-oferta75506.sbs
 0.0.0.0 pl-oferta7603666.sbs
 0.0.0.0 pl-oferta761906199.sbs
@@ -41505,7 +41496,6 @@
 0.0.0.0 pl-oferta893819.cfd
 0.0.0.0 pl-oferta894374835219274.shop
 0.0.0.0 pl-oferta894381.cfd
-0.0.0.0 pl-oferta894527652928.shop
 0.0.0.0 pl-oferta89456.rest
 0.0.0.0 pl-oferta8947192.icu
 0.0.0.0 pl-oferta894912.icu
@@ -41552,13 +41542,15 @@
 0.0.0.0 pl-oferta94568.sbs
 0.0.0.0 pl-oferta9471223.icu
 0.0.0.0 pl-oferta9473537.icu
-0.0.0.0 pl-oferta948109.cfd
 0.0.0.0 pl-oferta948122.icu
+0.0.0.0 pl-oferta9481224.cfd
 0.0.0.0 pl-oferta9481922.icu
 0.0.0.0 pl-oferta9489331.cfd
 0.0.0.0 pl-oferta9552600.sbs
 0.0.0.0 pl-oferta956318.cfd
+0.0.0.0 pl-oferta9581902.icu
 0.0.0.0 pl-oferta9629687.cfd
+0.0.0.0 pl-oferta964798212-nowe-ps-5-pro.sbs
 0.0.0.0 pl-oferta96687589756.sbs
 0.0.0.0 pl-oferta97546.rest
 0.0.0.0 pl-oferta9784901.sbs
@@ -41579,12 +41571,10 @@
 0.0.0.0 pl-ofertaid7130056285.icu
 0.0.0.0 pl-ofertaid87213186.rest
 0.0.0.0 pl-ofertanr2715523.rest
-0.0.0.0 pl-ogloszenia-elektronika.icu
 0.0.0.0 pl-ogloszenia-firmowe-828312.site
 0.0.0.0 pl-ogloszenia-firmowe-832883.sbs
 0.0.0.0 pl-ogloszenia-firmowe-888321.icu
 0.0.0.0 pl-ogloszenia-firmowe-88883923.icu
-0.0.0.0 pl-ogloszenia-firmowe-888839239.icu
 0.0.0.0 pl-ogloszenia-firmowe-88883934.icu
 0.0.0.0 pl-ogloszenia-firmowe-88883938.icu
 0.0.0.0 pl-ogloszenie-023295.cfd
@@ -41600,7 +41590,6 @@
 0.0.0.0 pl-ogloszenie-204953.rest
 0.0.0.0 pl-ogloszenie-20595.cfd
 0.0.0.0 pl-ogloszenie-21304.sbs
-0.0.0.0 pl-ogloszenie-2304356756.cfd
 0.0.0.0 pl-ogloszenie-230495.rest
 0.0.0.0 pl-ogloszenie-230509.sbs
 0.0.0.0 pl-ogloszenie-23095.rest
@@ -58576,8 +58565,6 @@
 0.0.0.0 vinted.pl-oferta3919452.icu
 0.0.0.0 vinted.pl-oferta393221.icu
 0.0.0.0 vinted.pl-oferta393521.icu
-0.0.0.0 vinted.pl-oferta393621.icu
-0.0.0.0 vinted.pl-oferta393721.icu
 0.0.0.0 vinted.pl-oferta39434234828999.icu
 0.0.0.0 vinted.pl-oferta394521.icu
 0.0.0.0 vinted.pl-oferta3949090.icu
@@ -58608,7 +58595,6 @@
 0.0.0.0 vinted.pl-oferta47567.top
 0.0.0.0 vinted.pl-oferta4758578.sbs
 0.0.0.0 vinted.pl-oferta4776715847252623-ipad-air-gen5-rozowy.cfd
-0.0.0.0 vinted.pl-oferta48239145.shop
 0.0.0.0 vinted.pl-oferta489561419764629-macbook-air-m2.click
 0.0.0.0 vinted.pl-oferta495784899.sbs
 0.0.0.0 vinted.pl-oferta496472541747261-zestaw-kina-domowego-samung.cfd
@@ -58667,10 +58653,8 @@
 0.0.0.0 vinted.pl-oferta634487899.sbs
 0.0.0.0 vinted.pl-oferta6374503.sbs
 0.0.0.0 vinted.pl-oferta64263.rest
-0.0.0.0 vinted.pl-oferta64376.top
 0.0.0.0 vinted.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0 vinted.pl-oferta65235728158.shop
-0.0.0.0 vinted.pl-oferta65285393672.shop
 0.0.0.0 vinted.pl-oferta66210.icu
 0.0.0.0 vinted.pl-oferta662115.sbs
 0.0.0.0 vinted.pl-oferta662318.icu
@@ -58697,7 +58681,6 @@
 0.0.0.0 vinted.pl-oferta736938.cfd
 0.0.0.0 vinted.pl-oferta7373038.sbs
 0.0.0.0 vinted.pl-oferta7378831.sbs
-0.0.0.0 vinted.pl-oferta73863494614190.shop
 0.0.0.0 vinted.pl-oferta73921471.cfd
 0.0.0.0 vinted.pl-oferta7420859.sbs
 0.0.0.0 vinted.pl-oferta74237.rest
@@ -58710,8 +58693,6 @@
 0.0.0.0 vinted.pl-oferta747723.cfd
 0.0.0.0 vinted.pl-oferta7480932.sbs
 0.0.0.0 vinted.pl-oferta7482916350.cfd
-0.0.0.0 vinted.pl-oferta75237.cfd
-0.0.0.0 vinted.pl-oferta75237.sbs
 0.0.0.0 vinted.pl-oferta75506.sbs
 0.0.0.0 vinted.pl-oferta7603666.sbs
 0.0.0.0 vinted.pl-oferta761906199.sbs
@@ -58809,7 +58790,6 @@
 0.0.0.0 vinted.pl-oferta893819.cfd
 0.0.0.0 vinted.pl-oferta894374835219274.shop
 0.0.0.0 vinted.pl-oferta894381.cfd
-0.0.0.0 vinted.pl-oferta894527652928.shop
 0.0.0.0 vinted.pl-oferta89456.rest
 0.0.0.0 vinted.pl-oferta8947192.icu
 0.0.0.0 vinted.pl-oferta894912.icu
@@ -58856,13 +58836,15 @@
 0.0.0.0 vinted.pl-oferta94568.sbs
 0.0.0.0 vinted.pl-oferta9471223.icu
 0.0.0.0 vinted.pl-oferta9473537.icu
-0.0.0.0 vinted.pl-oferta948109.cfd
 0.0.0.0 vinted.pl-oferta948122.icu
+0.0.0.0 vinted.pl-oferta9481224.cfd
 0.0.0.0 vinted.pl-oferta9481922.icu
 0.0.0.0 vinted.pl-oferta9489331.cfd
 0.0.0.0 vinted.pl-oferta9552600.sbs
 0.0.0.0 vinted.pl-oferta956318.cfd
+0.0.0.0 vinted.pl-oferta9581902.icu
 0.0.0.0 vinted.pl-oferta9629687.cfd
+0.0.0.0 vinted.pl-oferta964798212-nowe-ps-5-pro.sbs
 0.0.0.0 vinted.pl-oferta96687589756.sbs
 0.0.0.0 vinted.pl-oferta97546.rest
 0.0.0.0 vinted.pl-oferta9784901.sbs
@@ -58883,10 +58865,8 @@
 0.0.0.0 vinted.pl-ofertaid7130056285.icu
 0.0.0.0 vinted.pl-ofertaid87213186.rest
 0.0.0.0 vinted.pl-ofertanr2715523.rest
-0.0.0.0 vinted.pl-ogloszenia-elektronika.icu
 0.0.0.0 vinted.pl-ogloszenia-firmowe-828312.site
 0.0.0.0 vinted.pl-ogloszenia-firmowe-88883923.icu
-0.0.0.0 vinted.pl-ogloszenia-firmowe-888839239.icu
 0.0.0.0 vinted.pl-ogloszenia-firmowe-88883934.icu
 0.0.0.0 vinted.pl-ogloszenie-023295.cfd
 0.0.0.0 vinted.pl-ogloszenie-029527.cfd
@@ -58901,7 +58881,6 @@
 0.0.0.0 vinted.pl-ogloszenie-204953.rest
 0.0.0.0 vinted.pl-ogloszenie-20595.cfd
 0.0.0.0 vinted.pl-ogloszenie-21304.sbs
-0.0.0.0 vinted.pl-ogloszenie-2304356756.cfd
 0.0.0.0 vinted.pl-ogloszenie-230495.rest
 0.0.0.0 vinted.pl-ogloszenie-230509.sbs
 0.0.0.0 vinted.pl-ogloszenie-23095.rest
@@ -61718,7 +61697,6 @@
 0.0.0.0 www.alastonsuomi.com
 0.0.0.0 www.alazee.com
 0.0.0.0 www.alcuda.com
-0.0.0.0 www.alegrolokalnie.pl-oferta48206.icu
 0.0.0.0 www.alesbiansporn.com
 0.0.0.0 www.alesbianxxx.com
 0.0.0.0 www.alex-jg.co.jp
@@ -71407,8 +71385,6 @@
 0.0.0.0 www.pl-oferta3906094.sbs
 0.0.0.0 www.pl-oferta3919452.icu
 0.0.0.0 www.pl-oferta393521.icu
-0.0.0.0 www.pl-oferta393621.icu
-0.0.0.0 www.pl-oferta393721.icu
 0.0.0.0 www.pl-oferta39434234828999.icu
 0.0.0.0 www.pl-oferta394521.icu
 0.0.0.0 www.pl-oferta3949090.icu
@@ -71439,7 +71415,6 @@
 0.0.0.0 www.pl-oferta47567.top
 0.0.0.0 www.pl-oferta4758578.sbs
 0.0.0.0 www.pl-oferta4776715847252623-ipad-air-gen5-rozowy.cfd
-0.0.0.0 www.pl-oferta48239145.shop
 0.0.0.0 www.pl-oferta489561419764629-macbook-air-m2.click
 0.0.0.0 www.pl-oferta495784899.sbs
 0.0.0.0 www.pl-oferta496472541747261-zestaw-kina-domowego-samung.cfd
@@ -71498,10 +71473,8 @@
 0.0.0.0 www.pl-oferta634487899.sbs
 0.0.0.0 www.pl-oferta6374503.sbs
 0.0.0.0 www.pl-oferta64263.rest
-0.0.0.0 www.pl-oferta64376.top
 0.0.0.0 www.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0 www.pl-oferta65235728158.shop
-0.0.0.0 www.pl-oferta65285393672.shop
 0.0.0.0 www.pl-oferta66210.icu
 0.0.0.0 www.pl-oferta662115.sbs
 0.0.0.0 www.pl-oferta662318.icu
@@ -71529,7 +71502,6 @@
 0.0.0.0 www.pl-oferta736938.cfd
 0.0.0.0 www.pl-oferta7373038.sbs
 0.0.0.0 www.pl-oferta7378831.sbs
-0.0.0.0 www.pl-oferta73863494614190.shop
 0.0.0.0 www.pl-oferta73921471.cfd
 0.0.0.0 www.pl-oferta7420859.sbs
 0.0.0.0 www.pl-oferta74237.rest
@@ -71542,8 +71514,6 @@
 0.0.0.0 www.pl-oferta747723.cfd
 0.0.0.0 www.pl-oferta7480932.sbs
 0.0.0.0 www.pl-oferta7482916350.cfd
-0.0.0.0 www.pl-oferta75237.cfd
-0.0.0.0 www.pl-oferta75237.sbs
 0.0.0.0 www.pl-oferta75506.sbs
 0.0.0.0 www.pl-oferta7603666.sbs
 0.0.0.0 www.pl-oferta761906199.sbs
@@ -71641,7 +71611,6 @@
 0.0.0.0 www.pl-oferta893819.cfd
 0.0.0.0 www.pl-oferta894374835219274.shop
 0.0.0.0 www.pl-oferta894381.cfd
-0.0.0.0 www.pl-oferta894527652928.shop
 0.0.0.0 www.pl-oferta89456.rest
 0.0.0.0 www.pl-oferta8947192.icu
 0.0.0.0 www.pl-oferta894912.icu
@@ -71688,13 +71657,15 @@
 0.0.0.0 www.pl-oferta94568.sbs
 0.0.0.0 www.pl-oferta9471223.icu
 0.0.0.0 www.pl-oferta9473537.icu
-0.0.0.0 www.pl-oferta948109.cfd
 0.0.0.0 www.pl-oferta948122.icu
+0.0.0.0 www.pl-oferta9481224.cfd
 0.0.0.0 www.pl-oferta9481922.icu
 0.0.0.0 www.pl-oferta9489331.cfd
 0.0.0.0 www.pl-oferta9552600.sbs
 0.0.0.0 www.pl-oferta956318.cfd
+0.0.0.0 www.pl-oferta9581902.icu
 0.0.0.0 www.pl-oferta9629687.cfd
+0.0.0.0 www.pl-oferta964798212-nowe-ps-5-pro.sbs
 0.0.0.0 www.pl-oferta96687589756.sbs
 0.0.0.0 www.pl-oferta97546.rest
 0.0.0.0 www.pl-oferta9784901.sbs
@@ -71715,12 +71686,10 @@
 0.0.0.0 www.pl-ofertaid7130056285.icu
 0.0.0.0 www.pl-ofertaid87213186.rest
 0.0.0.0 www.pl-ofertanr2715523.rest
-0.0.0.0 www.pl-ogloszenia-elektronika.icu
 0.0.0.0 www.pl-ogloszenia-firmowe-828312.site
 0.0.0.0 www.pl-ogloszenia-firmowe-832883.sbs
 0.0.0.0 www.pl-ogloszenia-firmowe-888321.icu
 0.0.0.0 www.pl-ogloszenia-firmowe-88883923.icu
-0.0.0.0 www.pl-ogloszenia-firmowe-888839239.icu
 0.0.0.0 www.pl-ogloszenia-firmowe-88883934.icu
 0.0.0.0 www.pl-ogloszenia-firmowe-88883938.icu
 0.0.0.0 www.pl-ogloszenie-023295.cfd
@@ -71736,7 +71705,6 @@
 0.0.0.0 www.pl-ogloszenie-204953.rest
 0.0.0.0 www.pl-ogloszenie-20595.cfd
 0.0.0.0 www.pl-ogloszenie-21304.sbs
-0.0.0.0 www.pl-ogloszenie-2304356756.cfd
 0.0.0.0 www.pl-ogloszenie-230495.rest
 0.0.0.0 www.pl-ogloszenie-230509.sbs
 0.0.0.0 www.pl-ogloszenie-23095.rest
@@ -76407,8 +76375,6 @@
 0.0.0.0 www.vinted.pl-oferta3919452.icu
 0.0.0.0 www.vinted.pl-oferta393221.icu
 0.0.0.0 www.vinted.pl-oferta393521.icu
-0.0.0.0 www.vinted.pl-oferta393621.icu
-0.0.0.0 www.vinted.pl-oferta393721.icu
 0.0.0.0 www.vinted.pl-oferta39434234828999.icu
 0.0.0.0 www.vinted.pl-oferta394521.icu
 0.0.0.0 www.vinted.pl-oferta3949090.icu
@@ -76439,7 +76405,6 @@
 0.0.0.0 www.vinted.pl-oferta47567.top
 0.0.0.0 www.vinted.pl-oferta4758578.sbs
 0.0.0.0 www.vinted.pl-oferta4776715847252623-ipad-air-gen5-rozowy.cfd
-0.0.0.0 www.vinted.pl-oferta48239145.shop
 0.0.0.0 www.vinted.pl-oferta489561419764629-macbook-air-m2.click
 0.0.0.0 www.vinted.pl-oferta495784899.sbs
 0.0.0.0 www.vinted.pl-oferta496472541747261-zestaw-kina-domowego-samung.cfd
@@ -76498,10 +76463,8 @@
 0.0.0.0 www.vinted.pl-oferta634487899.sbs
 0.0.0.0 www.vinted.pl-oferta6374503.sbs
 0.0.0.0 www.vinted.pl-oferta64263.rest
-0.0.0.0 www.vinted.pl-oferta64376.top
 0.0.0.0 www.vinted.pl-oferta647421174926-ipad-pro-4-gen-512gb.sbs
 0.0.0.0 www.vinted.pl-oferta65235728158.shop
-0.0.0.0 www.vinted.pl-oferta65285393672.shop
 0.0.0.0 www.vinted.pl-oferta66210.icu
 0.0.0.0 www.vinted.pl-oferta662115.sbs
 0.0.0.0 www.vinted.pl-oferta662318.icu
@@ -76528,7 +76491,6 @@
 0.0.0.0 www.vinted.pl-oferta736938.cfd
 0.0.0.0 www.vinted.pl-oferta7373038.sbs
 0.0.0.0 www.vinted.pl-oferta7378831.sbs
-0.0.0.0 www.vinted.pl-oferta73863494614190.shop
 0.0.0.0 www.vinted.pl-oferta73921471.cfd
 0.0.0.0 www.vinted.pl-oferta7420859.sbs
 0.0.0.0 www.vinted.pl-oferta74237.rest
@@ -76541,8 +76503,6 @@
 0.0.0.0 www.vinted.pl-oferta747723.cfd
 0.0.0.0 www.vinted.pl-oferta7480932.sbs
 0.0.0.0 www.vinted.pl-oferta7482916350.cfd
-0.0.0.0 www.vinted.pl-oferta75237.cfd
-0.0.0.0 www.vinted.pl-oferta75237.sbs
 0.0.0.0 www.vinted.pl-oferta75506.sbs
 0.0.0.0 www.vinted.pl-oferta7603666.sbs
 0.0.0.0 www.vinted.pl-oferta761906199.sbs
@@ -76640,7 +76600,6 @@
 0.0.0.0 www.vinted.pl-oferta893819.cfd
 0.0.0.0 www.vinted.pl-oferta894374835219274.shop
 0.0.0.0 www.vinted.pl-oferta894381.cfd
-0.0.0.0 www.vinted.pl-oferta894527652928.shop
 0.0.0.0 www.vinted.pl-oferta89456.rest
 0.0.0.0 www.vinted.pl-oferta8947192.icu
 0.0.0.0 www.vinted.pl-oferta894912.icu
@@ -76687,13 +76646,15 @@
 0.0.0.0 www.vinted.pl-oferta94568.sbs
 0.0.0.0 www.vinted.pl-oferta9471223.icu
 0.0.0.0 www.vinted.pl-oferta9473537.icu
-0.0.0.0 www.vinted.pl-oferta948109.cfd
 0.0.0.0 www.vinted.pl-oferta948122.icu
+0.0.0.0 www.vinted.pl-oferta9481224.cfd
 0.0.0.0 www.vinted.pl-oferta9481922.icu
 0.0.0.0 www.vinted.pl-oferta9489331.cfd
 0.0.0.0 www.vinted.pl-oferta9552600.sbs
 0.0.0.0 www.vinted.pl-oferta956318.cfd
+0.0.0.0 www.vinted.pl-oferta9581902.icu
 0.0.0.0 www.vinted.pl-oferta9629687.cfd
+0.0.0.0 www.vinted.pl-oferta964798212-nowe-ps-5-pro.sbs
 0.0.0.0 www.vinted.pl-oferta96687589756.sbs
 0.0.0.0 www.vinted.pl-oferta97546.rest
 0.0.0.0 www.vinted.pl-oferta9784901.sbs
@@ -76714,10 +76675,8 @@
 0.0.0.0 www.vinted.pl-ofertaid7130056285.icu
 0.0.0.0 www.vinted.pl-ofertaid87213186.rest
 0.0.0.0 www.vinted.pl-ofertanr2715523.rest
-0.0.0.0 www.vinted.pl-ogloszenia-elektronika.icu
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-828312.site
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-88883923.icu
-0.0.0.0 www.vinted.pl-ogloszenia-firmowe-888839239.icu
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-88883934.icu
 0.0.0.0 www.vinted.pl-ogloszenie-023295.cfd
 0.0.0.0 www.vinted.pl-ogloszenie-029527.cfd
@@ -76732,7 +76691,6 @@
 0.0.0.0 www.vinted.pl-ogloszenie-204953.rest
 0.0.0.0 www.vinted.pl-ogloszenie-20595.cfd
 0.0.0.0 www.vinted.pl-ogloszenie-21304.sbs
-0.0.0.0 www.vinted.pl-ogloszenie-2304356756.cfd
 0.0.0.0 www.vinted.pl-ogloszenie-230495.rest
 0.0.0.0 www.vinted.pl-ogloszenie-230509.sbs
 0.0.0.0 www.vinted.pl-ogloszenie-23095.rest
