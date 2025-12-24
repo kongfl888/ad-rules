@@ -1,4 +1,4 @@
-! ----Updatetime: 2025-07-08 21:42:09 by:Mr.K----
+! ----Updatetime: 2025-12-24 21:41:11 by:Mr.K----
 ! Modified from xinggsf.Thanks
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
 cad.youku.com
@@ -52,13 +52,11 @@ statwup.huya.com
 va.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
-litix.io
 ||google.*/pagead/
 ||gstatic.com/shopping?
 jads.co
 dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
 stgowan.com
-z4a.net
 @@||log.mmstat.com/eg.js^$script
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
 ||alicdn.com/awsc/et/$script
@@ -101,7 +99,7 @@ z4a.net
 ||live-cover.msstatic.com/huyalive/*/format,webp/$image
 ||tx-live-cover.msstatic.com/huyalive/*/format,webp/$image
 ||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
-||btsow.pics/app/jav$image
+||btsow.lol/app/jav$image
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
 ||toutiaoimg.com/origin/137370002e7fbe11b296a$image
 ||dd-static.jd.com^$image,domain=subaibai.com
