@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-01-02 21:40:38
+# DATE: 2026-01-03 21:41:20
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41328,6 +41328,7 @@
 0.0.0.0 pl-oferta122351-ps5-vr-2-z-gwarancja.sbs
 0.0.0.0 pl-oferta1364482.icu
 0.0.0.0 pl-oferta1449608.icu
+0.0.0.0 pl-oferta16171.cfd
 0.0.0.0 pl-oferta16171.icu
 0.0.0.0 pl-oferta167723.rest
 0.0.0.0 pl-oferta16818-macbook-pro-m1-m1-max.sbs
@@ -58349,7 +58350,6 @@
 0.0.0.0 vinted.pl-oferta-7940917264.shop
 0.0.0.0 vinted.pl-oferta-7940917277.shop
 0.0.0.0 vinted.pl-oferta-7940917288.shop
-0.0.0.0 vinted.pl-oferta-elektronika-67312.cfd
 0.0.0.0 vinted.pl-oferta-kategorie-polecane0293924.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane292399.sbs
@@ -58365,7 +58365,7 @@
 0.0.0.0 vinted.pl-oferta11304128.cfd
 0.0.0.0 vinted.pl-oferta122345.icu
 0.0.0.0 vinted.pl-oferta1364482.icu
-0.0.0.0 vinted.pl-oferta1449608.icu
+0.0.0.0 vinted.pl-oferta16171.cfd
 0.0.0.0 vinted.pl-oferta16171.icu
 0.0.0.0 vinted.pl-oferta167723.rest
 0.0.0.0 vinted.pl-oferta1859801.icu
@@ -58382,7 +58382,6 @@
 0.0.0.0 vinted.pl-oferta3292729.icu
 0.0.0.0 vinted.pl-oferta33121-apple-watch-ultra-3-gps.sbs
 0.0.0.0 vinted.pl-oferta34509659.sbs
-0.0.0.0 vinted.pl-oferta34819.cfd
 0.0.0.0 vinted.pl-oferta34839269.sbs
 0.0.0.0 vinted.pl-oferta3582556.space
 0.0.0.0 vinted.pl-oferta3705365-google-pixel-10-nowy.sbs
@@ -58403,7 +58402,6 @@
 0.0.0.0 vinted.pl-oferta46747-canon-powershot-g7-x-mark.sbs
 0.0.0.0 vinted.pl-oferta4810788.cfd
 0.0.0.0 vinted.pl-oferta48407089.sbs
-0.0.0.0 vinted.pl-oferta5020133.icu
 0.0.0.0 vinted.pl-oferta5051284-apple-watch-ultra-3-gps-cellular.sbs
 0.0.0.0 vinted.pl-oferta5051284-apple-watch-ultra-3.sbs
 0.0.0.0 vinted.pl-oferta5051284-geeforce-rtx-4070-super-12.sbs
@@ -58447,8 +58445,6 @@
 0.0.0.0 vinted.pl-oferta73578990.rest
 0.0.0.0 vinted.pl-oferta738642.sbs
 0.0.0.0 vinted.pl-oferta73902541.cfd
-0.0.0.0 vinted.pl-oferta74815.cfd
-0.0.0.0 vinted.pl-oferta74867809.sbs
 0.0.0.0 vinted.pl-oferta753244387.icu
 0.0.0.0 vinted.pl-oferta759383.cfd
 0.0.0.0 vinted.pl-oferta7619613.cfd
@@ -58512,7 +58508,6 @@
 0.0.0.0 vinted.pl-oferta91185129.sbs
 0.0.0.0 vinted.pl-oferta920405120.shop
 0.0.0.0 vinted.pl-oferta9232987.cfd
-0.0.0.0 vinted.pl-oferta9316574.icu
 0.0.0.0 vinted.pl-oferta939420003.sbs
 0.0.0.0 vinted.pl-oferta94062813.cfd
 0.0.0.0 vinted.pl-oferta94305-ipad-pro-13-m4-wifi-2tb.sbs
@@ -58521,7 +58516,6 @@
 0.0.0.0 vinted.pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0 vinted.pl-oferta962033-playstation-5-fat.sbs
 0.0.0.0 vinted.pl-oferta9620333-sprzedam-rtx-4070-tu-zotac.sbs
-0.0.0.0 vinted.pl-oferta9735732.icu
 0.0.0.0 vinted.pl-oferta98138549.sbs
 0.0.0.0 vinted.pl-oferta985152.icu
 0.0.0.0 vinted.pl-oferta987342.sbs
@@ -70860,6 +70854,7 @@
 0.0.0.0 www.pl-oferta122351-ps5-vr-2-z-gwarancja.sbs
 0.0.0.0 www.pl-oferta1364482.icu
 0.0.0.0 www.pl-oferta1449608.icu
+0.0.0.0 www.pl-oferta16171.cfd
 0.0.0.0 www.pl-oferta16171.icu
 0.0.0.0 www.pl-oferta167723.rest
 0.0.0.0 www.pl-oferta16818-macbook-pro-m1-m1-max.sbs
@@ -75490,7 +75485,6 @@
 0.0.0.0 www.vinted.pl-oferta-7940917264.shop
 0.0.0.0 www.vinted.pl-oferta-7940917277.shop
 0.0.0.0 www.vinted.pl-oferta-7940917288.shop
-0.0.0.0 www.vinted.pl-oferta-elektronika-67312.cfd
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane0293924.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane292399.sbs
@@ -75506,7 +75500,7 @@
 0.0.0.0 www.vinted.pl-oferta11304128.cfd
 0.0.0.0 www.vinted.pl-oferta122345.icu
 0.0.0.0 www.vinted.pl-oferta1364482.icu
-0.0.0.0 www.vinted.pl-oferta1449608.icu
+0.0.0.0 www.vinted.pl-oferta16171.cfd
 0.0.0.0 www.vinted.pl-oferta16171.icu
 0.0.0.0 www.vinted.pl-oferta167723.rest
 0.0.0.0 www.vinted.pl-oferta1859801.icu
@@ -75523,7 +75517,6 @@
 0.0.0.0 www.vinted.pl-oferta3292729.icu
 0.0.0.0 www.vinted.pl-oferta33121-apple-watch-ultra-3-gps.sbs
 0.0.0.0 www.vinted.pl-oferta34509659.sbs
-0.0.0.0 www.vinted.pl-oferta34819.cfd
 0.0.0.0 www.vinted.pl-oferta34839269.sbs
 0.0.0.0 www.vinted.pl-oferta3582556.space
 0.0.0.0 www.vinted.pl-oferta3705365-google-pixel-10-nowy.sbs
@@ -75544,7 +75537,6 @@
 0.0.0.0 www.vinted.pl-oferta46747-canon-powershot-g7-x-mark.sbs
 0.0.0.0 www.vinted.pl-oferta4810788.cfd
 0.0.0.0 www.vinted.pl-oferta48407089.sbs
-0.0.0.0 www.vinted.pl-oferta5020133.icu
 0.0.0.0 www.vinted.pl-oferta5051284-apple-watch-ultra-3-gps-cellular.sbs
 0.0.0.0 www.vinted.pl-oferta5051284-apple-watch-ultra-3.sbs
 0.0.0.0 www.vinted.pl-oferta5051284-geeforce-rtx-4070-super-12.sbs
@@ -75588,8 +75580,6 @@
 0.0.0.0 www.vinted.pl-oferta73578990.rest
 0.0.0.0 www.vinted.pl-oferta738642.sbs
 0.0.0.0 www.vinted.pl-oferta73902541.cfd
-0.0.0.0 www.vinted.pl-oferta74815.cfd
-0.0.0.0 www.vinted.pl-oferta74867809.sbs
 0.0.0.0 www.vinted.pl-oferta753244387.icu
 0.0.0.0 www.vinted.pl-oferta759383.cfd
 0.0.0.0 www.vinted.pl-oferta7619613.cfd
@@ -75653,7 +75643,6 @@
 0.0.0.0 www.vinted.pl-oferta91185129.sbs
 0.0.0.0 www.vinted.pl-oferta920405120.shop
 0.0.0.0 www.vinted.pl-oferta9232987.cfd
-0.0.0.0 www.vinted.pl-oferta9316574.icu
 0.0.0.0 www.vinted.pl-oferta939420003.sbs
 0.0.0.0 www.vinted.pl-oferta94062813.cfd
 0.0.0.0 www.vinted.pl-oferta94305-ipad-pro-13-m4-wifi-2tb.sbs
@@ -75662,7 +75651,6 @@
 0.0.0.0 www.vinted.pl-oferta962033-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.vinted.pl-oferta962033-playstation-5-fat.sbs
 0.0.0.0 www.vinted.pl-oferta9620333-sprzedam-rtx-4070-tu-zotac.sbs
-0.0.0.0 www.vinted.pl-oferta9735732.icu
 0.0.0.0 www.vinted.pl-oferta98138549.sbs
 0.0.0.0 www.vinted.pl-oferta985152.icu
 0.0.0.0 www.vinted.pl-oferta987342.sbs
