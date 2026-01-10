@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-01-08 21:44:16
+# DATE: 2026-01-10 21:41:17
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -42076,6 +42076,7 @@
 0.0.0.0 pl-oferta16171.cfd
 0.0.0.0 pl-oferta16171.icu
 0.0.0.0 pl-oferta19062.cfd
+0.0.0.0 pl-oferta196912.icu
 0.0.0.0 pl-oferta2010944.cfd
 0.0.0.0 pl-oferta21371.icu
 0.0.0.0 pl-oferta23768479.sbs
@@ -42160,6 +42161,7 @@
 0.0.0.0 pl-oferta885017299.sbs
 0.0.0.0 pl-oferta896478.sbs
 0.0.0.0 pl-oferta896542.sbs
+0.0.0.0 pl-oferta90190.icu
 0.0.0.0 pl-oferta903432099.sbs
 0.0.0.0 pl-oferta90408-nowy-dron-dji-air-3-fly.sbs
 0.0.0.0 pl-oferta909597465.sbs
@@ -59340,7 +59342,6 @@
 0.0.0.0 vintagexxxvideos.net
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
-0.0.0.0 vinted.pl-oferta-2356727.cfd
 0.0.0.0 vinted.pl-oferta-kategorie-polecane0293924.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane292399.sbs
@@ -59358,10 +59359,8 @@
 0.0.0.0 vinted.pl-oferta122345.icu
 0.0.0.0 vinted.pl-oferta16171.cfd
 0.0.0.0 vinted.pl-oferta16171.icu
-0.0.0.0 vinted.pl-oferta1859801.icu
 0.0.0.0 vinted.pl-oferta1980234.icu
 0.0.0.0 vinted.pl-oferta2010944.cfd
-0.0.0.0 vinted.pl-oferta21953-apple-watch-ultra-3-nowy.sbs
 0.0.0.0 vinted.pl-oferta23768479.sbs
 0.0.0.0 vinted.pl-oferta24901839.sbs
 0.0.0.0 vinted.pl-oferta33121-apple-watch-ultra-3-gps.sbs
@@ -59414,7 +59413,6 @@
 0.0.0.0 vinted.pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0 vinted.pl-oferta7236911.icu
 0.0.0.0 vinted.pl-oferta724693.sbs
-0.0.0.0 vinted.pl-oferta73578990.rest
 0.0.0.0 vinted.pl-oferta738642.sbs
 0.0.0.0 vinted.pl-oferta73902541.cfd
 0.0.0.0 vinted.pl-oferta753244387.icu
@@ -59424,7 +59422,6 @@
 0.0.0.0 vinted.pl-oferta776685.icu
 0.0.0.0 vinted.pl-oferta784315.sbs
 0.0.0.0 vinted.pl-oferta786378.sbs
-0.0.0.0 vinted.pl-oferta7883453.icu
 0.0.0.0 vinted.pl-oferta79206352.cfd
 0.0.0.0 vinted.pl-oferta79304128.cfd
 0.0.0.0 vinted.pl-oferta798349.sbs
@@ -59456,12 +59453,8 @@
 0.0.0.0 vinted.pl-oferta896478.sbs
 0.0.0.0 vinted.pl-oferta896542.sbs
 0.0.0.0 vinted.pl-oferta898731.sbs
-0.0.0.0 vinted.pl-oferta9034301-ipad-pro-13-m4-wifi-cellular.sbs
-0.0.0.0 vinted.pl-oferta9034302-ipad-pro-13-m4-wifi-cellular.sbs
-0.0.0.0 vinted.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 vinted.pl-oferta903432099.sbs
 0.0.0.0 vinted.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs
-0.0.0.0 vinted.pl-oferta904601-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 vinted.pl-oferta909597465.sbs
 0.0.0.0 vinted.pl-oferta9232987.cfd
 0.0.0.0 vinted.pl-oferta939420003.sbs
@@ -72151,6 +72144,7 @@
 0.0.0.0 www.pl-oferta16171.cfd
 0.0.0.0 www.pl-oferta16171.icu
 0.0.0.0 www.pl-oferta19062.cfd
+0.0.0.0 www.pl-oferta196912.icu
 0.0.0.0 www.pl-oferta2010944.cfd
 0.0.0.0 www.pl-oferta21371.icu
 0.0.0.0 www.pl-oferta23768479.sbs
@@ -72235,6 +72229,7 @@
 0.0.0.0 www.pl-oferta885017299.sbs
 0.0.0.0 www.pl-oferta896478.sbs
 0.0.0.0 www.pl-oferta896542.sbs
+0.0.0.0 www.pl-oferta90190.icu
 0.0.0.0 www.pl-oferta903432099.sbs
 0.0.0.0 www.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs
 0.0.0.0 www.pl-oferta909597465.sbs
@@ -76851,7 +76846,6 @@
 0.0.0.0 www.vintagexxxvideos.com
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
-0.0.0.0 www.vinted.pl-oferta-2356727.cfd
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane0293924.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane292399.sbs
@@ -76869,10 +76863,8 @@
 0.0.0.0 www.vinted.pl-oferta122345.icu
 0.0.0.0 www.vinted.pl-oferta16171.cfd
 0.0.0.0 www.vinted.pl-oferta16171.icu
-0.0.0.0 www.vinted.pl-oferta1859801.icu
 0.0.0.0 www.vinted.pl-oferta1980234.icu
 0.0.0.0 www.vinted.pl-oferta2010944.cfd
-0.0.0.0 www.vinted.pl-oferta21953-apple-watch-ultra-3-nowy.sbs
 0.0.0.0 www.vinted.pl-oferta23768479.sbs
 0.0.0.0 www.vinted.pl-oferta24901839.sbs
 0.0.0.0 www.vinted.pl-oferta33121-apple-watch-ultra-3-gps.sbs
@@ -76925,7 +76917,6 @@
 0.0.0.0 www.vinted.pl-oferta70176-playstation-5-pro.cfd
 0.0.0.0 www.vinted.pl-oferta7236911.icu
 0.0.0.0 www.vinted.pl-oferta724693.sbs
-0.0.0.0 www.vinted.pl-oferta73578990.rest
 0.0.0.0 www.vinted.pl-oferta738642.sbs
 0.0.0.0 www.vinted.pl-oferta73902541.cfd
 0.0.0.0 www.vinted.pl-oferta753244387.icu
@@ -76935,7 +76926,6 @@
 0.0.0.0 www.vinted.pl-oferta776685.icu
 0.0.0.0 www.vinted.pl-oferta784315.sbs
 0.0.0.0 www.vinted.pl-oferta786378.sbs
-0.0.0.0 www.vinted.pl-oferta7883453.icu
 0.0.0.0 www.vinted.pl-oferta79206352.cfd
 0.0.0.0 www.vinted.pl-oferta79304128.cfd
 0.0.0.0 www.vinted.pl-oferta798349.sbs
@@ -76967,12 +76957,8 @@
 0.0.0.0 www.vinted.pl-oferta896478.sbs
 0.0.0.0 www.vinted.pl-oferta896542.sbs
 0.0.0.0 www.vinted.pl-oferta898731.sbs
-0.0.0.0 www.vinted.pl-oferta9034301-ipad-pro-13-m4-wifi-cellular.sbs
-0.0.0.0 www.vinted.pl-oferta9034302-ipad-pro-13-m4-wifi-cellular.sbs
-0.0.0.0 www.vinted.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 www.vinted.pl-oferta903432099.sbs
 0.0.0.0 www.vinted.pl-oferta90408-nowy-dron-dji-air-3-fly.sbs
-0.0.0.0 www.vinted.pl-oferta904601-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 www.vinted.pl-oferta909597465.sbs
 0.0.0.0 www.vinted.pl-oferta9232987.cfd
 0.0.0.0 www.vinted.pl-oferta939420003.sbs
