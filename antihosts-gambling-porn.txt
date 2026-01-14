@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-01-12 21:43:51
+# DATE: 2026-01-14 21:45:02
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -57845,7 +57845,6 @@
 0.0.0.0 vinted.pl-oferta6234153.icu
 0.0.0.0 vinted.pl-oferta6235153.icu
 0.0.0.0 vinted.pl-oferta6274153.icu
-0.0.0.0 vinted.pl-oferta632731.cfd
 0.0.0.0 vinted.pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs
 0.0.0.0 vinted.pl-oferta647834.sbs
 0.0.0.0 vinted.pl-oferta647892.sbs
@@ -57858,7 +57857,6 @@
 0.0.0.0 vinted.pl-oferta6728127.icu
 0.0.0.0 vinted.pl-oferta6734153.icu
 0.0.0.0 vinted.pl-oferta6734157.icu
-0.0.0.0 vinted.pl-oferta674286.sbs
 0.0.0.0 vinted.pl-oferta674892.sbs
 0.0.0.0 vinted.pl-oferta674893.sbs
 0.0.0.0 vinted.pl-oferta6783127.icu
@@ -57880,8 +57878,6 @@
 0.0.0.0 vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 vinted.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 vinted.pl-oferta814932.sbs
-0.0.0.0 vinted.pl-oferta817285125.sbs
 0.0.0.0 vinted.pl-oferta84037449.cfd
 0.0.0.0 vinted.pl-oferta84037449.lol
 0.0.0.0 vinted.pl-oferta8407411.icu
@@ -57892,7 +57888,6 @@
 0.0.0.0 vinted.pl-oferta86054.cfd
 0.0.0.0 vinted.pl-oferta8605458740.cfd
 0.0.0.0 vinted.pl-oferta8646559.icu
-0.0.0.0 vinted.pl-oferta864936.com
 0.0.0.0 vinted.pl-oferta869352.sbs
 0.0.0.0 vinted.pl-oferta869372.cfd
 0.0.0.0 vinted.pl-oferta87623476809234768324786234732398.cfd
@@ -75144,7 +75139,6 @@
 0.0.0.0 www.vinted.pl-oferta6234153.icu
 0.0.0.0 www.vinted.pl-oferta6235153.icu
 0.0.0.0 www.vinted.pl-oferta6274153.icu
-0.0.0.0 www.vinted.pl-oferta632731.cfd
 0.0.0.0 www.vinted.pl-oferta6442181-nowy-dron-dji-air-3-fly.sbs
 0.0.0.0 www.vinted.pl-oferta647834.sbs
 0.0.0.0 www.vinted.pl-oferta647892.sbs
@@ -75157,7 +75151,6 @@
 0.0.0.0 www.vinted.pl-oferta6728127.icu
 0.0.0.0 www.vinted.pl-oferta6734153.icu
 0.0.0.0 www.vinted.pl-oferta6734157.icu
-0.0.0.0 www.vinted.pl-oferta674286.sbs
 0.0.0.0 www.vinted.pl-oferta674892.sbs
 0.0.0.0 www.vinted.pl-oferta674893.sbs
 0.0.0.0 www.vinted.pl-oferta6783127.icu
@@ -75179,8 +75172,6 @@
 0.0.0.0 www.vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.vinted.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.vinted.pl-oferta814932.sbs
-0.0.0.0 www.vinted.pl-oferta817285125.sbs
 0.0.0.0 www.vinted.pl-oferta84037449.cfd
 0.0.0.0 www.vinted.pl-oferta84037449.lol
 0.0.0.0 www.vinted.pl-oferta8407411.icu
@@ -75191,7 +75182,6 @@
 0.0.0.0 www.vinted.pl-oferta86054.cfd
 0.0.0.0 www.vinted.pl-oferta8605458740.cfd
 0.0.0.0 www.vinted.pl-oferta8646559.icu
-0.0.0.0 www.vinted.pl-oferta864936.com
 0.0.0.0 www.vinted.pl-oferta869352.sbs
 0.0.0.0 www.vinted.pl-oferta869372.cfd
 0.0.0.0 www.vinted.pl-oferta87623476809234768324786234732398.cfd
