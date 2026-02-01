@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-01-29 21:52:09
+# DATE: 2026-02-01 21:47:02
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41022,7 +41022,6 @@
 0.0.0.0 pl-oferta19062.cfd
 0.0.0.0 pl-oferta196912.icu
 0.0.0.0 pl-oferta2110734.pl
-0.0.0.0 pl-oferta21371.icu
 0.0.0.0 pl-oferta21706162.icu
 0.0.0.0 pl-oferta236826299.sbs
 0.0.0.0 pl-oferta2435361.icu
@@ -41042,7 +41041,6 @@
 0.0.0.0 pl-oferta42311.sbs
 0.0.0.0 pl-oferta4291897.cfd
 0.0.0.0 pl-oferta4353389.sbs
-0.0.0.0 pl-oferta4614303.cfd
 0.0.0.0 pl-oferta47470-nowy-apple-watch-ultra-3.sbs
 0.0.0.0 pl-oferta4912.pro
 0.0.0.0 pl-oferta495307-playstation-5-1-pad.sbs
@@ -41062,7 +41060,6 @@
 0.0.0.0 pl-oferta649784.sbs
 0.0.0.0 pl-oferta6521785.sbs
 0.0.0.0 pl-oferta672349.sbs
-0.0.0.0 pl-oferta674892.sbs
 0.0.0.0 pl-oferta6751970.sbs
 0.0.0.0 pl-oferta675324.cfd
 0.0.0.0 pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
@@ -41083,7 +41080,6 @@
 0.0.0.0 pl-oferta783978.sbs
 0.0.0.0 pl-oferta786432.sbs
 0.0.0.0 pl-oferta789436.sbs
-0.0.0.0 pl-oferta798349.sbs
 0.0.0.0 pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0 pl-oferta818659.icu
 0.0.0.0 pl-oferta8252365.sbs
@@ -41092,12 +41088,9 @@
 0.0.0.0 pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0 pl-oferta862372.cfd
 0.0.0.0 pl-oferta8646559.icu
-0.0.0.0 pl-oferta869352.sbs
 0.0.0.0 pl-oferta869372.cfd
 0.0.0.0 pl-oferta8752387.icu
 0.0.0.0 pl-oferta893172.sbs
-0.0.0.0 pl-oferta896478.sbs
-0.0.0.0 pl-oferta896542.sbs
 0.0.0.0 pl-oferta9014-apple-watch-ultra.cfd
 0.0.0.0 pl-oferta90190.icu
 0.0.0.0 pl-oferta91062.cfd
@@ -41105,7 +41098,6 @@
 0.0.0.0 pl-oferta91860.icu
 0.0.0.0 pl-oferta918909.icu
 0.0.0.0 pl-oferta91986.cfd
-0.0.0.0 pl-oferta919860.icu
 0.0.0.0 pl-oferta92259.sbs
 0.0.0.0 pl-oferta9335447.com
 0.0.0.0 pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
@@ -41113,7 +41105,6 @@
 0.0.0.0 pl-oferta9720914.icu
 0.0.0.0 pl-oferta9831462.cfd
 0.0.0.0 pl-oferta9834551.icu
-0.0.0.0 pl-oferta987342.sbs
 0.0.0.0 pl-ofertacd9012-samsung-tab-s9.lat
 0.0.0.0 pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 pl-shemale.xvideos2.com.se
@@ -57824,11 +57815,8 @@
 0.0.0.0 vintagexxxvideos.net
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
-0.0.0.0 vinted.pl-oferta-kategorie-polecane293324285.sbs
 0.0.0.0 vinted.pl-oferta004399439294035.sbs
 0.0.0.0 vinted.pl-oferta0302344939.sbs
-0.0.0.0 vinted.pl-oferta03439249253.sbs
-0.0.0.0 vinted.pl-oferta034932234.sbs
 0.0.0.0 vinted.pl-oferta1090007.cfd
 0.0.0.0 vinted.pl-oferta1250260.sbs
 0.0.0.0 vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
@@ -57853,11 +57841,8 @@
 0.0.0.0 vinted.pl-oferta2858665.sbs
 0.0.0.0 vinted.pl-oferta2913955.icu
 0.0.0.0 vinted.pl-oferta3045040.cfd
-0.0.0.0 vinted.pl-oferta394320020.sbs
-0.0.0.0 vinted.pl-oferta3949234200.sbs
 0.0.0.0 vinted.pl-oferta4291897.cfd
 0.0.0.0 vinted.pl-oferta4353389.sbs
-0.0.0.0 vinted.pl-oferta4614303.cfd
 0.0.0.0 vinted.pl-oferta47470-nowy-apple-watch-ultra-3.sbs
 0.0.0.0 vinted.pl-oferta4912.pro
 0.0.0.0 vinted.pl-oferta495307-playstation-5-1-pad.sbs
@@ -57877,7 +57862,6 @@
 0.0.0.0 vinted.pl-oferta649784.sbs
 0.0.0.0 vinted.pl-oferta6521785.sbs
 0.0.0.0 vinted.pl-oferta672349.sbs
-0.0.0.0 vinted.pl-oferta674892.sbs
 0.0.0.0 vinted.pl-oferta675324.cfd
 0.0.0.0 vinted.pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
 0.0.0.0 vinted.pl-oferta687185-apple-watch-ultra-2-gps-cellular.sbs
@@ -57898,7 +57882,6 @@
 0.0.0.0 vinted.pl-oferta783978.sbs
 0.0.0.0 vinted.pl-oferta786432.sbs
 0.0.0.0 vinted.pl-oferta789436.sbs
-0.0.0.0 vinted.pl-oferta798349.sbs
 0.0.0.0 vinted.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0 vinted.pl-oferta8252365.sbs
 0.0.0.0 vinted.pl-oferta829436.sbs
@@ -57908,19 +57891,14 @@
 0.0.0.0 vinted.pl-oferta85767124.cfd
 0.0.0.0 vinted.pl-oferta862372.cfd
 0.0.0.0 vinted.pl-oferta8646559.icu
-0.0.0.0 vinted.pl-oferta869352.sbs
 0.0.0.0 vinted.pl-oferta869372.cfd
 0.0.0.0 vinted.pl-oferta8752387.icu
 0.0.0.0 vinted.pl-oferta893172.sbs
-0.0.0.0 vinted.pl-oferta896478.sbs
-0.0.0.0 vinted.pl-oferta896542.sbs
 0.0.0.0 vinted.pl-oferta9335447.com
 0.0.0.0 vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
-0.0.0.0 vinted.pl-oferta939420003.sbs
 0.0.0.0 vinted.pl-oferta9720914.icu
 0.0.0.0 vinted.pl-oferta9831462.cfd
 0.0.0.0 vinted.pl-oferta9834551.icu
-0.0.0.0 vinted.pl-oferta987342.sbs
 0.0.0.0 vinted.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 vintporn.com
 0.0.0.0 viojav.cc
@@ -70442,7 +70420,6 @@
 0.0.0.0 www.pl-oferta19062.cfd
 0.0.0.0 www.pl-oferta196912.icu
 0.0.0.0 www.pl-oferta2110734.pl
-0.0.0.0 www.pl-oferta21371.icu
 0.0.0.0 www.pl-oferta21706162.icu
 0.0.0.0 www.pl-oferta236826299.sbs
 0.0.0.0 www.pl-oferta2435361.icu
@@ -70462,7 +70439,6 @@
 0.0.0.0 www.pl-oferta42311.sbs
 0.0.0.0 www.pl-oferta4291897.cfd
 0.0.0.0 www.pl-oferta4353389.sbs
-0.0.0.0 www.pl-oferta4614303.cfd
 0.0.0.0 www.pl-oferta47470-nowy-apple-watch-ultra-3.sbs
 0.0.0.0 www.pl-oferta4912.pro
 0.0.0.0 www.pl-oferta495307-playstation-5-1-pad.sbs
@@ -70482,7 +70458,6 @@
 0.0.0.0 www.pl-oferta649784.sbs
 0.0.0.0 www.pl-oferta6521785.sbs
 0.0.0.0 www.pl-oferta672349.sbs
-0.0.0.0 www.pl-oferta674892.sbs
 0.0.0.0 www.pl-oferta6751970.sbs
 0.0.0.0 www.pl-oferta675324.cfd
 0.0.0.0 www.pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
@@ -70503,7 +70478,6 @@
 0.0.0.0 www.pl-oferta783978.sbs
 0.0.0.0 www.pl-oferta786432.sbs
 0.0.0.0 www.pl-oferta789436.sbs
-0.0.0.0 www.pl-oferta798349.sbs
 0.0.0.0 www.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0 www.pl-oferta818659.icu
 0.0.0.0 www.pl-oferta8252365.sbs
@@ -70512,12 +70486,9 @@
 0.0.0.0 www.pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0 www.pl-oferta862372.cfd
 0.0.0.0 www.pl-oferta8646559.icu
-0.0.0.0 www.pl-oferta869352.sbs
 0.0.0.0 www.pl-oferta869372.cfd
 0.0.0.0 www.pl-oferta8752387.icu
 0.0.0.0 www.pl-oferta893172.sbs
-0.0.0.0 www.pl-oferta896478.sbs
-0.0.0.0 www.pl-oferta896542.sbs
 0.0.0.0 www.pl-oferta9014-apple-watch-ultra.cfd
 0.0.0.0 www.pl-oferta90190.icu
 0.0.0.0 www.pl-oferta91062.cfd
@@ -70525,7 +70496,6 @@
 0.0.0.0 www.pl-oferta91860.icu
 0.0.0.0 www.pl-oferta918909.icu
 0.0.0.0 www.pl-oferta91986.cfd
-0.0.0.0 www.pl-oferta919860.icu
 0.0.0.0 www.pl-oferta92259.sbs
 0.0.0.0 www.pl-oferta9335447.com
 0.0.0.0 www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
@@ -70533,7 +70503,6 @@
 0.0.0.0 www.pl-oferta9720914.icu
 0.0.0.0 www.pl-oferta9831462.cfd
 0.0.0.0 www.pl-oferta9834551.icu
-0.0.0.0 www.pl-oferta987342.sbs
 0.0.0.0 www.pl-ofertacd9012-samsung-tab-s9.lat
 0.0.0.0 www.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 www.planet-katie.info
@@ -75112,11 +75081,8 @@
 0.0.0.0 www.vintagexxxvideos.com
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
-0.0.0.0 www.vinted.pl-oferta-kategorie-polecane293324285.sbs
 0.0.0.0 www.vinted.pl-oferta004399439294035.sbs
 0.0.0.0 www.vinted.pl-oferta0302344939.sbs
-0.0.0.0 www.vinted.pl-oferta03439249253.sbs
-0.0.0.0 www.vinted.pl-oferta034932234.sbs
 0.0.0.0 www.vinted.pl-oferta1090007.cfd
 0.0.0.0 www.vinted.pl-oferta1250260.sbs
 0.0.0.0 www.vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
@@ -75141,11 +75107,8 @@
 0.0.0.0 www.vinted.pl-oferta2858665.sbs
 0.0.0.0 www.vinted.pl-oferta2913955.icu
 0.0.0.0 www.vinted.pl-oferta3045040.cfd
-0.0.0.0 www.vinted.pl-oferta394320020.sbs
-0.0.0.0 www.vinted.pl-oferta3949234200.sbs
 0.0.0.0 www.vinted.pl-oferta4291897.cfd
 0.0.0.0 www.vinted.pl-oferta4353389.sbs
-0.0.0.0 www.vinted.pl-oferta4614303.cfd
 0.0.0.0 www.vinted.pl-oferta47470-nowy-apple-watch-ultra-3.sbs
 0.0.0.0 www.vinted.pl-oferta4912.pro
 0.0.0.0 www.vinted.pl-oferta495307-playstation-5-1-pad.sbs
@@ -75165,7 +75128,6 @@
 0.0.0.0 www.vinted.pl-oferta649784.sbs
 0.0.0.0 www.vinted.pl-oferta6521785.sbs
 0.0.0.0 www.vinted.pl-oferta672349.sbs
-0.0.0.0 www.vinted.pl-oferta674892.sbs
 0.0.0.0 www.vinted.pl-oferta675324.cfd
 0.0.0.0 www.vinted.pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
 0.0.0.0 www.vinted.pl-oferta687185-apple-watch-ultra-2-gps-cellular.sbs
@@ -75186,7 +75148,6 @@
 0.0.0.0 www.vinted.pl-oferta783978.sbs
 0.0.0.0 www.vinted.pl-oferta786432.sbs
 0.0.0.0 www.vinted.pl-oferta789436.sbs
-0.0.0.0 www.vinted.pl-oferta798349.sbs
 0.0.0.0 www.vinted.pl-oferta8167231-sprzedam-macbook-m1-pro.sbs
 0.0.0.0 www.vinted.pl-oferta8252365.sbs
 0.0.0.0 www.vinted.pl-oferta829436.sbs
@@ -75196,19 +75157,14 @@
 0.0.0.0 www.vinted.pl-oferta85767124.cfd
 0.0.0.0 www.vinted.pl-oferta862372.cfd
 0.0.0.0 www.vinted.pl-oferta8646559.icu
-0.0.0.0 www.vinted.pl-oferta869352.sbs
 0.0.0.0 www.vinted.pl-oferta869372.cfd
 0.0.0.0 www.vinted.pl-oferta8752387.icu
 0.0.0.0 www.vinted.pl-oferta893172.sbs
-0.0.0.0 www.vinted.pl-oferta896478.sbs
-0.0.0.0 www.vinted.pl-oferta896542.sbs
 0.0.0.0 www.vinted.pl-oferta9335447.com
 0.0.0.0 www.vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
-0.0.0.0 www.vinted.pl-oferta939420003.sbs
 0.0.0.0 www.vinted.pl-oferta9720914.icu
 0.0.0.0 www.vinted.pl-oferta9831462.cfd
 0.0.0.0 www.vinted.pl-oferta9834551.icu
-0.0.0.0 www.vinted.pl-oferta987342.sbs
 0.0.0.0 www.vinted.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 www.vintporn.com
 0.0.0.0 www.vip-zona.net
