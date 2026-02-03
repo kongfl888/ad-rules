@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-02-01 21:47:02
+# DATE: 2026-02-03 21:58:40
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41016,12 +41016,9 @@
 0.0.0.0 pl-oferta1361771.icu
 0.0.0.0 pl-oferta1386635.sbs
 0.0.0.0 pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
-0.0.0.0 pl-oferta16171.cfd
-0.0.0.0 pl-oferta16171.icu
 0.0.0.0 pl-oferta1837322.cfd
 0.0.0.0 pl-oferta19062.cfd
 0.0.0.0 pl-oferta196912.icu
-0.0.0.0 pl-oferta2110734.pl
 0.0.0.0 pl-oferta21706162.icu
 0.0.0.0 pl-oferta236826299.sbs
 0.0.0.0 pl-oferta2435361.icu
@@ -41095,7 +41092,6 @@
 0.0.0.0 pl-oferta90190.icu
 0.0.0.0 pl-oferta91062.cfd
 0.0.0.0 pl-oferta9162.cfd
-0.0.0.0 pl-oferta91860.icu
 0.0.0.0 pl-oferta918909.icu
 0.0.0.0 pl-oferta91986.cfd
 0.0.0.0 pl-oferta92259.sbs
@@ -57823,10 +57819,7 @@
 0.0.0.0 vinted.pl-oferta1361771.icu
 0.0.0.0 vinted.pl-oferta1386635.sbs
 0.0.0.0 vinted.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
-0.0.0.0 vinted.pl-oferta16171.cfd
-0.0.0.0 vinted.pl-oferta16171.icu
 0.0.0.0 vinted.pl-oferta1837322.cfd
-0.0.0.0 vinted.pl-oferta2110734.pl
 0.0.0.0 vinted.pl-oferta21706162.icu
 0.0.0.0 vinted.pl-oferta236826299.sbs
 0.0.0.0 vinted.pl-oferta2435361.icu
@@ -70414,12 +70407,9 @@
 0.0.0.0 www.pl-oferta1361771.icu
 0.0.0.0 www.pl-oferta1386635.sbs
 0.0.0.0 www.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
-0.0.0.0 www.pl-oferta16171.cfd
-0.0.0.0 www.pl-oferta16171.icu
 0.0.0.0 www.pl-oferta1837322.cfd
 0.0.0.0 www.pl-oferta19062.cfd
 0.0.0.0 www.pl-oferta196912.icu
-0.0.0.0 www.pl-oferta2110734.pl
 0.0.0.0 www.pl-oferta21706162.icu
 0.0.0.0 www.pl-oferta236826299.sbs
 0.0.0.0 www.pl-oferta2435361.icu
@@ -70493,7 +70483,6 @@
 0.0.0.0 www.pl-oferta90190.icu
 0.0.0.0 www.pl-oferta91062.cfd
 0.0.0.0 www.pl-oferta9162.cfd
-0.0.0.0 www.pl-oferta91860.icu
 0.0.0.0 www.pl-oferta918909.icu
 0.0.0.0 www.pl-oferta91986.cfd
 0.0.0.0 www.pl-oferta92259.sbs
@@ -75089,10 +75078,7 @@
 0.0.0.0 www.vinted.pl-oferta1361771.icu
 0.0.0.0 www.vinted.pl-oferta1386635.sbs
 0.0.0.0 www.vinted.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
-0.0.0.0 www.vinted.pl-oferta16171.cfd
-0.0.0.0 www.vinted.pl-oferta16171.icu
 0.0.0.0 www.vinted.pl-oferta1837322.cfd
-0.0.0.0 www.vinted.pl-oferta2110734.pl
 0.0.0.0 www.vinted.pl-oferta21706162.icu
 0.0.0.0 www.vinted.pl-oferta236826299.sbs
 0.0.0.0 www.vinted.pl-oferta2435361.icu
