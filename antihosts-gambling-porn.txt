@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-02-03 21:58:40
+# DATE: 2026-02-05 21:53:12
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41055,7 +41055,6 @@
 0.0.0.0 pl-oferta6420220.sbs
 0.0.0.0 pl-oferta648263.sbs
 0.0.0.0 pl-oferta649784.sbs
-0.0.0.0 pl-oferta6521785.sbs
 0.0.0.0 pl-oferta672349.sbs
 0.0.0.0 pl-oferta6751970.sbs
 0.0.0.0 pl-oferta675324.cfd
@@ -57811,8 +57810,6 @@
 0.0.0.0 vintagexxxvideos.net
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
-0.0.0.0 vinted.pl-oferta004399439294035.sbs
-0.0.0.0 vinted.pl-oferta0302344939.sbs
 0.0.0.0 vinted.pl-oferta1090007.cfd
 0.0.0.0 vinted.pl-oferta1250260.sbs
 0.0.0.0 vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
@@ -57853,7 +57850,6 @@
 0.0.0.0 vinted.pl-oferta6420220.sbs
 0.0.0.0 vinted.pl-oferta648263.sbs
 0.0.0.0 vinted.pl-oferta649784.sbs
-0.0.0.0 vinted.pl-oferta6521785.sbs
 0.0.0.0 vinted.pl-oferta672349.sbs
 0.0.0.0 vinted.pl-oferta675324.cfd
 0.0.0.0 vinted.pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
@@ -70446,7 +70442,6 @@
 0.0.0.0 www.pl-oferta6420220.sbs
 0.0.0.0 www.pl-oferta648263.sbs
 0.0.0.0 www.pl-oferta649784.sbs
-0.0.0.0 www.pl-oferta6521785.sbs
 0.0.0.0 www.pl-oferta672349.sbs
 0.0.0.0 www.pl-oferta6751970.sbs
 0.0.0.0 www.pl-oferta675324.cfd
@@ -75070,8 +75065,6 @@
 0.0.0.0 www.vintagexxxvideos.com
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
-0.0.0.0 www.vinted.pl-oferta004399439294035.sbs
-0.0.0.0 www.vinted.pl-oferta0302344939.sbs
 0.0.0.0 www.vinted.pl-oferta1090007.cfd
 0.0.0.0 www.vinted.pl-oferta1250260.sbs
 0.0.0.0 www.vinted.pl-oferta127439-google-pixel-10-pro-xl.cfd
@@ -75112,7 +75105,6 @@
 0.0.0.0 www.vinted.pl-oferta6420220.sbs
 0.0.0.0 www.vinted.pl-oferta648263.sbs
 0.0.0.0 www.vinted.pl-oferta649784.sbs
-0.0.0.0 www.vinted.pl-oferta6521785.sbs
 0.0.0.0 www.vinted.pl-oferta672349.sbs
 0.0.0.0 www.vinted.pl-oferta675324.cfd
 0.0.0.0 www.vinted.pl-oferta6871669-apple-watch-ultra-2-gps-cellular.sbs
