@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-02-05 21:53:12
+# DATE: 2026-02-12 21:58:26
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1139,6 +1139,7 @@
 0.0.0.0 789club.com
 0.0.0.0 789club.org
 0.0.0.0 789club.sx
+0.0.0.0 789club.vg
 0.0.0.0 789club.vin
 0.0.0.0 789club.win
 0.0.0.0 789clubs.club
@@ -1375,6 +1376,7 @@
 0.0.0.0 99webcams.com
 0.0.0.0 99xxxtube.com
 0.0.0.0 9b992.com
+0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
 0.0.0.0 9bet.win
 0.0.0.0 9e3c.com
@@ -2042,6 +2044,8 @@
 0.0.0.0 aff.188thethao.com
 0.0.0.0 aff.ole777vietnam.com
 0.0.0.0 aff.solarbet.com
+0.0.0.0 aff.taptap.asia
+0.0.0.0 aff.taptaptructuyen.com
 0.0.0.0 affairhub.com
 0.0.0.0 affairsclub.com
 0.0.0.0 affbo.fb88aff.com
@@ -3684,6 +3688,7 @@
 0.0.0.0 api.33beta.com
 0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.99vn.bet
+0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.win
 0.0.0.0 api.adultsclips.com
 0.0.0.0 api.ae888.com
@@ -3747,6 +3752,7 @@
 0.0.0.0 api.topbet.net
 0.0.0.0 api.topbet.top
 0.0.0.0 api.unlockd.me
+0.0.0.0 api.usbet.cc
 0.0.0.0 api.usbet.net
 0.0.0.0 api.usbet.win
 0.0.0.0 api.v79top.com
@@ -10921,6 +10927,7 @@
 0.0.0.0 choib52.club
 0.0.0.0 choib52.me
 0.0.0.0 choibec88.vip
+0.0.0.0 choibongtaptap.com
 0.0.0.0 choidabanh.com
 0.0.0.0 choidangcap.pro
 0.0.0.0 choidangcap.us
@@ -14402,6 +14409,7 @@
 0.0.0.0 du.porn00.tv
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.pro
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyenkq.com
@@ -20203,6 +20211,7 @@
 0.0.0.0 gem.win
 0.0.0.0 gem1.win
 0.0.0.0 gem88.com
+0.0.0.0 gem88.guru
 0.0.0.0 gem88.win
 0.0.0.0 gemidos.tv
 0.0.0.0 gemmeporn.com
@@ -30081,6 +30090,7 @@
 0.0.0.0 k801k.com
 0.0.0.0 k81206.com
 0.0.0.0 k88.club
+0.0.0.0 k88.mobi
 0.0.0.0 k88.pro
 0.0.0.0 k88.win
 0.0.0.0 k89bet.com
@@ -32367,6 +32377,7 @@
 0.0.0.0 lu.xporno.me
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
+0.0.0.0 lu88.gdn
 0.0.0.0 lu88.pro
 0.0.0.0 lubed.com
 0.0.0.0 lubed.us
@@ -32791,6 +32802,7 @@
 0.0.0.0 m1.vin88.net
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
+0.0.0.0 m1.xibet.fun
 0.0.0.0 m12.hairysluts.tv
 0.0.0.0 m2.17sexvideo.com
 0.0.0.0 m2.cdn.sex.com
@@ -33051,6 +33063,7 @@
 0.0.0.0 man1.club
 0.0.0.0 man79.org
 0.0.0.0 man88.net
+0.0.0.0 man88.pw
 0.0.0.0 man88.top
 0.0.0.0 man88.vip
 0.0.0.0 man88.win
@@ -41010,15 +41023,12 @@
 0.0.0.0 pl-oferta01062.icu
 0.0.0.0 pl-oferta01933.icu
 0.0.0.0 pl-oferta1090007.cfd
-0.0.0.0 pl-oferta109602.cfd
 0.0.0.0 pl-oferta1250260.sbs
 0.0.0.0 pl-oferta127439-google-pixel-10-pro-xl.cfd
 0.0.0.0 pl-oferta1361771.icu
 0.0.0.0 pl-oferta1386635.sbs
 0.0.0.0 pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
 0.0.0.0 pl-oferta1837322.cfd
-0.0.0.0 pl-oferta19062.cfd
-0.0.0.0 pl-oferta196912.icu
 0.0.0.0 pl-oferta21706162.icu
 0.0.0.0 pl-oferta236826299.sbs
 0.0.0.0 pl-oferta2435361.icu
@@ -41033,8 +41043,6 @@
 0.0.0.0 pl-oferta2858665.sbs
 0.0.0.0 pl-oferta2913955.icu
 0.0.0.0 pl-oferta3045040.cfd
-0.0.0.0 pl-oferta3950320.icu
-0.0.0.0 pl-oferta4192026.cfd
 0.0.0.0 pl-oferta42311.sbs
 0.0.0.0 pl-oferta4291897.cfd
 0.0.0.0 pl-oferta4353389.sbs
@@ -41083,16 +41091,8 @@
 0.0.0.0 pl-oferta8485738.sbs
 0.0.0.0 pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0 pl-oferta862372.cfd
-0.0.0.0 pl-oferta8646559.icu
-0.0.0.0 pl-oferta869372.cfd
 0.0.0.0 pl-oferta8752387.icu
-0.0.0.0 pl-oferta893172.sbs
 0.0.0.0 pl-oferta9014-apple-watch-ultra.cfd
-0.0.0.0 pl-oferta90190.icu
-0.0.0.0 pl-oferta91062.cfd
-0.0.0.0 pl-oferta9162.cfd
-0.0.0.0 pl-oferta918909.icu
-0.0.0.0 pl-oferta91986.cfd
 0.0.0.0 pl-oferta92259.sbs
 0.0.0.0 pl-oferta9335447.com
 0.0.0.0 pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
@@ -50343,6 +50343,7 @@
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
+0.0.0.0 sk.xibet.fun
 0.0.0.0 skachatporno-7.com
 0.0.0.0 skbiotech.ru
 0.0.0.0 skbj.tv
@@ -50623,6 +50624,7 @@
 0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.win
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
@@ -50630,6 +50632,7 @@
 0.0.0.0 socket.hdbet.com
 0.0.0.0 socket.static.reallifecam.com
 0.0.0.0 socket.topbet.top
+0.0.0.0 socket.usbet.cc
 0.0.0.0 socket.usbet.net
 0.0.0.0 socket.usbet.win
 0.0.0.0 sockets.videos.com
@@ -51196,6 +51199,7 @@
 0.0.0.0 static.freeporn.education
 0.0.0.0 static.fuckhardclips.com
 0.0.0.0 static.gem88.com
+0.0.0.0 static.gem88.guru
 0.0.0.0 static.getindiebill.com
 0.0.0.0 static.gfx.slickcams.com
 0.0.0.0 static.glavmatures.com
@@ -52430,6 +52434,8 @@
 0.0.0.0 tapchisex.me
 0.0.0.0 tape.xxx
 0.0.0.0 tapecontent.net
+0.0.0.0 taptap.asia
+0.0.0.0 taptaptructuyen.com
 0.0.0.0 taraholidayxxx.com
 0.0.0.0 taraporn.com
 0.0.0.0 tarego.com
@@ -54189,7 +54195,6 @@
 0.0.0.0 titsintopstube.com
 0.0.0.0 titsmature.com
 0.0.0.0 titspornpic.com
-0.0.0.0 titsthatjiggleabit.com
 0.0.0.0 titsx.com
 0.0.0.0 titsx6.com
 0.0.0.0 titten-bilder.org
@@ -55961,6 +55966,7 @@
 0.0.0.0 twtgaixinh.com
 0.0.0.0 tx1.vip
 0.0.0.0 tx88.com
+0.0.0.0 tx88.fun
 0.0.0.0 tx88.top
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
@@ -56356,6 +56362,7 @@
 0.0.0.0 usasexlovers.com
 0.0.0.0 usatini.com
 0.0.0.0 usaxtube.com
+0.0.0.0 usbet.cc
 0.0.0.0 usbet.net
 0.0.0.0 usbet.win
 0.0.0.0 usbetting.co.za
@@ -57879,10 +57886,7 @@
 0.0.0.0 vinted.pl-oferta857127124.cfd
 0.0.0.0 vinted.pl-oferta85767124.cfd
 0.0.0.0 vinted.pl-oferta862372.cfd
-0.0.0.0 vinted.pl-oferta8646559.icu
-0.0.0.0 vinted.pl-oferta869372.cfd
 0.0.0.0 vinted.pl-oferta8752387.icu
-0.0.0.0 vinted.pl-oferta893172.sbs
 0.0.0.0 vinted.pl-oferta9335447.com
 0.0.0.0 vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 vinted.pl-oferta9720914.icu
@@ -58612,6 +58616,7 @@
 0.0.0.0 vtranny.com
 0.0.0.0 vtube.mobi
 0.0.0.0 vu88.com
+0.0.0.0 vu88.de
 0.0.0.0 vu88.net
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
@@ -59547,6 +59552,7 @@
 0.0.0.0 wowteenporno.com
 0.0.0.0 wowuncut.com
 0.0.0.0 wowyoungporn.com
+0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.win
 0.0.0.0 wp.debet79.info
 0.0.0.0 wp.hdbet.com
@@ -70397,15 +70403,12 @@
 0.0.0.0 www.pl-oferta01062.icu
 0.0.0.0 www.pl-oferta01933.icu
 0.0.0.0 www.pl-oferta1090007.cfd
-0.0.0.0 www.pl-oferta109602.cfd
 0.0.0.0 www.pl-oferta1250260.sbs
 0.0.0.0 www.pl-oferta127439-google-pixel-10-pro-xl.cfd
 0.0.0.0 www.pl-oferta1361771.icu
 0.0.0.0 www.pl-oferta1386635.sbs
 0.0.0.0 www.pl-oferta14991-3-2k-oled-lenovo-yoga-pro-7.sbs
 0.0.0.0 www.pl-oferta1837322.cfd
-0.0.0.0 www.pl-oferta19062.cfd
-0.0.0.0 www.pl-oferta196912.icu
 0.0.0.0 www.pl-oferta21706162.icu
 0.0.0.0 www.pl-oferta236826299.sbs
 0.0.0.0 www.pl-oferta2435361.icu
@@ -70420,8 +70423,6 @@
 0.0.0.0 www.pl-oferta2858665.sbs
 0.0.0.0 www.pl-oferta2913955.icu
 0.0.0.0 www.pl-oferta3045040.cfd
-0.0.0.0 www.pl-oferta3950320.icu
-0.0.0.0 www.pl-oferta4192026.cfd
 0.0.0.0 www.pl-oferta42311.sbs
 0.0.0.0 www.pl-oferta4291897.cfd
 0.0.0.0 www.pl-oferta4353389.sbs
@@ -70470,16 +70471,8 @@
 0.0.0.0 www.pl-oferta8485738.sbs
 0.0.0.0 www.pl-oferta84911-apple-ipad-m4-pro.cfd
 0.0.0.0 www.pl-oferta862372.cfd
-0.0.0.0 www.pl-oferta8646559.icu
-0.0.0.0 www.pl-oferta869372.cfd
 0.0.0.0 www.pl-oferta8752387.icu
-0.0.0.0 www.pl-oferta893172.sbs
 0.0.0.0 www.pl-oferta9014-apple-watch-ultra.cfd
-0.0.0.0 www.pl-oferta90190.icu
-0.0.0.0 www.pl-oferta91062.cfd
-0.0.0.0 www.pl-oferta9162.cfd
-0.0.0.0 www.pl-oferta918909.icu
-0.0.0.0 www.pl-oferta91986.cfd
 0.0.0.0 www.pl-oferta92259.sbs
 0.0.0.0 www.pl-oferta9335447.com
 0.0.0.0 www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
@@ -74197,7 +74190,6 @@
 0.0.0.0 www.titshits.com
 0.0.0.0 www.titshub.com
 0.0.0.0 www.titspornq.com
-0.0.0.0 www.titsthatjiggleabit.com
 0.0.0.0 www.titstok.org
 0.0.0.0 www.titsx.com
 0.0.0.0 www.titten-kitty-natursekt.de
@@ -75134,10 +75126,7 @@
 0.0.0.0 www.vinted.pl-oferta857127124.cfd
 0.0.0.0 www.vinted.pl-oferta85767124.cfd
 0.0.0.0 www.vinted.pl-oferta862372.cfd
-0.0.0.0 www.vinted.pl-oferta8646559.icu
-0.0.0.0 www.vinted.pl-oferta869372.cfd
 0.0.0.0 www.vinted.pl-oferta8752387.icu
-0.0.0.0 www.vinted.pl-oferta893172.sbs
 0.0.0.0 www.vinted.pl-oferta9335447.com
 0.0.0.0 www.vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 www.vinted.pl-oferta9720914.icu
@@ -77996,6 +77985,7 @@
 0.0.0.0 xhypnotube.com
 0.0.0.0 xiaoou.tv
 0.0.0.0 xibet.com
+0.0.0.0 xibet.fun
 0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xillimite.com
