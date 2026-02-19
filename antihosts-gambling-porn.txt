@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-02-18 21:58:10
+# DATE: 2026-02-19 21:57:43
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41055,6 +41055,8 @@
 0.0.0.0 pl-oferta2913955.icu
 0.0.0.0 pl-oferta293822283.sbs
 0.0.0.0 pl-oferta3045040.cfd
+0.0.0.0 pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
+0.0.0.0 pl-oferta3139169.cfd
 0.0.0.0 pl-oferta3294478.com
 0.0.0.0 pl-oferta3607517-sausmung-galaxy-flip-7.sbs
 0.0.0.0 pl-oferta42311.sbs
@@ -41100,11 +41102,13 @@
 0.0.0.0 pl-oferta7080048.sbs
 0.0.0.0 pl-oferta7107068.com
 0.0.0.0 pl-oferta7242011.icu
+0.0.0.0 pl-oferta7401856.cfd
 0.0.0.0 pl-oferta7430697.icu
 0.0.0.0 pl-oferta753926.sbs
 0.0.0.0 pl-oferta7543443222344.cfd
 0.0.0.0 pl-oferta754387.click
 0.0.0.0 pl-oferta762984.sbs
+0.0.0.0 pl-oferta7630463-samsung-galaxy-s9-ultra.cfd
 0.0.0.0 pl-oferta768428.sbs
 0.0.0.0 pl-oferta7819317.sbs
 0.0.0.0 pl-oferta782948.sbs
@@ -41127,6 +41131,7 @@
 0.0.0.0 pl-oferta8718.sbs
 0.0.0.0 pl-oferta8752387.icu
 0.0.0.0 pl-oferta876329.sbs
+0.0.0.0 pl-oferta886199.cfd
 0.0.0.0 pl-oferta892614.sbs
 0.0.0.0 pl-oferta895039.sbs
 0.0.0.0 pl-oferta9014-apple-watch-ultra.cfd
@@ -41136,9 +41141,11 @@
 0.0.0.0 pl-oferta9335447.com
 0.0.0.0 pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 pl-oferta94891.cfd
+0.0.0.0 pl-oferta9682276.cfd
 0.0.0.0 pl-oferta9720914.icu
 0.0.0.0 pl-oferta9831462.cfd
 0.0.0.0 pl-oferta9834551.icu
+0.0.0.0 pl-oferta98453.pl
 0.0.0.0 pl-ofertacd9012-samsung-tab-s9.lat
 0.0.0.0 pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 pl-ogloszenie-id3355929772.sbs
@@ -57892,6 +57899,8 @@
 0.0.0.0 vinted.pl-oferta2858665.sbs
 0.0.0.0 vinted.pl-oferta2913955.icu
 0.0.0.0 vinted.pl-oferta3045040.cfd
+0.0.0.0 vinted.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
+0.0.0.0 vinted.pl-oferta3139169.cfd
 0.0.0.0 vinted.pl-oferta4291897.cfd
 0.0.0.0 vinted.pl-oferta4353389.sbs
 0.0.0.0 vinted.pl-oferta4496677.sbs
@@ -57926,12 +57935,14 @@
 0.0.0.0 vinted.pl-oferta703359-apple-watch-ultra-2-gps-cellular.sbs
 0.0.0.0 vinted.pl-oferta7080048.sbs
 0.0.0.0 vinted.pl-oferta7242011.icu
+0.0.0.0 vinted.pl-oferta7401856.cfd
 0.0.0.0 vinted.pl-oferta7430697.icu
 0.0.0.0 vinted.pl-oferta753926.sbs
 0.0.0.0 vinted.pl-oferta7543443222344.cfd
 0.0.0.0 vinted.pl-oferta7566128124.cfd
 0.0.0.0 vinted.pl-oferta7568124.cfd
 0.0.0.0 vinted.pl-oferta762984.sbs
+0.0.0.0 vinted.pl-oferta7630463-samsung-galaxy-s9-ultra.cfd
 0.0.0.0 vinted.pl-oferta768428.sbs
 0.0.0.0 vinted.pl-oferta7819317.sbs
 0.0.0.0 vinted.pl-oferta782948.sbs
@@ -57949,13 +57960,16 @@
 0.0.0.0 vinted.pl-oferta85767124.cfd
 0.0.0.0 vinted.pl-oferta862372.cfd
 0.0.0.0 vinted.pl-oferta8752387.icu
+0.0.0.0 vinted.pl-oferta886199.cfd
 0.0.0.0 vinted.pl-oferta895039.sbs
 0.0.0.0 vinted.pl-oferta9183154.sbs
 0.0.0.0 vinted.pl-oferta9335447.com
 0.0.0.0 vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
+0.0.0.0 vinted.pl-oferta9682276.cfd
 0.0.0.0 vinted.pl-oferta9720914.icu
 0.0.0.0 vinted.pl-oferta9831462.cfd
 0.0.0.0 vinted.pl-oferta9834551.icu
+0.0.0.0 vinted.pl-oferta98453.pl
 0.0.0.0 vinted.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 vintporn.com
 0.0.0.0 viojav.cc
@@ -70499,6 +70513,8 @@
 0.0.0.0 www.pl-oferta2913955.icu
 0.0.0.0 www.pl-oferta293822283.sbs
 0.0.0.0 www.pl-oferta3045040.cfd
+0.0.0.0 www.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
+0.0.0.0 www.pl-oferta3139169.cfd
 0.0.0.0 www.pl-oferta3294478.com
 0.0.0.0 www.pl-oferta3607517-sausmung-galaxy-flip-7.sbs
 0.0.0.0 www.pl-oferta42311.sbs
@@ -70544,11 +70560,13 @@
 0.0.0.0 www.pl-oferta7080048.sbs
 0.0.0.0 www.pl-oferta7107068.com
 0.0.0.0 www.pl-oferta7242011.icu
+0.0.0.0 www.pl-oferta7401856.cfd
 0.0.0.0 www.pl-oferta7430697.icu
 0.0.0.0 www.pl-oferta753926.sbs
 0.0.0.0 www.pl-oferta7543443222344.cfd
 0.0.0.0 www.pl-oferta754387.click
 0.0.0.0 www.pl-oferta762984.sbs
+0.0.0.0 www.pl-oferta7630463-samsung-galaxy-s9-ultra.cfd
 0.0.0.0 www.pl-oferta768428.sbs
 0.0.0.0 www.pl-oferta7819317.sbs
 0.0.0.0 www.pl-oferta782948.sbs
@@ -70571,6 +70589,7 @@
 0.0.0.0 www.pl-oferta8718.sbs
 0.0.0.0 www.pl-oferta8752387.icu
 0.0.0.0 www.pl-oferta876329.sbs
+0.0.0.0 www.pl-oferta886199.cfd
 0.0.0.0 www.pl-oferta892614.sbs
 0.0.0.0 www.pl-oferta895039.sbs
 0.0.0.0 www.pl-oferta9014-apple-watch-ultra.cfd
@@ -70580,9 +70599,11 @@
 0.0.0.0 www.pl-oferta9335447.com
 0.0.0.0 www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 www.pl-oferta94891.cfd
+0.0.0.0 www.pl-oferta9682276.cfd
 0.0.0.0 www.pl-oferta9720914.icu
 0.0.0.0 www.pl-oferta9831462.cfd
 0.0.0.0 www.pl-oferta9834551.icu
+0.0.0.0 www.pl-oferta98453.pl
 0.0.0.0 www.pl-ofertacd9012-samsung-tab-s9.lat
 0.0.0.0 www.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 www.pl-ogloszenie-id3355929772.sbs
@@ -75196,6 +75217,8 @@
 0.0.0.0 www.vinted.pl-oferta2858665.sbs
 0.0.0.0 www.vinted.pl-oferta2913955.icu
 0.0.0.0 www.vinted.pl-oferta3045040.cfd
+0.0.0.0 www.vinted.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
+0.0.0.0 www.vinted.pl-oferta3139169.cfd
 0.0.0.0 www.vinted.pl-oferta4291897.cfd
 0.0.0.0 www.vinted.pl-oferta4353389.sbs
 0.0.0.0 www.vinted.pl-oferta4496677.sbs
@@ -75230,12 +75253,14 @@
 0.0.0.0 www.vinted.pl-oferta703359-apple-watch-ultra-2-gps-cellular.sbs
 0.0.0.0 www.vinted.pl-oferta7080048.sbs
 0.0.0.0 www.vinted.pl-oferta7242011.icu
+0.0.0.0 www.vinted.pl-oferta7401856.cfd
 0.0.0.0 www.vinted.pl-oferta7430697.icu
 0.0.0.0 www.vinted.pl-oferta753926.sbs
 0.0.0.0 www.vinted.pl-oferta7543443222344.cfd
 0.0.0.0 www.vinted.pl-oferta7566128124.cfd
 0.0.0.0 www.vinted.pl-oferta7568124.cfd
 0.0.0.0 www.vinted.pl-oferta762984.sbs
+0.0.0.0 www.vinted.pl-oferta7630463-samsung-galaxy-s9-ultra.cfd
 0.0.0.0 www.vinted.pl-oferta768428.sbs
 0.0.0.0 www.vinted.pl-oferta7819317.sbs
 0.0.0.0 www.vinted.pl-oferta782948.sbs
@@ -75253,13 +75278,16 @@
 0.0.0.0 www.vinted.pl-oferta85767124.cfd
 0.0.0.0 www.vinted.pl-oferta862372.cfd
 0.0.0.0 www.vinted.pl-oferta8752387.icu
+0.0.0.0 www.vinted.pl-oferta886199.cfd
 0.0.0.0 www.vinted.pl-oferta895039.sbs
 0.0.0.0 www.vinted.pl-oferta9183154.sbs
 0.0.0.0 www.vinted.pl-oferta9335447.com
 0.0.0.0 www.vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
+0.0.0.0 www.vinted.pl-oferta9682276.cfd
 0.0.0.0 www.vinted.pl-oferta9720914.icu
 0.0.0.0 www.vinted.pl-oferta9831462.cfd
 0.0.0.0 www.vinted.pl-oferta9834551.icu
+0.0.0.0 www.vinted.pl-oferta98453.pl
 0.0.0.0 www.vinted.pl-ogloszenie-elektronika-827282.sbs
 0.0.0.0 www.vintporn.com
 0.0.0.0 www.vip-zona.net
