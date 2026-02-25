@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-02-24 21:59:52
+# DATE: 2026-02-25 21:57:33
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41037,22 +41037,17 @@
 0.0.0.0 pl-oferta1773249-samsung-odyssey-g9-49.cfd
 0.0.0.0 pl-oferta1806099.sbs
 0.0.0.0 pl-oferta1928228.sbs
+0.0.0.0 pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 pl-oferta2105131-ipad-pro-m1-512gb.sbs
-0.0.0.0 pl-oferta21706162.icu
 0.0.0.0 pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 pl-oferta2435361.icu
 0.0.0.0 pl-oferta2438659.sbs
 0.0.0.0 pl-oferta2598700.sbs
 0.0.0.0 pl-oferta26.sbs
-0.0.0.0 pl-oferta2725972.bond
-0.0.0.0 pl-oferta2725972.cfd
-0.0.0.0 pl-oferta2725972.click
-0.0.0.0 pl-oferta2725972.club
 0.0.0.0 pl-oferta28372929.sbs
 0.0.0.0 pl-oferta2858665.sbs
 0.0.0.0 pl-oferta2913955.icu
 0.0.0.0 pl-oferta293822283.sbs
-0.0.0.0 pl-oferta3045040.cfd
 0.0.0.0 pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
 0.0.0.0 pl-oferta3106209.icu
 0.0.0.0 pl-oferta3139169.cfd
@@ -41069,7 +41064,6 @@
 0.0.0.0 pl-oferta52743.cfd
 0.0.0.0 pl-oferta5385880.sbs
 0.0.0.0 pl-oferta5480129.cfd
-0.0.0.0 pl-oferta57543514.icu
 0.0.0.0 pl-oferta5857078.sbs
 0.0.0.0 pl-oferta5963673.sbs
 0.0.0.0 pl-oferta6063669-ipad-m4-pro-512gb-pencil.cfd
@@ -41111,8 +41105,6 @@
 0.0.0.0 pl-oferta9183154.sbs
 0.0.0.0 pl-oferta92259.sbs
 0.0.0.0 pl-oferta9226020-samsung-galaxy-watch-2025.sbs
-0.0.0.0 pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
-0.0.0.0 pl-oferta94891.cfd
 0.0.0.0 pl-oferta9614533.cfd
 0.0.0.0 pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
 0.0.0.0 pl-oferta9682276.cfd
@@ -57869,19 +57861,14 @@
 0.0.0.0 vinted.pl-oferta1386635.sbs
 0.0.0.0 vinted.pl-oferta1773249-samsung-odyssey-g9-49.cfd
 0.0.0.0 vinted.pl-oferta1806099.sbs
+0.0.0.0 vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs
-0.0.0.0 vinted.pl-oferta21706162.icu
 0.0.0.0 vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 vinted.pl-oferta2435361.icu
 0.0.0.0 vinted.pl-oferta2438659.sbs
 0.0.0.0 vinted.pl-oferta2598700.sbs
-0.0.0.0 vinted.pl-oferta2725972.bond
-0.0.0.0 vinted.pl-oferta2725972.cfd
-0.0.0.0 vinted.pl-oferta2725972.click
-0.0.0.0 vinted.pl-oferta2725972.club
 0.0.0.0 vinted.pl-oferta2858665.sbs
 0.0.0.0 vinted.pl-oferta2913955.icu
-0.0.0.0 vinted.pl-oferta3045040.cfd
 0.0.0.0 vinted.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
 0.0.0.0 vinted.pl-oferta3139169.cfd
 0.0.0.0 vinted.pl-oferta4291897.cfd
@@ -57892,7 +57879,6 @@
 0.0.0.0 vinted.pl-oferta504710.cfd
 0.0.0.0 vinted.pl-oferta52743.cfd
 0.0.0.0 vinted.pl-oferta5385880.sbs
-0.0.0.0 vinted.pl-oferta57543514.icu
 0.0.0.0 vinted.pl-oferta5857078.sbs
 0.0.0.0 vinted.pl-oferta5963673.sbs
 0.0.0.0 vinted.pl-oferta649784.sbs
@@ -57921,7 +57907,6 @@
 0.0.0.0 vinted.pl-oferta8918966.cfd
 0.0.0.0 vinted.pl-oferta895039.sbs
 0.0.0.0 vinted.pl-oferta9183154.sbs
-0.0.0.0 vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 vinted.pl-oferta9614533.cfd
 0.0.0.0 vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
 0.0.0.0 vinted.pl-oferta9682276.cfd
@@ -70462,22 +70447,17 @@
 0.0.0.0 www.pl-oferta1773249-samsung-odyssey-g9-49.cfd
 0.0.0.0 www.pl-oferta1806099.sbs
 0.0.0.0 www.pl-oferta1928228.sbs
+0.0.0.0 www.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 www.pl-oferta2105131-ipad-pro-m1-512gb.sbs
-0.0.0.0 www.pl-oferta21706162.icu
 0.0.0.0 www.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 www.pl-oferta2435361.icu
 0.0.0.0 www.pl-oferta2438659.sbs
 0.0.0.0 www.pl-oferta2598700.sbs
 0.0.0.0 www.pl-oferta26.sbs
-0.0.0.0 www.pl-oferta2725972.bond
-0.0.0.0 www.pl-oferta2725972.cfd
-0.0.0.0 www.pl-oferta2725972.click
-0.0.0.0 www.pl-oferta2725972.club
 0.0.0.0 www.pl-oferta28372929.sbs
 0.0.0.0 www.pl-oferta2858665.sbs
 0.0.0.0 www.pl-oferta2913955.icu
 0.0.0.0 www.pl-oferta293822283.sbs
-0.0.0.0 www.pl-oferta3045040.cfd
 0.0.0.0 www.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
 0.0.0.0 www.pl-oferta3106209.icu
 0.0.0.0 www.pl-oferta3139169.cfd
@@ -70494,7 +70474,6 @@
 0.0.0.0 www.pl-oferta52743.cfd
 0.0.0.0 www.pl-oferta5385880.sbs
 0.0.0.0 www.pl-oferta5480129.cfd
-0.0.0.0 www.pl-oferta57543514.icu
 0.0.0.0 www.pl-oferta5857078.sbs
 0.0.0.0 www.pl-oferta5963673.sbs
 0.0.0.0 www.pl-oferta6063669-ipad-m4-pro-512gb-pencil.cfd
@@ -70536,8 +70515,6 @@
 0.0.0.0 www.pl-oferta9183154.sbs
 0.0.0.0 www.pl-oferta92259.sbs
 0.0.0.0 www.pl-oferta9226020-samsung-galaxy-watch-2025.sbs
-0.0.0.0 www.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
-0.0.0.0 www.pl-oferta94891.cfd
 0.0.0.0 www.pl-oferta9614533.cfd
 0.0.0.0 www.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
 0.0.0.0 www.pl-oferta9682276.cfd
@@ -75154,19 +75131,14 @@
 0.0.0.0 www.vinted.pl-oferta1386635.sbs
 0.0.0.0 www.vinted.pl-oferta1773249-samsung-odyssey-g9-49.cfd
 0.0.0.0 www.vinted.pl-oferta1806099.sbs
+0.0.0.0 www.vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 www.vinted.pl-oferta2105131-ipad-pro-m1-512gb.sbs
-0.0.0.0 www.vinted.pl-oferta21706162.icu
 0.0.0.0 www.vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 www.vinted.pl-oferta2435361.icu
 0.0.0.0 www.vinted.pl-oferta2438659.sbs
 0.0.0.0 www.vinted.pl-oferta2598700.sbs
-0.0.0.0 www.vinted.pl-oferta2725972.bond
-0.0.0.0 www.vinted.pl-oferta2725972.cfd
-0.0.0.0 www.vinted.pl-oferta2725972.click
-0.0.0.0 www.vinted.pl-oferta2725972.club
 0.0.0.0 www.vinted.pl-oferta2858665.sbs
 0.0.0.0 www.vinted.pl-oferta2913955.icu
-0.0.0.0 www.vinted.pl-oferta3045040.cfd
 0.0.0.0 www.vinted.pl-oferta3102381-tablet-samsung-galaxy-s9.sbs
 0.0.0.0 www.vinted.pl-oferta3139169.cfd
 0.0.0.0 www.vinted.pl-oferta4291897.cfd
@@ -75177,7 +75149,6 @@
 0.0.0.0 www.vinted.pl-oferta504710.cfd
 0.0.0.0 www.vinted.pl-oferta52743.cfd
 0.0.0.0 www.vinted.pl-oferta5385880.sbs
-0.0.0.0 www.vinted.pl-oferta57543514.icu
 0.0.0.0 www.vinted.pl-oferta5857078.sbs
 0.0.0.0 www.vinted.pl-oferta5963673.sbs
 0.0.0.0 www.vinted.pl-oferta649784.sbs
@@ -75206,7 +75177,6 @@
 0.0.0.0 www.vinted.pl-oferta8918966.cfd
 0.0.0.0 www.vinted.pl-oferta895039.sbs
 0.0.0.0 www.vinted.pl-oferta9183154.sbs
-0.0.0.0 www.vinted.pl-oferta93476-lenovo-thinkpad-yoga-x1.sbs
 0.0.0.0 www.vinted.pl-oferta9614533.cfd
 0.0.0.0 www.vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
 0.0.0.0 www.vinted.pl-oferta9682276.cfd
