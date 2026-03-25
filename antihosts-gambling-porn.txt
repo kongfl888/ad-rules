@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-03-22 21:50:18
+# DATE: 2026-03-25 22:02:45
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -143,6 +143,7 @@
 0.0.0.0 12stepvideos.com
 0.0.0.0 1337bid.com
 0.0.0.0 1337x.freepornxxxhd.com
+0.0.0.0 1337x.to
 0.0.0.0 1337xx.to
 0.0.0.0 1341.asia-solid.com
 0.0.0.0 1366xnxx.com
@@ -1536,6 +1537,7 @@
 0.0.0.0 abo.playboy.de
 0.0.0.0 aboutangelinajolie.com
 0.0.0.0 aboutgirlslove.com
+0.0.0.0 aboutporno.net
 0.0.0.0 aboutsexxx.com
 0.0.0.0 abozeb.com
 0.0.0.0 abre-videos.yjcontentdelivery.com
@@ -1753,6 +1755,7 @@
 0.0.0.0 adult-deep-fakes.ru
 0.0.0.0 adult-empire.com
 0.0.0.0 adult-extreme.com
+0.0.0.0 adult-fanfiction.org
 0.0.0.0 adult-friend-finder-dat-ing-site.dtspeedds.com
 0.0.0.0 adult-fuck-porn.com
 0.0.0.0 adult-gazou.me
@@ -2204,6 +2207,7 @@
 0.0.0.0 ai.phncdn.com
 0.0.0.0 ai18.pics
 0.0.0.0 aiboobs.net
+0.0.0.0 aichattings.com
 0.0.0.0 aideporno.com
 0.0.0.0 aiexotic.com
 0.0.0.0 aifode.com
@@ -3805,6 +3809,7 @@
 0.0.0.0 app.myfreecams.com
 0.0.0.0 app.pornmist.com
 0.0.0.0 app.pornshow.ai
+0.0.0.0 app.rule34.dev
 0.0.0.0 app.wemena.com
 0.0.0.0 app567lives.com
 0.0.0.0 appbk8.com
@@ -4223,6 +4228,7 @@
 0.0.0.0 arceleb.wordpress.com
 0.0.0.0 archangels.ws
 0.0.0.0 archangelschool.org
+0.0.0.0 archangelvideo.com
 0.0.0.0 archertube.com
 0.0.0.0 archivebate.cc
 0.0.0.0 archivebate.com
@@ -5039,6 +5045,7 @@
 0.0.0.0 b4.won88.win
 0.0.0.0 b4.zet88.com
 0.0.0.0 b44.com
+0.0.0.0 b4busty.com
 0.0.0.0 b52.cc
 0.0.0.0 b52.club
 0.0.0.0 b52.game
@@ -5463,6 +5470,7 @@
 0.0.0.0 bbwguru.com
 0.0.0.0 bbwhdxxx.com
 0.0.0.0 bbwhighway.com
+0.0.0.0 bbwhottie.com
 0.0.0.0 bbwhqporn.com
 0.0.0.0 bbwhqsex.com
 0.0.0.0 bbwjapanese.com
@@ -5545,6 +5553,7 @@
 0.0.0.0 bdsmhot.net
 0.0.0.0 bdsmlibrary.com
 0.0.0.0 bdsmlike.com
+0.0.0.0 bdsmlive.com
 0.0.0.0 bdsmlr.com
 0.0.0.0 bdsmmagic.com
 0.0.0.0 bdsmmix.com
@@ -5618,6 +5627,7 @@
 0.0.0.0 beautifulandbusty.com
 0.0.0.0 beautifulangels.com
 0.0.0.0 beautifulass.sensualwriter.com
+0.0.0.0 beautifulgirlsex.com
 0.0.0.0 beautifulhairypussy.com
 0.0.0.0 beautifull.cc
 0.0.0.0 beautifulmetas.com
@@ -6399,6 +6409,7 @@
 0.0.0.0 big-ass.pics
 0.0.0.0 big-ass.ru
 0.0.0.0 big-big-gay.com
+0.0.0.0 big-breasts.tyjrz.com
 0.0.0.0 big-butts.net
 0.0.0.0 big-hunter.com
 0.0.0.0 big-siski.ru
@@ -6548,6 +6559,7 @@
 0.0.0.0 bigtitsporn.tv
 0.0.0.0 bigtitsporn.xxx
 0.0.0.0 bigtitsporner.com
+0.0.0.0 bigtitspornfree.com
 0.0.0.0 bigtitsporntrends.com
 0.0.0.0 bigtitssex.net
 0.0.0.0 bigtitstokyo.com
@@ -6736,6 +6748,7 @@
 0.0.0.0 blacked.booru.org
 0.0.0.0 blacked.com
 0.0.0.0 blacked.yespornpleasex.com
+0.0.0.0 blackedbabes.com
 0.0.0.0 blackedjav.com
 0.0.0.0 blackedlive.com
 0.0.0.0 blackedraw.com
@@ -7416,6 +7429,7 @@
 0.0.0.0 bravogirls.com
 0.0.0.0 bravolatina.com
 0.0.0.0 bravolivesex.com
+0.0.0.0 bravomamas.com
 0.0.0.0 bravomediagroup.com
 0.0.0.0 bravonude.com
 0.0.0.0 bravoporn.com
@@ -7494,6 +7508,7 @@
 0.0.0.0 breakingporn.com
 0.0.0.0 breakinxxx.com
 0.0.0.0 breannebenson.com
+0.0.0.0 breannebenson.empirestores.co
 0.0.0.0 breast-torture.com
 0.0.0.0 breathe-nl.tlsext.com
 0.0.0.0 breathlessangel.com
@@ -7677,6 +7692,7 @@
 0.0.0.0 bulletbets.com
 0.0.0.0 bullporn.com
 0.0.0.0 bullsrush.com
+0.0.0.0 bullyville.com
 0.0.0.0 bulon.net
 0.0.0.0 bum3.club
 0.0.0.0 bumbum.at
@@ -7772,6 +7788,7 @@
 0.0.0.0 bustyblondes.sexy
 0.0.0.0 bustybloom.com
 0.0.0.0 bustybrandytaylor.com
+0.0.0.0 bustybritain.com
 0.0.0.0 bustybuffy.com
 0.0.0.0 bustybus.com
 0.0.0.0 bustycafe.net
@@ -7812,7 +7829,9 @@
 0.0.0.0 buttsextube.com
 0.0.0.0 buttstgp.com
 0.0.0.0 buy6x.com
+0.0.0.0 buyadultpack.com
 0.0.0.0 buyanalvids.com
+0.0.0.0 buylegalporno.com
 0.0.0.0 buypremiumporn.com
 0.0.0.0 buyproventil.info
 0.0.0.0 buzzboy.net
@@ -8096,6 +8115,7 @@
 0.0.0.0 camclips.cc
 0.0.0.0 camclips.to
 0.0.0.0 camclips.tv
+0.0.0.0 camcontacts.com
 0.0.0.0 camcordersex.com
 0.0.0.0 camcorderxxx.com
 0.0.0.0 camcrush.com
@@ -8286,6 +8306,7 @@
 0.0.0.0 camterest.com
 0.0.0.0 camtit.com
 0.0.0.0 camtomycam.com
+0.0.0.0 camtorride.com
 0.0.0.0 camtosexe.fr
 0.0.0.0 camuploads.com
 0.0.0.0 camvault.xyz
@@ -10855,6 +10876,7 @@
 0.0.0.0 chimchuot.com
 0.0.0.0 china-porn.net
 0.0.0.0 china-tube.site
+0.0.0.0 china3.dianbaoqun.com
 0.0.0.0 chinababe.net
 0.0.0.0 chinabdsm.com.es
 0.0.0.0 chinafuck.click
@@ -11618,6 +11640,7 @@
 0.0.0.0 consoletan.booru.org
 0.0.0.0 consommateurkm.com
 0.0.0.0 constructfocus.com
+0.0.0.0 contactossex.com
 0.0.0.0 content-darkx.pornstar-scenes.com
 0.0.0.0 content-hardx.pornstar-scenes.com
 0.0.0.0 content-nubiles.pornstar-scenes.com
@@ -12026,6 +12049,7 @@
 0.0.0.0 crueltyparty.com
 0.0.0.0 cruisingporn.com
 0.0.0.0 crunchboy.com
+0.0.0.0 crushon.ai
 0.0.0.0 cryangel.com
 0.0.0.0 crymovies.pro
 0.0.0.0 crynali.camsexusa.com
@@ -12475,6 +12499,7 @@
 0.0.0.0 czechcabins.com
 0.0.0.0 czechcash.com
 0.0.0.0 czechcasting.com
+0.0.0.0 czechcouples.com
 0.0.0.0 czechestrogenolit.com
 0.0.0.0 czechexperiment.com
 0.0.0.0 czechfantasy.com
@@ -12851,6 +12876,7 @@
 0.0.0.0 date.milf-area.dk
 0.0.0.0 date.willigedamen.com
 0.0.0.0 date10.com
+0.0.0.0 dateacougar.com
 0.0.0.0 dates-worldwide.com
 0.0.0.0 dates4you.net
 0.0.0.0 datexxx.site
@@ -13112,6 +13138,7 @@
 0.0.0.0 de.nlsexfilms.net
 0.0.0.0 de.nyuu.info
 0.0.0.0 de.o-be.com
+0.0.0.0 de.okxxx1.com
 0.0.0.0 de.pantyxart.com
 0.0.0.0 de.pantyxgirl.com
 0.0.0.0 de.pantyxpic.com
@@ -13474,6 +13501,7 @@
 0.0.0.0 derselibrary.booru.org
 0.0.0.0 des.checkporno.com
 0.0.0.0 desadesangels.com
+0.0.0.0 desadov.com
 0.0.0.0 desejos.net
 0.0.0.0 deseksivideot.top
 0.0.0.0 desertnightscasino.co.uk
@@ -14954,6 +14982,7 @@
 0.0.0.0 en.davalka.cc
 0.0.0.0 en.dmm.co.jp
 0.0.0.0 en.dojki.uk
+0.0.0.0 en.domknig.net
 0.0.0.0 en.dsk-ural.ru
 0.0.0.0 en.ebalkahd.com
 0.0.0.0 en.epornica.com
@@ -15004,6 +15033,7 @@
 0.0.0.0 en.kawaiixpic.com
 0.0.0.0 en.kechtube.com
 0.0.0.0 en.kinkygirlz.com
+0.0.0.0 en.leonie-pur.com
 0.0.0.0 en.letsgirlz.com
 0.0.0.0 en.lingeriexgirl.com
 0.0.0.0 en.livepornbabes.com
@@ -15293,7 +15323,6 @@
 0.0.0.0 ericvideos.com
 0.0.0.0 erikalust.com
 0.0.0.0 erinvirgin.com
-0.0.0.0 erisly.com
 0.0.0.0 erito.com
 0.0.0.0 eritonetwork.com
 0.0.0.0 erkiss.club
@@ -15375,6 +15404,7 @@
 0.0.0.0 erome-com.ru
 0.0.0.0 erome-leaks.com
 0.0.0.0 erome.com
+0.0.0.0 erome.fan
 0.0.0.0 erome.icu
 0.0.0.0 eromenovinha.blog
 0.0.0.0 eromexxx.com
@@ -15609,6 +15639,7 @@
 0.0.0.0 es.bestxpic.com
 0.0.0.0 es.bimbolive.com
 0.0.0.0 es.bitchxpic.com
+0.0.0.0 es.bongacam.net
 0.0.0.0 es.bongacams.com
 0.0.0.0 es.bongacams.org
 0.0.0.0 es.bongacams5.com
@@ -15668,6 +15699,7 @@
 0.0.0.0 es.lucahcikgu.com
 0.0.0.0 es.metaxgirl.com
 0.0.0.0 es.metaxpic.com
+0.0.0.0 es.niadd.com
 0.0.0.0 es.nicexgirl.com
 0.0.0.0 es.nightclub.eu
 0.0.0.0 es.nyuu.info
@@ -15678,6 +15710,7 @@
 0.0.0.0 es.papafickt.com
 0.0.0.0 es.papafickttochter.com
 0.0.0.0 es.peachgirlz.com
+0.0.0.0 es.perfectgirls.xxx
 0.0.0.0 es.perfectxbody.com
 0.0.0.0 es.perfectxpic.com
 0.0.0.0 es.perfectxsexy.com
@@ -15694,6 +15727,7 @@
 0.0.0.0 es.prettyxgirl.com
 0.0.0.0 es.redtube.com
 0.0.0.0 es.sakuraxgirl.com
+0.0.0.0 es.scorchin.com
 0.0.0.0 es.sex-porn.cam
 0.0.0.0 es.sex.com
 0.0.0.0 es.sex4k.cam
@@ -16127,6 +16161,7 @@
 0.0.0.0 expekt.com
 0.0.0.0 expertblack.com
 0.0.0.0 expertvintage.com
+0.0.0.0 explicite-art.com
 0.0.0.0 explicittube.com
 0.0.0.0 exploited21.com
 0.0.0.0 exploitedafricanimmigrants.com
@@ -16176,6 +16211,7 @@
 0.0.0.0 extremepornfan.com
 0.0.0.0 extremepornpics.com
 0.0.0.0 extremeprivate.com
+0.0.0.0 extremerestraints.com
 0.0.0.0 extremeroughporn.com
 0.0.0.0 extremescat.org
 0.0.0.0 extremescatporn.com
@@ -16969,6 +17005,7 @@
 0.0.0.0 fetishbdsmporns.com
 0.0.0.0 fetishbreak.com
 0.0.0.0 fetishburg.com
+0.0.0.0 fetishcams-live.com
 0.0.0.0 fetishcomics.net
 0.0.0.0 fetishcontact.tv
 0.0.0.0 fetishdollars.net
@@ -17813,6 +17850,7 @@
 0.0.0.0 fr.donnetroievideo.com
 0.0.0.0 fr.donnexxxfilm.com
 0.0.0.0 fr.eporner.com
+0.0.0.0 fr.erome.com
 0.0.0.0 fr.eros.ws
 0.0.0.0 fr.eroticxgirl.com
 0.0.0.0 fr.eroticxpic.com
@@ -18747,6 +18785,7 @@
 0.0.0.0 freesextgp.org
 0.0.0.0 freesextube.cc
 0.0.0.0 freesextube.net
+0.0.0.0 freesextube.su
 0.0.0.0 freesextuber.com
 0.0.0.0 freesexvideo-pro.videojav.org
 0.0.0.0 freesexvideo.hu
@@ -19234,6 +19273,7 @@
 0.0.0.0 fucktubeporn.xyz
 0.0.0.0 fucktubex.com
 0.0.0.0 fucktv.net
+0.0.0.0 fucktvchannel.com
 0.0.0.0 fuckuh.com
 0.0.0.0 fuckup.xxx
 0.0.0.0 fuckvideo.cc
@@ -19501,6 +19541,7 @@
 0.0.0.0 gaichanh.co
 0.0.0.0 gaidam18.com
 0.0.0.0 gaidepvn.xyz
+0.0.0.0 gaigoi.app
 0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.id
 0.0.0.0 gaigoi.live
@@ -20060,6 +20101,7 @@
 0.0.0.0 gaysexq.com
 0.0.0.0 gaysexvideoo.com
 0.0.0.0 gaysexwebcams.com
+0.0.0.0 gaysexyboy.com
 0.0.0.0 gaysfantasies.com
 0.0.0.0 gayshdporno.com
 0.0.0.0 gayshow.uk
@@ -20779,6 +20821,7 @@
 0.0.0.0 gobigtitsporn.com
 0.0.0.0 gobokep.com
 0.0.0.0 gockhuat.net
+0.0.0.0 gocquaytay.com
 0.0.0.0 goctoi.xyz
 0.0.0.0 god55.zone
 0.0.0.0 god55viet.com
@@ -21262,6 +21305,9 @@
 0.0.0.0 groupsex.jerkoffgalleries.com
 0.0.0.0 groupsexvids.com
 0.0.0.0 groupsexxx.com
+0.0.0.0 groupsor.link
+0.0.0.0 groupsor.me
+0.0.0.0 groupsortelegram.com
 0.0.0.0 grplinks.com
 0.0.0.0 grqqk.bonedmilfs.com
 0.0.0.0 grupomedicosanangel.com
@@ -22297,6 +22343,7 @@
 0.0.0.0 henho24h.com
 0.0.0.0 henhozalo.com
 0.0.0.0 hennojin.com
+0.0.0.0 hentai-cosplay-xxx.com
 0.0.0.0 hentai-cosplays.com
 0.0.0.0 hentai-dude.ru
 0.0.0.0 hentai-flash.com
@@ -22611,6 +22658,7 @@
 0.0.0.0 hentaiyaoi.net
 0.0.0.0 hentaiyou.com
 0.0.0.0 hentaiz.ai
+0.0.0.0 hentaiz.mobi
 0.0.0.0 hentaiz.vip
 0.0.0.0 hentaizap.com
 0.0.0.0 hentaizi.com
@@ -22633,6 +22681,7 @@
 0.0.0.0 heo69.top
 0.0.0.0 heodem.com
 0.0.0.0 heohay.com
+0.0.0.0 heohd.com
 0.0.0.0 heomup.net
 0.0.0.0 heosex.cc
 0.0.0.0 heotop.com
@@ -22658,6 +22707,8 @@
 0.0.0.0 herbigtits.com
 0.0.0.0 hercock.net
 0.0.0.0 here.xxx
+0.0.0.0 herehardcore.tv
+0.0.0.0 heretits.tv
 0.0.0.0 herexxx-com.zproxy.org
 0.0.0.0 herexxx.com
 0.0.0.0 herexxxtube.com
@@ -23356,6 +23407,7 @@
 0.0.0.0 hotgirlspics.pro
 0.0.0.0 hotgirlsporn.com
 0.0.0.0 hotgirlxxx.xyz
+0.0.0.0 hotgoo.com
 0.0.0.0 hotgrannypics.com
 0.0.0.0 hotgrannysex.org
 0.0.0.0 hotgta.com
@@ -23888,6 +23940,7 @@
 0.0.0.0 hqxxtube.com
 0.0.0.0 hqxxx24.cc
 0.0.0.0 hqxxxgay.com
+0.0.0.0 hqxxxmovies.com
 0.0.0.0 hqxxxmovs.com
 0.0.0.0 hqxxxvideo.cc
 0.0.0.0 hqyoungtube.com
@@ -24235,6 +24288,7 @@
 0.0.0.0 i5.myreadingmanga.info
 0.0.0.0 i5.pc20160301.com
 0.0.0.0 i54.fastpic.ru
+0.0.0.0 i57u.xxggcc.shop
 0.0.0.0 i58.fastpic.ru
 0.0.0.0 i6.fuskator.com
 0.0.0.0 i6.imageban.ru
@@ -24774,6 +24828,7 @@
 0.0.0.0 idol69.net
 0.0.0.0 idoldouganew.com
 0.0.0.0 idolporno.com
+0.0.0.0 idols69.com
 0.0.0.0 idolzone.blog137.fc2.com
 0.0.0.0 idvapi.fansly.com
 0.0.0.0 idwood.eu
@@ -27897,6 +27952,7 @@
 0.0.0.0 intercasino.com
 0.0.0.0 intercoursexxx.com
 0.0.0.0 interkent.info
+0.0.0.0 internationalsexguide.nl
 0.0.0.0 internetchicks.art
 0.0.0.0 internetchicks.com
 0.0.0.0 internvillage.in
@@ -28799,6 +28855,7 @@
 0.0.0.0 jabcomix-porn.com
 0.0.0.0 jabcomix.com
 0.0.0.0 jable.tv
+0.0.0.0 jackandjilladult.com
 0.0.0.0 jackandkyara.livesex-secrets.com
 0.0.0.0 jackboxharddrive.com
 0.0.0.0 jackpotbingo.co.uk
@@ -29178,6 +29235,7 @@
 0.0.0.0 javeng.tv
 0.0.0.0 javenglish.cc
 0.0.0.0 javengsub.com
+0.0.0.0 javenspanish.com
 0.0.0.0 javeporn.com
 0.0.0.0 javeporns.com
 0.0.0.0 javetube.com
@@ -29885,6 +29943,7 @@
 0.0.0.0 joyourself.org.uk
 0.0.0.0 joyporn.me
 0.0.0.0 joyreactor.cc
+0.0.0.0 joyreactor.com
 0.0.0.0 joysexymii.com
 0.0.0.0 joysporn.com
 0.0.0.0 joysporn.mobi
@@ -29958,6 +30017,7 @@
 0.0.0.0 juegos.loteriasyapuestas.es
 0.0.0.0 jugesoya.angelfire.com
 0.0.0.0 juggsarea.com
+0.0.0.0 jugride.com
 0.0.0.0 juicechan.net
 0.0.0.0 juiceteens.com
 0.0.0.0 juicexgirl.com
@@ -30228,6 +30288,7 @@
 0.0.0.0 kalyanam.mobi
 0.0.0.0 kalyteroporno.com
 0.0.0.0 kamasutra-sex-shop.com
+0.0.0.0 kamasutra.com
 0.0.0.0 kamasutrabeurs.nl
 0.0.0.0 kameronfox.fanbox.cc
 0.0.0.0 kamidougaadult.com
@@ -31144,6 +31205,7 @@
 0.0.0.0 lauraangelonline.com
 0.0.0.0 laurentrymucha.com
 0.0.0.0 laurettelondon.madcamgirl.com
+0.0.0.0 lauxanh.bz
 0.0.0.0 lauxanh.click
 0.0.0.0 lauxanh.org
 0.0.0.0 lauxanhthiendia.com
@@ -31309,6 +31371,7 @@
 0.0.0.0 lerporn.com
 0.0.0.0 les-lundis-daltor.bdsmsite.net
 0.0.0.0 les-lundis-daltor.com
+0.0.0.0 lesaintdesseins.fr
 0.0.0.0 lesanal.com
 0.0.0.0 lesarchive.com
 0.0.0.0 lesb14n.incest.click
@@ -32022,6 +32085,8 @@
 0.0.0.0 llamabet.co.uk
 0.0.0.0 lldj.com
 0.0.0.0 llist.pw
+0.0.0.0 llmzjn.lovepoiint.com
+0.0.0.0 llqodr.lovepoiint.com
 0.0.0.0 llyjmp.com
 0.0.0.0 lm.jbo010.com
 0.0.0.0 lm1.motherless.com
@@ -32281,6 +32346,7 @@
 0.0.0.0 lovelynaked.top
 0.0.0.0 lovelypleasure.top
 0.0.0.0 lovelyporno.com
+0.0.0.0 loveme.com
 0.0.0.0 lovemefanza.com
 0.0.0.0 lovense.com
 0.0.0.0 lovenylons.com
@@ -33520,6 +33586,7 @@
 0.0.0.0 maturepornpics.me
 0.0.0.0 maturepornpics.pro
 0.0.0.0 maturepornsites.net
+0.0.0.0 matureporntube.tv
 0.0.0.0 maturepornvideo.com
 0.0.0.0 maturepornvideo.one
 0.0.0.0 maturepornvideo.pro
@@ -34201,6 +34268,7 @@
 0.0.0.0 mig8vn.com
 0.0.0.0 mightyxh.life
 0.0.0.0 mik.amresim.site
+0.0.0.0 mikandicams.com
 0.0.0.0 mikangel.free.fr
 0.0.0.0 mikecute.com
 0.0.0.0 mikesmatures.com
@@ -34282,6 +34350,7 @@
 0.0.0.0 milffuck.me
 0.0.0.0 milffucktube.com
 0.0.0.0 milfgalleries.com
+0.0.0.0 milfgals.net
 0.0.0.0 milfgroped.com
 0.0.0.0 milfhd.biz
 0.0.0.0 milfhd.net
@@ -34785,6 +34854,7 @@
 0.0.0.0 models-nudeteen.org
 0.0.0.0 models.secretfriends.com
 0.0.0.0 models.streamray.com
+0.0.0.0 modelsearcher.com
 0.0.0.0 modelsfreecams.com
 0.0.0.0 modelslo.top
 0.0.0.0 modelsxart.com
@@ -35962,6 +36032,7 @@
 0.0.0.0 mysexydump.com
 0.0.0.0 mysexygirls.me
 0.0.0.0 mysexygranny.com
+0.0.0.0 mysexyjasmine.com
 0.0.0.0 mysexyphotos.net
 0.0.0.0 mysexyshemale.com
 0.0.0.0 mysexyslaves.com
@@ -36785,6 +36856,7 @@
 0.0.0.0 nhentaihaven.com
 0.0.0.0 nhentaihaven.org
 0.0.0.0 nhentaitube.com
+0.0.0.0 nhentaivn.com
 0.0.0.0 nhentaiyaoi.net
 0.0.0.0 nhlpcentral.com
 0.0.0.0 nhomdich.com
@@ -38474,6 +38546,7 @@
 0.0.0.0 onporntube.com
 0.0.0.0 onscreens.me
 0.0.0.0 onsexyporn.com
+0.0.0.0 onst.holicithed.com
 0.0.0.0 onstreams.net
 0.0.0.0 onwebcam.com
 0.0.0.0 onxxxvideo.com
@@ -39845,6 +39918,7 @@
 0.0.0.0 pakistanxxx.name
 0.0.0.0 pakistanxxx.pro
 0.0.0.0 pakomanmama.com
+0.0.0.0 palcomix.com
 0.0.0.0 palevo.com
 0.0.0.0 palimas.com
 0.0.0.0 palimas.org
@@ -40022,6 +40096,7 @@
 0.0.0.0 pcz.volasw.com
 0.0.0.0 pcz.wowindiansex.info
 0.0.0.0 pdcams.com
+0.0.0.0 pe.bdsmu.com
 0.0.0.0 peacefire.org
 0.0.0.0 peacefulporn.com
 0.0.0.0 peach-angel.com
@@ -40138,6 +40213,7 @@
 0.0.0.0 periscopeporn18.com
 0.0.0.0 perkybabe.com
 0.0.0.0 perkyboobs.net
+0.0.0.0 perkyshemale.com
 0.0.0.0 perlanavas.sexychaton.com
 0.0.0.0 perpetualtube.com
 0.0.0.0 persiankitty.com
@@ -40475,6 +40551,7 @@
 0.0.0.0 phimsexhiepdam.com
 0.0.0.0 phimsexhiepdam.net
 0.0.0.0 phimsexhocsinh.net
+0.0.0.0 phimsexhot.xyz
 0.0.0.0 phimsexjapan.me
 0.0.0.0 phimsexjav.club
 0.0.0.0 phimsexjav.info
@@ -40555,6 +40632,7 @@
 0.0.0.0 phimsexvideos.top
 0.0.0.0 phimsexviet.info
 0.0.0.0 phimsexviet.io
+0.0.0.0 phimsexviet.one
 0.0.0.0 phimsexviet.win
 0.0.0.0 phimsexviet.xyz
 0.0.0.0 phimsexvietnam.org
@@ -41059,10 +41137,7 @@
 0.0.0.0 pl-oferta01952.icu
 0.0.0.0 pl-oferta026427.cfd
 0.0.0.0 pl-oferta026428.cfd
-0.0.0.0 pl-oferta027529.cfd
-0.0.0.0 pl-oferta027539.cfd
 0.0.0.0 pl-oferta029164.sbs
-0.0.0.0 pl-oferta063962.cfd
 0.0.0.0 pl-oferta071647.cfd
 0.0.0.0 pl-oferta093159.cfd
 0.0.0.0 pl-oferta1057522115.com
@@ -41076,14 +41151,13 @@
 0.0.0.0 pl-oferta152394.click
 0.0.0.0 pl-oferta1611892.click
 0.0.0.0 pl-oferta1734129.click
+0.0.0.0 pl-oferta1810837.sbs
 0.0.0.0 pl-oferta1846858.click
 0.0.0.0 pl-oferta184828.sbs
 0.0.0.0 pl-oferta1849230.cfd
-0.0.0.0 pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 pl-oferta203043.click
 0.0.0.0 pl-oferta2123.cfd
 0.0.0.0 pl-oferta21415509.icu
-0.0.0.0 pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 pl-oferta2318251.click
 0.0.0.0 pl-oferta239452.sbs
 0.0.0.0 pl-oferta24345634.sbs
@@ -41091,6 +41165,7 @@
 0.0.0.0 pl-oferta2638282.icu
 0.0.0.0 pl-oferta26424.sbs
 0.0.0.0 pl-oferta2744393.cfd
+0.0.0.0 pl-oferta2746287453.sbs
 0.0.0.0 pl-oferta2746291383.sbs
 0.0.0.0 pl-oferta2746736373836.sbs
 0.0.0.0 pl-oferta2799065.cfd
@@ -41109,13 +41184,13 @@
 0.0.0.0 pl-oferta2933369626.sbs
 0.0.0.0 pl-oferta293732854.cfd
 0.0.0.0 pl-oferta2937363626.sbs
-0.0.0.0 pl-oferta3106209.icu
 0.0.0.0 pl-oferta3153590.click
 0.0.0.0 pl-oferta3402030.click
 0.0.0.0 pl-oferta3639467.click
 0.0.0.0 pl-oferta3648462.click
 0.0.0.0 pl-oferta3648886.cfd
 0.0.0.0 pl-oferta3649562.click
+0.0.0.0 pl-oferta3824401.sbs
 0.0.0.0 pl-oferta3875410.click
 0.0.0.0 pl-oferta3879536.click
 0.0.0.0 pl-oferta41241.sbs
@@ -41132,7 +41207,6 @@
 0.0.0.0 pl-oferta491402.sbs
 0.0.0.0 pl-oferta5006130.click
 0.0.0.0 pl-oferta501278645128412.top
-0.0.0.0 pl-oferta5013582-apple-macbook-pro-m4-24gb.site
 0.0.0.0 pl-oferta5112516.sbs
 0.0.0.0 pl-oferta51551.click
 0.0.0.0 pl-oferta5260026.cfd
@@ -41148,9 +41222,12 @@
 0.0.0.0 pl-oferta567543.sbs
 0.0.0.0 pl-oferta568942.sbs
 0.0.0.0 pl-oferta572429.sbs
+0.0.0.0 pl-oferta5737974.click
 0.0.0.0 pl-oferta57723.click
 0.0.0.0 pl-oferta58294716.icu
 0.0.0.0 pl-oferta58431.sbs
+0.0.0.0 pl-oferta584520.sbs
+0.0.0.0 pl-oferta58934589914.sbs
 0.0.0.0 pl-oferta5894215342.sbs
 0.0.0.0 pl-oferta591210.sbs
 0.0.0.0 pl-oferta59325.sbs
@@ -41178,6 +41255,7 @@
 0.0.0.0 pl-oferta6382746.sbs
 0.0.0.0 pl-oferta6382916.icu
 0.0.0.0 pl-oferta638294.cfd
+0.0.0.0 pl-oferta6383639.click
 0.0.0.0 pl-oferta6383648.click
 0.0.0.0 pl-oferta6384737.click
 0.0.0.0 pl-oferta6392638.click
@@ -41207,6 +41285,9 @@
 0.0.0.0 pl-oferta6785920.lat
 0.0.0.0 pl-oferta6927193.click
 0.0.0.0 pl-oferta69362.cfd
+0.0.0.0 pl-oferta698134.sbs
+0.0.0.0 pl-oferta71421.sbs
+0.0.0.0 pl-oferta7238439.click
 0.0.0.0 pl-oferta72637482.click
 0.0.0.0 pl-oferta73218910.lat
 0.0.0.0 pl-oferta732891.live
@@ -41226,7 +41307,6 @@
 0.0.0.0 pl-oferta7515645.cfd
 0.0.0.0 pl-oferta753396.cfd
 0.0.0.0 pl-oferta7539682.click
-0.0.0.0 pl-oferta754387.bond
 0.0.0.0 pl-oferta7545845.icu
 0.0.0.0 pl-oferta7593576.cfd
 0.0.0.0 pl-oferta763729.click
@@ -41236,6 +41316,8 @@
 0.0.0.0 pl-oferta7739274.cfd
 0.0.0.0 pl-oferta783478.sbs
 0.0.0.0 pl-oferta7960703-sprzedam-macbook-air-m1.sbs
+0.0.0.0 pl-oferta814239.sbs
+0.0.0.0 pl-oferta819129.sbs
 0.0.0.0 pl-oferta819482.cfd
 0.0.0.0 pl-oferta820072.cfd
 0.0.0.0 pl-oferta821936.cfd
@@ -41279,13 +41361,12 @@
 0.0.0.0 pl-oferta937428.cfd
 0.0.0.0 pl-oferta939572.cfd
 0.0.0.0 pl-oferta9404365.cfd
+0.0.0.0 pl-oferta9404366.cfd
 0.0.0.0 pl-oferta94850345.sbs
 0.0.0.0 pl-oferta95394964.click
 0.0.0.0 pl-oferta9578124.sbs
 0.0.0.0 pl-oferta96142379.click
 0.0.0.0 pl-oferta961458.click
-0.0.0.0 pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
-0.0.0.0 pl-oferta9836404.sbs
 0.0.0.0 pl-oferta98549153999.cfd
 0.0.0.0 pl-oferta9932438.sbs
 0.0.0.0 pl-oferta9932456.cfd
@@ -41303,23 +41384,30 @@
 0.0.0.0 pl-ogloszenia-firmowe-888232.click
 0.0.0.0 pl-ogloszenia-firmowe-88839.sbs
 0.0.0.0 pl-ogloszenie-firmowe-84762592.click
-0.0.0.0 pl-ogloszenie-id5467234483.cyou
+0.0.0.0 pl-ogloszenie-firmowe-84792192.click
+0.0.0.0 pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 pl-ogloszenie298532.sbs
 0.0.0.0 pl-ogloszenie5346722337.click
 0.0.0.0 pl-ogloszenie535699727.click
+0.0.0.0 pl-ogloszenie5432758337.click
 0.0.0.0 pl-ogloszenie5672334572.click
 0.0.0.0 pl-ogloszenie567234492.click
 0.0.0.0 pl-ogloszenie567345669.bond
 0.0.0.0 pl-ogloszenie5678723392.click
 0.0.0.0 pl-ogloszenie5697223437.click
+0.0.0.0 pl-ogloszenie5932678397.click
+0.0.0.0 pl-ogloszenie5934856237.click
+0.0.0.0 pl-ogloszenie5937388292.click
 0.0.0.0 pl-ogloszenie5945337292.bond
+0.0.0.0 pl-ogloszenie5967233473.click
 0.0.0.0 pl-ogloszenie73257804butssch832314789.biz
-0.0.0.0 pl-ogloszenie7945234532.bond
 0.0.0.0 pl-ogloszenie898124.cyou
 0.0.0.0 pl-ogloszenie917547.sbs
+0.0.0.0 pl-ogloszenie9347235437.click
 0.0.0.0 pl-ogloszenie94128492.sbs
 0.0.0.0 pl-ogloszenie95781242.cyou
 0.0.0.0 pl-ogloszenie958498598.click
+0.0.0.0 pl-ogloszenie9783245612.click
 0.0.0.0 pl-ogloszenie985498231.click
 0.0.0.0 pl-ogloszenie9857316.sbs
 0.0.0.0 pl-shemale.xvideos2.com.se
@@ -41513,6 +41601,7 @@
 0.0.0.0 playboy.com.tw
 0.0.0.0 playboy.de
 0.0.0.0 playboy.nudegirlserotica.com
+0.0.0.0 playboy.tv
 0.0.0.0 playboy18.com
 0.0.0.0 playboynet.playboy.com
 0.0.0.0 playboyparade.com
@@ -41729,6 +41818,7 @@
 0.0.0.0 pormorbo.com
 0.0.0.0 porn-1.online
 0.0.0.0 porn-2023.ru
+0.0.0.0 porn-24h.com
 0.0.0.0 porn-365.ru
 0.0.0.0 porn-action.net
 0.0.0.0 porn-asian.biz
@@ -42350,6 +42440,7 @@
 0.0.0.0 porndish.ru
 0.0.0.0 porndisney.com
 0.0.0.0 pornditt.com
+0.0.0.0 porndl.org
 0.0.0.0 porndock.com
 0.0.0.0 porndoe.com
 0.0.0.0 porndoe.com.de
@@ -42514,6 +42605,8 @@
 0.0.0.0 pornfreexxx.net
 0.0.0.0 pornfreezone.com
 0.0.0.0 pornfriday.com
+0.0.0.0 pornfromcz.com
+0.0.0.0 pornfromczech.com
 0.0.0.0 pornfrost.com
 0.0.0.0 pornfuck.click
 0.0.0.0 pornfuck.mobi
@@ -43287,6 +43380,7 @@
 0.0.0.0 porno-tube.pro
 0.0.0.0 porno-tubing.ru
 0.0.0.0 porno-tv.hu
+0.0.0.0 porno-up.net
 0.0.0.0 porno-vid.ru
 0.0.0.0 porno-videa-zdarma.cz
 0.0.0.0 porno-videa.tv
@@ -43857,6 +43951,7 @@
 0.0.0.0 pornojam.com
 0.0.0.0 pornojenny.com
 0.0.0.0 pornojenny.net
+0.0.0.0 pornojo.com
 0.0.0.0 pornojopka.com
 0.0.0.0 pornojour.com
 0.0.0.0 pornojux.allepornodeutschen.com
@@ -45261,6 +45356,7 @@
 0.0.0.0 premium.pervnetwork.com
 0.0.0.0 premium.playboy.de
 0.0.0.0 premiumbbwcontent.com
+0.0.0.0 premiumbukkake.com
 0.0.0.0 premiumcash.com
 0.0.0.0 premiumfacials.com
 0.0.0.0 premiumhd.net
@@ -45566,6 +45662,7 @@
 0.0.0.0 pt.cutexpic.com
 0.0.0.0 pt.encontrosxxx.com
 0.0.0.0 pt.eporner.com
+0.0.0.0 pt.erome.com
 0.0.0.0 pt.eroticxgirl.com
 0.0.0.0 pt.eroticxpic.com
 0.0.0.0 pt.extremesexchannels.tv
@@ -45860,6 +45957,7 @@
 0.0.0.0 pussyspace.com
 0.0.0.0 pussyspace.lol
 0.0.0.0 pussyspace.net
+0.0.0.0 pussyspot.net
 0.0.0.0 pussystreet.com
 0.0.0.0 pussystube.com
 0.0.0.0 pussysxxxporn.com
@@ -46149,6 +46247,7 @@
 0.0.0.0 randomgalleryvault.booru.org
 0.0.0.0 randomporn.click
 0.0.0.0 randomsexiness.net
+0.0.0.0 randyblue.com
 0.0.0.0 randyrooster.com
 0.0.0.0 ranetki.online
 0.0.0.0 rankmonthly.co.uk
@@ -47175,6 +47274,7 @@
 0.0.0.0 ru.darknun.com
 0.0.0.0 ru.dojki365.org
 0.0.0.0 ru.elyziumvids.com
+0.0.0.0 ru.erome.com
 0.0.0.0 ru.eroticxgirl.com
 0.0.0.0 ru.eroticxpic.com
 0.0.0.0 ru.fap-guru.cc
@@ -47310,6 +47410,7 @@
 0.0.0.0 ru.yasex.link
 0.0.0.0 ru.ypornsex.com
 0.0.0.0 ru2.bongacams.com
+0.0.0.0 ru9.porno-kino-online.net
 0.0.0.0 rua69.com
 0.0.0.0 ruangbokep.rest
 0.0.0.0 ruay.com
@@ -47910,6 +48011,7 @@
 0.0.0.0 schwulenpornos.biz
 0.0.0.0 schwulepornos.biz
 0.0.0.0 scorchin.com
+0.0.0.0 scorchincams.com
 0.0.0.0 score-video.com
 0.0.0.0 score99.net
 0.0.0.0 scoreadate.com
@@ -49949,6 +50051,7 @@
 0.0.0.0 sexythots.com
 0.0.0.0 sexytokyo.org
 0.0.0.0 sexytout.com
+0.0.0.0 sexytrunk.com
 0.0.0.0 sexytube.me
 0.0.0.0 sexytube.vip
 0.0.0.0 sexytuber.com
@@ -50399,6 +50502,7 @@
 0.0.0.0 sillyflowermachine.com
 0.0.0.0 silver-movies.com
 0.0.0.0 silvercartoon.com
+0.0.0.0 silverdaddies.com
 0.0.0.0 silverdaddiesunlimited.com
 0.0.0.0 silvermilfs.com
 0.0.0.0 silverpic.com
@@ -51110,6 +51214,7 @@
 0.0.0.0 spicybigbutt.com
 0.0.0.0 spicybigtits.com
 0.0.0.0 spicybunnies.com
+0.0.0.0 spicyfatties.com
 0.0.0.0 spicyfuck.com
 0.0.0.0 spicymature.com
 0.0.0.0 spicymomsporn.com
@@ -52717,6 +52822,7 @@
 0.0.0.0 tcams8.com
 0.0.0.0 tcccams.com
 0.0.0.0 tcdn.xxxdl.net
+0.0.0.0 tchicks.com
 0.0.0.0 tcms.psmcdn.net
 0.0.0.0 td.tdblazing.com
 0.0.0.0 td88.club
@@ -52737,6 +52843,7 @@
 0.0.0.0 tdtcyy.com
 0.0.0.0 tdtczz.com
 0.0.0.0 te-teen.com
+0.0.0.0 teacherfucksteens.com
 0.0.0.0 teachertranny.com
 0.0.0.0 teachmyass.com
 0.0.0.0 teachtwinks.com
@@ -53894,6 +54001,7 @@
 0.0.0.0 thepinsta.com
 0.0.0.0 thepiratebay0.org
 0.0.0.0 thepiratebay10.org
+0.0.0.0 theplace.ru
 0.0.0.0 theporn.cc
 0.0.0.0 theporn.house
 0.0.0.0 theporn.how
@@ -54081,6 +54189,7 @@
 0.0.0.0 thotbook.gg
 0.0.0.0 thotbook.tv
 0.0.0.0 thotdaily.com
+0.0.0.0 thotdeep.com
 0.0.0.0 thotfans.tv
 0.0.0.0 thotflix.com
 0.0.0.0 thothd.com
@@ -55016,6 +55125,7 @@
 0.0.0.0 tour.topwebmodels.com
 0.0.0.0 tour.transerotica.com
 0.0.0.0 tour.trueanal.com
+0.0.0.0 tour1.pornbox.com
 0.0.0.0 tour2.indiangfporn.com
 0.0.0.0 tour2.pornworld.com
 0.0.0.0 tour2.puba.com
@@ -55023,6 +55133,7 @@
 0.0.0.0 tour5m-latinaabuse-com.pornproxy.app
 0.0.0.0 tour5m-latinaabuse.pornmeamelone.com
 0.0.0.0 tour5m-latinaabuse.pornobrasileirinhas.com
+0.0.0.0 tour5m.facialabuse.com
 0.0.0.0 tour5m.ghettogaggers.com
 0.0.0.0 tour7me.com
 0.0.0.0 tourghepmienbac.net
@@ -55816,6 +55927,7 @@
 0.0.0.0 tubepornmovies.net
 0.0.0.0 tubepornnude.com
 0.0.0.0 tubeporno.fr
+0.0.0.0 tubepornovideos.com
 0.0.0.0 tubepornplus.com
 0.0.0.0 tubepornplus.net
 0.0.0.0 tubepornsearch.com
@@ -57794,6 +57906,7 @@
 0.0.0.0 vidmax.com
 0.0.0.0 vidmediax.com
 0.0.0.0 vidmo.pro
+0.0.0.0 vidmos.org
 0.0.0.0 vidoe.top
 0.0.0.0 vidoes.freshpornclips.pro
 0.0.0.0 vidoxxx.win
@@ -57848,6 +57961,7 @@
 0.0.0.0 vierklee.com
 0.0.0.0 viet.sex
 0.0.0.0 viet69.app
+0.0.0.0 viet69.bi
 0.0.0.0 viet69.biz
 0.0.0.0 viet69.cc
 0.0.0.0 viet69.click
@@ -58072,10 +58186,7 @@
 0.0.0.0 vinted.pl-oferta017428.cfd
 0.0.0.0 vinted.pl-oferta026427.cfd
 0.0.0.0 vinted.pl-oferta026428.cfd
-0.0.0.0 vinted.pl-oferta027529.cfd
-0.0.0.0 vinted.pl-oferta027539.cfd
 0.0.0.0 vinted.pl-oferta029164.sbs
-0.0.0.0 vinted.pl-oferta063962.cfd
 0.0.0.0 vinted.pl-oferta071647.cfd
 0.0.0.0 vinted.pl-oferta093159.cfd
 0.0.0.0 vinted.pl-oferta1057522115.com
@@ -58088,13 +58199,12 @@
 0.0.0.0 vinted.pl-oferta152394.click
 0.0.0.0 vinted.pl-oferta1611892.click
 0.0.0.0 vinted.pl-oferta1734129.click
+0.0.0.0 vinted.pl-oferta1810837.sbs
 0.0.0.0 vinted.pl-oferta1846858.click
 0.0.0.0 vinted.pl-oferta184828.sbs
 0.0.0.0 vinted.pl-oferta1849230.cfd
-0.0.0.0 vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 vinted.pl-oferta203043.click
 0.0.0.0 vinted.pl-oferta21415509.icu
-0.0.0.0 vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 vinted.pl-oferta2318251.click
 0.0.0.0 vinted.pl-oferta239452.sbs
 0.0.0.0 vinted.pl-oferta24345634.sbs
@@ -58102,6 +58212,7 @@
 0.0.0.0 vinted.pl-oferta2638282.icu
 0.0.0.0 vinted.pl-oferta26424.sbs
 0.0.0.0 vinted.pl-oferta2744393.cfd
+0.0.0.0 vinted.pl-oferta2746287453.sbs
 0.0.0.0 vinted.pl-oferta2746291383.sbs
 0.0.0.0 vinted.pl-oferta2746736373836.sbs
 0.0.0.0 vinted.pl-oferta2799065.cfd
@@ -58126,6 +58237,7 @@
 0.0.0.0 vinted.pl-oferta3648462.click
 0.0.0.0 vinted.pl-oferta3648886.cfd
 0.0.0.0 vinted.pl-oferta3649562.click
+0.0.0.0 vinted.pl-oferta3824401.sbs
 0.0.0.0 vinted.pl-oferta3875410.click
 0.0.0.0 vinted.pl-oferta3879536.click
 0.0.0.0 vinted.pl-oferta41241.sbs
@@ -58141,7 +58253,6 @@
 0.0.0.0 vinted.pl-oferta491402.sbs
 0.0.0.0 vinted.pl-oferta5006130.click
 0.0.0.0 vinted.pl-oferta501278645128412.top
-0.0.0.0 vinted.pl-oferta5013582-apple-macbook-pro-m4-24gb.site
 0.0.0.0 vinted.pl-oferta5112516.sbs
 0.0.0.0 vinted.pl-oferta51551.click
 0.0.0.0 vinted.pl-oferta5260026.cfd
@@ -58155,9 +58266,12 @@
 0.0.0.0 vinted.pl-oferta567543.sbs
 0.0.0.0 vinted.pl-oferta568942.sbs
 0.0.0.0 vinted.pl-oferta572429.sbs
+0.0.0.0 vinted.pl-oferta5737974.click
 0.0.0.0 vinted.pl-oferta57723.click
 0.0.0.0 vinted.pl-oferta58294716.icu
 0.0.0.0 vinted.pl-oferta58431.sbs
+0.0.0.0 vinted.pl-oferta584520.sbs
+0.0.0.0 vinted.pl-oferta58934589914.sbs
 0.0.0.0 vinted.pl-oferta5894215342.sbs
 0.0.0.0 vinted.pl-oferta591210.sbs
 0.0.0.0 vinted.pl-oferta59325.sbs
@@ -58184,6 +58298,7 @@
 0.0.0.0 vinted.pl-oferta6382746.sbs
 0.0.0.0 vinted.pl-oferta6382916.icu
 0.0.0.0 vinted.pl-oferta638294.cfd
+0.0.0.0 vinted.pl-oferta6383639.click
 0.0.0.0 vinted.pl-oferta6383648.click
 0.0.0.0 vinted.pl-oferta6384737.click
 0.0.0.0 vinted.pl-oferta6392638.click
@@ -58211,6 +58326,9 @@
 0.0.0.0 vinted.pl-oferta6785920.lat
 0.0.0.0 vinted.pl-oferta6927193.click
 0.0.0.0 vinted.pl-oferta69362.cfd
+0.0.0.0 vinted.pl-oferta698134.sbs
+0.0.0.0 vinted.pl-oferta71421.sbs
+0.0.0.0 vinted.pl-oferta7238439.click
 0.0.0.0 vinted.pl-oferta72637482.click
 0.0.0.0 vinted.pl-oferta73218910.lat
 0.0.0.0 vinted.pl-oferta732891.live
@@ -58230,7 +58348,6 @@
 0.0.0.0 vinted.pl-oferta7515645.cfd
 0.0.0.0 vinted.pl-oferta753396.cfd
 0.0.0.0 vinted.pl-oferta7539682.click
-0.0.0.0 vinted.pl-oferta754387.bond
 0.0.0.0 vinted.pl-oferta7545845.icu
 0.0.0.0 vinted.pl-oferta7593576.cfd
 0.0.0.0 vinted.pl-oferta763729.click
@@ -58240,6 +58357,8 @@
 0.0.0.0 vinted.pl-oferta7739274.cfd
 0.0.0.0 vinted.pl-oferta783478.sbs
 0.0.0.0 vinted.pl-oferta7960703-sprzedam-macbook-air-m1.sbs
+0.0.0.0 vinted.pl-oferta814239.sbs
+0.0.0.0 vinted.pl-oferta819129.sbs
 0.0.0.0 vinted.pl-oferta819482.cfd
 0.0.0.0 vinted.pl-oferta820072.cfd
 0.0.0.0 vinted.pl-oferta821936.cfd
@@ -58278,13 +58397,12 @@
 0.0.0.0 vinted.pl-oferta937428.cfd
 0.0.0.0 vinted.pl-oferta939572.cfd
 0.0.0.0 vinted.pl-oferta9404365.cfd
+0.0.0.0 vinted.pl-oferta9404366.cfd
 0.0.0.0 vinted.pl-oferta94850345.sbs
 0.0.0.0 vinted.pl-oferta95394964.click
 0.0.0.0 vinted.pl-oferta9578124.sbs
 0.0.0.0 vinted.pl-oferta96142379.click
 0.0.0.0 vinted.pl-oferta961458.click
-0.0.0.0 vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
-0.0.0.0 vinted.pl-oferta9836404.sbs
 0.0.0.0 vinted.pl-oferta98549153999.cfd
 0.0.0.0 vinted.pl-oferta9932438.sbs
 0.0.0.0 vinted.pl-oferta9932456.cfd
@@ -58302,22 +58420,30 @@
 0.0.0.0 vinted.pl-ogloszenia-firmowe-888232.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-88839.sbs
 0.0.0.0 vinted.pl-ogloszenie-firmowe-84762592.click
-0.0.0.0 vinted.pl-ogloszenie-id5467234483.cyou
+0.0.0.0 vinted.pl-ogloszenie-firmowe-84792192.click
+0.0.0.0 vinted.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 vinted.pl-ogloszenie298532.sbs
 0.0.0.0 vinted.pl-ogloszenie5346722337.click
 0.0.0.0 vinted.pl-ogloszenie535699727.click
+0.0.0.0 vinted.pl-ogloszenie5432758337.click
 0.0.0.0 vinted.pl-ogloszenie5672334572.click
 0.0.0.0 vinted.pl-ogloszenie567234492.click
 0.0.0.0 vinted.pl-ogloszenie567345669.bond
 0.0.0.0 vinted.pl-ogloszenie5678723392.click
 0.0.0.0 vinted.pl-ogloszenie5697223437.click
+0.0.0.0 vinted.pl-ogloszenie5932678397.click
+0.0.0.0 vinted.pl-ogloszenie5934856237.click
+0.0.0.0 vinted.pl-ogloszenie5937388292.click
 0.0.0.0 vinted.pl-ogloszenie5945337292.bond
+0.0.0.0 vinted.pl-ogloszenie5967233473.click
 0.0.0.0 vinted.pl-ogloszenie73257804butssch832314789.biz
 0.0.0.0 vinted.pl-ogloszenie898124.cyou
 0.0.0.0 vinted.pl-ogloszenie917547.sbs
+0.0.0.0 vinted.pl-ogloszenie9347235437.click
 0.0.0.0 vinted.pl-ogloszenie94128492.sbs
 0.0.0.0 vinted.pl-ogloszenie95781242.cyou
 0.0.0.0 vinted.pl-ogloszenie958498598.click
+0.0.0.0 vinted.pl-ogloszenie9783245612.click
 0.0.0.0 vinted.pl-ogloszenie985498231.click
 0.0.0.0 vinted.pl-ogloszenie9857316.sbs
 0.0.0.0 vintporn.com
@@ -58414,6 +58540,7 @@
 0.0.0.0 viralporno.net
 0.0.0.0 viralsexcams.com
 0.0.0.0 viraltags.xyz
+0.0.0.0 viralxxxporn.com
 0.0.0.0 virgenes.top
 0.0.0.0 virgin-anal.xyz
 0.0.0.0 virgin-cams.com
@@ -58595,6 +58722,7 @@
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
 0.0.0.0 vivacuties.com
+0.0.0.0 vivagals.com
 0.0.0.0 vivalapornxxx.com
 0.0.0.0 vivashemale.com
 0.0.0.0 vivatranny.com
@@ -59740,6 +59868,7 @@
 0.0.0.0 wifesharing.pro
 0.0.0.0 wifevideos.net
 0.0.0.0 wifewantsblackcock.com
+0.0.0.0 wifeysworld.com
 0.0.0.0 wifeysworld.ws
 0.0.0.0 wifezoo.com
 0.0.0.0 wiki-porn.com
@@ -60239,6 +60368,7 @@
 0.0.0.0 www.10bet.co.uk
 0.0.0.0 www.10bet.com
 0.0.0.0 www.10luxury39.com
+0.0.0.0 www.10musume.com
 0.0.0.0 www.110percentnatural.com
 0.0.0.0 www.110xnxx.com
 0.0.0.0 www.118kbet.com
@@ -60380,6 +60510,7 @@
 0.0.0.0 www.1pondo.com
 0.0.0.0 www.1porn.press
 0.0.0.0 www.1porn.su
+0.0.0.0 www.1porn.tv
 0.0.0.0 www.1q.org
 0.0.0.0 www.1sexsex.com
 0.0.0.0 www.1st-virgin.com
@@ -60641,6 +60772,7 @@
 0.0.0.0 www.777livecams.com
 0.0.0.0 www.777mature.com
 0.0.0.0 www.777porn.com
+0.0.0.0 www.777pornotube.com
 0.0.0.0 www.777xporn.com
 0.0.0.0 www.77king88.com
 0.0.0.0 www.789.club
@@ -60693,6 +60825,7 @@
 0.0.0.0 www.88vnd.com
 0.0.0.0 www.89.com
 0.0.0.0 www.890ae888.com
+0.0.0.0 www.8boobs.com
 0.0.0.0 www.8day.com
 0.0.0.0 www.8dayclub.com
 0.0.0.0 www.8freecams.com
@@ -60792,6 +60925,7 @@
 0.0.0.0 www.actualindiansex.com
 0.0.0.0 www.ad.sexcount.de
 0.0.0.0 www.adam4adam.com
+0.0.0.0 www.adam4adam.tv
 0.0.0.0 www.adamandeve.com
 0.0.0.0 www.adameve.com
 0.0.0.0 www.addfreeporn.com
@@ -60978,6 +61112,7 @@
 0.0.0.0 www.afamousporn.com
 0.0.0.0 www.afarsex.co.il
 0.0.0.0 www.afatporn.com
+0.0.0.0 www.affaire.com
 0.0.0.0 www.affairsclub.com
 0.0.0.0 www.affect3d.com
 0.0.0.0 www.affect3dstore.com
@@ -61108,6 +61243,7 @@
 0.0.0.0 www.allgravure.com
 0.0.0.0 www.allgravuregirls.com
 0.0.0.0 www.allgravuremodels.com
+0.0.0.0 www.allhairygals.com
 0.0.0.0 www.allhairypussypics.com
 0.0.0.0 www.allhorseracing.ag
 0.0.0.0 www.allhotcams.com
@@ -61304,6 +61440,7 @@
 0.0.0.0 www.amourangels.eu
 0.0.0.0 www.amovs.pro
 0.0.0.0 www.amsterdam-webcams.com
+0.0.0.0 www.amsterdamlivexxx.com
 0.0.0.0 www.amsterdamned.com
 0.0.0.0 www.amsterdamnightlife.com
 0.0.0.0 www.amybrookexxx.com
@@ -61711,6 +61848,7 @@
 0.0.0.0 www.anonymer-sexchat.com
 0.0.0.0 www.anotherbabe.com
 0.0.0.0 www.antalyakvartira.com
+0.0.0.0 www.antarvasna3.com
 0.0.0.0 www.antarvasnaclips.com
 0.0.0.0 www.antarvasnaphotos.com
 0.0.0.0 www.antarvasnapornvideos.com
@@ -62166,6 +62304,7 @@
 0.0.0.0 www.babelogbook.com
 0.0.0.0 www.babepedia.com
 0.0.0.0 www.babeporn.vip
+0.0.0.0 www.baberoad.com
 0.0.0.0 www.baberotica.com
 0.0.0.0 www.babes-club.com
 0.0.0.0 www.babes.com
@@ -62217,6 +62356,7 @@
 0.0.0.0 www.baddiefuck.com
 0.0.0.0 www.baddieslut.com
 0.0.0.0 www.baddiesxxx.com
+0.0.0.0 www.baddietube.com
 0.0.0.0 www.badfishforums.com
 0.0.0.0 www.badgirlsblog.com
 0.0.0.0 www.badhoe.com
@@ -62297,6 +62437,7 @@
 0.0.0.0 www.barbadoscasino.com
 0.0.0.0 www.barbcummings.com
 0.0.0.0 www.barebackleathermen.com
+0.0.0.0 www.barebackrt.com
 0.0.0.0 www.barebackthathole.com
 0.0.0.0 www.baredump.com
 0.0.0.0 www.barefootvixens.com
@@ -62902,6 +63043,7 @@
 0.0.0.0 www.blackhqtube.com
 0.0.0.0 www.blacklesbianporn.org
 0.0.0.0 www.blackmaleme.com
+0.0.0.0 www.blackmonsterterror.com
 0.0.0.0 www.blacknakedgirl.com
 0.0.0.0 www.blackownedsissy.com
 0.0.0.0 www.blackpayback.com
@@ -63055,6 +63197,7 @@
 0.0.0.0 www.boots-yakata.com
 0.0.0.0 www.bootycallfriends.com
 0.0.0.0 www.bootyclapxxx.com
+0.0.0.0 www.bootyexpo.net
 0.0.0.0 www.bootyfix.com
 0.0.0.0 www.bootyoftheday.co
 0.0.0.0 www.bootysisters.com
@@ -63280,6 +63423,7 @@
 0.0.0.0 www.buttgifs.com
 0.0.0.0 www.buttnakedinthestreets.com
 0.0.0.0 www.buttpornpics.com
+0.0.0.0 www.buyme.com
 0.0.0.0 www.buzzav.com
 0.0.0.0 www.buzzgays.com
 0.0.0.0 www.buzzwebcams.com
@@ -63343,6 +63487,7 @@
 0.0.0.0 www.cames4.com
 0.0.0.0 www.camfica.it
 0.0.0.0 www.camfloozy.com
+0.0.0.0 www.camfrog.com
 0.0.0.0 www.camfz.com
 0.0.0.0 www.camgasm.com
 0.0.0.0 www.camgirls.onl
@@ -63374,6 +63519,7 @@
 0.0.0.0 www.camshowdownloads.com
 0.0.0.0 www.camshowsrecorded.com
 0.0.0.0 www.camshunt.com
+0.0.0.0 www.camskip.com
 0.0.0.0 www.camssoda.com
 0.0.0.0 www.camster.com
 0.0.0.0 www.camteen.tv
@@ -63558,6 +63704,7 @@
 0.0.0.0 www.chatgf.com
 0.0.0.0 www.chatischat.com
 0.0.0.0 www.chatorgasm.com
+0.0.0.0 www.chatpig.com
 0.0.0.0 www.chatrandom.com
 0.0.0.0 www.chatroulette.com
 0.0.0.0 www.chatruletkaz.com
@@ -63728,6 +63875,7 @@
 0.0.0.0 www.clubbestangels.de
 0.0.0.0 www.clubbizarr.tv
 0.0.0.0 www.clubcharismaxxx.com
+0.0.0.0 www.clubedosvideos.com
 0.0.0.0 www.cluberosatlanta.com
 0.0.0.0 www.clubevaangelina.net
 0.0.0.0 www.clubglamour.net
@@ -64488,6 +64636,7 @@
 0.0.0.0 www.donstick.com
 0.0.0.0 www.dontstayvirgin.movielol.org
 0.0.0.0 www.doppel-anal.net
+0.0.0.0 www.dorcel.com
 0.0.0.0 www.dorcelclub.com
 0.0.0.0 www.dorcelvision.com
 0.0.0.0 www.doribet.com
@@ -65104,6 +65253,7 @@
 0.0.0.0 www.fabet88.net
 0.0.0.0 www.fabhairypussy.com
 0.0.0.0 www.fabrouter.com
+0.0.0.0 www.fabswingers.com
 0.0.0.0 www.facebook-girl.com
 0.0.0.0 www.facebook-of-sex.com
 0.0.0.0 www.facebook-pour-adulte.over-blog.fr
@@ -65133,6 +65283,7 @@
 0.0.0.0 www.fallenangelproductions.com
 0.0.0.0 www.fallenangelvideo.com
 0.0.0.0 www.fallenvirgin.com
+0.0.0.0 www.famedigital.com
 0.0.0.0 www.familydick.com
 0.0.0.0 www.familyhookups.com
 0.0.0.0 www.familylikestofuck.com
@@ -65725,6 +65876,7 @@
 0.0.0.0 www.freepornmovies.us
 0.0.0.0 www.freepornmovs.world
 0.0.0.0 www.freeporno.agency
+0.0.0.0 www.freeporno.asia
 0.0.0.0 www.freeporno.beauty
 0.0.0.0 www.freeporno.blog
 0.0.0.0 www.freeporno.bond
@@ -66503,6 +66655,7 @@
 0.0.0.0 www.greenangelonline.com
 0.0.0.0 www.greenpointlawns.com
 0.0.0.0 www.greentoons.club
+0.0.0.0 www.groobygirls.com
 0.0.0.0 www.groobyvr.com
 0.0.0.0 www.grootporno.com
 0.0.0.0 www.groovybus.com
@@ -66592,6 +66745,7 @@
 0.0.0.0 www.hamsterbet.com
 0.0.0.0 www.hamsterfreeporn.net
 0.0.0.0 www.hamsterix.cam
+0.0.0.0 www.hamsterporn.tv
 0.0.0.0 www.hana-elazhari.com
 0.0.0.0 www.handjobhub.com
 0.0.0.0 www.handjobhubpremium.com
@@ -67443,6 +67597,7 @@
 0.0.0.0 www.idealteentube.com
 0.0.0.0 www.ideapocket.com
 0.0.0.0 www.idoldouganew.com
+0.0.0.0 www.idols69.net
 0.0.0.0 www.ienergy1.com
 0.0.0.0 www.ifap.top
 0.0.0.0 www.ifl-porn.com
@@ -67533,6 +67688,7 @@
 0.0.0.0 www.incesttube.eu
 0.0.0.0 www.incesttube.org
 0.0.0.0 www.incestvideo.net
+0.0.0.0 www.incext.com
 0.0.0.0 www.incognitopartyservice.com
 0.0.0.0 www.income88.com
 0.0.0.0 www.incubeangel.over-blog.com
@@ -67608,6 +67764,7 @@
 0.0.0.0 www.indianpworld.com
 0.0.0.0 www.indianrealporn.com
 0.0.0.0 www.indiansex.fun
+0.0.0.0 www.indiansex4u.com
 0.0.0.0 www.indiansexbar.com
 0.0.0.0 www.indiansexfatal.com
 0.0.0.0 www.indiansexhq.com
@@ -67685,6 +67842,7 @@
 0.0.0.0 www.interracialpass.com
 0.0.0.0 www.interracialporn.best
 0.0.0.0 www.interracialsex.club
+0.0.0.0 www.interracialsexx.com
 0.0.0.0 www.interracialtubeporn.com
 0.0.0.0 www.intertops.eu
 0.0.0.0 www.interwetten.com
@@ -68095,6 +68253,7 @@
 0.0.0.0 www.joy-of-life.at
 0.0.0.0 www.joyangeles.com
 0.0.0.0 www.joybear.com
+0.0.0.0 www.joyclub.de
 0.0.0.0 www.joyfreepornvids.com
 0.0.0.0 www.joylovedolls.com
 0.0.0.0 www.joymii.com
@@ -68196,6 +68355,7 @@
 0.0.0.0 www.karupsbabes.com
 0.0.0.0 www.karupsgalleries.com
 0.0.0.0 www.karupsgals.com
+0.0.0.0 www.karupsha.com
 0.0.0.0 www.kasakura.co.jp
 0.0.0.0 www.kashmobet.com
 0.0.0.0 www.kaskoos.com
@@ -68255,6 +68415,7 @@
 0.0.0.0 www.kingswaybingoonline.com
 0.0.0.0 www.kinguys.com
 0.0.0.0 www.kink.com
+0.0.0.0 www.kinklive.com
 0.0.0.0 www.kinkmen.com
 0.0.0.0 www.kinkvr.com
 0.0.0.0 www.kinkygate.com
@@ -68575,6 +68736,7 @@
 0.0.0.0 www.lezcuties.com
 0.0.0.0 www.lezkiss.com
 0.0.0.0 www.lf-law.com
+0.0.0.0 www.libertic.com
 0.0.0.0 www.liboggirls.net
 0.0.0.0 www.libporn.pro
 0.0.0.0 www.librateam.net
@@ -68688,6 +68850,7 @@
 0.0.0.0 www.livetopcams.com
 0.0.0.0 www.livetrannywebcams.com
 0.0.0.0 www.livetubecams.com
+0.0.0.0 www.liveundnackt.com
 0.0.0.0 www.livevintagesex.com
 0.0.0.0 www.livevoyeurporn.com
 0.0.0.0 www.livewebcamflirt.com
@@ -68801,6 +68964,8 @@
 0.0.0.0 www.loveherfeet.com
 0.0.0.0 www.loveherfilms.com
 0.0.0.0 www.lovehomeporn.com
+0.0.0.0 www.lovehoney.co
+0.0.0.0 www.lovehoney.com
 0.0.0.0 www.loveindiansex.com
 0.0.0.0 www.lovely-virgins.com
 0.0.0.0 www.lovense.com
@@ -69297,6 +69462,7 @@
 0.0.0.0 www.milfxxx.top
 0.0.0.0 www.milfxxxhq.com
 0.0.0.0 www.milfxxxmature.com
+0.0.0.0 www.milfy.com
 0.0.0.0 www.milfz.club
 0.0.0.0 www.milkmanbook.com
 0.0.0.0 www.milkporntube.com
@@ -69586,6 +69752,7 @@
 0.0.0.0 www.my.srandel.com
 0.0.0.0 www.my.sweet-angels.net
 0.0.0.0 www.my18pussy.com
+0.0.0.0 www.my18teens.com
 0.0.0.0 www.my18tube.com
 0.0.0.0 www.my1tube.com
 0.0.0.0 www.myadultguide.net
@@ -69620,6 +69787,7 @@
 0.0.0.0 www.myescortberlin.com
 0.0.0.0 www.myex.com
 0.0.0.0 www.myfappening.org
+0.0.0.0 www.myfirstsexteacher.com
 0.0.0.0 www.myfreeblack.com
 0.0.0.0 www.myfreecams.com
 0.0.0.0 www.myfreehdporn.com
@@ -69842,6 +70010,7 @@
 0.0.0.0 www.naughtyamerica.com
 0.0.0.0 www.naughtyamericavr.com
 0.0.0.0 www.naughtyblog.org
+0.0.0.0 www.naughtydate.com
 0.0.0.0 www.naughtyhentai.com
 0.0.0.0 www.naughtymachinima.com
 0.0.0.0 www.naughtyrevenue.com
@@ -69960,6 +70129,7 @@
 0.0.0.0 www.nhentai.xxx
 0.0.0.0 www.nhentaibr.com
 0.0.0.0 www.nhentaiyaoi.net
+0.0.0.0 www.niadd.com
 0.0.0.0 www.nice18teen.com
 0.0.0.0 www.niceandquite.com
 0.0.0.0 www.niceasianvideos.com
@@ -70051,6 +70221,7 @@
 0.0.0.0 www.nothingbutpanties.com
 0.0.0.0 www.notmik.com
 0.0.0.0 www.notmygrandpa.com
+0.0.0.0 www.nouslib.com
 0.0.0.0 www.nova88.com
 0.0.0.0 www.noveltrove.com
 0.0.0.0 www.novibet.com
@@ -70851,10 +71022,7 @@
 0.0.0.0 www.pl-oferta01952.icu
 0.0.0.0 www.pl-oferta026427.cfd
 0.0.0.0 www.pl-oferta026428.cfd
-0.0.0.0 www.pl-oferta027529.cfd
-0.0.0.0 www.pl-oferta027539.cfd
 0.0.0.0 www.pl-oferta029164.sbs
-0.0.0.0 www.pl-oferta063962.cfd
 0.0.0.0 www.pl-oferta071647.cfd
 0.0.0.0 www.pl-oferta093159.cfd
 0.0.0.0 www.pl-oferta1057522115.com
@@ -70868,14 +71036,13 @@
 0.0.0.0 www.pl-oferta152394.click
 0.0.0.0 www.pl-oferta1611892.click
 0.0.0.0 www.pl-oferta1734129.click
+0.0.0.0 www.pl-oferta1810837.sbs
 0.0.0.0 www.pl-oferta1846858.click
 0.0.0.0 www.pl-oferta184828.sbs
 0.0.0.0 www.pl-oferta1849230.cfd
-0.0.0.0 www.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 www.pl-oferta203043.click
 0.0.0.0 www.pl-oferta2123.cfd
 0.0.0.0 www.pl-oferta21415509.icu
-0.0.0.0 www.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 www.pl-oferta2318251.click
 0.0.0.0 www.pl-oferta239452.sbs
 0.0.0.0 www.pl-oferta24345634.sbs
@@ -70883,6 +71050,7 @@
 0.0.0.0 www.pl-oferta2638282.icu
 0.0.0.0 www.pl-oferta26424.sbs
 0.0.0.0 www.pl-oferta2744393.cfd
+0.0.0.0 www.pl-oferta2746287453.sbs
 0.0.0.0 www.pl-oferta2746291383.sbs
 0.0.0.0 www.pl-oferta2746736373836.sbs
 0.0.0.0 www.pl-oferta2799065.cfd
@@ -70901,13 +71069,13 @@
 0.0.0.0 www.pl-oferta2933369626.sbs
 0.0.0.0 www.pl-oferta293732854.cfd
 0.0.0.0 www.pl-oferta2937363626.sbs
-0.0.0.0 www.pl-oferta3106209.icu
 0.0.0.0 www.pl-oferta3153590.click
 0.0.0.0 www.pl-oferta3402030.click
 0.0.0.0 www.pl-oferta3639467.click
 0.0.0.0 www.pl-oferta3648462.click
 0.0.0.0 www.pl-oferta3648886.cfd
 0.0.0.0 www.pl-oferta3649562.click
+0.0.0.0 www.pl-oferta3824401.sbs
 0.0.0.0 www.pl-oferta3875410.click
 0.0.0.0 www.pl-oferta3879536.click
 0.0.0.0 www.pl-oferta41241.sbs
@@ -70924,7 +71092,6 @@
 0.0.0.0 www.pl-oferta491402.sbs
 0.0.0.0 www.pl-oferta5006130.click
 0.0.0.0 www.pl-oferta501278645128412.top
-0.0.0.0 www.pl-oferta5013582-apple-macbook-pro-m4-24gb.site
 0.0.0.0 www.pl-oferta5112516.sbs
 0.0.0.0 www.pl-oferta51551.click
 0.0.0.0 www.pl-oferta5260026.cfd
@@ -70940,9 +71107,12 @@
 0.0.0.0 www.pl-oferta567543.sbs
 0.0.0.0 www.pl-oferta568942.sbs
 0.0.0.0 www.pl-oferta572429.sbs
+0.0.0.0 www.pl-oferta5737974.click
 0.0.0.0 www.pl-oferta57723.click
 0.0.0.0 www.pl-oferta58294716.icu
 0.0.0.0 www.pl-oferta58431.sbs
+0.0.0.0 www.pl-oferta584520.sbs
+0.0.0.0 www.pl-oferta58934589914.sbs
 0.0.0.0 www.pl-oferta5894215342.sbs
 0.0.0.0 www.pl-oferta591210.sbs
 0.0.0.0 www.pl-oferta59325.sbs
@@ -70970,6 +71140,7 @@
 0.0.0.0 www.pl-oferta6382746.sbs
 0.0.0.0 www.pl-oferta6382916.icu
 0.0.0.0 www.pl-oferta638294.cfd
+0.0.0.0 www.pl-oferta6383639.click
 0.0.0.0 www.pl-oferta6383648.click
 0.0.0.0 www.pl-oferta6384737.click
 0.0.0.0 www.pl-oferta6392638.click
@@ -70999,6 +71170,9 @@
 0.0.0.0 www.pl-oferta6785920.lat
 0.0.0.0 www.pl-oferta6927193.click
 0.0.0.0 www.pl-oferta69362.cfd
+0.0.0.0 www.pl-oferta698134.sbs
+0.0.0.0 www.pl-oferta71421.sbs
+0.0.0.0 www.pl-oferta7238439.click
 0.0.0.0 www.pl-oferta72637482.click
 0.0.0.0 www.pl-oferta73218910.lat
 0.0.0.0 www.pl-oferta732891.live
@@ -71018,7 +71192,6 @@
 0.0.0.0 www.pl-oferta7515645.cfd
 0.0.0.0 www.pl-oferta753396.cfd
 0.0.0.0 www.pl-oferta7539682.click
-0.0.0.0 www.pl-oferta754387.bond
 0.0.0.0 www.pl-oferta7545845.icu
 0.0.0.0 www.pl-oferta7593576.cfd
 0.0.0.0 www.pl-oferta763729.click
@@ -71028,6 +71201,8 @@
 0.0.0.0 www.pl-oferta7739274.cfd
 0.0.0.0 www.pl-oferta783478.sbs
 0.0.0.0 www.pl-oferta7960703-sprzedam-macbook-air-m1.sbs
+0.0.0.0 www.pl-oferta814239.sbs
+0.0.0.0 www.pl-oferta819129.sbs
 0.0.0.0 www.pl-oferta819482.cfd
 0.0.0.0 www.pl-oferta820072.cfd
 0.0.0.0 www.pl-oferta821936.cfd
@@ -71071,13 +71246,12 @@
 0.0.0.0 www.pl-oferta937428.cfd
 0.0.0.0 www.pl-oferta939572.cfd
 0.0.0.0 www.pl-oferta9404365.cfd
+0.0.0.0 www.pl-oferta9404366.cfd
 0.0.0.0 www.pl-oferta94850345.sbs
 0.0.0.0 www.pl-oferta95394964.click
 0.0.0.0 www.pl-oferta9578124.sbs
 0.0.0.0 www.pl-oferta96142379.click
 0.0.0.0 www.pl-oferta961458.click
-0.0.0.0 www.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
-0.0.0.0 www.pl-oferta9836404.sbs
 0.0.0.0 www.pl-oferta98549153999.cfd
 0.0.0.0 www.pl-oferta9932438.sbs
 0.0.0.0 www.pl-oferta9932456.cfd
@@ -71095,23 +71269,30 @@
 0.0.0.0 www.pl-ogloszenia-firmowe-888232.click
 0.0.0.0 www.pl-ogloszenia-firmowe-88839.sbs
 0.0.0.0 www.pl-ogloszenie-firmowe-84762592.click
-0.0.0.0 www.pl-ogloszenie-id5467234483.cyou
+0.0.0.0 www.pl-ogloszenie-firmowe-84792192.click
+0.0.0.0 www.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 www.pl-ogloszenie298532.sbs
 0.0.0.0 www.pl-ogloszenie5346722337.click
 0.0.0.0 www.pl-ogloszenie535699727.click
+0.0.0.0 www.pl-ogloszenie5432758337.click
 0.0.0.0 www.pl-ogloszenie5672334572.click
 0.0.0.0 www.pl-ogloszenie567234492.click
 0.0.0.0 www.pl-ogloszenie567345669.bond
 0.0.0.0 www.pl-ogloszenie5678723392.click
 0.0.0.0 www.pl-ogloszenie5697223437.click
+0.0.0.0 www.pl-ogloszenie5932678397.click
+0.0.0.0 www.pl-ogloszenie5934856237.click
+0.0.0.0 www.pl-ogloszenie5937388292.click
 0.0.0.0 www.pl-ogloszenie5945337292.bond
+0.0.0.0 www.pl-ogloszenie5967233473.click
 0.0.0.0 www.pl-ogloszenie73257804butssch832314789.biz
-0.0.0.0 www.pl-ogloszenie7945234532.bond
 0.0.0.0 www.pl-ogloszenie898124.cyou
 0.0.0.0 www.pl-ogloszenie917547.sbs
+0.0.0.0 www.pl-ogloszenie9347235437.click
 0.0.0.0 www.pl-ogloszenie94128492.sbs
 0.0.0.0 www.pl-ogloszenie95781242.cyou
 0.0.0.0 www.pl-ogloszenie958498598.click
+0.0.0.0 www.pl-ogloszenie9783245612.click
 0.0.0.0 www.pl-ogloszenie985498231.click
 0.0.0.0 www.pl-ogloszenie9857316.sbs
 0.0.0.0 www.planet-katie.info
@@ -72090,6 +72271,7 @@
 0.0.0.0 www.pornstarblognetwork.com
 0.0.0.0 www.pornstarbook.com
 0.0.0.0 www.pornstarcamsex.com
+0.0.0.0 www.pornstarchive.com
 0.0.0.0 www.pornstarcompendium.com
 0.0.0.0 www.pornstarjustice.com
 0.0.0.0 www.pornstarloverz.com
@@ -72503,6 +72685,7 @@
 0.0.0.0 www.pussytube.xxx
 0.0.0.0 www.pussyvids.pro
 0.0.0.0 www.pussyxxxporn.com
+0.0.0.0 www.putalocura.com
 0.0.0.0 www.putasconwebcams.com
 0.0.0.0 www.putitasangelicales.com
 0.0.0.0 www.puuuta.com
@@ -72776,6 +72959,7 @@
 0.0.0.0 www.removedpix.com
 0.0.0.0 www.rencontres-webcams.com
 0.0.0.0 www.rencontresanslendemain.net
+0.0.0.0 www.renderotica.com
 0.0.0.0 www.reporn.net
 0.0.0.0 www.restmature.com
 0.0.0.0 www.retro-fucking.com
@@ -72987,6 +73171,7 @@
 0.0.0.0 www.savemapungubwe.org.za
 0.0.0.0 www.saveporn.net
 0.0.0.0 www.savexnxx.com
+0.0.0.0 www.savitabhabhi.vip
 0.0.0.0 www.sayuncle.com
 0.0.0.0 www.sazka.cz
 0.0.0.0 www.sbc31.com
@@ -73608,6 +73793,7 @@
 0.0.0.0 www.sexywifeporntube.com
 0.0.0.0 www.sexyxxx.biz
 0.0.0.0 www.sexzerian.com
+0.0.0.0 www.sexzindian.com
 0.0.0.0 www.sexzoznamka.eu
 0.0.0.0 www.sf1-1.yobt.com
 0.0.0.0 www.sf1-2.yobt.com
@@ -73988,6 +74174,7 @@
 0.0.0.0 www.spicybigtits.com
 0.0.0.0 www.spicybunnies.com
 0.0.0.0 www.spicyfuck.com
+0.0.0.0 www.spicymilfs.com
 0.0.0.0 www.spicyporntrials.com
 0.0.0.0 www.spicypornvideos.com
 0.0.0.0 www.spicysenoritas.com
@@ -74386,6 +74573,7 @@
 0.0.0.0 www.teen-porn-tube.com
 0.0.0.0 www.teen-porn.biz
 0.0.0.0 www.teen-porno.net
+0.0.0.0 www.teen-pornstar.com
 0.0.0.0 www.teen-pussy-tube.com
 0.0.0.0 www.teen-sex-tv.com
 0.0.0.0 www.teen-sex.tv
@@ -74646,6 +74834,7 @@
 0.0.0.0 www.thebestporn.com
 0.0.0.0 www.thebetarena.com
 0.0.0.0 www.thebikinihut.com
+0.0.0.0 www.theblowers.com
 0.0.0.0 www.thecamdude.com
 0.0.0.0 www.thecartoonporntube.com
 0.0.0.0 www.thechanlist.xyz
@@ -74840,6 +75029,7 @@
 0.0.0.0 www.tmb5trk.com
 0.0.0.0 www.tnaflix.com
 0.0.0.0 www.tnaflix.world
+0.0.0.0 www.tnaflixcams.com
 0.0.0.0 www.tnapics.com
 0.0.0.0 www.to-satsu.com
 0.0.0.0 www.to188xj.com
@@ -74974,6 +75164,7 @@
 0.0.0.0 www.toriblack.mobi
 0.0.0.0 www.torinoerotica.com
 0.0.0.0 www.torontoangels.com
+0.0.0.0 www.torontopassions.com
 0.0.0.0 www.toroporno.com
 0.0.0.0 www.toropt.ru
 0.0.0.0 www.torrent-pirat.com
@@ -75593,6 +75784,7 @@
 0.0.0.0 www.videosx.cam
 0.0.0.0 www.videosx.pro
 0.0.0.0 www.videosxporn.com.es
+0.0.0.0 www.videosxxxputas.xxx
 0.0.0.0 www.videosywebcams.com
 0.0.0.0 www.videosz.com
 0.0.0.0 www.videoszoofiliahd.com
@@ -75709,10 +75901,7 @@
 0.0.0.0 www.vinted.pl-oferta017428.cfd
 0.0.0.0 www.vinted.pl-oferta026427.cfd
 0.0.0.0 www.vinted.pl-oferta026428.cfd
-0.0.0.0 www.vinted.pl-oferta027529.cfd
-0.0.0.0 www.vinted.pl-oferta027539.cfd
 0.0.0.0 www.vinted.pl-oferta029164.sbs
-0.0.0.0 www.vinted.pl-oferta063962.cfd
 0.0.0.0 www.vinted.pl-oferta071647.cfd
 0.0.0.0 www.vinted.pl-oferta093159.cfd
 0.0.0.0 www.vinted.pl-oferta1057522115.com
@@ -75725,13 +75914,12 @@
 0.0.0.0 www.vinted.pl-oferta152394.click
 0.0.0.0 www.vinted.pl-oferta1611892.click
 0.0.0.0 www.vinted.pl-oferta1734129.click
+0.0.0.0 www.vinted.pl-oferta1810837.sbs
 0.0.0.0 www.vinted.pl-oferta1846858.click
 0.0.0.0 www.vinted.pl-oferta184828.sbs
 0.0.0.0 www.vinted.pl-oferta1849230.cfd
-0.0.0.0 www.vinted.pl-oferta2015260-sprzedam-macbook-pro-m1.digital
 0.0.0.0 www.vinted.pl-oferta203043.click
 0.0.0.0 www.vinted.pl-oferta21415509.icu
-0.0.0.0 www.vinted.pl-oferta2198749-apple-macbook-pro-m4.digital
 0.0.0.0 www.vinted.pl-oferta2318251.click
 0.0.0.0 www.vinted.pl-oferta239452.sbs
 0.0.0.0 www.vinted.pl-oferta24345634.sbs
@@ -75739,6 +75927,7 @@
 0.0.0.0 www.vinted.pl-oferta2638282.icu
 0.0.0.0 www.vinted.pl-oferta26424.sbs
 0.0.0.0 www.vinted.pl-oferta2744393.cfd
+0.0.0.0 www.vinted.pl-oferta2746287453.sbs
 0.0.0.0 www.vinted.pl-oferta2746291383.sbs
 0.0.0.0 www.vinted.pl-oferta2746736373836.sbs
 0.0.0.0 www.vinted.pl-oferta2799065.cfd
@@ -75763,6 +75952,7 @@
 0.0.0.0 www.vinted.pl-oferta3648462.click
 0.0.0.0 www.vinted.pl-oferta3648886.cfd
 0.0.0.0 www.vinted.pl-oferta3649562.click
+0.0.0.0 www.vinted.pl-oferta3824401.sbs
 0.0.0.0 www.vinted.pl-oferta3875410.click
 0.0.0.0 www.vinted.pl-oferta3879536.click
 0.0.0.0 www.vinted.pl-oferta41241.sbs
@@ -75778,7 +75968,6 @@
 0.0.0.0 www.vinted.pl-oferta491402.sbs
 0.0.0.0 www.vinted.pl-oferta5006130.click
 0.0.0.0 www.vinted.pl-oferta501278645128412.top
-0.0.0.0 www.vinted.pl-oferta5013582-apple-macbook-pro-m4-24gb.site
 0.0.0.0 www.vinted.pl-oferta5112516.sbs
 0.0.0.0 www.vinted.pl-oferta51551.click
 0.0.0.0 www.vinted.pl-oferta5260026.cfd
@@ -75792,9 +75981,12 @@
 0.0.0.0 www.vinted.pl-oferta567543.sbs
 0.0.0.0 www.vinted.pl-oferta568942.sbs
 0.0.0.0 www.vinted.pl-oferta572429.sbs
+0.0.0.0 www.vinted.pl-oferta5737974.click
 0.0.0.0 www.vinted.pl-oferta57723.click
 0.0.0.0 www.vinted.pl-oferta58294716.icu
 0.0.0.0 www.vinted.pl-oferta58431.sbs
+0.0.0.0 www.vinted.pl-oferta584520.sbs
+0.0.0.0 www.vinted.pl-oferta58934589914.sbs
 0.0.0.0 www.vinted.pl-oferta5894215342.sbs
 0.0.0.0 www.vinted.pl-oferta591210.sbs
 0.0.0.0 www.vinted.pl-oferta59325.sbs
@@ -75821,6 +76013,7 @@
 0.0.0.0 www.vinted.pl-oferta6382746.sbs
 0.0.0.0 www.vinted.pl-oferta6382916.icu
 0.0.0.0 www.vinted.pl-oferta638294.cfd
+0.0.0.0 www.vinted.pl-oferta6383639.click
 0.0.0.0 www.vinted.pl-oferta6383648.click
 0.0.0.0 www.vinted.pl-oferta6384737.click
 0.0.0.0 www.vinted.pl-oferta6392638.click
@@ -75848,6 +76041,9 @@
 0.0.0.0 www.vinted.pl-oferta6785920.lat
 0.0.0.0 www.vinted.pl-oferta6927193.click
 0.0.0.0 www.vinted.pl-oferta69362.cfd
+0.0.0.0 www.vinted.pl-oferta698134.sbs
+0.0.0.0 www.vinted.pl-oferta71421.sbs
+0.0.0.0 www.vinted.pl-oferta7238439.click
 0.0.0.0 www.vinted.pl-oferta72637482.click
 0.0.0.0 www.vinted.pl-oferta73218910.lat
 0.0.0.0 www.vinted.pl-oferta732891.live
@@ -75867,7 +76063,6 @@
 0.0.0.0 www.vinted.pl-oferta7515645.cfd
 0.0.0.0 www.vinted.pl-oferta753396.cfd
 0.0.0.0 www.vinted.pl-oferta7539682.click
-0.0.0.0 www.vinted.pl-oferta754387.bond
 0.0.0.0 www.vinted.pl-oferta7545845.icu
 0.0.0.0 www.vinted.pl-oferta7593576.cfd
 0.0.0.0 www.vinted.pl-oferta763729.click
@@ -75877,6 +76072,8 @@
 0.0.0.0 www.vinted.pl-oferta7739274.cfd
 0.0.0.0 www.vinted.pl-oferta783478.sbs
 0.0.0.0 www.vinted.pl-oferta7960703-sprzedam-macbook-air-m1.sbs
+0.0.0.0 www.vinted.pl-oferta814239.sbs
+0.0.0.0 www.vinted.pl-oferta819129.sbs
 0.0.0.0 www.vinted.pl-oferta819482.cfd
 0.0.0.0 www.vinted.pl-oferta820072.cfd
 0.0.0.0 www.vinted.pl-oferta821936.cfd
@@ -75915,13 +76112,12 @@
 0.0.0.0 www.vinted.pl-oferta937428.cfd
 0.0.0.0 www.vinted.pl-oferta939572.cfd
 0.0.0.0 www.vinted.pl-oferta9404365.cfd
+0.0.0.0 www.vinted.pl-oferta9404366.cfd
 0.0.0.0 www.vinted.pl-oferta94850345.sbs
 0.0.0.0 www.vinted.pl-oferta95394964.click
 0.0.0.0 www.vinted.pl-oferta9578124.sbs
 0.0.0.0 www.vinted.pl-oferta96142379.click
 0.0.0.0 www.vinted.pl-oferta961458.click
-0.0.0.0 www.vinted.pl-oferta9651630-apple-macbook-pro-m4-24gb.pro
-0.0.0.0 www.vinted.pl-oferta9836404.sbs
 0.0.0.0 www.vinted.pl-oferta98549153999.cfd
 0.0.0.0 www.vinted.pl-oferta9932438.sbs
 0.0.0.0 www.vinted.pl-oferta9932456.cfd
@@ -75939,22 +76135,30 @@
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-888232.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-88839.sbs
 0.0.0.0 www.vinted.pl-ogloszenie-firmowe-84762592.click
-0.0.0.0 www.vinted.pl-ogloszenie-id5467234483.cyou
+0.0.0.0 www.vinted.pl-ogloszenie-firmowe-84792192.click
+0.0.0.0 www.vinted.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 www.vinted.pl-ogloszenie298532.sbs
 0.0.0.0 www.vinted.pl-ogloszenie5346722337.click
 0.0.0.0 www.vinted.pl-ogloszenie535699727.click
+0.0.0.0 www.vinted.pl-ogloszenie5432758337.click
 0.0.0.0 www.vinted.pl-ogloszenie5672334572.click
 0.0.0.0 www.vinted.pl-ogloszenie567234492.click
 0.0.0.0 www.vinted.pl-ogloszenie567345669.bond
 0.0.0.0 www.vinted.pl-ogloszenie5678723392.click
 0.0.0.0 www.vinted.pl-ogloszenie5697223437.click
+0.0.0.0 www.vinted.pl-ogloszenie5932678397.click
+0.0.0.0 www.vinted.pl-ogloszenie5934856237.click
+0.0.0.0 www.vinted.pl-ogloszenie5937388292.click
 0.0.0.0 www.vinted.pl-ogloszenie5945337292.bond
+0.0.0.0 www.vinted.pl-ogloszenie5967233473.click
 0.0.0.0 www.vinted.pl-ogloszenie73257804butssch832314789.biz
 0.0.0.0 www.vinted.pl-ogloszenie898124.cyou
 0.0.0.0 www.vinted.pl-ogloszenie917547.sbs
+0.0.0.0 www.vinted.pl-ogloszenie9347235437.click
 0.0.0.0 www.vinted.pl-ogloszenie94128492.sbs
 0.0.0.0 www.vinted.pl-ogloszenie95781242.cyou
 0.0.0.0 www.vinted.pl-ogloszenie958498598.click
+0.0.0.0 www.vinted.pl-ogloszenie9783245612.click
 0.0.0.0 www.vinted.pl-ogloszenie985498231.click
 0.0.0.0 www.vinted.pl-ogloszenie9857316.sbs
 0.0.0.0 www.vintporn.com
@@ -76428,6 +76632,7 @@
 0.0.0.0 www.wifevideos.net
 0.0.0.0 www.wifewantsblackcock.com
 0.0.0.0 www.wifewantstoplay.com
+0.0.0.0 www.wifey.com
 0.0.0.0 www.wifeysworld.ws
 0.0.0.0 www.wikiangela.com
 0.0.0.0 www.wikifeet.com
@@ -76785,6 +76990,7 @@
 0.0.0.0 www.xnxx-porno.com
 0.0.0.0 www.xnxx-pornos.com
 0.0.0.0 www.xnxx-pornos.xxx
+0.0.0.0 www.xnxx-ru.com
 0.0.0.0 www.xnxx-sex.info
 0.0.0.0 www.xnxx-sexfilme.com
 0.0.0.0 www.xnxx-tv.info
@@ -76863,6 +77069,7 @@
 0.0.0.0 www.xnxxii.com
 0.0.0.0 www.xnxxmilf.asia
 0.0.0.0 www.xnxxmommy.com
+0.0.0.0 www.xnxxmovies.com
 0.0.0.0 www.xnxxnetwork.com
 0.0.0.0 www.xnxxorg.de
 0.0.0.0 www.xnxxporn.buzz
@@ -78048,6 +78255,7 @@
 0.0.0.0 www4.javhdporn.net
 0.0.0.0 www4.javxxx.me
 0.0.0.0 www5.chickenhost.com
+0.0.0.0 www5.hentaila.com
 0.0.0.0 www5.javfun.me
 0.0.0.0 www5.javmost.com
 0.0.0.0 www5.javxxx.me
@@ -78344,6 +78552,7 @@
 0.0.0.0 xcopen.com
 0.0.0.0 xcoreclub.com
 0.0.0.0 xcreampieporn.com
+0.0.0.0 xcritic.com
 0.0.0.0 xcum.com
 0.0.0.0 xcums.com
 0.0.0.0 xcumsex.com
@@ -78383,6 +78592,7 @@
 0.0.0.0 xemphimsex.asia
 0.0.0.0 xemphimsex.live
 0.0.0.0 xemphimsex.net
+0.0.0.0 xemphimsex.one
 0.0.0.0 xemphimsex.top
 0.0.0.0 xemphimsex.tv
 0.0.0.0 xemphimsex.vip
@@ -78396,6 +78606,7 @@
 0.0.0.0 xemsex.lol
 0.0.0.0 xemsex.one
 0.0.0.0 xemsex.org
+0.0.0.0 xemsex.pro
 0.0.0.0 xemsex.top
 0.0.0.0 xemsex.vip
 0.0.0.0 xemsex3x.com
@@ -80801,6 +81012,7 @@
 0.0.0.0 xxxerotica.cc
 0.0.0.0 xxxesex.com
 0.0.0.0 xxxevideos.deutschcasting.com
+0.0.0.0 xxxextreme.org
 0.0.0.0 xxxfakesex.net
 0.0.0.0 xxxfarm.top
 0.0.0.0 xxxfat-videos.com
@@ -82605,6 +82817,7 @@
 0.0.0.0 zingyporno.com
 0.0.0.0 zingyporntube.com
 0.0.0.0 zingyporntube.net
+0.0.0.0 ziporn.com
 0.0.0.0 zipporno.com
 0.0.0.0 zishy.com
 0.0.0.0 zitz.ru
