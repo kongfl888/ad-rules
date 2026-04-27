@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-04-23 22:09:01
+# DATE: 2026-04-27 22:26:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41186,7 +41186,6 @@
 0.0.0.0 pkresurs-spb.ru
 0.0.0.0 pkwin1.com
 0.0.0.0 pl-oferta-6930432.click
-0.0.0.0 pl-oferta017429.cfd
 0.0.0.0 pl-oferta027428.click
 0.0.0.0 pl-oferta029625.cfd
 0.0.0.0 pl-oferta0482758.sbs
@@ -41198,7 +41197,6 @@
 0.0.0.0 pl-oferta13950323.sbs
 0.0.0.0 pl-oferta1415252.click
 0.0.0.0 pl-oferta14419714210272196.click
-0.0.0.0 pl-oferta1810837.sbs
 0.0.0.0 pl-oferta2228937.click
 0.0.0.0 pl-oferta2247405.click
 0.0.0.0 pl-oferta2293978.sbs
@@ -41208,7 +41206,6 @@
 0.0.0.0 pl-oferta238218.click
 0.0.0.0 pl-oferta2539303.lol
 0.0.0.0 pl-oferta25757.click
-0.0.0.0 pl-oferta2746287453.sbs
 0.0.0.0 pl-oferta285639.click
 0.0.0.0 pl-oferta2937292929392.sbs
 0.0.0.0 pl-oferta2937392.sbs
@@ -41221,7 +41218,6 @@
 0.0.0.0 pl-oferta34529492.click
 0.0.0.0 pl-oferta35912402.sbs
 0.0.0.0 pl-oferta382023256.cfd
-0.0.0.0 pl-oferta3824401.sbs
 0.0.0.0 pl-oferta39482.click
 0.0.0.0 pl-oferta396021.click
 0.0.0.0 pl-oferta396024.click
@@ -41255,22 +41251,15 @@
 0.0.0.0 pl-oferta5664390.click
 0.0.0.0 pl-oferta56757.click
 0.0.0.0 pl-oferta5722555.click
-0.0.0.0 pl-oferta5737974.click
-0.0.0.0 pl-oferta57859392.cyou
 0.0.0.0 pl-oferta5839069.sbs
 0.0.0.0 pl-oferta584295343.sbs
-0.0.0.0 pl-oferta584375912.sbs
 0.0.0.0 pl-oferta58442135.sbs
 0.0.0.0 pl-oferta586126.cfd
 0.0.0.0 pl-oferta58682.lol
 0.0.0.0 pl-oferta59329512.sbs
 0.0.0.0 pl-oferta59424.sbs
 0.0.0.0 pl-oferta59860123.sbs
-0.0.0.0 pl-oferta627492.cfd
-0.0.0.0 pl-oferta628471.cfd
 0.0.0.0 pl-oferta6301892.click
-0.0.0.0 pl-oferta6383639.click
-0.0.0.0 pl-oferta638373.cfd
 0.0.0.0 pl-oferta64457.click
 0.0.0.0 pl-oferta6514922141.click
 0.0.0.0 pl-oferta67362.click
@@ -41278,7 +41267,6 @@
 0.0.0.0 pl-oferta692145367.sbs
 0.0.0.0 pl-oferta714213151221.sbs
 0.0.0.0 pl-oferta71421351221.sbs
-0.0.0.0 pl-oferta7238439.click
 0.0.0.0 pl-oferta724211.sbs
 0.0.0.0 pl-oferta728524.xyz
 0.0.0.0 pl-oferta7296361.lol
@@ -41286,7 +41274,6 @@
 0.0.0.0 pl-oferta7358277.click
 0.0.0.0 pl-oferta7358929.click
 0.0.0.0 pl-oferta7358973.click
-0.0.0.0 pl-oferta737195.cfd
 0.0.0.0 pl-oferta763248.click
 0.0.0.0 pl-oferta767257.cfd
 0.0.0.0 pl-oferta7742433.online
@@ -41296,14 +41283,9 @@
 0.0.0.0 pl-oferta782356264726.sbs
 0.0.0.0 pl-oferta7837428483.sbs
 0.0.0.0 pl-oferta786812.lol
-0.0.0.0 pl-oferta78687181271.sbs
-0.0.0.0 pl-oferta81347432432.sbs
-0.0.0.0 pl-oferta814239.sbs
-0.0.0.0 pl-oferta819129.sbs
 0.0.0.0 pl-oferta828368162618.lol
 0.0.0.0 pl-oferta829617486.lol
 0.0.0.0 pl-oferta8327549.click
-0.0.0.0 pl-oferta8361.cfd
 0.0.0.0 pl-oferta8432832743.click
 0.0.0.0 pl-oferta847394352.com
 0.0.0.0 pl-oferta849234659.sbs
@@ -41328,20 +41310,16 @@
 0.0.0.0 pl-oferta9262595.click
 0.0.0.0 pl-oferta92636183.lol
 0.0.0.0 pl-oferta927352.online
-0.0.0.0 pl-oferta927428.cfd
 0.0.0.0 pl-oferta927527.click
 0.0.0.0 pl-oferta929625.xyz
 0.0.0.0 pl-oferta9311764.sbs
 0.0.0.0 pl-oferta9342796.sbs
 0.0.0.0 pl-oferta9360428.sbs
-0.0.0.0 pl-oferta9362056.cfd
 0.0.0.0 pl-oferta9372649.cfd
 0.0.0.0 pl-oferta937573.click
-0.0.0.0 pl-oferta9404366.cfd
 0.0.0.0 pl-oferta94138472334.sbs
 0.0.0.0 pl-oferta94185044214.cfd
 0.0.0.0 pl-oferta9573211245.sbs
-0.0.0.0 pl-oferta981523582542.sbs
 0.0.0.0 pl-oferta9825479.cfd
 0.0.0.0 pl-oferta9825479.sbs
 0.0.0.0 pl-oferta9865231.sbs
@@ -41349,12 +41327,9 @@
 0.0.0.0 pl-ogloszenia-frimowe-28318821.click
 0.0.0.0 pl-ogloszenia-frimowe-82388233.click
 0.0.0.0 pl-ogloszenia-frimowe-82388234.click
-0.0.0.0 pl-ogloszenia-frimowe-82388238.click
 0.0.0.0 pl-ogloszenia-frimowe-82388239.click
 0.0.0.0 pl-ogloszenia-frimowe-82388249.click
 0.0.0.0 pl-ogloszenia-frimowe-8328409.click
-0.0.0.0 pl-ogloszenie-firmowe-83681867.click
-0.0.0.0 pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 pl-ogloszenie126354-kompresor.bond
 0.0.0.0 pl-ogloszenie1298510263.click
 0.0.0.0 pl-ogloszenie23984589.click
@@ -41362,7 +41337,6 @@
 0.0.0.0 pl-ogloszenie384192.sbs
 0.0.0.0 pl-ogloszenie512.xyz
 0.0.0.0 pl-ogloszenie683240140.click
-0.0.0.0 pl-ogloszenie7461284839571.sbs
 0.0.0.0 pl-ogloszenie83725.click
 0.0.0.0 pl-shemale.xvideos2.com.se
 0.0.0.0 pl.1cam.webcam
@@ -58162,7 +58136,6 @@
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta-6930432.click
-0.0.0.0 vinted.pl-oferta017429.cfd
 0.0.0.0 vinted.pl-oferta027428.click
 0.0.0.0 vinted.pl-oferta029625.cfd
 0.0.0.0 vinted.pl-oferta0482758.sbs
@@ -58174,7 +58147,6 @@
 0.0.0.0 vinted.pl-oferta13950323.sbs
 0.0.0.0 vinted.pl-oferta1415252.click
 0.0.0.0 vinted.pl-oferta14419714210272196.click
-0.0.0.0 vinted.pl-oferta1810837.sbs
 0.0.0.0 vinted.pl-oferta2228937.click
 0.0.0.0 vinted.pl-oferta2247405.click
 0.0.0.0 vinted.pl-oferta2293978.sbs
@@ -58183,7 +58155,6 @@
 0.0.0.0 vinted.pl-oferta238218.click
 0.0.0.0 vinted.pl-oferta2539303.lol
 0.0.0.0 vinted.pl-oferta25757.click
-0.0.0.0 vinted.pl-oferta2746287453.sbs
 0.0.0.0 vinted.pl-oferta285639.click
 0.0.0.0 vinted.pl-oferta2937292929392.sbs
 0.0.0.0 vinted.pl-oferta2937392.sbs
@@ -58195,7 +58166,6 @@
 0.0.0.0 vinted.pl-oferta34529492.click
 0.0.0.0 vinted.pl-oferta35912402.sbs
 0.0.0.0 vinted.pl-oferta382023256.cfd
-0.0.0.0 vinted.pl-oferta3824401.sbs
 0.0.0.0 vinted.pl-oferta39482.click
 0.0.0.0 vinted.pl-oferta396021.click
 0.0.0.0 vinted.pl-oferta396024.click
@@ -58228,18 +58198,12 @@
 0.0.0.0 vinted.pl-oferta5664390.click
 0.0.0.0 vinted.pl-oferta56757.click
 0.0.0.0 vinted.pl-oferta5722555.click
-0.0.0.0 vinted.pl-oferta5737974.click
 0.0.0.0 vinted.pl-oferta5839069.sbs
 0.0.0.0 vinted.pl-oferta584295343.sbs
-0.0.0.0 vinted.pl-oferta584375912.sbs
 0.0.0.0 vinted.pl-oferta58442135.sbs
 0.0.0.0 vinted.pl-oferta59329512.sbs
 0.0.0.0 vinted.pl-oferta59860123.sbs
-0.0.0.0 vinted.pl-oferta627492.cfd
-0.0.0.0 vinted.pl-oferta628471.cfd
 0.0.0.0 vinted.pl-oferta6301892.click
-0.0.0.0 vinted.pl-oferta6383639.click
-0.0.0.0 vinted.pl-oferta638373.cfd
 0.0.0.0 vinted.pl-oferta64457.click
 0.0.0.0 vinted.pl-oferta6514922141.click
 0.0.0.0 vinted.pl-oferta67362.click
@@ -58247,7 +58211,6 @@
 0.0.0.0 vinted.pl-oferta692145367.sbs
 0.0.0.0 vinted.pl-oferta714213151221.sbs
 0.0.0.0 vinted.pl-oferta71421351221.sbs
-0.0.0.0 vinted.pl-oferta7238439.click
 0.0.0.0 vinted.pl-oferta724211.sbs
 0.0.0.0 vinted.pl-oferta728524.xyz
 0.0.0.0 vinted.pl-oferta7296361.lol
@@ -58255,7 +58218,6 @@
 0.0.0.0 vinted.pl-oferta7358277.click
 0.0.0.0 vinted.pl-oferta7358929.click
 0.0.0.0 vinted.pl-oferta7358973.click
-0.0.0.0 vinted.pl-oferta737195.cfd
 0.0.0.0 vinted.pl-oferta763248.click
 0.0.0.0 vinted.pl-oferta767257.cfd
 0.0.0.0 vinted.pl-oferta7742433.online
@@ -58264,9 +58226,6 @@
 0.0.0.0 vinted.pl-oferta78217842.sbs
 0.0.0.0 vinted.pl-oferta782356264726.sbs
 0.0.0.0 vinted.pl-oferta7837428483.sbs
-0.0.0.0 vinted.pl-oferta81347432432.sbs
-0.0.0.0 vinted.pl-oferta814239.sbs
-0.0.0.0 vinted.pl-oferta819129.sbs
 0.0.0.0 vinted.pl-oferta828368162618.lol
 0.0.0.0 vinted.pl-oferta829617486.lol
 0.0.0.0 vinted.pl-oferta8327549.click
@@ -58287,20 +58246,16 @@
 0.0.0.0 vinted.pl-oferta9262595.click
 0.0.0.0 vinted.pl-oferta92636183.lol
 0.0.0.0 vinted.pl-oferta927352.online
-0.0.0.0 vinted.pl-oferta927428.cfd
 0.0.0.0 vinted.pl-oferta927527.click
 0.0.0.0 vinted.pl-oferta929625.xyz
 0.0.0.0 vinted.pl-oferta9311764.sbs
 0.0.0.0 vinted.pl-oferta9342796.sbs
 0.0.0.0 vinted.pl-oferta9360428.sbs
-0.0.0.0 vinted.pl-oferta9362056.cfd
 0.0.0.0 vinted.pl-oferta9372649.cfd
 0.0.0.0 vinted.pl-oferta937573.click
-0.0.0.0 vinted.pl-oferta9404366.cfd
 0.0.0.0 vinted.pl-oferta94138472334.sbs
 0.0.0.0 vinted.pl-oferta94185044214.cfd
 0.0.0.0 vinted.pl-oferta9573211245.sbs
-0.0.0.0 vinted.pl-oferta981523582542.sbs
 0.0.0.0 vinted.pl-oferta9825479.cfd
 0.0.0.0 vinted.pl-oferta9825479.sbs
 0.0.0.0 vinted.pl-oferta9865231.sbs
@@ -58308,12 +58263,9 @@
 0.0.0.0 vinted.pl-ogloszenia-frimowe-28318821.click
 0.0.0.0 vinted.pl-ogloszenia-frimowe-82388233.click
 0.0.0.0 vinted.pl-ogloszenia-frimowe-82388234.click
-0.0.0.0 vinted.pl-ogloszenia-frimowe-82388238.click
 0.0.0.0 vinted.pl-ogloszenia-frimowe-82388239.click
 0.0.0.0 vinted.pl-ogloszenia-frimowe-82388249.click
 0.0.0.0 vinted.pl-ogloszenia-frimowe-8328409.click
-0.0.0.0 vinted.pl-ogloszenie-firmowe-83681867.click
-0.0.0.0 vinted.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 vinted.pl-ogloszenie126354-kompresor.bond
 0.0.0.0 vinted.pl-ogloszenie1298510263.click
 0.0.0.0 vinted.pl-ogloszenie23984589.click
@@ -58321,7 +58273,6 @@
 0.0.0.0 vinted.pl-ogloszenie384192.sbs
 0.0.0.0 vinted.pl-ogloszenie512.xyz
 0.0.0.0 vinted.pl-ogloszenie683240140.click
-0.0.0.0 vinted.pl-ogloszenie7461284839571.sbs
 0.0.0.0 vinted.pl-ogloszenie83725.click
 0.0.0.0 vinted.pl-ogloszenie8598192.click
 0.0.0.0 vinted.pl-ogloszenie895812.sbs
@@ -70883,7 +70834,6 @@
 0.0.0.0 www.pixytube.com
 0.0.0.0 www.pk5.net
 0.0.0.0 www.pl-oferta-6930432.click
-0.0.0.0 www.pl-oferta017429.cfd
 0.0.0.0 www.pl-oferta027428.click
 0.0.0.0 www.pl-oferta029625.cfd
 0.0.0.0 www.pl-oferta0482758.sbs
@@ -70895,7 +70845,6 @@
 0.0.0.0 www.pl-oferta13950323.sbs
 0.0.0.0 www.pl-oferta1415252.click
 0.0.0.0 www.pl-oferta14419714210272196.click
-0.0.0.0 www.pl-oferta1810837.sbs
 0.0.0.0 www.pl-oferta2228937.click
 0.0.0.0 www.pl-oferta2247405.click
 0.0.0.0 www.pl-oferta2293978.sbs
@@ -70905,7 +70854,6 @@
 0.0.0.0 www.pl-oferta238218.click
 0.0.0.0 www.pl-oferta2539303.lol
 0.0.0.0 www.pl-oferta25757.click
-0.0.0.0 www.pl-oferta2746287453.sbs
 0.0.0.0 www.pl-oferta285639.click
 0.0.0.0 www.pl-oferta2937292929392.sbs
 0.0.0.0 www.pl-oferta2937392.sbs
@@ -70918,7 +70866,6 @@
 0.0.0.0 www.pl-oferta34529492.click
 0.0.0.0 www.pl-oferta35912402.sbs
 0.0.0.0 www.pl-oferta382023256.cfd
-0.0.0.0 www.pl-oferta3824401.sbs
 0.0.0.0 www.pl-oferta39482.click
 0.0.0.0 www.pl-oferta396021.click
 0.0.0.0 www.pl-oferta396024.click
@@ -70952,22 +70899,15 @@
 0.0.0.0 www.pl-oferta5664390.click
 0.0.0.0 www.pl-oferta56757.click
 0.0.0.0 www.pl-oferta5722555.click
-0.0.0.0 www.pl-oferta5737974.click
-0.0.0.0 www.pl-oferta57859392.cyou
 0.0.0.0 www.pl-oferta5839069.sbs
 0.0.0.0 www.pl-oferta584295343.sbs
-0.0.0.0 www.pl-oferta584375912.sbs
 0.0.0.0 www.pl-oferta58442135.sbs
 0.0.0.0 www.pl-oferta586126.cfd
 0.0.0.0 www.pl-oferta58682.lol
 0.0.0.0 www.pl-oferta59329512.sbs
 0.0.0.0 www.pl-oferta59424.sbs
 0.0.0.0 www.pl-oferta59860123.sbs
-0.0.0.0 www.pl-oferta627492.cfd
-0.0.0.0 www.pl-oferta628471.cfd
 0.0.0.0 www.pl-oferta6301892.click
-0.0.0.0 www.pl-oferta6383639.click
-0.0.0.0 www.pl-oferta638373.cfd
 0.0.0.0 www.pl-oferta64457.click
 0.0.0.0 www.pl-oferta6514922141.click
 0.0.0.0 www.pl-oferta67362.click
@@ -70975,7 +70915,6 @@
 0.0.0.0 www.pl-oferta692145367.sbs
 0.0.0.0 www.pl-oferta714213151221.sbs
 0.0.0.0 www.pl-oferta71421351221.sbs
-0.0.0.0 www.pl-oferta7238439.click
 0.0.0.0 www.pl-oferta724211.sbs
 0.0.0.0 www.pl-oferta728524.xyz
 0.0.0.0 www.pl-oferta7296361.lol
@@ -70983,7 +70922,6 @@
 0.0.0.0 www.pl-oferta7358277.click
 0.0.0.0 www.pl-oferta7358929.click
 0.0.0.0 www.pl-oferta7358973.click
-0.0.0.0 www.pl-oferta737195.cfd
 0.0.0.0 www.pl-oferta763248.click
 0.0.0.0 www.pl-oferta767257.cfd
 0.0.0.0 www.pl-oferta7742433.online
@@ -70993,14 +70931,9 @@
 0.0.0.0 www.pl-oferta782356264726.sbs
 0.0.0.0 www.pl-oferta7837428483.sbs
 0.0.0.0 www.pl-oferta786812.lol
-0.0.0.0 www.pl-oferta78687181271.sbs
-0.0.0.0 www.pl-oferta81347432432.sbs
-0.0.0.0 www.pl-oferta814239.sbs
-0.0.0.0 www.pl-oferta819129.sbs
 0.0.0.0 www.pl-oferta828368162618.lol
 0.0.0.0 www.pl-oferta829617486.lol
 0.0.0.0 www.pl-oferta8327549.click
-0.0.0.0 www.pl-oferta8361.cfd
 0.0.0.0 www.pl-oferta8432832743.click
 0.0.0.0 www.pl-oferta847394352.com
 0.0.0.0 www.pl-oferta849234659.sbs
@@ -71025,20 +70958,16 @@
 0.0.0.0 www.pl-oferta9262595.click
 0.0.0.0 www.pl-oferta92636183.lol
 0.0.0.0 www.pl-oferta927352.online
-0.0.0.0 www.pl-oferta927428.cfd
 0.0.0.0 www.pl-oferta927527.click
 0.0.0.0 www.pl-oferta929625.xyz
 0.0.0.0 www.pl-oferta9311764.sbs
 0.0.0.0 www.pl-oferta9342796.sbs
 0.0.0.0 www.pl-oferta9360428.sbs
-0.0.0.0 www.pl-oferta9362056.cfd
 0.0.0.0 www.pl-oferta9372649.cfd
 0.0.0.0 www.pl-oferta937573.click
-0.0.0.0 www.pl-oferta9404366.cfd
 0.0.0.0 www.pl-oferta94138472334.sbs
 0.0.0.0 www.pl-oferta94185044214.cfd
 0.0.0.0 www.pl-oferta9573211245.sbs
-0.0.0.0 www.pl-oferta981523582542.sbs
 0.0.0.0 www.pl-oferta9825479.cfd
 0.0.0.0 www.pl-oferta9825479.sbs
 0.0.0.0 www.pl-oferta9865231.sbs
@@ -71046,12 +70975,9 @@
 0.0.0.0 www.pl-ogloszenia-frimowe-28318821.click
 0.0.0.0 www.pl-ogloszenia-frimowe-82388233.click
 0.0.0.0 www.pl-ogloszenia-frimowe-82388234.click
-0.0.0.0 www.pl-ogloszenia-frimowe-82388238.click
 0.0.0.0 www.pl-ogloszenia-frimowe-82388239.click
 0.0.0.0 www.pl-ogloszenia-frimowe-82388249.click
 0.0.0.0 www.pl-ogloszenia-frimowe-8328409.click
-0.0.0.0 www.pl-ogloszenie-firmowe-83681867.click
-0.0.0.0 www.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 www.pl-ogloszenie126354-kompresor.bond
 0.0.0.0 www.pl-ogloszenie1298510263.click
 0.0.0.0 www.pl-ogloszenie23984589.click
@@ -71059,7 +70985,6 @@
 0.0.0.0 www.pl-ogloszenie384192.sbs
 0.0.0.0 www.pl-ogloszenie512.xyz
 0.0.0.0 www.pl-ogloszenie683240140.click
-0.0.0.0 www.pl-ogloszenie7461284839571.sbs
 0.0.0.0 www.pl-ogloszenie83725.click
 0.0.0.0 www.planet-katie.info
 0.0.0.0 www.planetclimax.com
@@ -75648,7 +75573,6 @@
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta-6930432.click
-0.0.0.0 www.vinted.pl-oferta017429.cfd
 0.0.0.0 www.vinted.pl-oferta027428.click
 0.0.0.0 www.vinted.pl-oferta029625.cfd
 0.0.0.0 www.vinted.pl-oferta0482758.sbs
@@ -75660,7 +75584,6 @@
 0.0.0.0 www.vinted.pl-oferta13950323.sbs
 0.0.0.0 www.vinted.pl-oferta1415252.click
 0.0.0.0 www.vinted.pl-oferta14419714210272196.click
-0.0.0.0 www.vinted.pl-oferta1810837.sbs
 0.0.0.0 www.vinted.pl-oferta2228937.click
 0.0.0.0 www.vinted.pl-oferta2247405.click
 0.0.0.0 www.vinted.pl-oferta2293978.sbs
@@ -75669,7 +75592,6 @@
 0.0.0.0 www.vinted.pl-oferta238218.click
 0.0.0.0 www.vinted.pl-oferta2539303.lol
 0.0.0.0 www.vinted.pl-oferta25757.click
-0.0.0.0 www.vinted.pl-oferta2746287453.sbs
 0.0.0.0 www.vinted.pl-oferta285639.click
 0.0.0.0 www.vinted.pl-oferta2937292929392.sbs
 0.0.0.0 www.vinted.pl-oferta2937392.sbs
@@ -75681,7 +75603,6 @@
 0.0.0.0 www.vinted.pl-oferta34529492.click
 0.0.0.0 www.vinted.pl-oferta35912402.sbs
 0.0.0.0 www.vinted.pl-oferta382023256.cfd
-0.0.0.0 www.vinted.pl-oferta3824401.sbs
 0.0.0.0 www.vinted.pl-oferta39482.click
 0.0.0.0 www.vinted.pl-oferta396021.click
 0.0.0.0 www.vinted.pl-oferta396024.click
@@ -75714,18 +75635,12 @@
 0.0.0.0 www.vinted.pl-oferta5664390.click
 0.0.0.0 www.vinted.pl-oferta56757.click
 0.0.0.0 www.vinted.pl-oferta5722555.click
-0.0.0.0 www.vinted.pl-oferta5737974.click
 0.0.0.0 www.vinted.pl-oferta5839069.sbs
 0.0.0.0 www.vinted.pl-oferta584295343.sbs
-0.0.0.0 www.vinted.pl-oferta584375912.sbs
 0.0.0.0 www.vinted.pl-oferta58442135.sbs
 0.0.0.0 www.vinted.pl-oferta59329512.sbs
 0.0.0.0 www.vinted.pl-oferta59860123.sbs
-0.0.0.0 www.vinted.pl-oferta627492.cfd
-0.0.0.0 www.vinted.pl-oferta628471.cfd
 0.0.0.0 www.vinted.pl-oferta6301892.click
-0.0.0.0 www.vinted.pl-oferta6383639.click
-0.0.0.0 www.vinted.pl-oferta638373.cfd
 0.0.0.0 www.vinted.pl-oferta64457.click
 0.0.0.0 www.vinted.pl-oferta6514922141.click
 0.0.0.0 www.vinted.pl-oferta67362.click
@@ -75733,7 +75648,6 @@
 0.0.0.0 www.vinted.pl-oferta692145367.sbs
 0.0.0.0 www.vinted.pl-oferta714213151221.sbs
 0.0.0.0 www.vinted.pl-oferta71421351221.sbs
-0.0.0.0 www.vinted.pl-oferta7238439.click
 0.0.0.0 www.vinted.pl-oferta724211.sbs
 0.0.0.0 www.vinted.pl-oferta728524.xyz
 0.0.0.0 www.vinted.pl-oferta7296361.lol
@@ -75741,7 +75655,6 @@
 0.0.0.0 www.vinted.pl-oferta7358277.click
 0.0.0.0 www.vinted.pl-oferta7358929.click
 0.0.0.0 www.vinted.pl-oferta7358973.click
-0.0.0.0 www.vinted.pl-oferta737195.cfd
 0.0.0.0 www.vinted.pl-oferta763248.click
 0.0.0.0 www.vinted.pl-oferta767257.cfd
 0.0.0.0 www.vinted.pl-oferta7742433.online
@@ -75750,9 +75663,6 @@
 0.0.0.0 www.vinted.pl-oferta78217842.sbs
 0.0.0.0 www.vinted.pl-oferta782356264726.sbs
 0.0.0.0 www.vinted.pl-oferta7837428483.sbs
-0.0.0.0 www.vinted.pl-oferta81347432432.sbs
-0.0.0.0 www.vinted.pl-oferta814239.sbs
-0.0.0.0 www.vinted.pl-oferta819129.sbs
 0.0.0.0 www.vinted.pl-oferta828368162618.lol
 0.0.0.0 www.vinted.pl-oferta829617486.lol
 0.0.0.0 www.vinted.pl-oferta8327549.click
@@ -75773,20 +75683,16 @@
 0.0.0.0 www.vinted.pl-oferta9262595.click
 0.0.0.0 www.vinted.pl-oferta92636183.lol
 0.0.0.0 www.vinted.pl-oferta927352.online
-0.0.0.0 www.vinted.pl-oferta927428.cfd
 0.0.0.0 www.vinted.pl-oferta927527.click
 0.0.0.0 www.vinted.pl-oferta929625.xyz
 0.0.0.0 www.vinted.pl-oferta9311764.sbs
 0.0.0.0 www.vinted.pl-oferta9342796.sbs
 0.0.0.0 www.vinted.pl-oferta9360428.sbs
-0.0.0.0 www.vinted.pl-oferta9362056.cfd
 0.0.0.0 www.vinted.pl-oferta9372649.cfd
 0.0.0.0 www.vinted.pl-oferta937573.click
-0.0.0.0 www.vinted.pl-oferta9404366.cfd
 0.0.0.0 www.vinted.pl-oferta94138472334.sbs
 0.0.0.0 www.vinted.pl-oferta94185044214.cfd
 0.0.0.0 www.vinted.pl-oferta9573211245.sbs
-0.0.0.0 www.vinted.pl-oferta981523582542.sbs
 0.0.0.0 www.vinted.pl-oferta9825479.cfd
 0.0.0.0 www.vinted.pl-oferta9825479.sbs
 0.0.0.0 www.vinted.pl-oferta9865231.sbs
@@ -75794,12 +75700,9 @@
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-28318821.click
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-82388233.click
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-82388234.click
-0.0.0.0 www.vinted.pl-ogloszenia-frimowe-82388238.click
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-82388239.click
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-82388249.click
 0.0.0.0 www.vinted.pl-ogloszenia-frimowe-8328409.click
-0.0.0.0 www.vinted.pl-ogloszenie-firmowe-83681867.click
-0.0.0.0 www.vinted.pl-ogloszenie-firmowe-86231867.click
 0.0.0.0 www.vinted.pl-ogloszenie126354-kompresor.bond
 0.0.0.0 www.vinted.pl-ogloszenie1298510263.click
 0.0.0.0 www.vinted.pl-ogloszenie23984589.click
@@ -75807,7 +75710,6 @@
 0.0.0.0 www.vinted.pl-ogloszenie384192.sbs
 0.0.0.0 www.vinted.pl-ogloszenie512.xyz
 0.0.0.0 www.vinted.pl-ogloszenie683240140.click
-0.0.0.0 www.vinted.pl-ogloszenie7461284839571.sbs
 0.0.0.0 www.vinted.pl-ogloszenie83725.click
 0.0.0.0 www.vinted.pl-ogloszenie8598192.click
 0.0.0.0 www.vinted.pl-ogloszenie895812.sbs
