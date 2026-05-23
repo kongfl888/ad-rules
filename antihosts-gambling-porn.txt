@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-05-20 22:53:19
+# DATE: 2026-05-23 22:26:04
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -331,6 +331,7 @@
 0.0.0.0 18vietnam.com
 0.0.0.0 18virginsex.com
 0.0.0.0 18vr.com
+0.0.0.0 18win.net
 0.0.0.0 18xxx.mobi
 0.0.0.0 18xxx.name
 0.0.0.0 18xxx.pro
@@ -1251,6 +1252,8 @@
 0.0.0.0 88bong.net
 0.0.0.0 88cado.com
 0.0.0.0 88cado.net
+0.0.0.0 88clb.app
+0.0.0.0 88clb.fit
 0.0.0.0 88cum.com
 0.0.0.0 88fuck.com
 0.0.0.0 88gals.com
@@ -1525,8 +1528,12 @@
 0.0.0.0 abbygirlz.com
 0.0.0.0 abbywinters.com
 0.0.0.0 abc001.cc
+0.0.0.0 abc8.cm
+0.0.0.0 abc8.cv
 0.0.0.0 abcherbs.ru
 0.0.0.0 abcislands.ag
+0.0.0.0 abcvip.com
+0.0.0.0 abcvip.in
 0.0.0.0 abdsmporn.com
 0.0.0.0 abdulaporn.info
 0.0.0.0 abdulaporno.com
@@ -12575,6 +12582,7 @@
 0.0.0.0 d06.cdn3x.com
 0.0.0.0 d1.dabet.club
 0.0.0.0 d1.debet.cx
+0.0.0.0 d1.debet.gd
 0.0.0.0 d1.debet.gs
 0.0.0.0 d1.debet.info
 0.0.0.0 d1.debet.lc
@@ -13422,6 +13430,7 @@
 0.0.0.0 debet.cx
 0.0.0.0 debet.fan
 0.0.0.0 debet.fun
+0.0.0.0 debet.gd
 0.0.0.0 debet.gs
 0.0.0.0 debet.info
 0.0.0.0 debet.lc
@@ -16354,6 +16363,7 @@
 0.0.0.0 fa.videosxx.info
 0.0.0.0 fa.zhestko.xyz
 0.0.0.0 fa2.tamilma.com
+0.0.0.0 fa88.tel
 0.0.0.0 fa88.tv
 0.0.0.0 fa88.win
 0.0.0.0 fa88vn.live
@@ -17504,6 +17514,7 @@
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
 0.0.0.0 five88.in
+0.0.0.0 five88.lc
 0.0.0.0 five88.net
 0.0.0.0 five88.sale
 0.0.0.0 five88.show
@@ -20296,6 +20307,7 @@
 0.0.0.0 gem88.win
 0.0.0.0 gemidos.tv
 0.0.0.0 gemmeporn.com
+0.0.0.0 gemwin.fm
 0.0.0.0 gemwin.is
 0.0.0.0 gemwin.my
 0.0.0.0 gemwin.page
@@ -22943,6 +22955,7 @@
 0.0.0.0 hitclub.lc
 0.0.0.0 hitclub.lt
 0.0.0.0 hitclub.lv
+0.0.0.0 hitclub.pl
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.si
@@ -36919,6 +36932,7 @@
 0.0.0.0 nhatvip.mobi
 0.0.0.0 nhatvip.moi
 0.0.0.0 nhatvip.us
+0.0.0.0 nhatvip.vin
 0.0.0.0 nhatvip.vip
 0.0.0.0 nhentai-xxx.zproxy.org
 0.0.0.0 nhentai.app
@@ -38161,6 +38175,7 @@
 0.0.0.0 ok.porn
 0.0.0.0 ok.theporn.house
 0.0.0.0 ok.xxx
+0.0.0.0 ok365.org
 0.0.0.0 okaybbs.com
 0.0.0.0 okazurand.net
 0.0.0.0 okcado.com
@@ -38654,6 +38669,7 @@
 0.0.0.0 opalovani-opaleni.novyinternetovyobchod.cz
 0.0.0.0 opap.gr
 0.0.0.0 opcrates.com
+0.0.0.0 open88.com
 0.0.0.0 openerotic.co.uk
 0.0.0.0 openerotic.fr
 0.0.0.0 openerotik.com
@@ -41206,8 +41222,6 @@
 0.0.0.0 pl-oferta-0394.shop
 0.0.0.0 pl-oferta-543383.shop
 0.0.0.0 pl-oferta-88291.click
-0.0.0.0 pl-oferta2356236.sbs
-0.0.0.0 pl-oferta3425623.lol
 0.0.0.0 pl-oferta4582753.lol
 0.0.0.0 pl-oferta543321.lol
 0.0.0.0 pl-oferta8392653875173.cfd
@@ -41352,6 +41366,7 @@
 0.0.0.0 play.bum3.club
 0.0.0.0 play.daomo.club
 0.0.0.0 play.doodlink.info
+0.0.0.0 play.fa88.tel
 0.0.0.0 play.fa88.win
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
@@ -41364,6 +41379,7 @@
 0.0.0.0 play.iwin.bio
 0.0.0.0 play.lo88.live
 0.0.0.0 play.okvip.fun
+0.0.0.0 play.ricwin.pw
 0.0.0.0 play.rik88.life
 0.0.0.0 play.rikvip.info
 0.0.0.0 play.rikvip.tv
@@ -41377,6 +41393,7 @@
 0.0.0.0 play.top88.uk
 0.0.0.0 play.top88.us
 0.0.0.0 play.top88.vn
+0.0.0.0 play.top88.voto
 0.0.0.0 play.topclub.casa
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
@@ -41384,6 +41401,7 @@
 0.0.0.0 play.win79.vip
 0.0.0.0 play.win79d.com
 0.0.0.0 play.x8.club
+0.0.0.0 play.x8.fit
 0.0.0.0 play.x8vn.top
 0.0.0.0 play.xocdia88.video
 0.0.0.0 play.yatarab.com
@@ -46754,6 +46772,7 @@
 0.0.0.0 richgun.com
 0.0.0.0 richporn.com
 0.0.0.0 rickysroom.com
+0.0.0.0 ricwin.pw
 0.0.0.0 rideyourcamels.info
 0.0.0.0 ridika.com
 0.0.0.0 ridtube.me
@@ -47555,6 +47574,7 @@
 0.0.0.0 s3.rule34video.com
 0.0.0.0 s3.sextflirt.com
 0.0.0.0 s3.sin88.ms
+0.0.0.0 s3.sin88.si
 0.0.0.0 s3.sin88.sx
 0.0.0.0 s3.sin88.tw
 0.0.0.0 s3.trafficdeposit.com
@@ -50369,6 +50389,7 @@
 0.0.0.0 sin88.mobi
 0.0.0.0 sin88.ms
 0.0.0.0 sin88.mx
+0.0.0.0 sin88.si
 0.0.0.0 sin88.sx
 0.0.0.0 sin88.tw
 0.0.0.0 sin88.uk
@@ -50487,6 +50508,7 @@
 0.0.0.0 sk.bongacams.com
 0.0.0.0 sk.bongacams.org
 0.0.0.0 sk.debet.cx
+0.0.0.0 sk.debet.gd
 0.0.0.0 sk.debet.gs
 0.0.0.0 sk.debet.lc
 0.0.0.0 sk.debet.vg
@@ -50494,6 +50516,7 @@
 0.0.0.0 sk.hot-live-sex-shows.com
 0.0.0.0 sk.sex4k.cam
 0.0.0.0 sk.sin88.ms
+0.0.0.0 sk.sin88.si
 0.0.0.0 sk.sin88.tw
 0.0.0.0 sk.tin88.bet
 0.0.0.0 sk.tin88.club
@@ -50503,6 +50526,7 @@
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.fun
+0.0.0.0 sk.zbet.ws
 0.0.0.0 skachatporno-7.com
 0.0.0.0 skbiotech.ru
 0.0.0.0 skbj.tv
@@ -52057,6 +52081,7 @@
 0.0.0.0 sv66vip6.com
 0.0.0.0 sv7.mypornvid.fun
 0.0.0.0 sv8.mypornvid.fun
+0.0.0.0 sv88.ae
 0.0.0.0 sv88.club
 0.0.0.0 sv88.com
 0.0.0.0 sv88.in
@@ -54682,6 +54707,7 @@
 0.0.0.0 top88.us
 0.0.0.0 top88.vip
 0.0.0.0 top88.vn
+0.0.0.0 top88.voto
 0.0.0.0 topadult.ro
 0.0.0.0 topadult10.com
 0.0.0.0 topadultsites.xyz
@@ -56222,6 +56248,8 @@
 0.0.0.0 u1zga.letsporn.com
 0.0.0.0 u2-119191a.camvideos.tv
 0.0.0.0 u3.freeporno.xxx
+0.0.0.0 u888.cc
+0.0.0.0 u888.id
 0.0.0.0 u8dc2b.camvideos.tv
 0.0.0.0 u9a9.org
 0.0.0.0 ua-pornhub.com
@@ -57162,6 +57190,7 @@
 0.0.0.0 vibratory.net
 0.0.0.0 vibrogame.com
 0.0.0.0 vibrolandia.com
+0.0.0.0 vic.doctor
 0.0.0.0 vic.hair
 0.0.0.0 vic.win
 0.0.0.0 vic88.com
@@ -58474,6 +58503,7 @@
 0.0.0.0 vlzz.net
 0.0.0.0 vmilfporn.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.abcvip.in
 0.0.0.0 vn.app
 0.0.0.0 vn.gaimup.net
 0.0.0.0 vn.ku6101.net
@@ -59126,6 +59156,7 @@
 0.0.0.0 web.win79.moi
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.ml
+0.0.0.0 web.yo88.so
 0.0.0.0 web.yo88.tv
 0.0.0.0 web.zowin.tv
 0.0.0.0 web2sex.com
@@ -70592,8 +70623,6 @@
 0.0.0.0 www.pl-oferta-0394.shop
 0.0.0.0 www.pl-oferta-543383.shop
 0.0.0.0 www.pl-oferta-88291.click
-0.0.0.0 www.pl-oferta2356236.sbs
-0.0.0.0 www.pl-oferta3425623.lol
 0.0.0.0 www.pl-oferta4582753.lol
 0.0.0.0 www.pl-oferta543321.lol
 0.0.0.0 www.pl-oferta8392653875173.cfd
@@ -77464,6 +77493,7 @@
 0.0.0.0 x7324.com
 0.0.0.0 x748.2f20.com
 0.0.0.0 x8.club
+0.0.0.0 x8.fit
 0.0.0.0 x8.games
 0.0.0.0 x8.mobi
 0.0.0.0 x88.com
@@ -81187,6 +81217,7 @@
 0.0.0.0 yo88.is
 0.0.0.0 yo88.ml
 0.0.0.0 yo88.pw
+0.0.0.0 yo88.so
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.win
 0.0.0.0 yo88vn.com
@@ -81750,6 +81781,7 @@
 0.0.0.0 z00.rocks
 0.0.0.0 z00.world
 0.0.0.0 z1.zbet.tv
+0.0.0.0 z1.zbet.ws
 0.0.0.0 z88.one
 0.0.0.0 za3ror.com
 0.0.0.0 zaad-slikken.be
@@ -81775,9 +81807,11 @@
 0.0.0.0 zbavsatoho.sk
 0.0.0.0 zbbwtube.com
 0.0.0.0 zbet.com
+0.0.0.0 zbet.dev
 0.0.0.0 zbet.fun
 0.0.0.0 zbet.me
 0.0.0.0 zbet.tv
+0.0.0.0 zbet.ws
 0.0.0.0 zbgalleries.com
 0.0.0.0 zblackporn.com
 0.0.0.0 zbokepy.online
@@ -82008,6 +82042,7 @@
 0.0.0.0 zowin.bh
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
+0.0.0.0 zowin.ng
 0.0.0.0 zowin.red
 0.0.0.0 zowin.sh
 0.0.0.0 zowin.sx
