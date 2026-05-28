@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-05-23 22:26:04
+# DATE: 2026-05-28 22:53:04
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -3760,6 +3760,7 @@
 0.0.0.0 api.pornhub.com
 0.0.0.0 api.red88.club
 0.0.0.0 api.red88.com
+0.0.0.0 api.red88.ml
 0.0.0.0 api.red88.vip
 0.0.0.0 api.redgifs.com
 0.0.0.0 api.rule34.xxx
@@ -12349,6 +12350,7 @@
 0.0.0.0 cumswappingsis.com
 0.0.0.0 cumteenporn.com
 0.0.0.0 cuncam.com
+0.0.0.0 cungv9choi.com
 0.0.0.0 cuntbustingtube.com
 0.0.0.0 cuntcam.club
 0.0.0.0 cuntdump.com
@@ -17513,6 +17515,7 @@
 0.0.0.0 five-88.link
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
+0.0.0.0 five88.id
 0.0.0.0 five88.in
 0.0.0.0 five88.lc
 0.0.0.0 five88.net
@@ -32963,6 +32966,7 @@
 0.0.0.0 m1.mir-porno.life
 0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
+0.0.0.0 m1.vin88.pw
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
 0.0.0.0 m1.xibet.fun
@@ -46373,6 +46377,7 @@
 0.0.0.0 red.xxx
 0.0.0.0 red88.club
 0.0.0.0 red88.com
+0.0.0.0 red88.ml
 0.0.0.0 red88.top
 0.0.0.0 red88.tv
 0.0.0.0 red88.us
@@ -50522,6 +50527,7 @@
 0.0.0.0 sk.tin88.club
 0.0.0.0 sk.tin88.in
 0.0.0.0 sk.vin88.net
+0.0.0.0 sk.vin88.pw
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
@@ -50803,6 +50809,7 @@
 0.0.0.0 sock.nbet.vin
 0.0.0.0 sock.red88.club
 0.0.0.0 sock.red88.com
+0.0.0.0 sock.red88.ml
 0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
@@ -56193,6 +56200,7 @@
 0.0.0.0 tx88.in
 0.0.0.0 tx88.ing
 0.0.0.0 tx88.llc
+0.0.0.0 tx88.onl
 0.0.0.0 tx88.top
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
@@ -57945,6 +57953,7 @@
 0.0.0.0 vin88.com
 0.0.0.0 vin88.moi
 0.0.0.0 vin88.net
+0.0.0.0 vin88.pw
 0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
@@ -58351,6 +58360,7 @@
 0.0.0.0 viviendaruralelalamar.es
 0.0.0.0 viviporn.tv
 0.0.0.0 vivthomas.com
+0.0.0.0 vivu88.cc
 0.0.0.0 vivu88.com
 0.0.0.0 vivu88.net
 0.0.0.0 vivud.com
@@ -59154,6 +59164,7 @@
 0.0.0.0 web.sunwin.pro
 0.0.0.0 web.topzo.com
 0.0.0.0 web.win79.moi
+0.0.0.0 web.win79.vg
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.ml
 0.0.0.0 web.yo88.so
@@ -59575,6 +59586,7 @@
 0.0.0.0 win79.moi
 0.0.0.0 win79.pro
 0.0.0.0 win79.site
+0.0.0.0 win79.vg
 0.0.0.0 win79.vip
 0.0.0.0 win79a.com
 0.0.0.0 win79d.com
@@ -59741,6 +59753,7 @@
 0.0.0.0 wp.nbet.vin
 0.0.0.0 wp.red88.club
 0.0.0.0 wp.red88.com
+0.0.0.0 wp.red88.ml
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.sky88.club
