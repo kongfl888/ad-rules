@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-05-28 22:53:04
+# DATE: 2026-05-30 22:31:25
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -58066,7 +58066,6 @@
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta-0394.shop
 0.0.0.0 vinted.pl-oferta-88291.click
-0.0.0.0 vinted.pl-oferta4582753.lol
 0.0.0.0 vinted.pl-oferta543321.lol
 0.0.0.0 vinted.pl-oferta93625279.shop
 0.0.0.0 vintporn.com
@@ -75230,7 +75229,6 @@
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta-0394.shop
 0.0.0.0 www.vinted.pl-oferta-88291.click
-0.0.0.0 www.vinted.pl-oferta4582753.lol
 0.0.0.0 www.vinted.pl-oferta543321.lol
 0.0.0.0 www.vinted.pl-oferta93625279.shop
 0.0.0.0 www.vintporn.com
