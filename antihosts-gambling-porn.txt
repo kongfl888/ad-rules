@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-05-30 22:31:25
+# DATE: 2026-06-02 23:15:47
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -21430,6 +21430,7 @@
 0.0.0.0 gvnvh18.com
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.vip
+0.0.0.0 gw.tot88.store
 0.0.0.0 gwbet.com
 0.0.0.0 gwweb.xyz
 0.0.0.0 gygay.com
@@ -47595,6 +47596,7 @@
 0.0.0.0 s4.femefun.com
 0.0.0.0 s4.gen88.com
 0.0.0.0 s4.mubet.vip
+0.0.0.0 s4.tot88.store
 0.0.0.0 s4.trafficdeposit.com
 0.0.0.0 s4.xxxvideohub.top
 0.0.0.0 s41.erome.com
@@ -54937,6 +54939,7 @@
 0.0.0.0 torylane.com
 0.0.0.0 tos.al
 0.0.0.0 tot88.com
+0.0.0.0 tot88.store
 0.0.0.0 totalaccess.myallaccesspass.com
 0.0.0.0 totalaccess.transsexualbarebacking.com
 0.0.0.0 totalasianporn.com
@@ -58067,7 +58070,6 @@
 0.0.0.0 vinted.pl-oferta-0394.shop
 0.0.0.0 vinted.pl-oferta-88291.click
 0.0.0.0 vinted.pl-oferta543321.lol
-0.0.0.0 vinted.pl-oferta93625279.shop
 0.0.0.0 vintporn.com
 0.0.0.0 viojav.cc
 0.0.0.0 viojav.com
@@ -75230,7 +75232,6 @@
 0.0.0.0 www.vinted.pl-oferta-0394.shop
 0.0.0.0 www.vinted.pl-oferta-88291.click
 0.0.0.0 www.vinted.pl-oferta543321.lol
-0.0.0.0 www.vinted.pl-oferta93625279.shop
 0.0.0.0 www.vintporn.com
 0.0.0.0 www.vip-zona.net
 0.0.0.0 www.vipangelz.com
