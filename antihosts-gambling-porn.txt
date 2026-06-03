@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-06-02 23:15:47
+# DATE: 2026-06-03 23:17:33
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -11331,6 +11331,7 @@
 0.0.0.0 cm.isger.de
 0.0.0.0 cm.porn-cdn.com
 0.0.0.0 cm.rdtcdn.com
+0.0.0.0 cm88.com
 0.0.0.0 cmature.com
 0.0.0.0 cmd368max.com
 0.0.0.0 cmd368t.com
@@ -41228,8 +41229,9 @@
 0.0.0.0 pl-oferta-543383.shop
 0.0.0.0 pl-oferta-88291.click
 0.0.0.0 pl-oferta4582753.lol
+0.0.0.0 pl-oferta47284971.shop
 0.0.0.0 pl-oferta543321.lol
-0.0.0.0 pl-oferta8392653875173.cfd
+0.0.0.0 pl-oferta85jh74hc94.sbs
 0.0.0.0 pl-oferta909347.click
 0.0.0.0 pl-oferta93625279.shop
 0.0.0.0 pl-shemale.xvideos2.com.se
@@ -70638,8 +70640,9 @@
 0.0.0.0 www.pl-oferta-543383.shop
 0.0.0.0 www.pl-oferta-88291.click
 0.0.0.0 www.pl-oferta4582753.lol
+0.0.0.0 www.pl-oferta47284971.shop
 0.0.0.0 www.pl-oferta543321.lol
-0.0.0.0 www.pl-oferta8392653875173.cfd
+0.0.0.0 www.pl-oferta85jh74hc94.sbs
 0.0.0.0 www.pl-oferta909347.click
 0.0.0.0 www.pl-oferta93625279.shop
 0.0.0.0 www.planet-katie.info
