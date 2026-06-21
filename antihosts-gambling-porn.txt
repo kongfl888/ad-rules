@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-06-19 22:30:37
+# DATE: 2026-06-21 22:44:18
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -702,6 +702,7 @@
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.la
 0.0.0.0 3bet.ph
+0.0.0.0 3bet.sh
 0.0.0.0 3bet.ski
 0.0.0.0 3bet.so
 0.0.0.0 3bet.tech
@@ -5277,6 +5278,7 @@
 0.0.0.0 ball88.com
 0.0.0.0 ball88.day
 0.0.0.0 ball88.fun
+0.0.0.0 ball88.games
 0.0.0.0 ball88.mobi
 0.0.0.0 ball88.red
 0.0.0.0 ball88.to
@@ -12595,6 +12597,8 @@
 0.0.0.0 d1.debet.gs
 0.0.0.0 d1.debet.info
 0.0.0.0 d1.debet.lc
+0.0.0.0 d1.debet.mp
+0.0.0.0 d1.debet.mw
 0.0.0.0 d1.debet.sc
 0.0.0.0 d1.debet.so
 0.0.0.0 d1.debet.st
@@ -13447,6 +13451,8 @@
 0.0.0.0 debet.lc
 0.0.0.0 debet.lv
 0.0.0.0 debet.moi
+0.0.0.0 debet.mp
+0.0.0.0 debet.mw
 0.0.0.0 debet.net
 0.0.0.0 debet.sc
 0.0.0.0 debet.so
@@ -17533,6 +17539,7 @@
 0.0.0.0 five88.net
 0.0.0.0 five88.ng
 0.0.0.0 five88.nl
+0.0.0.0 five88.ro
 0.0.0.0 five88.sale
 0.0.0.0 five88.show
 0.0.0.0 five88.sx
@@ -20328,6 +20335,7 @@
 0.0.0.0 gemwin.ink
 0.0.0.0 gemwin.is
 0.0.0.0 gemwin.lc
+0.0.0.0 gemwin.lv
 0.0.0.0 gemwin.my
 0.0.0.0 gemwin.nz
 0.0.0.0 gemwin.page
@@ -22976,6 +22984,7 @@
 0.0.0.0 hitclub.lc
 0.0.0.0 hitclub.lt
 0.0.0.0 hitclub.lv
+0.0.0.0 hitclub.mk
 0.0.0.0 hitclub.ml
 0.0.0.0 hitclub.mu
 0.0.0.0 hitclub.pl
@@ -22983,6 +22992,7 @@
 0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.si
 0.0.0.0 hitclub.so
+0.0.0.0 hitclub.su
 0.0.0.0 hitclub.top
 0.0.0.0 hitclub.tv
 0.0.0.0 hitclub.vin
@@ -32979,6 +32989,7 @@
 0.0.0.0 m1.ball88.app
 0.0.0.0 m1.ball88.com
 0.0.0.0 m1.ball88.fun
+0.0.0.0 m1.ball88.games
 0.0.0.0 m1.ball88.mobi
 0.0.0.0 m1.ball88.red
 0.0.0.0 m1.ball88.to
@@ -36955,6 +36966,7 @@
 0.0.0.0 nhat.it
 0.0.0.0 nhat.my
 0.0.0.0 nhat.one
+0.0.0.0 nhat.pw
 0.0.0.0 nhat.sh
 0.0.0.0 nhat.sx
 0.0.0.0 nhat.vip
@@ -41253,10 +41265,24 @@
 0.0.0.0 pk5.net
 0.0.0.0 pkresurs-spb.ru
 0.0.0.0 pkwin1.com
+0.0.0.0 pl-oferta21857139.shop
 0.0.0.0 pl-oferta47284971.shop
+0.0.0.0 pl-oferta57423598.shop
+0.0.0.0 pl-oferta5821989.shop
+0.0.0.0 pl-oferta5828521.shop
+0.0.0.0 pl-oferta736hdt6fe.click
+0.0.0.0 pl-oferta745hf65.shop
+0.0.0.0 pl-oferta75h547f4.click
+0.0.0.0 pl-oferta7845hf5f.shop
 0.0.0.0 pl-oferta85jh74hc94.sbs
+0.0.0.0 pl-oferta874f5h5.click
 0.0.0.0 pl-ogloszenia-firmowe-id-332388.sbs
+0.0.0.0 pl-ogloszenia-firmowe-id-883823.click
+0.0.0.0 pl-ogloszenia-firmowe-id833083.click
 0.0.0.0 pl-ogloszenia-firmowe-id83380.click
+0.0.0.0 pl-ogloszenia-firmowe-id902430.click
+0.0.0.0 pl-ogloszenia-firmowe8827323.click
+0.0.0.0 pl-ogloszenie483704921.cfd
 0.0.0.0 pl-shemale.xvideos2.com.se
 0.0.0.0 pl.1cam.webcam
 0.0.0.0 pl.adultmetas.com
@@ -47608,6 +47634,7 @@
 0.0.0.0 s3.erome.com
 0.0.0.0 s3.rule34video.com
 0.0.0.0 s3.sextflirt.com
+0.0.0.0 s3.sin88.fo
 0.0.0.0 s3.sin88.lu
 0.0.0.0 s3.sin88.ml
 0.0.0.0 s3.sin88.ms
@@ -50421,6 +50448,7 @@
 0.0.0.0 sin88.club
 0.0.0.0 sin88.com
 0.0.0.0 sin88.cv
+0.0.0.0 sin88.fo
 0.0.0.0 sin88.im
 0.0.0.0 sin88.lu
 0.0.0.0 sin88.me
@@ -50554,11 +50582,13 @@
 0.0.0.0 sk.debet.gs
 0.0.0.0 sk.debet.lc
 0.0.0.0 sk.debet.lv
+0.0.0.0 sk.debet.mw
 0.0.0.0 sk.debet.st
 0.0.0.0 sk.debet.vg
 0.0.0.0 sk.fm88.com
 0.0.0.0 sk.hot-live-sex-shows.com
 0.0.0.0 sk.sex4k.cam
+0.0.0.0 sk.sin88.fo
 0.0.0.0 sk.sin88.lu
 0.0.0.0 sk.sin88.ml
 0.0.0.0 sk.sin88.ms
@@ -52136,7 +52166,9 @@
 0.0.0.0 sv88.com
 0.0.0.0 sv88.in
 0.0.0.0 sv88.lv
+0.0.0.0 sv88.ml
 0.0.0.0 sv88.ro
+0.0.0.0 sv88.si
 0.0.0.0 sv88.vin
 0.0.0.0 sv88.vip
 0.0.0.0 sv88.vu
@@ -54312,7 +54344,6 @@
 0.0.0.0 tiavaswebcams.com
 0.0.0.0 tibornemes.com
 0.0.0.0 tic88.com
-0.0.0.0 ticketmaster.pl-oferta56291.lat
 0.0.0.0 tickzoo.tv
 0.0.0.0 ticxxx.com
 0.0.0.0 tiedup.tv
@@ -56740,6 +56771,7 @@
 0.0.0.0 v.hitclub.ml
 0.0.0.0 v.hitclub.mu
 0.0.0.0 v.hitclub.si
+0.0.0.0 v.hitclub.su
 0.0.0.0 v.hitclub.tv
 0.0.0.0 v.hog.tv
 0.0.0.0 v.japaneseporn.xxx
@@ -58112,8 +58144,20 @@
 0.0.0.0 vintagexxxvideos.net
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
+0.0.0.0 vinted.pl-oferta21857139.shop
+0.0.0.0 vinted.pl-oferta57423598.shop
+0.0.0.0 vinted.pl-oferta736hdt6fe.click
+0.0.0.0 vinted.pl-oferta745hf65.shop
+0.0.0.0 vinted.pl-oferta754f5f543.click
+0.0.0.0 vinted.pl-oferta75h547f4.click
+0.0.0.0 vinted.pl-oferta7845hf5f.shop
+0.0.0.0 vinted.pl-oferta874f5h5.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id-332388.sbs
+0.0.0.0 vinted.pl-ogloszenia-firmowe-id-883823.click
+0.0.0.0 vinted.pl-ogloszenia-firmowe-id833083.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id83380.click
+0.0.0.0 vinted.pl-ogloszenia-firmowe-id902430.click
+0.0.0.0 vinted.pl-ogloszenia-firmowe8827323.click
 0.0.0.0 vintporn.com
 0.0.0.0 viojav.cc
 0.0.0.0 viojav.com
@@ -59215,6 +59259,7 @@
 0.0.0.0 web.yo88.so
 0.0.0.0 web.yo88.st
 0.0.0.0 web.yo88.tv
+0.0.0.0 web.yo88.vu
 0.0.0.0 web.zowin.tv
 0.0.0.0 web2sex.com
 0.0.0.0 web2sex.top
@@ -70679,10 +70724,24 @@
 0.0.0.0 www.pixroute.com
 0.0.0.0 www.pixytube.com
 0.0.0.0 www.pk5.net
+0.0.0.0 www.pl-oferta21857139.shop
 0.0.0.0 www.pl-oferta47284971.shop
+0.0.0.0 www.pl-oferta57423598.shop
+0.0.0.0 www.pl-oferta5821989.shop
+0.0.0.0 www.pl-oferta5828521.shop
+0.0.0.0 www.pl-oferta736hdt6fe.click
+0.0.0.0 www.pl-oferta745hf65.shop
+0.0.0.0 www.pl-oferta75h547f4.click
+0.0.0.0 www.pl-oferta7845hf5f.shop
 0.0.0.0 www.pl-oferta85jh74hc94.sbs
+0.0.0.0 www.pl-oferta874f5h5.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id-332388.sbs
+0.0.0.0 www.pl-ogloszenia-firmowe-id-883823.click
+0.0.0.0 www.pl-ogloszenia-firmowe-id833083.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id83380.click
+0.0.0.0 www.pl-ogloszenia-firmowe-id902430.click
+0.0.0.0 www.pl-ogloszenia-firmowe8827323.click
+0.0.0.0 www.pl-ogloszenie483704921.cfd
 0.0.0.0 www.planet-katie.info
 0.0.0.0 www.planetclimax.com
 0.0.0.0 www.planetofbets.com
@@ -74342,7 +74401,6 @@
 0.0.0.0 www.tiava.com
 0.0.0.0 www.tiavasforum.com
 0.0.0.0 www.tiavaswebcams.com
-0.0.0.0 www.ticketmaster.pl-oferta56291.lat
 0.0.0.0 www.ticktaxxx.com
 0.0.0.0 www.tiedup.tv
 0.0.0.0 www.tienersextube.com
@@ -75270,8 +75328,20 @@
 0.0.0.0 www.vintagexxxvideos.com
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
+0.0.0.0 www.vinted.pl-oferta21857139.shop
+0.0.0.0 www.vinted.pl-oferta57423598.shop
+0.0.0.0 www.vinted.pl-oferta736hdt6fe.click
+0.0.0.0 www.vinted.pl-oferta745hf65.shop
+0.0.0.0 www.vinted.pl-oferta754f5f543.click
+0.0.0.0 www.vinted.pl-oferta75h547f4.click
+0.0.0.0 www.vinted.pl-oferta7845hf5f.shop
+0.0.0.0 www.vinted.pl-oferta874f5h5.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id-332388.sbs
+0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id-883823.click
+0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id833083.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id83380.click
+0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id902430.click
+0.0.0.0 www.vinted.pl-ogloszenia-firmowe8827323.click
 0.0.0.0 www.vintporn.com
 0.0.0.0 www.vip-zona.net
 0.0.0.0 www.vipangelz.com
@@ -81265,6 +81335,7 @@
 0.0.0.0 yo.fan
 0.0.0.0 yo4tube.com
 0.0.0.0 yo69.pro
+0.0.0.0 yo88.ae
 0.0.0.0 yo88.cool
 0.0.0.0 yo88.is
 0.0.0.0 yo88.ml
@@ -81273,6 +81344,7 @@
 0.0.0.0 yo88.st
 0.0.0.0 yo88.tv
 0.0.0.0 yo88.vg
+0.0.0.0 yo88.vu
 0.0.0.0 yo88.win
 0.0.0.0 yo88vn.com
 0.0.0.0 yoasiansex.com
@@ -82096,6 +82168,7 @@
 0.0.0.0 zowin.bh
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
+0.0.0.0 zowin.kim
 0.0.0.0 zowin.mom
 0.0.0.0 zowin.ng
 0.0.0.0 zowin.red
@@ -82103,6 +82176,7 @@
 0.0.0.0 zowin.sx
 0.0.0.0 zowin.tv
 0.0.0.0 zowin.tw
+0.0.0.0 zowin.uno
 0.0.0.0 zowin.ws
 0.0.0.0 zoyaporn.com
 0.0.0.0 zoztube.com
