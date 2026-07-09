@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-07-04 22:29:28
+# DATE: 2026-07-09 22:50:10
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -97,8 +97,10 @@
 0.0.0.0 11bet.gg
 0.0.0.0 11bet.in
 0.0.0.0 11bet.life
+0.0.0.0 11bet.lt
 0.0.0.0 11bet.mobi
 0.0.0.0 11bet.mx
+0.0.0.0 11bet.name
 0.0.0.0 11bet.net
 0.0.0.0 11bet.online
 0.0.0.0 11bet.org
@@ -128,6 +130,7 @@
 0.0.0.0 123b88.com
 0.0.0.0 123bdy.com
 0.0.0.0 123bhh.com
+0.0.0.0 123bong.vg
 0.0.0.0 123gayporn.com
 0.0.0.0 123pornox.info
 0.0.0.0 123pornox.shop
@@ -702,6 +705,7 @@
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
+0.0.0.0 3bet.llc
 0.0.0.0 3bet.ph
 0.0.0.0 3bet.sh
 0.0.0.0 3bet.ski
@@ -1151,6 +1155,7 @@
 0.0.0.0 789betp.com
 0.0.0.0 789betr.com
 0.0.0.0 789betu.com
+0.0.0.0 789club.am
 0.0.0.0 789club.ba
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
@@ -5288,6 +5293,7 @@
 0.0.0.0 ball88.fun
 0.0.0.0 ball88.fyi
 0.0.0.0 ball88.games
+0.0.0.0 ball88.lat
 0.0.0.0 ball88.llc
 0.0.0.0 ball88.men
 0.0.0.0 ball88.mobi
@@ -5698,6 +5704,7 @@
 0.0.0.0 beaverbattle.com
 0.0.0.0 beavertron.com
 0.0.0.0 bec88.com
+0.0.0.0 bec88.fun
 0.0.0.0 becomingfemme.com
 0.0.0.0 bedpage.com
 0.0.0.0 beefcakehunter.com
@@ -7141,6 +7148,7 @@
 0.0.0.0 bom88.net
 0.0.0.0 bom88.pics
 0.0.0.0 bom88.plus
+0.0.0.0 bom88.shop
 0.0.0.0 bombaybets.eu
 0.0.0.0 bombporn.video
 0.0.0.0 bon-chat.com
@@ -11313,6 +11321,7 @@
 0.0.0.0 clporn.com
 0.0.0.0 club-angelinavalentine.com
 0.0.0.0 club-evaangelina.com
+0.0.0.0 club-gov.com
 0.0.0.0 club-vip.live
 0.0.0.0 club-virgins.com
 0.0.0.0 club.24lxxx.com
@@ -14526,11 +14535,13 @@
 0.0.0.0 dthq.org
 0.0.0.0 dtvideo.com
 0.0.0.0 du.porn00.tv
+0.0.0.0 du88.art
 0.0.0.0 du88.cafe
 0.0.0.0 du88.club
 0.0.0.0 du88.com
 0.0.0.0 du88.in
 0.0.0.0 du88.info
+0.0.0.0 du88.life
 0.0.0.0 du88.pro
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
@@ -14580,6 +14591,7 @@
 0.0.0.0 dv-h.rdtcdn.com
 0.0.0.0 dv-ph.rdtcdn.com
 0.0.0.0 dv.rdtcdn.com
+0.0.0.0 dv88.city
 0.0.0.0 dvangels.com
 0.0.0.0 dvarenysh-blog.ru
 0.0.0.0 dvd-flix.com
@@ -16957,7 +16969,9 @@
 0.0.0.0 fcxh.xyz
 0.0.0.0 fdj.fr
 0.0.0.0 fearea.ru
+0.0.0.0 febet.fun
 0.0.0.0 febet.net
+0.0.0.0 febet.sh
 0.0.0.0 federatedmodules-origin-fb.icfcdn.com
 0.0.0.0 federatedmodules.icfcdn.com
 0.0.0.0 feeba5c1-cloud.perfectgirls.net
@@ -20379,6 +20393,7 @@
 0.0.0.0 gemwin.my
 0.0.0.0 gemwin.nz
 0.0.0.0 gemwin.page
+0.0.0.0 gemwin.spot
 0.0.0.0 gemwin.tax
 0.0.0.0 gemwin.to
 0.0.0.0 gemwin.tv
@@ -20901,12 +20916,15 @@
 0.0.0.0 go8.pub
 0.0.0.0 go8.pw
 0.0.0.0 go88-vn.com
+0.0.0.0 go88.bayern
 0.0.0.0 go88.ca
 0.0.0.0 go88.club
 0.0.0.0 go88.com
 0.0.0.0 go88.contractors
+0.0.0.0 go88.food
 0.0.0.0 go88.live
 0.0.0.0 go88.luxury
+0.0.0.0 go88.me
 0.0.0.0 go88.org
 0.0.0.0 go88.study
 0.0.0.0 go88.top
@@ -21909,10 +21927,13 @@
 0.0.0.0 hb8875.com
 0.0.0.0 hb8887.com
 0.0.0.0 hb88vn.co
+0.0.0.0 hbet.ac
 0.0.0.0 hbet.club
+0.0.0.0 hbet.fm
 0.0.0.0 hbet.li
 0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
+0.0.0.0 hbet.ph
 0.0.0.0 hbet.pw
 0.0.0.0 hbet.win
 0.0.0.0 hbfites.in
@@ -21971,6 +21992,7 @@
 0.0.0.0 hd21.com
 0.0.0.0 hd21live.com
 0.0.0.0 hd4kporn.com
+0.0.0.0 hd88.tv
 0.0.0.0 hdabla-854.buzz
 0.0.0.0 hdabla-opad.click
 0.0.0.0 hdabla.net
@@ -23019,6 +23041,7 @@
 0.0.0.0 hispasexy.org
 0.0.0.0 histoiressexe.com
 0.0.0.0 hit.club
+0.0.0.0 hit.club-gov.com
 0.0.0.0 hit1.club
 0.0.0.0 hit68.net
 0.0.0.0 hitachihoes.com
@@ -23036,6 +23059,7 @@
 0.0.0.0 hitclub.mk
 0.0.0.0 hitclub.ml
 0.0.0.0 hitclub.mu
+0.0.0.0 hitclub.mw
 0.0.0.0 hitclub.pl
 0.0.0.0 hitclub.pro
 0.0.0.0 hitclub.salon
@@ -23046,6 +23070,7 @@
 0.0.0.0 hitclub.tv
 0.0.0.0 hitclub.vin
 0.0.0.0 hitclub.win
+0.0.0.0 hitclub.yoga
 0.0.0.0 hitclubchinhhang.com
 0.0.0.0 hithomemovies.com
 0.0.0.0 hititbet.com
@@ -32618,12 +32643,15 @@
 0.0.0.0 lturl.net
 0.0.0.0 lu.xporno.me
 0.0.0.0 lu88.ai
+0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
+0.0.0.0 lu88.mn
 0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
+0.0.0.0 lu88.tw
 0.0.0.0 lubed.com
 0.0.0.0 lubed.us
 0.0.0.0 lubedfan.com
@@ -33060,6 +33088,7 @@
 0.0.0.0 m1.vin88.pw
 0.0.0.0 m1.vin88.vin
 0.0.0.0 m1.vin88.vip
+0.0.0.0 m1.xibet.ec
 0.0.0.0 m1.xibet.fun
 0.0.0.0 m12.hairysluts.tv
 0.0.0.0 m2.17sexvideo.com
@@ -33321,11 +33350,15 @@
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
+0.0.0.0 man88.biz
+0.0.0.0 man88.bz
+0.0.0.0 man88.co
 0.0.0.0 man88.la
 0.0.0.0 man88.net
 0.0.0.0 man88.ng
 0.0.0.0 man88.pl
 0.0.0.0 man88.pw
+0.0.0.0 man88.sh
 0.0.0.0 man88.top
 0.0.0.0 man88.vip
 0.0.0.0 man88.win
@@ -34713,6 +34746,7 @@
 0.0.0.0 mimg.lcmcdn.net
 0.0.0.0 mimi-teenz.com
 0.0.0.0 min88.com
+0.0.0.0 min88.ing
 0.0.0.0 min88.me
 0.0.0.0 mince.nl
 0.0.0.0 mindcontroltheatre.com
@@ -41329,8 +41363,11 @@
 0.0.0.0 pkwin1.com
 0.0.0.0 pl-oferta03116876.shop
 0.0.0.0 pl-oferta21857139.shop
+0.0.0.0 pl-oferta24533.sbs
 0.0.0.0 pl-oferta2632920.lat
 0.0.0.0 pl-oferta2946470.click
+0.0.0.0 pl-oferta295938.shop
+0.0.0.0 pl-oferta3625bdg54.click
 0.0.0.0 pl-oferta3891461.click
 0.0.0.0 pl-oferta4955301.sbs
 0.0.0.0 pl-oferta4jdfj4s.click
@@ -41340,6 +41377,7 @@
 0.0.0.0 pl-oferta5jfc4dd4x.click
 0.0.0.0 pl-oferta5y53f44a.cfd
 0.0.0.0 pl-oferta635h5fs7h.click
+0.0.0.0 pl-oferta73072399.click
 0.0.0.0 pl-oferta736hdt6fe.click
 0.0.0.0 pl-oferta745hf65.shop
 0.0.0.0 pl-oferta74hf84cf4.shop
@@ -41350,6 +41388,7 @@
 0.0.0.0 pl-oferta85fj598f.click
 0.0.0.0 pl-oferta874f5h5.click
 0.0.0.0 pl-oferta910932.cfd
+0.0.0.0 pl-oferta9182837428923712673281.lat
 0.0.0.0 pl-oferta9837392.sbs
 0.0.0.0 pl-oferta983791.sbs
 0.0.0.0 pl-ofertafirmowa746heu6feh.cfd
@@ -45740,6 +45779,7 @@
 0.0.0.0 pub.sex.com
 0.0.0.0 pub.xxx
 0.0.0.0 pub88.com
+0.0.0.0 pub88.day
 0.0.0.0 pub88.win
 0.0.0.0 puba.com
 0.0.0.0 pubbock.com
@@ -46951,6 +46991,7 @@
 0.0.0.0 rik.win
 0.0.0.0 rik6.com
 0.0.0.0 rik88.life
+0.0.0.0 rikbet.red
 0.0.0.0 rikstoto.no
 0.0.0.0 rikvip.fun
 0.0.0.0 rikvip.info
@@ -48281,7 +48322,6 @@
 0.0.0.0 sensualradar.com
 0.0.0.0 sensualwriter.com
 0.0.0.0 sentry-public.stripchat.com
-0.0.0.0 sentrypc.com
 0.0.0.0 senzuri.tube
 0.0.0.0 seo1.org
 0.0.0.0 seoprofit.biz
@@ -50721,7 +50761,9 @@
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
 0.0.0.0 sk.xibet.com
+0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.fun
+0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.zbet.ws
 0.0.0.0 skachatporno-7.com
 0.0.0.0 skbiotech.ru
@@ -56394,15 +56436,20 @@
 0.0.0.0 twteens.com
 0.0.0.0 twtgaixinh.com
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.biz
 0.0.0.0 tx88.com
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
+0.0.0.0 tx88.hot
 0.0.0.0 tx88.in
 0.0.0.0 tx88.ing
+0.0.0.0 tx88.la
 0.0.0.0 tx88.llc
+0.0.0.0 tx88.now
 0.0.0.0 tx88.onl
 0.0.0.0 tx88.top
+0.0.0.0 tx88.vet
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
 0.0.0.0 txxx.ahcdn.com
@@ -56547,8 +56594,12 @@
 0.0.0.0 uk.biguz.net
 0.0.0.0 uk88.club
 0.0.0.0 uk88.com
+0.0.0.0 uk88.gd
+0.0.0.0 uk88.how
+0.0.0.0 uk88.mba
 0.0.0.0 uk88.top
 0.0.0.0 uk88.vip
+0.0.0.0 uk88.xin
 0.0.0.0 ukchatbabes.com
 0.0.0.0 ukdevilz-com.ru
 0.0.0.0 ukdevilz.com
@@ -56899,6 +56950,7 @@
 0.0.0.0 v.hitclub.si
 0.0.0.0 v.hitclub.su
 0.0.0.0 v.hitclub.tv
+0.0.0.0 v.hitclub.yoga
 0.0.0.0 v.hog.tv
 0.0.0.0 v.japaneseporn.xxx
 0.0.0.0 v.javhdo.net
@@ -57062,6 +57114,7 @@
 0.0.0.0 vb777.com
 0.0.0.0 vb88.com
 0.0.0.0 vb88.win
+0.0.0.0 vb88.zone
 0.0.0.0 vb9.biz
 0.0.0.0 vbbwporn.com
 0.0.0.0 vbet.com
@@ -58163,6 +58216,7 @@
 0.0.0.0 vin88.net
 0.0.0.0 vin88.pub
 0.0.0.0 vin88.pw
+0.0.0.0 vin88.soy
 0.0.0.0 vin88.sx
 0.0.0.0 vin88.top
 0.0.0.0 vin88.tv
@@ -58276,11 +58330,15 @@
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta03116876.shop
 0.0.0.0 vinted.pl-oferta21857139.shop
+0.0.0.0 vinted.pl-oferta24533.sbs
+0.0.0.0 vinted.pl-oferta295938.shop
+0.0.0.0 vinted.pl-oferta3625bdg54.click
 0.0.0.0 vinted.pl-oferta4jdfj4s.click
 0.0.0.0 vinted.pl-oferta57423598.shop
 0.0.0.0 vinted.pl-oferta5jfc4dd4x.click
 0.0.0.0 vinted.pl-oferta5y53f44a.cfd
 0.0.0.0 vinted.pl-oferta635h5fs7h.click
+0.0.0.0 vinted.pl-oferta73072399.click
 0.0.0.0 vinted.pl-oferta736hdt6fe.click
 0.0.0.0 vinted.pl-oferta745hf65.shop
 0.0.0.0 vinted.pl-oferta74hf84cf4.shop
@@ -59038,12 +59096,18 @@
 0.0.0.0 vu88.com
 0.0.0.0 vu88.de
 0.0.0.0 vu88.in
+0.0.0.0 vu88.la
+0.0.0.0 vu88.live
+0.0.0.0 vu88.lv
 0.0.0.0 vu88.net
+0.0.0.0 vu88.sh
 0.0.0.0 vu88.tv
+0.0.0.0 vu88.ws
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
 0.0.0.0 vua88.club
 0.0.0.0 vua88.com
+0.0.0.0 vua88.host
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com
 0.0.0.0 vuabet.com
@@ -59409,6 +59473,7 @@
 0.0.0.0 web.yo88.is
 0.0.0.0 web.yo88.ist
 0.0.0.0 web.yo88.ml
+0.0.0.0 web.yo88.phd
 0.0.0.0 web.yo88.so
 0.0.0.0 web.yo88.st
 0.0.0.0 web.yo88.tv
@@ -70879,8 +70944,11 @@
 0.0.0.0 www.pk5.net
 0.0.0.0 www.pl-oferta03116876.shop
 0.0.0.0 www.pl-oferta21857139.shop
+0.0.0.0 www.pl-oferta24533.sbs
 0.0.0.0 www.pl-oferta2632920.lat
 0.0.0.0 www.pl-oferta2946470.click
+0.0.0.0 www.pl-oferta295938.shop
+0.0.0.0 www.pl-oferta3625bdg54.click
 0.0.0.0 www.pl-oferta3891461.click
 0.0.0.0 www.pl-oferta4955301.sbs
 0.0.0.0 www.pl-oferta4jdfj4s.click
@@ -70890,6 +70958,7 @@
 0.0.0.0 www.pl-oferta5jfc4dd4x.click
 0.0.0.0 www.pl-oferta5y53f44a.cfd
 0.0.0.0 www.pl-oferta635h5fs7h.click
+0.0.0.0 www.pl-oferta73072399.click
 0.0.0.0 www.pl-oferta736hdt6fe.click
 0.0.0.0 www.pl-oferta745hf65.shop
 0.0.0.0 www.pl-oferta74hf84cf4.shop
@@ -70900,6 +70969,7 @@
 0.0.0.0 www.pl-oferta85fj598f.click
 0.0.0.0 www.pl-oferta874f5h5.click
 0.0.0.0 www.pl-oferta910932.cfd
+0.0.0.0 www.pl-oferta9182837428923712673281.lat
 0.0.0.0 www.pl-oferta9837392.sbs
 0.0.0.0 www.pl-oferta983791.sbs
 0.0.0.0 www.pl-ofertafirmowa746heu6feh.cfd
@@ -72920,7 +72990,6 @@
 0.0.0.0 www.sensualradar.com
 0.0.0.0 www.sensualwriter.com
 0.0.0.0 www.sensxxx.com
-0.0.0.0 www.sentrypc.com
 0.0.0.0 www.seo1.org
 0.0.0.0 www.seoprofit.biz
 0.0.0.0 www.serving.xxxwebtraffic.com
@@ -75509,11 +75578,15 @@
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta03116876.shop
 0.0.0.0 www.vinted.pl-oferta21857139.shop
+0.0.0.0 www.vinted.pl-oferta24533.sbs
+0.0.0.0 www.vinted.pl-oferta295938.shop
+0.0.0.0 www.vinted.pl-oferta3625bdg54.click
 0.0.0.0 www.vinted.pl-oferta4jdfj4s.click
 0.0.0.0 www.vinted.pl-oferta57423598.shop
 0.0.0.0 www.vinted.pl-oferta5jfc4dd4x.click
 0.0.0.0 www.vinted.pl-oferta5y53f44a.cfd
 0.0.0.0 www.vinted.pl-oferta635h5fs7h.click
+0.0.0.0 www.vinted.pl-oferta73072399.click
 0.0.0.0 www.vinted.pl-oferta736hdt6fe.click
 0.0.0.0 www.vinted.pl-oferta745hf65.shop
 0.0.0.0 www.vinted.pl-oferta74hf84cf4.shop
@@ -78401,8 +78474,10 @@
 0.0.0.0 xhypnotube.com
 0.0.0.0 xiaoou.tv
 0.0.0.0 xibet.com
+0.0.0.0 xibet.ec
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.vg
+0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xillimite.com
@@ -79141,6 +79216,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.pro
+0.0.0.0 xo88.tw
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88bet.com
@@ -81539,6 +81615,7 @@
 0.0.0.0 yo88.is
 0.0.0.0 yo88.ist
 0.0.0.0 yo88.ml
+0.0.0.0 yo88.phd
 0.0.0.0 yo88.pw
 0.0.0.0 yo88.so
 0.0.0.0 yo88.st
@@ -82368,6 +82445,7 @@
 0.0.0.0 zossip.com
 0.0.0.0 zowin.bh
 0.0.0.0 zowin.esq
+0.0.0.0 zowin.fan
 0.0.0.0 zowin.im
 0.0.0.0 zowin.is
 0.0.0.0 zowin.kim
