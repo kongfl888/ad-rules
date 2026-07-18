@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-07-15 22:31:13
+# DATE: 2026-07-18 22:24:30
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -703,6 +703,8 @@
 0.0.0.0 3asianporn.com
 0.0.0.0 3at3ot.com
 0.0.0.0 3bet.biz
+0.0.0.0 3bet.center
+0.0.0.0 3bet.city
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
@@ -1161,6 +1163,8 @@
 0.0.0.0 789club.ba
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
+0.0.0.0 789club.gp
+0.0.0.0 789club.ke
 0.0.0.0 789club.org
 0.0.0.0 789club.sx
 0.0.0.0 789club.vg
@@ -5290,7 +5294,9 @@
 0.0.0.0 balkanbet.co.rs
 0.0.0.0 balkantrib2017.com
 0.0.0.0 ball88.app
+0.0.0.0 ball88.casa
 0.0.0.0 ball88.com
+0.0.0.0 ball88.cool
 0.0.0.0 ball88.day
 0.0.0.0 ball88.fun
 0.0.0.0 ball88.fyi
@@ -7144,11 +7150,13 @@
 0.0.0.0 bollywoodxxx.pro
 0.0.0.0 bologna.trovagnocca.com
 0.0.0.0 bom52.club
+0.0.0.0 bom88.baby
 0.0.0.0 bom88.click
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
 0.0.0.0 bom88.diy
 0.0.0.0 bom88.ing
+0.0.0.0 bom88.la
 0.0.0.0 bom88.net
 0.0.0.0 bom88.pics
 0.0.0.0 bom88.plus
@@ -14544,10 +14552,12 @@
 0.0.0.0 du88.care
 0.0.0.0 du88.club
 0.0.0.0 du88.com
+0.0.0.0 du88.guru
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
 0.0.0.0 du88.pro
+0.0.0.0 du88.sh
 0.0.0.0 dualeotruyen1s.com
 0.0.0.0 dualeotruyen24h.com
 0.0.0.0 dualeotruyenkq.com
@@ -21935,12 +21945,14 @@
 0.0.0.0 hbet.ac
 0.0.0.0 hbet.club
 0.0.0.0 hbet.fm
+0.0.0.0 hbet.la
 0.0.0.0 hbet.li
 0.0.0.0 hbet.lv
 0.0.0.0 hbet.net
 0.0.0.0 hbet.nl
 0.0.0.0 hbet.ph
 0.0.0.0 hbet.pw
+0.0.0.0 hbet.so
 0.0.0.0 hbet.win
 0.0.0.0 hbfites.in
 0.0.0.0 hbrowse.com
@@ -30351,6 +30363,7 @@
 0.0.0.0 k88.art
 0.0.0.0 k88.club
 0.0.0.0 k88.mobi
+0.0.0.0 k88.moe
 0.0.0.0 k88.pro
 0.0.0.0 k88.win
 0.0.0.0 k89bet.com
@@ -32653,6 +32666,7 @@
 0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
+0.0.0.0 lu88.de
 0.0.0.0 lu88.ec
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
@@ -33362,6 +33376,7 @@
 0.0.0.0 man88.bz
 0.0.0.0 man88.co
 0.0.0.0 man88.la
+0.0.0.0 man88.li
 0.0.0.0 man88.net
 0.0.0.0 man88.ng
 0.0.0.0 man88.pl
@@ -41387,6 +41402,7 @@
 0.0.0.0 pl-oferta5y53f44a.cfd
 0.0.0.0 pl-oferta635h5fs7h.click
 0.0.0.0 pl-oferta73072399.click
+0.0.0.0 pl-oferta7353hd6hd.click
 0.0.0.0 pl-oferta736hdt6fe.click
 0.0.0.0 pl-oferta745hf65.shop
 0.0.0.0 pl-oferta74hf84cf4.shop
@@ -41394,9 +41410,11 @@
 0.0.0.0 pl-oferta783692781.cfd
 0.0.0.0 pl-oferta7845hf5f.shop
 0.0.0.0 pl-oferta836hdhye3.click
+0.0.0.0 pl-oferta84df858hf4d.click
 0.0.0.0 pl-oferta857715ha1.click
 0.0.0.0 pl-oferta85fj598f.click
 0.0.0.0 pl-oferta874f5h5.click
+0.0.0.0 pl-oferta879836048.shop
 0.0.0.0 pl-oferta910932.cfd
 0.0.0.0 pl-oferta9182837428923712673281.lat
 0.0.0.0 pl-oferta9837392.sbs
@@ -41408,11 +41426,9 @@
 0.0.0.0 pl-ogloszenia-firmowe-73842.click
 0.0.0.0 pl-ogloszenia-firmowe-83443.click
 0.0.0.0 pl-ogloszenia-firmowe-83445.click
-0.0.0.0 pl-ogloszenia-firmowe-id-332388.sbs
 0.0.0.0 pl-ogloszenia-firmowe-id-883823.click
 0.0.0.0 pl-ogloszenia-firmowe-id823833.click
 0.0.0.0 pl-ogloszenia-firmowe-id833083.click
-0.0.0.0 pl-ogloszenia-firmowe-id83380.click
 0.0.0.0 pl-ogloszenia-firmowe-id838423.click
 0.0.0.0 pl-ogloszenia-firmowe-id8832383.click
 0.0.0.0 pl-ogloszenia-firmowe-id883828.sbs
@@ -50732,6 +50748,7 @@
 0.0.0.0 sjbet.at
 0.0.0.0 sk.1cam.webcam
 0.0.0.0 sk.ball88.app
+0.0.0.0 sk.ball88.casa
 0.0.0.0 sk.ball88.com
 0.0.0.0 sk.ball88.day
 0.0.0.0 sk.ball88.fun
@@ -50775,6 +50792,7 @@
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.fun
 0.0.0.0 sk.xibet.ing
+0.0.0.0 sk.xibet.nz
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.zbet.ws
 0.0.0.0 skachatporno-7.com
@@ -56461,8 +56479,10 @@
 0.0.0.0 tx88.navy
 0.0.0.0 tx88.now
 0.0.0.0 tx88.onl
+0.0.0.0 tx88.photo
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
+0.0.0.0 tx88.zone
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
 0.0.0.0 txxx.ahcdn.com
@@ -58352,6 +58372,7 @@
 0.0.0.0 vinted.pl-oferta5y53f44a.cfd
 0.0.0.0 vinted.pl-oferta635h5fs7h.click
 0.0.0.0 vinted.pl-oferta73072399.click
+0.0.0.0 vinted.pl-oferta7353hd6hd.click
 0.0.0.0 vinted.pl-oferta736hdt6fe.click
 0.0.0.0 vinted.pl-oferta745hf65.shop
 0.0.0.0 vinted.pl-oferta74hf84cf4.shop
@@ -58359,6 +58380,7 @@
 0.0.0.0 vinted.pl-oferta75h547f4.click
 0.0.0.0 vinted.pl-oferta7845hf5f.shop
 0.0.0.0 vinted.pl-oferta836hdhye3.click
+0.0.0.0 vinted.pl-oferta84df858hf4d.click
 0.0.0.0 vinted.pl-oferta857715ha1.click
 0.0.0.0 vinted.pl-oferta85fj598f.click
 0.0.0.0 vinted.pl-oferta874f5h5.click
@@ -58367,11 +58389,9 @@
 0.0.0.0 vinted.pl-ogloszenia-firmowe-73842.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-83443.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-83445.click
-0.0.0.0 vinted.pl-ogloszenia-firmowe-id-332388.sbs
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id-883823.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id823833.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id833083.click
-0.0.0.0 vinted.pl-ogloszenia-firmowe-id83380.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id838423.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id8832383.click
 0.0.0.0 vinted.pl-ogloszenia-firmowe-id883828.sbs
@@ -59112,6 +59132,7 @@
 0.0.0.0 vu88.la
 0.0.0.0 vu88.live
 0.0.0.0 vu88.lv
+0.0.0.0 vu88.moe
 0.0.0.0 vu88.mx
 0.0.0.0 vu88.net
 0.0.0.0 vu88.sh
@@ -70973,6 +70994,7 @@
 0.0.0.0 www.pl-oferta5y53f44a.cfd
 0.0.0.0 www.pl-oferta635h5fs7h.click
 0.0.0.0 www.pl-oferta73072399.click
+0.0.0.0 www.pl-oferta7353hd6hd.click
 0.0.0.0 www.pl-oferta736hdt6fe.click
 0.0.0.0 www.pl-oferta745hf65.shop
 0.0.0.0 www.pl-oferta74hf84cf4.shop
@@ -70980,9 +71002,11 @@
 0.0.0.0 www.pl-oferta783692781.cfd
 0.0.0.0 www.pl-oferta7845hf5f.shop
 0.0.0.0 www.pl-oferta836hdhye3.click
+0.0.0.0 www.pl-oferta84df858hf4d.click
 0.0.0.0 www.pl-oferta857715ha1.click
 0.0.0.0 www.pl-oferta85fj598f.click
 0.0.0.0 www.pl-oferta874f5h5.click
+0.0.0.0 www.pl-oferta879836048.shop
 0.0.0.0 www.pl-oferta910932.cfd
 0.0.0.0 www.pl-oferta9182837428923712673281.lat
 0.0.0.0 www.pl-oferta9837392.sbs
@@ -70994,11 +71018,9 @@
 0.0.0.0 www.pl-ogloszenia-firmowe-73842.click
 0.0.0.0 www.pl-ogloszenia-firmowe-83443.click
 0.0.0.0 www.pl-ogloszenia-firmowe-83445.click
-0.0.0.0 www.pl-ogloszenia-firmowe-id-332388.sbs
 0.0.0.0 www.pl-ogloszenia-firmowe-id-883823.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id823833.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id833083.click
-0.0.0.0 www.pl-ogloszenia-firmowe-id83380.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id838423.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id8832383.click
 0.0.0.0 www.pl-ogloszenia-firmowe-id883828.sbs
@@ -75602,6 +75624,7 @@
 0.0.0.0 www.vinted.pl-oferta5y53f44a.cfd
 0.0.0.0 www.vinted.pl-oferta635h5fs7h.click
 0.0.0.0 www.vinted.pl-oferta73072399.click
+0.0.0.0 www.vinted.pl-oferta7353hd6hd.click
 0.0.0.0 www.vinted.pl-oferta736hdt6fe.click
 0.0.0.0 www.vinted.pl-oferta745hf65.shop
 0.0.0.0 www.vinted.pl-oferta74hf84cf4.shop
@@ -75609,6 +75632,7 @@
 0.0.0.0 www.vinted.pl-oferta75h547f4.click
 0.0.0.0 www.vinted.pl-oferta7845hf5f.shop
 0.0.0.0 www.vinted.pl-oferta836hdhye3.click
+0.0.0.0 www.vinted.pl-oferta84df858hf4d.click
 0.0.0.0 www.vinted.pl-oferta857715ha1.click
 0.0.0.0 www.vinted.pl-oferta85fj598f.click
 0.0.0.0 www.vinted.pl-oferta874f5h5.click
@@ -75617,11 +75641,9 @@
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-73842.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-83443.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-83445.click
-0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id-332388.sbs
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id-883823.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id823833.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id833083.click
-0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id83380.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id838423.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id8832383.click
 0.0.0.0 www.vinted.pl-ogloszenia-firmowe-id883828.sbs
@@ -78492,6 +78514,7 @@
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.ing
+0.0.0.0 xibet.nz
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
@@ -82460,6 +82483,7 @@
 0.0.0.0 zorroporn.pro
 0.0.0.0 zossip.com
 0.0.0.0 zowin.bh
+0.0.0.0 zowin.ci
 0.0.0.0 zowin.esq
 0.0.0.0 zowin.fan
 0.0.0.0 zowin.im
