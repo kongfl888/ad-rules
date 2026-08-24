@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-08-20 21:54:16
+# DATE: 2026-08-24 21:54:11
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41497,27 +41497,26 @@
 0.0.0.0 pkresurs-spb.ru
 0.0.0.0 pkwin1.com
 0.0.0.0 pl-oferta04842855.shop
-0.0.0.0 pl-oferta084828412.click
-0.0.0.0 pl-oferta1203910910.shop
 0.0.0.0 pl-oferta1239391293.shop
 0.0.0.0 pl-oferta19251829432.shop
 0.0.0.0 pl-oferta3281.sbs
+0.0.0.0 pl-oferta37377382.sbs
 0.0.0.0 pl-oferta5291202.shop
 0.0.0.0 pl-oferta529185219.shop
 0.0.0.0 pl-oferta658937811.cfd
 0.0.0.0 pl-oferta7463271.click
 0.0.0.0 pl-oferta764129783.cfd
+0.0.0.0 pl-oferta812281.lol
 0.0.0.0 pl-oferta81267329324.icu
 0.0.0.0 pl-oferta81276832.shop
-0.0.0.0 pl-oferta837419830.shop
 0.0.0.0 pl-oferta84bd74bx4f.click
 0.0.0.0 pl-oferta8731298212.shop
 0.0.0.0 pl-oferta912712672332.icu
+0.0.0.0 pl-oferta981912111.sbs
 0.0.0.0 pl-ofertan1ni5kd.shop
 0.0.0.0 pl-ofertan4ni3jh.shop
 0.0.0.0 pl-ofertan8nhi3ad.shop
 0.0.0.0 pl-ogloszenie-1k851fa.shop
-0.0.0.0 pl-ogloszenie9967883927.cyou
 0.0.0.0 pl-shemale.xvideos2.com.se
 0.0.0.0 pl.1cam.webcam
 0.0.0.0 pl.adultmetas.com
@@ -71110,27 +71109,26 @@
 0.0.0.0 www.pixytube.com
 0.0.0.0 www.pk5.net
 0.0.0.0 www.pl-oferta04842855.shop
-0.0.0.0 www.pl-oferta084828412.click
-0.0.0.0 www.pl-oferta1203910910.shop
 0.0.0.0 www.pl-oferta1239391293.shop
 0.0.0.0 www.pl-oferta19251829432.shop
 0.0.0.0 www.pl-oferta3281.sbs
+0.0.0.0 www.pl-oferta37377382.sbs
 0.0.0.0 www.pl-oferta5291202.shop
 0.0.0.0 www.pl-oferta529185219.shop
 0.0.0.0 www.pl-oferta658937811.cfd
 0.0.0.0 www.pl-oferta7463271.click
 0.0.0.0 www.pl-oferta764129783.cfd
+0.0.0.0 www.pl-oferta812281.lol
 0.0.0.0 www.pl-oferta81267329324.icu
 0.0.0.0 www.pl-oferta81276832.shop
-0.0.0.0 www.pl-oferta837419830.shop
 0.0.0.0 www.pl-oferta84bd74bx4f.click
 0.0.0.0 www.pl-oferta8731298212.shop
 0.0.0.0 www.pl-oferta912712672332.icu
+0.0.0.0 www.pl-oferta981912111.sbs
 0.0.0.0 www.pl-ofertan1ni5kd.shop
 0.0.0.0 www.pl-ofertan4ni3jh.shop
 0.0.0.0 www.pl-ofertan8nhi3ad.shop
 0.0.0.0 www.pl-ogloszenie-1k851fa.shop
-0.0.0.0 www.pl-ogloszenie9967883927.cyou
 0.0.0.0 www.planet-katie.info
 0.0.0.0 www.planetclimax.com
 0.0.0.0 www.planetofbets.com
