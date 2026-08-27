@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-08-24 21:54:11
+# DATE: 2026-08-27 00:59:24
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -121,6 +121,7 @@
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
 0.0.0.0 11win.skin
+0.0.0.0 11win.tips
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
 0.0.0.0 11zalo.com
@@ -1186,6 +1187,7 @@
 0.0.0.0 789club.mw
 0.0.0.0 789club.nu
 0.0.0.0 789club.org
+0.0.0.0 789club.rich
 0.0.0.0 789club.sx
 0.0.0.0 789club.tr
 0.0.0.0 789club.vg
@@ -1432,6 +1434,7 @@
 0.0.0.0 9bet.band
 0.0.0.0 9bet.blue
 0.0.0.0 9bet.care
+0.0.0.0 9bet.diy
 0.0.0.0 9bet.fund
 0.0.0.0 9bet.green
 0.0.0.0 9bet.mobi
@@ -3764,6 +3767,7 @@
 0.0.0.0 api.9bet.army
 0.0.0.0 api.9bet.band
 0.0.0.0 api.9bet.care
+0.0.0.0 api.9bet.diy
 0.0.0.0 api.9bet.fund
 0.0.0.0 api.9bet.green
 0.0.0.0 api.9bet.mobi
@@ -7194,6 +7198,7 @@
 0.0.0.0 bollywoodxxx.pro
 0.0.0.0 bologna.trovagnocca.com
 0.0.0.0 bom52.club
+0.0.0.0 bom88.ac
 0.0.0.0 bom88.baby
 0.0.0.0 bom88.casa
 0.0.0.0 bom88.city
@@ -14607,6 +14612,7 @@
 0.0.0.0 du88.football
 0.0.0.0 du88.guru
 0.0.0.0 du88.health
+0.0.0.0 du88.house
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
@@ -29628,6 +29634,7 @@
 0.0.0.0 javhdsex.net
 0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
+0.0.0.0 javhdz.cam
 0.0.0.0 javhdz.city
 0.0.0.0 javhdz.fun
 0.0.0.0 javhdz.hot
@@ -29790,6 +29797,7 @@
 0.0.0.0 javstreams.me
 0.0.0.0 javsts.com
 0.0.0.0 javstudio.net
+0.0.0.0 javsub.blog
 0.0.0.0 javsub.cc
 0.0.0.0 javsub.co
 0.0.0.0 javsub.live
@@ -30453,6 +30461,7 @@
 0.0.0.0 k88.mov
 0.0.0.0 k88.nz
 0.0.0.0 k88.pro
+0.0.0.0 k88.soy
 0.0.0.0 k88.sx
 0.0.0.0 k88.tel
 0.0.0.0 k88.vc
@@ -32755,6 +32764,7 @@
 0.0.0.0 lturl.net
 0.0.0.0 lu.xporno.me
 0.0.0.0 lu88.ai
+0.0.0.0 lu88.bio
 0.0.0.0 lu88.ch
 0.0.0.0 lu88.co
 0.0.0.0 lu88.com
@@ -33490,6 +33500,7 @@
 0.0.0.0 man88.vip
 0.0.0.0 man88.vu
 0.0.0.0 man88.win
+0.0.0.0 man88.xin
 0.0.0.0 manatoki122.net
 0.0.0.0 manclub.live
 0.0.0.0 manclub.us
@@ -41496,6 +41507,7 @@
 0.0.0.0 pk5.net
 0.0.0.0 pkresurs-spb.ru
 0.0.0.0 pkwin1.com
+0.0.0.0 pl-oferta01976.icu
 0.0.0.0 pl-oferta04842855.shop
 0.0.0.0 pl-oferta1239391293.shop
 0.0.0.0 pl-oferta19251829432.shop
@@ -41504,17 +41516,14 @@
 0.0.0.0 pl-oferta5291202.shop
 0.0.0.0 pl-oferta529185219.shop
 0.0.0.0 pl-oferta658937811.cfd
-0.0.0.0 pl-oferta7463271.click
 0.0.0.0 pl-oferta764129783.cfd
 0.0.0.0 pl-oferta812281.lol
-0.0.0.0 pl-oferta81267329324.icu
-0.0.0.0 pl-oferta81276832.shop
+0.0.0.0 pl-oferta81811.sbs
 0.0.0.0 pl-oferta84bd74bx4f.click
 0.0.0.0 pl-oferta8731298212.shop
-0.0.0.0 pl-oferta912712672332.icu
+0.0.0.0 pl-oferta9012.sbs
 0.0.0.0 pl-oferta981912111.sbs
 0.0.0.0 pl-ofertan1ni5kd.shop
-0.0.0.0 pl-ofertan4ni3jh.shop
 0.0.0.0 pl-ofertan8nhi3ad.shop
 0.0.0.0 pl-ogloszenie-1k851fa.shop
 0.0.0.0 pl-shemale.xvideos2.com.se
@@ -41695,6 +41704,7 @@
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
 0.0.0.0 play.vicclub.ac
+0.0.0.0 play.vicclub.id
 0.0.0.0 play.vicclub.sh
 0.0.0.0 play.vip79.top
 0.0.0.0 play.win79.vip
@@ -45890,6 +45900,7 @@
 0.0.0.0 pub.xxx
 0.0.0.0 pub88.camera
 0.0.0.0 pub88.channel
+0.0.0.0 pub88.charity
 0.0.0.0 pub88.com
 0.0.0.0 pub88.day
 0.0.0.0 pub88.forum
@@ -50890,6 +50901,7 @@
 0.0.0.0 sk.xibet.pl
 0.0.0.0 sk.xibet.red
 0.0.0.0 sk.xibet.soy
+0.0.0.0 sk.xibet.tax
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.xibet.wtf
 0.0.0.0 sk.zbet.ws
@@ -51179,6 +51191,7 @@
 0.0.0.0 socket.9bet.army
 0.0.0.0 socket.9bet.band
 0.0.0.0 socket.9bet.care
+0.0.0.0 socket.9bet.diy
 0.0.0.0 socket.9bet.fund
 0.0.0.0 socket.9bet.green
 0.0.0.0 socket.9bet.mobi
@@ -54647,7 +54660,6 @@
 0.0.0.0 tibornemes.com
 0.0.0.0 tic88.com
 0.0.0.0 ticketmaster.pl-oferta21929878.click
-0.0.0.0 ticketmaster.pl-oferta2193799.click
 0.0.0.0 ticketmaster.pl-oferta27919729.click
 0.0.0.0 ticketmaster.pl-oferta749876187.cfd
 0.0.0.0 tickzoo.tv
@@ -56586,6 +56598,7 @@
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fashion
 0.0.0.0 tx88.fun
+0.0.0.0 tx88.fund
 0.0.0.0 tx88.fyi
 0.0.0.0 tx88.games
 0.0.0.0 tx88.hot
@@ -57624,6 +57637,7 @@
 0.0.0.0 vic88.mx
 0.0.0.0 vic88.net
 0.0.0.0 vicclub.ac
+0.0.0.0 vicclub.id
 0.0.0.0 vicclub.sh
 0.0.0.0 viceincomics.com
 0.0.0.0 vichlenitel.com
@@ -58491,10 +58505,8 @@
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta1239391293.shop
 0.0.0.0 vinted.pl-oferta3281.sbs
-0.0.0.0 vinted.pl-oferta7463271.click
 0.0.0.0 vinted.pl-oferta84bd74bx4f.click
 0.0.0.0 vinted.pl-ofertan1ni5kd.shop
-0.0.0.0 vinted.pl-ofertan4ni3jh.shop
 0.0.0.0 vinted.pl-ofertan8nhi3ad.shop
 0.0.0.0 vinted.pl-ogloszenie-1k851fa.shop
 0.0.0.0 vintporn.com
@@ -58881,6 +58893,7 @@
 0.0.0.0 vlxx.net
 0.0.0.0 vlxx.network
 0.0.0.0 vlxx.pet
+0.0.0.0 vlxx.phd
 0.0.0.0 vlxx.pw
 0.0.0.0 vlxx.rocks
 0.0.0.0 vlxx.ru
@@ -59242,6 +59255,7 @@
 0.0.0.0 vu88.ng
 0.0.0.0 vu88.ro
 0.0.0.0 vu88.sh
+0.0.0.0 vu88.tel
 0.0.0.0 vu88.tv
 0.0.0.0 vu88.vu
 0.0.0.0 vu88.ws
@@ -60201,6 +60215,7 @@
 0.0.0.0 wp.9bet.army
 0.0.0.0 wp.9bet.band
 0.0.0.0 wp.9bet.care
+0.0.0.0 wp.9bet.diy
 0.0.0.0 wp.9bet.fund
 0.0.0.0 wp.9bet.green
 0.0.0.0 wp.9bet.mobi
@@ -71108,6 +71123,7 @@
 0.0.0.0 www.pixroute.com
 0.0.0.0 www.pixytube.com
 0.0.0.0 www.pk5.net
+0.0.0.0 www.pl-oferta01976.icu
 0.0.0.0 www.pl-oferta04842855.shop
 0.0.0.0 www.pl-oferta1239391293.shop
 0.0.0.0 www.pl-oferta19251829432.shop
@@ -71116,17 +71132,14 @@
 0.0.0.0 www.pl-oferta5291202.shop
 0.0.0.0 www.pl-oferta529185219.shop
 0.0.0.0 www.pl-oferta658937811.cfd
-0.0.0.0 www.pl-oferta7463271.click
 0.0.0.0 www.pl-oferta764129783.cfd
 0.0.0.0 www.pl-oferta812281.lol
-0.0.0.0 www.pl-oferta81267329324.icu
-0.0.0.0 www.pl-oferta81276832.shop
+0.0.0.0 www.pl-oferta81811.sbs
 0.0.0.0 www.pl-oferta84bd74bx4f.click
 0.0.0.0 www.pl-oferta8731298212.shop
-0.0.0.0 www.pl-oferta912712672332.icu
+0.0.0.0 www.pl-oferta9012.sbs
 0.0.0.0 www.pl-oferta981912111.sbs
 0.0.0.0 www.pl-ofertan1ni5kd.shop
-0.0.0.0 www.pl-ofertan4ni3jh.shop
 0.0.0.0 www.pl-ofertan8nhi3ad.shop
 0.0.0.0 www.pl-ogloszenie-1k851fa.shop
 0.0.0.0 www.planet-katie.info
@@ -74788,7 +74801,6 @@
 0.0.0.0 www.tiavasforum.com
 0.0.0.0 www.tiavaswebcams.com
 0.0.0.0 www.ticketmaster.pl-oferta21929878.click
-0.0.0.0 www.ticketmaster.pl-oferta2193799.click
 0.0.0.0 www.ticketmaster.pl-oferta27919729.click
 0.0.0.0 www.ticketmaster.pl-oferta749876187.cfd
 0.0.0.0 www.ticktaxxx.com
@@ -75719,10 +75731,8 @@
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta1239391293.shop
 0.0.0.0 www.vinted.pl-oferta3281.sbs
-0.0.0.0 www.vinted.pl-oferta7463271.click
 0.0.0.0 www.vinted.pl-oferta84bd74bx4f.click
 0.0.0.0 www.vinted.pl-ofertan1ni5kd.shop
-0.0.0.0 www.vinted.pl-ofertan4ni3jh.shop
 0.0.0.0 www.vinted.pl-ofertan8nhi3ad.shop
 0.0.0.0 www.vinted.pl-ogloszenie-1k851fa.shop
 0.0.0.0 www.vintporn.com
@@ -78594,6 +78604,7 @@
 0.0.0.0 xibet.pl
 0.0.0.0 xibet.red
 0.0.0.0 xibet.soy
+0.0.0.0 xibet.tax
 0.0.0.0 xibet.uno
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
@@ -82576,6 +82587,7 @@
 0.0.0.0 zowin.ng
 0.0.0.0 zowin.ph
 0.0.0.0 zowin.red
+0.0.0.0 zowin.ro
 0.0.0.0 zowin.sh
 0.0.0.0 zowin.srl
 0.0.0.0 zowin.st
