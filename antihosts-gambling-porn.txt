@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-09-04 23:12:05
+# DATE: 2026-09-07 23:41:27
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41544,6 +41544,7 @@
 0.0.0.0 pl-oferta37377382.sbs
 0.0.0.0 pl-oferta3920481.shop
 0.0.0.0 pl-oferta46879.lol
+0.0.0.0 pl-oferta5647654.shop
 0.0.0.0 pl-oferta594583.shop
 0.0.0.0 pl-oferta6484958.shop
 0.0.0.0 pl-oferta68902840231235.click
@@ -41551,6 +41552,7 @@
 0.0.0.0 pl-oferta746392178.shop
 0.0.0.0 pl-oferta748103810.cfd
 0.0.0.0 pl-oferta764129783.cfd
+0.0.0.0 pl-oferta78224.click
 0.0.0.0 pl-oferta783694.biz
 0.0.0.0 pl-oferta78429.lol
 0.0.0.0 pl-oferta812281.lol
@@ -41562,6 +41564,8 @@
 0.0.0.0 pl-oferta896712.lol
 0.0.0.0 pl-oferta9012.sbs
 0.0.0.0 pl-oferta981912111.sbs
+0.0.0.0 pl-ogloszenie-prywatne7584645.click
+0.0.0.0 pl-ogloszenie-tomaszkaraszewski-52.click
 0.0.0.0 pl-ogloszenie5128592891591.shop
 0.0.0.0 pl-ogloszenie5722931873.lol
 0.0.0.0 pl-ogloszenie6753998232.lol
@@ -54711,7 +54715,6 @@
 0.0.0.0 tiavaswebcams.com
 0.0.0.0 tibornemes.com
 0.0.0.0 tic88.com
-0.0.0.0 ticketmaster.pl-oferta27919729.click
 0.0.0.0 ticketmaster.pl-oferta749876187.cfd
 0.0.0.0 tickzoo.tv
 0.0.0.0 ticxxx.com
@@ -58562,11 +58565,14 @@
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta3920481.shop
+0.0.0.0 vinted.pl-oferta5647654.shop
 0.0.0.0 vinted.pl-oferta6484958.shop
 0.0.0.0 vinted.pl-oferta746392178.shop
 0.0.0.0 vinted.pl-oferta748103810.cfd
+0.0.0.0 vinted.pl-oferta78224.click
 0.0.0.0 vinted.pl-oferta8312.sbs
 0.0.0.0 vinted.pl-oferta84123.sbs
+0.0.0.0 vinted.pl-ogloszenie-tomaszkaraszewski-52.click
 0.0.0.0 vinted.pl-ogloszenie5128592891591.shop
 0.0.0.0 vinted.pl-ogloszenie5722931873.lol
 0.0.0.0 vinted.pl-ogloszenie6753998232.lol
@@ -71196,6 +71202,7 @@
 0.0.0.0 www.pl-oferta37377382.sbs
 0.0.0.0 www.pl-oferta3920481.shop
 0.0.0.0 www.pl-oferta46879.lol
+0.0.0.0 www.pl-oferta5647654.shop
 0.0.0.0 www.pl-oferta594583.shop
 0.0.0.0 www.pl-oferta6484958.shop
 0.0.0.0 www.pl-oferta68902840231235.click
@@ -71203,6 +71210,7 @@
 0.0.0.0 www.pl-oferta746392178.shop
 0.0.0.0 www.pl-oferta748103810.cfd
 0.0.0.0 www.pl-oferta764129783.cfd
+0.0.0.0 www.pl-oferta78224.click
 0.0.0.0 www.pl-oferta783694.biz
 0.0.0.0 www.pl-oferta78429.lol
 0.0.0.0 www.pl-oferta812281.lol
@@ -71214,6 +71222,8 @@
 0.0.0.0 www.pl-oferta896712.lol
 0.0.0.0 www.pl-oferta9012.sbs
 0.0.0.0 www.pl-oferta981912111.sbs
+0.0.0.0 www.pl-ogloszenie-prywatne7584645.click
+0.0.0.0 www.pl-ogloszenie-tomaszkaraszewski-52.click
 0.0.0.0 www.pl-ogloszenie5128592891591.shop
 0.0.0.0 www.pl-ogloszenie5722931873.lol
 0.0.0.0 www.pl-ogloszenie6753998232.lol
@@ -74877,7 +74887,6 @@
 0.0.0.0 www.tiava.com
 0.0.0.0 www.tiavasforum.com
 0.0.0.0 www.tiavaswebcams.com
-0.0.0.0 www.ticketmaster.pl-oferta27919729.click
 0.0.0.0 www.ticketmaster.pl-oferta749876187.cfd
 0.0.0.0 www.ticktaxxx.com
 0.0.0.0 www.tiedup.tv
@@ -75806,11 +75815,14 @@
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta3920481.shop
+0.0.0.0 www.vinted.pl-oferta5647654.shop
 0.0.0.0 www.vinted.pl-oferta6484958.shop
 0.0.0.0 www.vinted.pl-oferta746392178.shop
 0.0.0.0 www.vinted.pl-oferta748103810.cfd
+0.0.0.0 www.vinted.pl-oferta78224.click
 0.0.0.0 www.vinted.pl-oferta8312.sbs
 0.0.0.0 www.vinted.pl-oferta84123.sbs
+0.0.0.0 www.vinted.pl-ogloszenie-tomaszkaraszewski-52.click
 0.0.0.0 www.vinted.pl-ogloszenie5128592891591.shop
 0.0.0.0 www.vinted.pl-ogloszenie5722931873.lol
 0.0.0.0 www.vinted.pl-ogloszenie6753998232.lol
