@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-09-07 23:41:27
+# DATE: 2026-09-09 23:27:28
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1291,6 +1291,7 @@
 0.0.0.0 888b.trade
 0.0.0.0 888bvn.vip
 0.0.0.0 888sport.com
+0.0.0.0 888sport.de
 0.0.0.0 888thao.com
 0.0.0.0 88asia88.com
 0.0.0.0 88bet88bet.com
@@ -6267,6 +6268,7 @@
 0.0.0.0 bestzzporno.org
 0.0.0.0 beszamolok.com
 0.0.0.0 bet-52.com
+0.0.0.0 bet-at-home.de
 0.0.0.0 bet-csgo.com
 0.0.0.0 bet.co.za
 0.0.0.0 bet.hkjc.com
@@ -6279,8 +6281,10 @@
 0.0.0.0 bet2875.com
 0.0.0.0 bet2earn.net
 0.0.0.0 bet3000.com
+0.0.0.0 bet3000.de
 0.0.0.0 bet33.com
 0.0.0.0 bet365.com
+0.0.0.0 bet365.de
 0.0.0.0 bet66.com
 0.0.0.0 bet7days.com
 0.0.0.0 bet88.ai
@@ -6306,10 +6310,12 @@
 0.0.0.0 betandclick.com
 0.0.0.0 betano.bg
 0.0.0.0 betano.cz
+0.0.0.0 betano.de
 0.0.0.0 betano.pt
 0.0.0.0 betanysports.eu
 0.0.0.0 betbanh88.com
 0.0.0.0 betbanks.com
+0.0.0.0 betbird.de
 0.0.0.0 betboro.com
 0.0.0.0 betbright.com
 0.0.0.0 betbuckeyesports.com
@@ -6424,6 +6430,8 @@
 0.0.0.0 betsson.com
 0.0.0.0 betsson37.com
 0.0.0.0 betstar.com.au
+0.0.0.0 betstar.sportwetten.de
+0.0.0.0 betstar.sw.de
 0.0.0.0 betstars.com
 0.0.0.0 betswar.com
 0.0.0.0 bettap.com
@@ -6460,6 +6468,7 @@
 0.0.0.0 betway.bg
 0.0.0.0 betway.co.ke
 0.0.0.0 betway.com
+0.0.0.0 betway.de
 0.0.0.0 betway.pt
 0.0.0.0 between-legs.com
 0.0.0.0 betwinner.ng
@@ -7983,6 +7992,7 @@
 0.0.0.0 buzzpornmovies.com
 0.0.0.0 buzzwebcams.com
 0.0.0.0 bwin.com
+0.0.0.0 bwin.de
 0.0.0.0 bwin.pt
 0.0.0.0 bwing88.com
 0.0.0.0 bwingno1.com
@@ -13071,6 +13081,7 @@
 0.0.0.0 dayerotica.com
 0.0.0.0 daysiperez.sezzcams.com
 0.0.0.0 dayteens.com
+0.0.0.0 daznbet.de
 0.0.0.0 db.seexxvid.com
 0.0.0.0 dbestporn.com
 0.0.0.0 dbnaked.com
@@ -16416,6 +16427,7 @@
 0.0.0.0 extrime-list.com
 0.0.0.0 exvid.gr
 0.0.0.0 exvideos.fun
+0.0.0.0 exviet69.cc
 0.0.0.0 exwifesexbook.com
 0.0.0.0 exxxn.com
 0.0.0.0 exxxtra.net
@@ -28264,6 +28276,7 @@
 0.0.0.0 interracialxxxvideo.net
 0.0.0.0 intertops.eu
 0.0.0.0 interwetten.com
+0.0.0.0 interwetten.de
 0.0.0.0 intescort.com
 0.0.0.0 inthecrack.com
 0.0.0.0 inthecrack.in
@@ -31620,6 +31633,7 @@
 0.0.0.0 leccitral.livecunt.club
 0.0.0.0 leche69.com
 0.0.0.0 lecheanal.com
+0.0.0.0 lechitax.com
 0.0.0.0 leechporn.com
 0.0.0.0 leenno.com
 0.0.0.0 leenom.com
@@ -31902,6 +31916,7 @@
 0.0.0.0 letmejerksite.com
 0.0.0.0 letoporn.com
 0.0.0.0 letsbet.com
+0.0.0.0 letsbet.de
 0.0.0.0 letsdoeit.com
 0.0.0.0 letsgirlz.com
 0.0.0.0 letsgobi.com
@@ -33212,6 +33227,7 @@
 0.0.0.0 m.xhamster.com
 0.0.0.0 m.xhamsterlive.com
 0.0.0.0 m.xn----ztbcbceder.net
+0.0.0.0 m.xnhau.city
 0.0.0.0 m.xnxx.com
 0.0.0.0 m.xtoons.art
 0.0.0.0 m.xvideos.fr
@@ -34526,6 +34542,8 @@
 0.0.0.0 mereporno.com
 0.0.0.0 mereporno.org
 0.0.0.0 meridianbet.com
+0.0.0.0 merkur-sports.de
+0.0.0.0 merkurbets.de
 0.0.0.0 merry-angels-top.ma.cx
 0.0.0.0 merryangels.com
 0.0.0.0 merryangels.info
@@ -39077,6 +39095,7 @@
 0.0.0.0 origin.net88.asia
 0.0.0.0 origin.pornhub.com
 0.0.0.0 origin.shameless.com
+0.0.0.0 original-wetten.de
 0.0.0.0 originalhindiporn.mobi
 0.0.0.0 originalindianporn.com
 0.0.0.0 originporn.com
@@ -40515,6 +40534,7 @@
 0.0.0.0 pcz.volasw.com
 0.0.0.0 pcz.wowindiansex.info
 0.0.0.0 pdcams.com
+0.0.0.0 pddset.de
 0.0.0.0 pe.bdsmu.com
 0.0.0.0 peacefire.org
 0.0.0.0 peacefulporn.com
@@ -41544,6 +41564,7 @@
 0.0.0.0 pl-oferta37377382.sbs
 0.0.0.0 pl-oferta3920481.shop
 0.0.0.0 pl-oferta46879.lol
+0.0.0.0 pl-oferta52724.click
 0.0.0.0 pl-oferta5647654.shop
 0.0.0.0 pl-oferta594583.shop
 0.0.0.0 pl-oferta6484958.shop
@@ -41551,6 +41572,8 @@
 0.0.0.0 pl-oferta6893457623479.sbs
 0.0.0.0 pl-oferta746392178.shop
 0.0.0.0 pl-oferta748103810.cfd
+0.0.0.0 pl-oferta749081263.cfd
+0.0.0.0 pl-oferta76218.click
 0.0.0.0 pl-oferta764129783.cfd
 0.0.0.0 pl-oferta78224.click
 0.0.0.0 pl-oferta783694.biz
@@ -41559,14 +41582,21 @@
 0.0.0.0 pl-oferta81811.sbs
 0.0.0.0 pl-oferta8312.sbs
 0.0.0.0 pl-oferta84123.sbs
+0.0.0.0 pl-oferta87344537.click
 0.0.0.0 pl-oferta8745329.lol
 0.0.0.0 pl-oferta89657082415.shop
 0.0.0.0 pl-oferta896712.lol
 0.0.0.0 pl-oferta9012.sbs
+0.0.0.0 pl-oferta92831.lol
 0.0.0.0 pl-oferta981912111.sbs
+0.0.0.0 pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 pl-ogloszenie-prywatne7584645.click
+0.0.0.0 pl-ogloszenie-prywatne763637483.click
+0.0.0.0 pl-ogloszenie-prywatne765256384.click
 0.0.0.0 pl-ogloszenie-tomaszkaraszewski-52.click
+0.0.0.0 pl-ogloszenie4567998231.top
 0.0.0.0 pl-ogloszenie5128592891591.shop
+0.0.0.0 pl-ogloszenie5672993186.top
 0.0.0.0 pl-ogloszenie5722931873.lol
 0.0.0.0 pl-ogloszenie6753998232.lol
 0.0.0.0 pl-ogloszenie8517181.shop
@@ -49669,6 +49699,7 @@
 0.0.0.0 sexstationtv.com
 0.0.0.0 sexstories-top.com
 0.0.0.0 sexstories.com
+0.0.0.0 sexstories69.com
 0.0.0.0 sexstoriespost.com
 0.0.0.0 sexstream4free.com
 0.0.0.0 sexsub.xyz
@@ -51558,6 +51589,7 @@
 0.0.0.0 sportfanatik.com
 0.0.0.0 sportingbet.com
 0.0.0.0 sportingbet.com.au
+0.0.0.0 sportingbet.de
 0.0.0.0 sportingindex.com
 0.0.0.0 sportlife.com.mk
 0.0.0.0 sportodds.com
@@ -51596,6 +51628,7 @@
 0.0.0.0 sportsspread.com
 0.0.0.0 sportstoto.com.my
 0.0.0.0 sporttime.net
+0.0.0.0 sportwetten.de
 0.0.0.0 sportybet.com
 0.0.0.0 sportzbookz.com
 0.0.0.0 spreadex.com
@@ -52401,6 +52434,7 @@
 0.0.0.0 sunwin.inc
 0.0.0.0 sunwin.lt
 0.0.0.0 sunwin.moi
+0.0.0.0 sunwin.parts
 0.0.0.0 sunwin.pro
 0.0.0.0 sunwin.pw
 0.0.0.0 sunwin.show
@@ -54831,6 +54865,7 @@
 0.0.0.0 tip88vn.me
 0.0.0.0 tipbet.com
 0.0.0.0 tipico.com
+0.0.0.0 tipico.de
 0.0.0.0 tipkeo.thethaofb88.com
 0.0.0.0 tipkeomoingay.club
 0.0.0.0 tipos.sk
@@ -54838,7 +54873,9 @@
 0.0.0.0 tippelstraat.nl
 0.0.0.0 tipsport.cz
 0.0.0.0 tiptoday.com
+0.0.0.0 tiptorro.de
 0.0.0.0 tipwin.com
+0.0.0.0 tipwin.de
 0.0.0.0 tirnakdunya.com
 0.0.0.0 tirupatihotsexgallery.lexixxx.com
 0.0.0.0 tissue-sg.tlsext.com
@@ -57347,6 +57384,7 @@
 0.0.0.0 vb9.biz
 0.0.0.0 vbbwporn.com
 0.0.0.0 vbet.com
+0.0.0.0 vbet.de
 0.0.0.0 vbet88.fun
 0.0.0.0 vc.xnxx.com
 0.0.0.0 vc.xvideos.com
@@ -58565,15 +58603,24 @@
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta3920481.shop
+0.0.0.0 vinted.pl-oferta52724.click
 0.0.0.0 vinted.pl-oferta5647654.shop
 0.0.0.0 vinted.pl-oferta6484958.shop
 0.0.0.0 vinted.pl-oferta746392178.shop
 0.0.0.0 vinted.pl-oferta748103810.cfd
+0.0.0.0 vinted.pl-oferta749081263.cfd
+0.0.0.0 vinted.pl-oferta76218.click
 0.0.0.0 vinted.pl-oferta78224.click
 0.0.0.0 vinted.pl-oferta8312.sbs
 0.0.0.0 vinted.pl-oferta84123.sbs
+0.0.0.0 vinted.pl-oferta92831.lol
+0.0.0.0 vinted.pl-ogloszenie-pawelwisniewski9-29.click
+0.0.0.0 vinted.pl-ogloszenie-prywatne763637483.click
+0.0.0.0 vinted.pl-ogloszenie-prywatne765256384.click
 0.0.0.0 vinted.pl-ogloszenie-tomaszkaraszewski-52.click
+0.0.0.0 vinted.pl-ogloszenie4567998231.top
 0.0.0.0 vinted.pl-ogloszenie5128592891591.shop
+0.0.0.0 vinted.pl-ogloszenie5672993186.top
 0.0.0.0 vinted.pl-ogloszenie5722931873.lol
 0.0.0.0 vinted.pl-ogloszenie6753998232.lol
 0.0.0.0 vinted.pl-ogloszenie8517181.shop
@@ -59928,6 +59975,7 @@
 0.0.0.0 wetsins.com
 0.0.0.0 wetsnatch.club
 0.0.0.0 wetstepmomporn.com
+0.0.0.0 wettarena.de
 0.0.0.0 wetteennude.com
 0.0.0.0 wetteenpics.com
 0.0.0.0 wetteenporn.com
@@ -60132,6 +60180,7 @@
 0.0.0.0 win79play.me
 0.0.0.0 win888b.com
 0.0.0.0 win999.vip
+0.0.0.0 winamax.de
 0.0.0.0 winbet.bg
 0.0.0.0 winbet288.com
 0.0.0.0 winbet58.live
@@ -70341,7 +70390,6 @@
 0.0.0.0 www.nichetopsites.com
 0.0.0.0 www.nichewebcams.com
 0.0.0.0 www.nicolegravesvideo.com
-0.0.0.0 www.nicovideo.jp
 0.0.0.0 www.nifty.org
 0.0.0.0 www.night24.com
 0.0.0.0 www.nightangel.com
@@ -71202,6 +71250,7 @@
 0.0.0.0 www.pl-oferta37377382.sbs
 0.0.0.0 www.pl-oferta3920481.shop
 0.0.0.0 www.pl-oferta46879.lol
+0.0.0.0 www.pl-oferta52724.click
 0.0.0.0 www.pl-oferta5647654.shop
 0.0.0.0 www.pl-oferta594583.shop
 0.0.0.0 www.pl-oferta6484958.shop
@@ -71209,6 +71258,8 @@
 0.0.0.0 www.pl-oferta6893457623479.sbs
 0.0.0.0 www.pl-oferta746392178.shop
 0.0.0.0 www.pl-oferta748103810.cfd
+0.0.0.0 www.pl-oferta749081263.cfd
+0.0.0.0 www.pl-oferta76218.click
 0.0.0.0 www.pl-oferta764129783.cfd
 0.0.0.0 www.pl-oferta78224.click
 0.0.0.0 www.pl-oferta783694.biz
@@ -71217,14 +71268,21 @@
 0.0.0.0 www.pl-oferta81811.sbs
 0.0.0.0 www.pl-oferta8312.sbs
 0.0.0.0 www.pl-oferta84123.sbs
+0.0.0.0 www.pl-oferta87344537.click
 0.0.0.0 www.pl-oferta8745329.lol
 0.0.0.0 www.pl-oferta89657082415.shop
 0.0.0.0 www.pl-oferta896712.lol
 0.0.0.0 www.pl-oferta9012.sbs
+0.0.0.0 www.pl-oferta92831.lol
 0.0.0.0 www.pl-oferta981912111.sbs
+0.0.0.0 www.pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 www.pl-ogloszenie-prywatne7584645.click
+0.0.0.0 www.pl-ogloszenie-prywatne763637483.click
+0.0.0.0 www.pl-ogloszenie-prywatne765256384.click
 0.0.0.0 www.pl-ogloszenie-tomaszkaraszewski-52.click
+0.0.0.0 www.pl-ogloszenie4567998231.top
 0.0.0.0 www.pl-ogloszenie5128592891591.shop
+0.0.0.0 www.pl-ogloszenie5672993186.top
 0.0.0.0 www.pl-ogloszenie5722931873.lol
 0.0.0.0 www.pl-ogloszenie6753998232.lol
 0.0.0.0 www.pl-ogloszenie8517181.shop
@@ -75815,15 +75873,24 @@
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta3920481.shop
+0.0.0.0 www.vinted.pl-oferta52724.click
 0.0.0.0 www.vinted.pl-oferta5647654.shop
 0.0.0.0 www.vinted.pl-oferta6484958.shop
 0.0.0.0 www.vinted.pl-oferta746392178.shop
 0.0.0.0 www.vinted.pl-oferta748103810.cfd
+0.0.0.0 www.vinted.pl-oferta749081263.cfd
+0.0.0.0 www.vinted.pl-oferta76218.click
 0.0.0.0 www.vinted.pl-oferta78224.click
 0.0.0.0 www.vinted.pl-oferta8312.sbs
 0.0.0.0 www.vinted.pl-oferta84123.sbs
+0.0.0.0 www.vinted.pl-oferta92831.lol
+0.0.0.0 www.vinted.pl-ogloszenie-pawelwisniewski9-29.click
+0.0.0.0 www.vinted.pl-ogloszenie-prywatne763637483.click
+0.0.0.0 www.vinted.pl-ogloszenie-prywatne765256384.click
 0.0.0.0 www.vinted.pl-ogloszenie-tomaszkaraszewski-52.click
+0.0.0.0 www.vinted.pl-ogloszenie4567998231.top
 0.0.0.0 www.vinted.pl-ogloszenie5128592891591.shop
+0.0.0.0 www.vinted.pl-ogloszenie5672993186.top
 0.0.0.0 www.vinted.pl-ogloszenie5722931873.lol
 0.0.0.0 www.vinted.pl-ogloszenie6753998232.lol
 0.0.0.0 www.vinted.pl-ogloszenie8517181.shop
@@ -78959,6 +79026,7 @@
 0.0.0.0 xneon.com
 0.0.0.0 xngay.com
 0.0.0.0 xnhau.blog
+0.0.0.0 xnhau.city
 0.0.0.0 xnhau.io
 0.0.0.0 xnhau.moe
 0.0.0.0 xnightflight.com
