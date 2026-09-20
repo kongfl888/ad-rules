@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-09-17 23:37:11
+# DATE: 2026-09-20 23:23:55
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -114,6 +114,7 @@
 0.0.0.0 11wickets.com
 0.0.0.0 11win.beer
 0.0.0.0 11win.casa
+0.0.0.0 11win.dance
 0.0.0.0 11win.fashion
 0.0.0.0 11win.free
 0.0.0.0 11win.link
@@ -1193,6 +1194,7 @@
 0.0.0.0 789club.nu
 0.0.0.0 789club.org
 0.0.0.0 789club.rich
+0.0.0.0 789club.spa
 0.0.0.0 789club.sx
 0.0.0.0 789club.tr
 0.0.0.0 789club.vg
@@ -1446,6 +1448,7 @@
 0.0.0.0 9bet.green
 0.0.0.0 9bet.krd
 0.0.0.0 9bet.mobi
+0.0.0.0 9bet.navy
 0.0.0.0 9bet.net
 0.0.0.0 9bet.photo
 0.0.0.0 9bet.pink
@@ -7216,10 +7219,12 @@
 0.0.0.0 bologna.trovagnocca.com
 0.0.0.0 bom52.club
 0.0.0.0 bom88.ac
+0.0.0.0 bom88.adqc.net
 0.0.0.0 bom88.baby
 0.0.0.0 bom88.casa
 0.0.0.0 bom88.city
 0.0.0.0 bom88.click
+0.0.0.0 bom88.coach
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
 0.0.0.0 bom88.diy
@@ -14625,6 +14630,7 @@
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
 0.0.0.0 du88.care
+0.0.0.0 du88.chat
 0.0.0.0 du88.click
 0.0.0.0 du88.club
 0.0.0.0 du88.com
@@ -21628,6 +21634,7 @@
 0.0.0.0 gvdblog.cc
 0.0.0.0 gvnvh18.com
 0.0.0.0 gw.gen88.com
+0.0.0.0 gw.mubet.care
 0.0.0.0 gw.mubet.help
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
@@ -22051,6 +22058,7 @@
 0.0.0.0 hbet.bio
 0.0.0.0 hbet.club
 0.0.0.0 hbet.cz
+0.0.0.0 hbet.esq
 0.0.0.0 hbet.fm
 0.0.0.0 hbet.la
 0.0.0.0 hbet.li
@@ -22977,9 +22985,11 @@
 0.0.0.0 heovl.cc
 0.0.0.0 heovl.com
 0.0.0.0 heovl.fun
+0.0.0.0 heovl.im
 0.0.0.0 heovl.live
 0.0.0.0 heovl.me
 0.0.0.0 heovl.moe
+0.0.0.0 heovl.name
 0.0.0.0 heovl.net
 0.0.0.0 heovl.tube
 0.0.0.0 heovl.tv
@@ -23255,6 +23265,7 @@
 0.0.0.0 hogclips.com
 0.0.0.0 hogtied.com
 0.0.0.0 hohoj.tv
+0.0.0.0 hoibannghien.com
 0.0.0.0 hokagay.ru
 0.0.0.0 holaporno.xxx
 0.0.0.0 holdgently.com
@@ -29626,6 +29637,7 @@
 0.0.0.0 javhd.im
 0.0.0.0 javhd.lol
 0.0.0.0 javhd.moe
+0.0.0.0 javhd.mov
 0.0.0.0 javhd.network
 0.0.0.0 javhd.ninja
 0.0.0.0 javhd.one
@@ -29666,6 +29678,7 @@
 0.0.0.0 javhdsex.net
 0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
+0.0.0.0 javhdz.ac
 0.0.0.0 javhdz.cam
 0.0.0.0 javhdz.city
 0.0.0.0 javhdz.fun
@@ -30487,6 +30500,7 @@
 0.0.0.0 k88.bz
 0.0.0.0 k88.cam
 0.0.0.0 k88.club
+0.0.0.0 k88.cyou
 0.0.0.0 k88.day
 0.0.0.0 k88.mba
 0.0.0.0 k88.mobi
@@ -32814,9 +32828,11 @@
 0.0.0.0 lu88.kim
 0.0.0.0 lu88.lc
 0.0.0.0 lu88.lv
+0.0.0.0 lu88.mba
 0.0.0.0 lu88.mn
 0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
+0.0.0.0 lu88.pub
 0.0.0.0 lu88.pw
 0.0.0.0 lu88.tv
 0.0.0.0 lu88.tw
@@ -36006,6 +36022,7 @@
 0.0.0.0 mu922.com
 0.0.0.0 muadam.net
 0.0.0.0 mubet.best
+0.0.0.0 mubet.care
 0.0.0.0 mubet.dev
 0.0.0.0 mubet.help
 0.0.0.0 mubet.info
@@ -41560,8 +41577,13 @@
 0.0.0.0 pkwin1.com
 0.0.0.0 pl-oferta-lokalna54351364.live
 0.0.0.0 pl-oferta-lokalna58747892.live
+0.0.0.0 pl-oferta.best
 0.0.0.0 pl-oferta.com
 0.0.0.0 pl-oferta01976.icu
+0.0.0.0 pl-oferta15533.lol
+0.0.0.0 pl-oferta23121.cfd
+0.0.0.0 pl-oferta32384.sbs
+0.0.0.0 pl-oferta33412.lol
 0.0.0.0 pl-oferta3522.xyz
 0.0.0.0 pl-oferta37377382.sbs
 0.0.0.0 pl-oferta3920481.shop
@@ -41572,6 +41594,10 @@
 0.0.0.0 pl-oferta52197.lol
 0.0.0.0 pl-oferta52724.click
 0.0.0.0 pl-oferta53214.click
+0.0.0.0 pl-oferta54343.cfd
+0.0.0.0 pl-oferta543543543.cfd
+0.0.0.0 pl-oferta54376.shop
+0.0.0.0 pl-oferta54376543.shop
 0.0.0.0 pl-oferta5647654.shop
 0.0.0.0 pl-oferta56723.lol
 0.0.0.0 pl-oferta57844.click
@@ -41581,10 +41607,14 @@
 0.0.0.0 pl-oferta6484958.shop
 0.0.0.0 pl-oferta65499.lol
 0.0.0.0 pl-oferta674891287.sbs
+0.0.0.0 pl-oferta684792173.sbs
 0.0.0.0 pl-oferta68902840231235.click
 0.0.0.0 pl-oferta6893457623479.sbs
 0.0.0.0 pl-oferta697412832.cfd
+0.0.0.0 pl-oferta6987142135.cfd
 0.0.0.0 pl-oferta7037863813.sbs
+0.0.0.0 pl-oferta732691879.cfd
+0.0.0.0 pl-oferta7409873643.shop
 0.0.0.0 pl-oferta743081278.cfd
 0.0.0.0 pl-oferta74325.cfd
 0.0.0.0 pl-oferta746392178.shop
@@ -41592,15 +41622,18 @@
 0.0.0.0 pl-oferta748223.sbs
 0.0.0.0 pl-oferta749081263.cfd
 0.0.0.0 pl-oferta749821837.sbs
+0.0.0.0 pl-oferta749929.shop
 0.0.0.0 pl-oferta76218.click
-0.0.0.0 pl-oferta764129783.cfd
+0.0.0.0 pl-oferta769218743.cfd
 0.0.0.0 pl-oferta78224.click
 0.0.0.0 pl-oferta783694.biz
 0.0.0.0 pl-oferta78429.lol
 0.0.0.0 pl-oferta812281.lol
 0.0.0.0 pl-oferta81811.sbs
+0.0.0.0 pl-oferta82572.cfd
 0.0.0.0 pl-oferta8312.sbs
 0.0.0.0 pl-oferta84123.sbs
+0.0.0.0 pl-oferta849012893.cfd
 0.0.0.0 pl-oferta86424.click
 0.0.0.0 pl-oferta873411.lol
 0.0.0.0 pl-oferta87344537.click
@@ -41614,8 +41647,10 @@
 0.0.0.0 pl-oferta923411.lol
 0.0.0.0 pl-oferta92831.lol
 0.0.0.0 pl-oferta93452.lol
+0.0.0.0 pl-oferta937217842.cfd
 0.0.0.0 pl-oferta9786324.lol
 0.0.0.0 pl-oferta981912111.sbs
+0.0.0.0 pl-ofertan7h4lf.click
 0.0.0.0 pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 pl-ogloszenie-prywatne73636284.click
 0.0.0.0 pl-ogloszenie-prywatne748362548.click
@@ -46024,6 +46059,7 @@
 0.0.0.0 pub88.ltd
 0.0.0.0 pub88.monster
 0.0.0.0 pub88.pw
+0.0.0.0 pub88.tips
 0.0.0.0 pub88.win
 0.0.0.0 puba.com
 0.0.0.0 pubbock.com
@@ -48049,6 +48085,7 @@
 0.0.0.0 s4.cdnv365.com
 0.0.0.0 s4.femefun.com
 0.0.0.0 s4.gen88.com
+0.0.0.0 s4.mubet.care
 0.0.0.0 s4.mubet.help
 0.0.0.0 s4.mubet.vip
 0.0.0.0 s4.tot88.store
@@ -51013,6 +51050,7 @@
 0.0.0.0 sk.vin88.pw
 0.0.0.0 sk.vin88.vin
 0.0.0.0 sk.vin88.vip
+0.0.0.0 sk.xibet.cat
 0.0.0.0 sk.xibet.com
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.foo
@@ -56749,6 +56787,7 @@
 0.0.0.0 tx88.rest
 0.0.0.0 tx88.top
 0.0.0.0 tx88.vet
+0.0.0.0 tx88.vote
 0.0.0.0 tx88.zone
 0.0.0.0 txxx-asia.spanksex.org
 0.0.0.0 txxx-com.ru
@@ -57772,6 +57811,7 @@
 0.0.0.0 vic88.mx
 0.0.0.0 vic88.net
 0.0.0.0 vicclub.ac
+0.0.0.0 vicclub.at
 0.0.0.0 vicclub.id
 0.0.0.0 vicclub.ink
 0.0.0.0 vicclub.mx
@@ -58640,7 +58680,12 @@
 0.0.0.0 vintagexxxvideos.net
 0.0.0.0 vintagezz.com
 0.0.0.0 vintagporntube.com
+0.0.0.0 vinted.pl-oferta.best
 0.0.0.0 vinted.pl-oferta.com
+0.0.0.0 vinted.pl-oferta15533.lol
+0.0.0.0 vinted.pl-oferta23121.cfd
+0.0.0.0 vinted.pl-oferta32384.sbs
+0.0.0.0 vinted.pl-oferta33412.lol
 0.0.0.0 vinted.pl-oferta3522.xyz
 0.0.0.0 vinted.pl-oferta3920481.shop
 0.0.0.0 vinted.pl-oferta42697.click
@@ -58649,6 +58694,10 @@
 0.0.0.0 vinted.pl-oferta52197.lol
 0.0.0.0 vinted.pl-oferta52724.click
 0.0.0.0 vinted.pl-oferta53214.click
+0.0.0.0 vinted.pl-oferta54343.cfd
+0.0.0.0 vinted.pl-oferta543543543.cfd
+0.0.0.0 vinted.pl-oferta54376.shop
+0.0.0.0 vinted.pl-oferta54376543.shop
 0.0.0.0 vinted.pl-oferta5647654.shop
 0.0.0.0 vinted.pl-oferta56723.lol
 0.0.0.0 vinted.pl-oferta57844.click
@@ -58657,18 +58706,25 @@
 0.0.0.0 vinted.pl-oferta6484958.shop
 0.0.0.0 vinted.pl-oferta65499.lol
 0.0.0.0 vinted.pl-oferta674891287.sbs
+0.0.0.0 vinted.pl-oferta684792173.sbs
 0.0.0.0 vinted.pl-oferta697412832.cfd
+0.0.0.0 vinted.pl-oferta6987142135.cfd
 0.0.0.0 vinted.pl-oferta7037863813.sbs
+0.0.0.0 vinted.pl-oferta7409873643.shop
 0.0.0.0 vinted.pl-oferta743081278.cfd
 0.0.0.0 vinted.pl-oferta74325.cfd
 0.0.0.0 vinted.pl-oferta746392178.shop
 0.0.0.0 vinted.pl-oferta748103810.cfd
 0.0.0.0 vinted.pl-oferta749081263.cfd
 0.0.0.0 vinted.pl-oferta749821837.sbs
+0.0.0.0 vinted.pl-oferta749929.shop
 0.0.0.0 vinted.pl-oferta76218.click
+0.0.0.0 vinted.pl-oferta769218743.cfd
 0.0.0.0 vinted.pl-oferta78224.click
+0.0.0.0 vinted.pl-oferta82572.cfd
 0.0.0.0 vinted.pl-oferta8312.sbs
 0.0.0.0 vinted.pl-oferta84123.sbs
+0.0.0.0 vinted.pl-oferta849012893.cfd
 0.0.0.0 vinted.pl-oferta86424.click
 0.0.0.0 vinted.pl-oferta873411.lol
 0.0.0.0 vinted.pl-oferta8740567832.cfd
@@ -58676,7 +58732,9 @@
 0.0.0.0 vinted.pl-oferta923411.lol
 0.0.0.0 vinted.pl-oferta92831.lol
 0.0.0.0 vinted.pl-oferta93452.lol
+0.0.0.0 vinted.pl-oferta937217842.cfd
 0.0.0.0 vinted.pl-oferta9786324.lol
+0.0.0.0 vinted.pl-ofertan7h4lf.click
 0.0.0.0 vinted.pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 vinted.pl-ogloszenie-prywatne73636284.click
 0.0.0.0 vinted.pl-ogloszenie-prywatne748362548.click
@@ -59390,6 +59448,7 @@
 0.0.0.0 vs7.videosrc.net
 0.0.0.0 vs8.videosrc.net
 0.0.0.0 vs9.videosrc.net
+0.0.0.0 vsbetvbs.net
 0.0.0.0 vscdns.com
 0.0.0.0 vscore.bet
 0.0.0.0 vscore.pro
@@ -71321,8 +71380,13 @@
 0.0.0.0 www.pk5.net
 0.0.0.0 www.pl-oferta-lokalna54351364.live
 0.0.0.0 www.pl-oferta-lokalna58747892.live
+0.0.0.0 www.pl-oferta.best
 0.0.0.0 www.pl-oferta.com
 0.0.0.0 www.pl-oferta01976.icu
+0.0.0.0 www.pl-oferta15533.lol
+0.0.0.0 www.pl-oferta23121.cfd
+0.0.0.0 www.pl-oferta32384.sbs
+0.0.0.0 www.pl-oferta33412.lol
 0.0.0.0 www.pl-oferta3522.xyz
 0.0.0.0 www.pl-oferta37377382.sbs
 0.0.0.0 www.pl-oferta3920481.shop
@@ -71333,6 +71397,10 @@
 0.0.0.0 www.pl-oferta52197.lol
 0.0.0.0 www.pl-oferta52724.click
 0.0.0.0 www.pl-oferta53214.click
+0.0.0.0 www.pl-oferta54343.cfd
+0.0.0.0 www.pl-oferta543543543.cfd
+0.0.0.0 www.pl-oferta54376.shop
+0.0.0.0 www.pl-oferta54376543.shop
 0.0.0.0 www.pl-oferta5647654.shop
 0.0.0.0 www.pl-oferta56723.lol
 0.0.0.0 www.pl-oferta57844.click
@@ -71342,10 +71410,14 @@
 0.0.0.0 www.pl-oferta6484958.shop
 0.0.0.0 www.pl-oferta65499.lol
 0.0.0.0 www.pl-oferta674891287.sbs
+0.0.0.0 www.pl-oferta684792173.sbs
 0.0.0.0 www.pl-oferta68902840231235.click
 0.0.0.0 www.pl-oferta6893457623479.sbs
 0.0.0.0 www.pl-oferta697412832.cfd
+0.0.0.0 www.pl-oferta6987142135.cfd
 0.0.0.0 www.pl-oferta7037863813.sbs
+0.0.0.0 www.pl-oferta732691879.cfd
+0.0.0.0 www.pl-oferta7409873643.shop
 0.0.0.0 www.pl-oferta743081278.cfd
 0.0.0.0 www.pl-oferta74325.cfd
 0.0.0.0 www.pl-oferta746392178.shop
@@ -71353,15 +71425,18 @@
 0.0.0.0 www.pl-oferta748223.sbs
 0.0.0.0 www.pl-oferta749081263.cfd
 0.0.0.0 www.pl-oferta749821837.sbs
+0.0.0.0 www.pl-oferta749929.shop
 0.0.0.0 www.pl-oferta76218.click
-0.0.0.0 www.pl-oferta764129783.cfd
+0.0.0.0 www.pl-oferta769218743.cfd
 0.0.0.0 www.pl-oferta78224.click
 0.0.0.0 www.pl-oferta783694.biz
 0.0.0.0 www.pl-oferta78429.lol
 0.0.0.0 www.pl-oferta812281.lol
 0.0.0.0 www.pl-oferta81811.sbs
+0.0.0.0 www.pl-oferta82572.cfd
 0.0.0.0 www.pl-oferta8312.sbs
 0.0.0.0 www.pl-oferta84123.sbs
+0.0.0.0 www.pl-oferta849012893.cfd
 0.0.0.0 www.pl-oferta86424.click
 0.0.0.0 www.pl-oferta873411.lol
 0.0.0.0 www.pl-oferta87344537.click
@@ -71375,8 +71450,10 @@
 0.0.0.0 www.pl-oferta923411.lol
 0.0.0.0 www.pl-oferta92831.lol
 0.0.0.0 www.pl-oferta93452.lol
+0.0.0.0 www.pl-oferta937217842.cfd
 0.0.0.0 www.pl-oferta9786324.lol
 0.0.0.0 www.pl-oferta981912111.sbs
+0.0.0.0 www.pl-ofertan7h4lf.click
 0.0.0.0 www.pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 www.pl-ogloszenie-prywatne73636284.click
 0.0.0.0 www.pl-ogloszenie-prywatne748362548.click
@@ -75985,7 +76062,12 @@
 0.0.0.0 www.vintagexxxvideos.com
 0.0.0.0 www.vintagia.net
 0.0.0.0 www.vintagporntube.com
+0.0.0.0 www.vinted.pl-oferta.best
 0.0.0.0 www.vinted.pl-oferta.com
+0.0.0.0 www.vinted.pl-oferta15533.lol
+0.0.0.0 www.vinted.pl-oferta23121.cfd
+0.0.0.0 www.vinted.pl-oferta32384.sbs
+0.0.0.0 www.vinted.pl-oferta33412.lol
 0.0.0.0 www.vinted.pl-oferta3522.xyz
 0.0.0.0 www.vinted.pl-oferta3920481.shop
 0.0.0.0 www.vinted.pl-oferta42697.click
@@ -75994,6 +76076,10 @@
 0.0.0.0 www.vinted.pl-oferta52197.lol
 0.0.0.0 www.vinted.pl-oferta52724.click
 0.0.0.0 www.vinted.pl-oferta53214.click
+0.0.0.0 www.vinted.pl-oferta54343.cfd
+0.0.0.0 www.vinted.pl-oferta543543543.cfd
+0.0.0.0 www.vinted.pl-oferta54376.shop
+0.0.0.0 www.vinted.pl-oferta54376543.shop
 0.0.0.0 www.vinted.pl-oferta5647654.shop
 0.0.0.0 www.vinted.pl-oferta56723.lol
 0.0.0.0 www.vinted.pl-oferta57844.click
@@ -76002,18 +76088,25 @@
 0.0.0.0 www.vinted.pl-oferta6484958.shop
 0.0.0.0 www.vinted.pl-oferta65499.lol
 0.0.0.0 www.vinted.pl-oferta674891287.sbs
+0.0.0.0 www.vinted.pl-oferta684792173.sbs
 0.0.0.0 www.vinted.pl-oferta697412832.cfd
+0.0.0.0 www.vinted.pl-oferta6987142135.cfd
 0.0.0.0 www.vinted.pl-oferta7037863813.sbs
+0.0.0.0 www.vinted.pl-oferta7409873643.shop
 0.0.0.0 www.vinted.pl-oferta743081278.cfd
 0.0.0.0 www.vinted.pl-oferta74325.cfd
 0.0.0.0 www.vinted.pl-oferta746392178.shop
 0.0.0.0 www.vinted.pl-oferta748103810.cfd
 0.0.0.0 www.vinted.pl-oferta749081263.cfd
 0.0.0.0 www.vinted.pl-oferta749821837.sbs
+0.0.0.0 www.vinted.pl-oferta749929.shop
 0.0.0.0 www.vinted.pl-oferta76218.click
+0.0.0.0 www.vinted.pl-oferta769218743.cfd
 0.0.0.0 www.vinted.pl-oferta78224.click
+0.0.0.0 www.vinted.pl-oferta82572.cfd
 0.0.0.0 www.vinted.pl-oferta8312.sbs
 0.0.0.0 www.vinted.pl-oferta84123.sbs
+0.0.0.0 www.vinted.pl-oferta849012893.cfd
 0.0.0.0 www.vinted.pl-oferta86424.click
 0.0.0.0 www.vinted.pl-oferta873411.lol
 0.0.0.0 www.vinted.pl-oferta8740567832.cfd
@@ -76021,7 +76114,9 @@
 0.0.0.0 www.vinted.pl-oferta923411.lol
 0.0.0.0 www.vinted.pl-oferta92831.lol
 0.0.0.0 www.vinted.pl-oferta93452.lol
+0.0.0.0 www.vinted.pl-oferta937217842.cfd
 0.0.0.0 www.vinted.pl-oferta9786324.lol
+0.0.0.0 www.vinted.pl-ofertan7h4lf.click
 0.0.0.0 www.vinted.pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 www.vinted.pl-ogloszenie-prywatne73636284.click
 0.0.0.0 www.vinted.pl-ogloszenie-prywatne748362548.click
@@ -78904,6 +78999,7 @@
 0.0.0.0 xhyourself.site
 0.0.0.0 xhypnotube.com
 0.0.0.0 xiaoou.tv
+0.0.0.0 xibet.cat
 0.0.0.0 xibet.com
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.foo
