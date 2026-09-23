@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-09-20 23:23:55
+# DATE: 2026-09-23 23:53:54
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -1453,6 +1453,7 @@
 0.0.0.0 9bet.photo
 0.0.0.0 9bet.pink
 0.0.0.0 9bet.rest
+0.0.0.0 9bet.vote
 0.0.0.0 9bet.win
 0.0.0.0 9bet.world
 0.0.0.0 9e3c.com
@@ -3784,6 +3785,7 @@
 0.0.0.0 api.9bet.krd
 0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.photo
+0.0.0.0 api.9bet.vote
 0.0.0.0 api.9bet.win
 0.0.0.0 api.adultsclips.com
 0.0.0.0 api.ae888.com
@@ -8072,6 +8074,7 @@
 0.0.0.0 c14.cdn3x.com
 0.0.0.0 c15.cdn3x.com
 0.0.0.0 c16.cdn3x.com
+0.0.0.0 c168.biz
 0.0.0.0 c17.cdn3x.com
 0.0.0.0 c18.cdn3x.com
 0.0.0.0 c19.cdn3x.com
@@ -19823,6 +19826,7 @@
 0.0.0.0 gaigu.info
 0.0.0.0 gaigu.net
 0.0.0.0 gaigu.xyz
+0.0.0.0 gaigu18.blog
 0.0.0.0 gaigu6.tv
 0.0.0.0 gaigu7.tv
 0.0.0.0 gaigu8.com
@@ -21639,6 +21643,7 @@
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
 0.0.0.0 gw.mubet.tips
+0.0.0.0 gw.mubet.toys
 0.0.0.0 gw.mubet.vip
 0.0.0.0 gw.tot88.store
 0.0.0.0 gwbet.com
@@ -23107,6 +23112,7 @@
 0.0.0.0 highwaydude.angelfire.com
 0.0.0.0 highwebmedia.com
 0.0.0.0 hihi18.com
+0.0.0.0 hihisex.app
 0.0.0.0 hihisex.pro
 0.0.0.0 hihisex.vip
 0.0.0.0 hihitube.com
@@ -25624,6 +25630,7 @@
 0.0.0.0 img.perfectxpic.com
 0.0.0.0 img.perfectxsexy.com
 0.0.0.0 img.persiankitty.com
+0.0.0.0 img.phimkk.pro
 0.0.0.0 img.porn18videos.com
 0.0.0.0 img.pornaxo.com
 0.0.0.0 img.pornbobo.com
@@ -25647,6 +25654,7 @@
 0.0.0.0 img.sakuraxgirl.com
 0.0.0.0 img.schoolgirlsexpics.com
 0.0.0.0 img.sexavidols.com
+0.0.0.0 img.sexbuz.com
 0.0.0.0 img.sexymetas.com
 0.0.0.0 img.sexyqgirl.com
 0.0.0.0 img.sexyslutx.com
@@ -25694,11 +25702,13 @@
 0.0.0.0 img.xxx18hot.com
 0.0.0.0 img.xxxfiles.com
 0.0.0.0 img.xxxfiles.tv
+0.0.0.0 img.xxxmeo.com
 0.0.0.0 img.xxxphim.top
 0.0.0.0 img.xxxpornhd.pro
 0.0.0.0 img.xxxthong.com
 0.0.0.0 img.xxxtophd.com
 0.0.0.0 img.xxxvideosfinder.pro
+0.0.0.0 img.xxxviet.io
 0.0.0.0 img.xxxvogue.net
 0.0.0.0 img.xziptv.com
 0.0.0.0 img.yaoiscan.com
@@ -29679,6 +29689,7 @@
 0.0.0.0 javhdvietsub.com
 0.0.0.0 javhdworld.com
 0.0.0.0 javhdz.ac
+0.0.0.0 javhdz.bz
 0.0.0.0 javhdz.cam
 0.0.0.0 javhdz.city
 0.0.0.0 javhdz.fun
@@ -33554,6 +33565,7 @@
 0.0.0.0 man88.pl
 0.0.0.0 man88.pw
 0.0.0.0 man88.sh
+0.0.0.0 man88.spa
 0.0.0.0 man88.top
 0.0.0.0 man88.vc
 0.0.0.0 man88.vip
@@ -36030,6 +36042,7 @@
 0.0.0.0 mubet.sh
 0.0.0.0 mubet.talk
 0.0.0.0 mubet.tips
+0.0.0.0 mubet.toys
 0.0.0.0 mubet.video
 0.0.0.0 mubet.vip
 0.0.0.0 mubet.website
@@ -40806,6 +40819,7 @@
 0.0.0.0 phim-javhd.pro
 0.0.0.0 phim-sec.one
 0.0.0.0 phim-set.info
+0.0.0.0 phim-sex.io
 0.0.0.0 phim-sex.live
 0.0.0.0 phim-sex.net
 0.0.0.0 phim-sexhd.biz
@@ -40821,6 +40835,7 @@
 0.0.0.0 phim.vl9x.net
 0.0.0.0 phim.vuasex.co
 0.0.0.0 phim.xxxhai.com
+0.0.0.0 phim.xxxmeo.com
 0.0.0.0 phim18.co
 0.0.0.0 phim18.in
 0.0.0.0 phim18.online
@@ -40883,6 +40898,7 @@
 0.0.0.0 phimkk.com
 0.0.0.0 phimkk.me
 0.0.0.0 phimkk.net
+0.0.0.0 phimkk.pro
 0.0.0.0 phimkk.ws
 0.0.0.0 phimloanluan.net
 0.0.0.0 phimloanluan.org
@@ -41585,7 +41601,6 @@
 0.0.0.0 pl-oferta32384.sbs
 0.0.0.0 pl-oferta33412.lol
 0.0.0.0 pl-oferta3522.xyz
-0.0.0.0 pl-oferta37377382.sbs
 0.0.0.0 pl-oferta3920481.shop
 0.0.0.0 pl-oferta42697.click
 0.0.0.0 pl-oferta46879.lol
@@ -41594,6 +41609,7 @@
 0.0.0.0 pl-oferta52197.lol
 0.0.0.0 pl-oferta52724.click
 0.0.0.0 pl-oferta53214.click
+0.0.0.0 pl-oferta538175.sbs
 0.0.0.0 pl-oferta54343.cfd
 0.0.0.0 pl-oferta543543543.cfd
 0.0.0.0 pl-oferta54376.shop
@@ -41614,6 +41630,7 @@
 0.0.0.0 pl-oferta6987142135.cfd
 0.0.0.0 pl-oferta7037863813.sbs
 0.0.0.0 pl-oferta732691879.cfd
+0.0.0.0 pl-oferta7392634.shop
 0.0.0.0 pl-oferta7409873643.shop
 0.0.0.0 pl-oferta743081278.cfd
 0.0.0.0 pl-oferta74325.cfd
@@ -41624,11 +41641,11 @@
 0.0.0.0 pl-oferta749821837.sbs
 0.0.0.0 pl-oferta749929.shop
 0.0.0.0 pl-oferta76218.click
+0.0.0.0 pl-oferta7639128732.cfd
 0.0.0.0 pl-oferta769218743.cfd
 0.0.0.0 pl-oferta78224.click
 0.0.0.0 pl-oferta783694.biz
 0.0.0.0 pl-oferta78429.lol
-0.0.0.0 pl-oferta812281.lol
 0.0.0.0 pl-oferta81811.sbs
 0.0.0.0 pl-oferta82572.cfd
 0.0.0.0 pl-oferta8312.sbs
@@ -41644,12 +41661,12 @@
 0.0.0.0 pl-oferta896712.lol
 0.0.0.0 pl-oferta9012.sbs
 0.0.0.0 pl-oferta91922.icu
+0.0.0.0 pl-oferta92057284.cfd
 0.0.0.0 pl-oferta923411.lol
 0.0.0.0 pl-oferta92831.lol
 0.0.0.0 pl-oferta93452.lol
 0.0.0.0 pl-oferta937217842.cfd
 0.0.0.0 pl-oferta9786324.lol
-0.0.0.0 pl-oferta981912111.sbs
 0.0.0.0 pl-ofertan7h4lf.click
 0.0.0.0 pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 pl-ogloszenie-prywatne73636284.click
@@ -47452,10 +47469,12 @@
 0.0.0.0 rpcollegevasai.co.in
 0.0.0.0 rphang.ac
 0.0.0.0 rphang.cc
+0.0.0.0 rphang.com
 0.0.0.0 rphang.dog
 0.0.0.0 rphang.lat
 0.0.0.0 rphang.luutrurp.com
 0.0.0.0 rphang.me
+0.0.0.0 rphang.now
 0.0.0.0 rphang.online
 0.0.0.0 rphangcdn.com
 0.0.0.0 rphangs.net
@@ -47968,6 +47987,7 @@
 0.0.0.0 s.fapcat.com
 0.0.0.0 s.freeteenpussypic.com
 0.0.0.0 s.gaidep.blog
+0.0.0.0 s.gaigu18.blog
 0.0.0.0 s.jzzo.com
 0.0.0.0 s.liveanal.tv
 0.0.0.0 s.lolsex.eu
@@ -48098,6 +48118,7 @@
 0.0.0.0 s5.cdnv365.com
 0.0.0.0 s5.cloudembed.net
 0.0.0.0 s5.dpic.me
+0.0.0.0 s5.phimkk.pro
 0.0.0.0 s5.pics.vc
 0.0.0.0 s5.trafficdeposit.com
 0.0.0.0 s51.erome.com
@@ -48964,6 +48985,7 @@
 0.0.0.0 sexbrunette.net
 0.0.0.0 sexbule.xxx
 0.0.0.0 sexbulon.pro
+0.0.0.0 sexbuz.com
 0.0.0.0 sexcam-24.cc
 0.0.0.0 sexcam-chats.net
 0.0.0.0 sexcam-shows.com
@@ -49227,6 +49249,7 @@
 0.0.0.0 sexhay.biz
 0.0.0.0 sexhay.vip
 0.0.0.0 sexhay123.com
+0.0.0.0 sexhay247.net
 0.0.0.0 sexhay2k.com
 0.0.0.0 sexhay2k.me
 0.0.0.0 sexhay3x.com
@@ -51359,6 +51382,7 @@
 0.0.0.0 socket.9bet.krd
 0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.photo
+0.0.0.0 socket.9bet.vote
 0.0.0.0 socket.9bet.win
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
@@ -58694,10 +58718,12 @@
 0.0.0.0 vinted.pl-oferta52197.lol
 0.0.0.0 vinted.pl-oferta52724.click
 0.0.0.0 vinted.pl-oferta53214.click
+0.0.0.0 vinted.pl-oferta538175.sbs
 0.0.0.0 vinted.pl-oferta54343.cfd
 0.0.0.0 vinted.pl-oferta543543543.cfd
 0.0.0.0 vinted.pl-oferta54376.shop
 0.0.0.0 vinted.pl-oferta54376543.shop
+0.0.0.0 vinted.pl-oferta56447654.cfd
 0.0.0.0 vinted.pl-oferta5647654.shop
 0.0.0.0 vinted.pl-oferta56723.lol
 0.0.0.0 vinted.pl-oferta57844.click
@@ -58710,6 +58736,7 @@
 0.0.0.0 vinted.pl-oferta697412832.cfd
 0.0.0.0 vinted.pl-oferta6987142135.cfd
 0.0.0.0 vinted.pl-oferta7037863813.sbs
+0.0.0.0 vinted.pl-oferta7392634.shop
 0.0.0.0 vinted.pl-oferta7409873643.shop
 0.0.0.0 vinted.pl-oferta743081278.cfd
 0.0.0.0 vinted.pl-oferta74325.cfd
@@ -58719,6 +58746,7 @@
 0.0.0.0 vinted.pl-oferta749821837.sbs
 0.0.0.0 vinted.pl-oferta749929.shop
 0.0.0.0 vinted.pl-oferta76218.click
+0.0.0.0 vinted.pl-oferta7639128732.cfd
 0.0.0.0 vinted.pl-oferta769218743.cfd
 0.0.0.0 vinted.pl-oferta78224.click
 0.0.0.0 vinted.pl-oferta82572.cfd
@@ -59507,6 +59535,7 @@
 0.0.0.0 vu88.ng
 0.0.0.0 vu88.ro
 0.0.0.0 vu88.sh
+0.0.0.0 vu88.tax
 0.0.0.0 vu88.tel
 0.0.0.0 vu88.tv
 0.0.0.0 vu88.vu
@@ -60476,6 +60505,7 @@
 0.0.0.0 wp.9bet.krd
 0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.photo
+0.0.0.0 wp.9bet.vote
 0.0.0.0 wp.9bet.win
 0.0.0.0 wp.debet79.info
 0.0.0.0 wp.hdbet.com
@@ -71388,7 +71418,6 @@
 0.0.0.0 www.pl-oferta32384.sbs
 0.0.0.0 www.pl-oferta33412.lol
 0.0.0.0 www.pl-oferta3522.xyz
-0.0.0.0 www.pl-oferta37377382.sbs
 0.0.0.0 www.pl-oferta3920481.shop
 0.0.0.0 www.pl-oferta42697.click
 0.0.0.0 www.pl-oferta46879.lol
@@ -71397,6 +71426,7 @@
 0.0.0.0 www.pl-oferta52197.lol
 0.0.0.0 www.pl-oferta52724.click
 0.0.0.0 www.pl-oferta53214.click
+0.0.0.0 www.pl-oferta538175.sbs
 0.0.0.0 www.pl-oferta54343.cfd
 0.0.0.0 www.pl-oferta543543543.cfd
 0.0.0.0 www.pl-oferta54376.shop
@@ -71417,6 +71447,7 @@
 0.0.0.0 www.pl-oferta6987142135.cfd
 0.0.0.0 www.pl-oferta7037863813.sbs
 0.0.0.0 www.pl-oferta732691879.cfd
+0.0.0.0 www.pl-oferta7392634.shop
 0.0.0.0 www.pl-oferta7409873643.shop
 0.0.0.0 www.pl-oferta743081278.cfd
 0.0.0.0 www.pl-oferta74325.cfd
@@ -71427,11 +71458,11 @@
 0.0.0.0 www.pl-oferta749821837.sbs
 0.0.0.0 www.pl-oferta749929.shop
 0.0.0.0 www.pl-oferta76218.click
+0.0.0.0 www.pl-oferta7639128732.cfd
 0.0.0.0 www.pl-oferta769218743.cfd
 0.0.0.0 www.pl-oferta78224.click
 0.0.0.0 www.pl-oferta783694.biz
 0.0.0.0 www.pl-oferta78429.lol
-0.0.0.0 www.pl-oferta812281.lol
 0.0.0.0 www.pl-oferta81811.sbs
 0.0.0.0 www.pl-oferta82572.cfd
 0.0.0.0 www.pl-oferta8312.sbs
@@ -71447,12 +71478,12 @@
 0.0.0.0 www.pl-oferta896712.lol
 0.0.0.0 www.pl-oferta9012.sbs
 0.0.0.0 www.pl-oferta91922.icu
+0.0.0.0 www.pl-oferta92057284.cfd
 0.0.0.0 www.pl-oferta923411.lol
 0.0.0.0 www.pl-oferta92831.lol
 0.0.0.0 www.pl-oferta93452.lol
 0.0.0.0 www.pl-oferta937217842.cfd
 0.0.0.0 www.pl-oferta9786324.lol
-0.0.0.0 www.pl-oferta981912111.sbs
 0.0.0.0 www.pl-ofertan7h4lf.click
 0.0.0.0 www.pl-ogloszenie-pawelwisniewski9-29.click
 0.0.0.0 www.pl-ogloszenie-prywatne73636284.click
@@ -76076,10 +76107,12 @@
 0.0.0.0 www.vinted.pl-oferta52197.lol
 0.0.0.0 www.vinted.pl-oferta52724.click
 0.0.0.0 www.vinted.pl-oferta53214.click
+0.0.0.0 www.vinted.pl-oferta538175.sbs
 0.0.0.0 www.vinted.pl-oferta54343.cfd
 0.0.0.0 www.vinted.pl-oferta543543543.cfd
 0.0.0.0 www.vinted.pl-oferta54376.shop
 0.0.0.0 www.vinted.pl-oferta54376543.shop
+0.0.0.0 www.vinted.pl-oferta56447654.cfd
 0.0.0.0 www.vinted.pl-oferta5647654.shop
 0.0.0.0 www.vinted.pl-oferta56723.lol
 0.0.0.0 www.vinted.pl-oferta57844.click
@@ -76092,6 +76125,7 @@
 0.0.0.0 www.vinted.pl-oferta697412832.cfd
 0.0.0.0 www.vinted.pl-oferta6987142135.cfd
 0.0.0.0 www.vinted.pl-oferta7037863813.sbs
+0.0.0.0 www.vinted.pl-oferta7392634.shop
 0.0.0.0 www.vinted.pl-oferta7409873643.shop
 0.0.0.0 www.vinted.pl-oferta743081278.cfd
 0.0.0.0 www.vinted.pl-oferta74325.cfd
@@ -76101,6 +76135,7 @@
 0.0.0.0 www.vinted.pl-oferta749821837.sbs
 0.0.0.0 www.vinted.pl-oferta749929.shop
 0.0.0.0 www.vinted.pl-oferta76218.click
+0.0.0.0 www.vinted.pl-oferta7639128732.cfd
 0.0.0.0 www.vinted.pl-oferta769218743.cfd
 0.0.0.0 www.vinted.pl-oferta78224.click
 0.0.0.0 www.vinted.pl-oferta82572.cfd
@@ -78402,6 +78437,7 @@
 0.0.0.0 x3xtube.com
 0.0.0.0 x436.com
 0.0.0.0 x4tos.com
+0.0.0.0 x5.xxxviet.io
 0.0.0.0 x5o.org
 0.0.0.0 x69.biz
 0.0.0.0 x69.tv
@@ -81277,6 +81313,7 @@
 0.0.0.0 xxxmaza.net
 0.0.0.0 xxxmemberchannels.com
 0.0.0.0 xxxmemes.com
+0.0.0.0 xxxmeo.com
 0.0.0.0 xxxmia.com
 0.0.0.0 xxxmilf.org
 0.0.0.0 xxxmilfporn.pro
