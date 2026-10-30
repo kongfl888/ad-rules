@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-10-29 01:09:00
+# DATE: 2026-10-30 01:16:32
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41632,7 +41632,6 @@
 0.0.0.0 pl-oferta04496205.icu
 0.0.0.0 pl-oferta04859305.cfd
 0.0.0.0 pl-oferta056124.sbs
-0.0.0.0 pl-oferta10298128419.shop
 0.0.0.0 pl-oferta1069022.icu
 0.0.0.0 pl-oferta1079277805.icu
 0.0.0.0 pl-oferta128241.sbs
@@ -41646,7 +41645,6 @@
 0.0.0.0 pl-oferta28502934.cfd
 0.0.0.0 pl-oferta36125.sbs
 0.0.0.0 pl-oferta376291784.cfd
-0.0.0.0 pl-oferta385829.shop
 0.0.0.0 pl-oferta4123781.sbs
 0.0.0.0 pl-oferta41515849.shop
 0.0.0.0 pl-oferta489032.cfd
@@ -41667,6 +41665,7 @@
 0.0.0.0 pl-oferta761523.sbs
 0.0.0.0 pl-oferta762818.sbs
 0.0.0.0 pl-oferta767123.sbs
+0.0.0.0 pl-oferta769127825.cfd
 0.0.0.0 pl-oferta813.cfd
 0.0.0.0 pl-oferta820592.sbs
 0.0.0.0 pl-oferta821920.sbs
@@ -58759,7 +58758,6 @@
 0.0.0.0 vintagporntube.com
 0.0.0.0 vinted.pl-oferta01829.sbs
 0.0.0.0 vinted.pl-oferta056124.sbs
-0.0.0.0 vinted.pl-oferta10298128419.shop
 0.0.0.0 vinted.pl-oferta128241.sbs
 0.0.0.0 vinted.pl-oferta143219.sbs
 0.0.0.0 vinted.pl-oferta16214571.shop
@@ -58770,7 +58768,6 @@
 0.0.0.0 vinted.pl-oferta27981737.shop
 0.0.0.0 vinted.pl-oferta36125.sbs
 0.0.0.0 vinted.pl-oferta376291784.cfd
-0.0.0.0 vinted.pl-oferta385829.shop
 0.0.0.0 vinted.pl-oferta4123781.sbs
 0.0.0.0 vinted.pl-oferta41515849.shop
 0.0.0.0 vinted.pl-oferta510249.sbs
@@ -58787,6 +58784,7 @@
 0.0.0.0 vinted.pl-oferta761523.sbs
 0.0.0.0 vinted.pl-oferta762818.sbs
 0.0.0.0 vinted.pl-oferta767123.sbs
+0.0.0.0 vinted.pl-oferta769127825.cfd
 0.0.0.0 vinted.pl-oferta813.cfd
 0.0.0.0 vinted.pl-oferta820592.sbs
 0.0.0.0 vinted.pl-oferta821920.sbs
@@ -71480,7 +71478,6 @@
 0.0.0.0 www.pl-oferta04496205.icu
 0.0.0.0 www.pl-oferta04859305.cfd
 0.0.0.0 www.pl-oferta056124.sbs
-0.0.0.0 www.pl-oferta10298128419.shop
 0.0.0.0 www.pl-oferta1069022.icu
 0.0.0.0 www.pl-oferta1079277805.icu
 0.0.0.0 www.pl-oferta128241.sbs
@@ -71494,7 +71491,6 @@
 0.0.0.0 www.pl-oferta28502934.cfd
 0.0.0.0 www.pl-oferta36125.sbs
 0.0.0.0 www.pl-oferta376291784.cfd
-0.0.0.0 www.pl-oferta385829.shop
 0.0.0.0 www.pl-oferta4123781.sbs
 0.0.0.0 www.pl-oferta41515849.shop
 0.0.0.0 www.pl-oferta489032.cfd
@@ -71515,6 +71511,7 @@
 0.0.0.0 www.pl-oferta761523.sbs
 0.0.0.0 www.pl-oferta762818.sbs
 0.0.0.0 www.pl-oferta767123.sbs
+0.0.0.0 www.pl-oferta769127825.cfd
 0.0.0.0 www.pl-oferta813.cfd
 0.0.0.0 www.pl-oferta820592.sbs
 0.0.0.0 www.pl-oferta821920.sbs
@@ -76165,7 +76162,6 @@
 0.0.0.0 www.vintagporntube.com
 0.0.0.0 www.vinted.pl-oferta01829.sbs
 0.0.0.0 www.vinted.pl-oferta056124.sbs
-0.0.0.0 www.vinted.pl-oferta10298128419.shop
 0.0.0.0 www.vinted.pl-oferta128241.sbs
 0.0.0.0 www.vinted.pl-oferta143219.sbs
 0.0.0.0 www.vinted.pl-oferta16214571.shop
@@ -76176,7 +76172,6 @@
 0.0.0.0 www.vinted.pl-oferta27981737.shop
 0.0.0.0 www.vinted.pl-oferta36125.sbs
 0.0.0.0 www.vinted.pl-oferta376291784.cfd
-0.0.0.0 www.vinted.pl-oferta385829.shop
 0.0.0.0 www.vinted.pl-oferta4123781.sbs
 0.0.0.0 www.vinted.pl-oferta41515849.shop
 0.0.0.0 www.vinted.pl-oferta510249.sbs
@@ -76193,6 +76188,7 @@
 0.0.0.0 www.vinted.pl-oferta761523.sbs
 0.0.0.0 www.vinted.pl-oferta762818.sbs
 0.0.0.0 www.vinted.pl-oferta767123.sbs
+0.0.0.0 www.vinted.pl-oferta769127825.cfd
 0.0.0.0 www.vinted.pl-oferta813.cfd
 0.0.0.0 www.vinted.pl-oferta820592.sbs
 0.0.0.0 www.vinted.pl-oferta821920.sbs
