@@ -1,5 +1,5 @@
 # Title: Anti gambling and porn by:Mr.K
-# DATE: 2026-10-30 01:16:32
+# DATE: 2026-11-02 00:58:37
 # This hosts lite from StevenBlack/hosts.
  
 0.0.0.0 0.oldgyhogola.com
@@ -41632,6 +41632,7 @@
 0.0.0.0 pl-oferta04496205.icu
 0.0.0.0 pl-oferta04859305.cfd
 0.0.0.0 pl-oferta056124.sbs
+0.0.0.0 pl-oferta091678002.icu
 0.0.0.0 pl-oferta1069022.icu
 0.0.0.0 pl-oferta1079277805.icu
 0.0.0.0 pl-oferta128241.sbs
@@ -41655,6 +41656,7 @@
 0.0.0.0 pl-oferta543971.cfd
 0.0.0.0 pl-oferta56514324.lat
 0.0.0.0 pl-oferta571352.sbs
+0.0.0.0 pl-oferta60792670.icu
 0.0.0.0 pl-oferta610294.sbs
 0.0.0.0 pl-oferta6645234444.cfd
 0.0.0.0 pl-oferta692318741.cfd
@@ -41679,11 +41681,13 @@
 0.0.0.0 pl-oferta891020.sbs
 0.0.0.0 pl-oferta90122065.cfd
 0.0.0.0 pl-oferta901986003.icu
+0.0.0.0 pl-oferta910733.icu
 0.0.0.0 pl-oferta91210629.icu
 0.0.0.0 pl-oferta91230669.icu
 0.0.0.0 pl-oferta912366301.icu
 0.0.0.0 pl-oferta912873651.cfd
 0.0.0.0 pl-oferta913421.sbs
+0.0.0.0 pl-oferta91630.icu
 0.0.0.0 pl-oferta918330707.icu
 0.0.0.0 pl-oferta9186923.icu
 0.0.0.0 pl-oferta9189767723.icu
@@ -41696,7 +41700,6 @@
 0.0.0.0 pl-ogloszenie-marekkuleta-30.shop
 0.0.0.0 pl-ogloszenie-marekkuleta-92.shop
 0.0.0.0 pl-ogloszenie-mariuszossowski-41.shop
-0.0.0.0 pl-ogloszenie-nikodempiecha-19.shop
 0.0.0.0 pl-ogloszenie-pawelostrowski-55.shop
 0.0.0.0 pl-ogloszenie-prywatne756483045.click
 0.0.0.0 pl-ogloszenie-prywatne785625394.click
@@ -58804,7 +58807,6 @@
 0.0.0.0 vinted.pl-ogloszenie-marekkuleta-30.shop
 0.0.0.0 vinted.pl-ogloszenie-marekkuleta-92.shop
 0.0.0.0 vinted.pl-ogloszenie-mariuszossowski-41.shop
-0.0.0.0 vinted.pl-ogloszenie-nikodempiecha-19.shop
 0.0.0.0 vinted.pl-ogloszenie-pawelostrowski-55.shop
 0.0.0.0 vinted.pl-ogloszenie-prywatne75634534.click
 0.0.0.0 vinted.pl-ogloszenie-prywatne756483045.click
@@ -71478,6 +71480,7 @@
 0.0.0.0 www.pl-oferta04496205.icu
 0.0.0.0 www.pl-oferta04859305.cfd
 0.0.0.0 www.pl-oferta056124.sbs
+0.0.0.0 www.pl-oferta091678002.icu
 0.0.0.0 www.pl-oferta1069022.icu
 0.0.0.0 www.pl-oferta1079277805.icu
 0.0.0.0 www.pl-oferta128241.sbs
@@ -71501,6 +71504,7 @@
 0.0.0.0 www.pl-oferta543971.cfd
 0.0.0.0 www.pl-oferta56514324.lat
 0.0.0.0 www.pl-oferta571352.sbs
+0.0.0.0 www.pl-oferta60792670.icu
 0.0.0.0 www.pl-oferta610294.sbs
 0.0.0.0 www.pl-oferta6645234444.cfd
 0.0.0.0 www.pl-oferta692318741.cfd
@@ -71525,11 +71529,13 @@
 0.0.0.0 www.pl-oferta891020.sbs
 0.0.0.0 www.pl-oferta90122065.cfd
 0.0.0.0 www.pl-oferta901986003.icu
+0.0.0.0 www.pl-oferta910733.icu
 0.0.0.0 www.pl-oferta91210629.icu
 0.0.0.0 www.pl-oferta91230669.icu
 0.0.0.0 www.pl-oferta912366301.icu
 0.0.0.0 www.pl-oferta912873651.cfd
 0.0.0.0 www.pl-oferta913421.sbs
+0.0.0.0 www.pl-oferta91630.icu
 0.0.0.0 www.pl-oferta918330707.icu
 0.0.0.0 www.pl-oferta9186923.icu
 0.0.0.0 www.pl-oferta9189767723.icu
@@ -71542,7 +71548,6 @@
 0.0.0.0 www.pl-ogloszenie-marekkuleta-30.shop
 0.0.0.0 www.pl-ogloszenie-marekkuleta-92.shop
 0.0.0.0 www.pl-ogloszenie-mariuszossowski-41.shop
-0.0.0.0 www.pl-ogloszenie-nikodempiecha-19.shop
 0.0.0.0 www.pl-ogloszenie-pawelostrowski-55.shop
 0.0.0.0 www.pl-ogloszenie-prywatne756483045.click
 0.0.0.0 www.pl-ogloszenie-prywatne785625394.click
@@ -76208,7 +76213,6 @@
 0.0.0.0 www.vinted.pl-ogloszenie-marekkuleta-30.shop
 0.0.0.0 www.vinted.pl-ogloszenie-marekkuleta-92.shop
 0.0.0.0 www.vinted.pl-ogloszenie-mariuszossowski-41.shop
-0.0.0.0 www.vinted.pl-ogloszenie-nikodempiecha-19.shop
 0.0.0.0 www.vinted.pl-ogloszenie-pawelostrowski-55.shop
 0.0.0.0 www.vinted.pl-ogloszenie-prywatne75634534.click
 0.0.0.0 www.vinted.pl-ogloszenie-prywatne756483045.click
